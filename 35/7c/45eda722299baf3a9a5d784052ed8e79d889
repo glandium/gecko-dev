@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/uclibc/mod.rs
+copyrev: 85db78461705d0a6e227e18f8b1d5e58ff592a02

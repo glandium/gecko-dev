@@ -1,0 +1,2 @@
+copy: devtools/client/webconsole/new-console-output/test/mochitest/test_bug1045902_console_csp_ignore_reflected_xss_message.html^headers^
+copyrev: b1dbbbea064560f16137742d64fc1fd005dc8698

@@ -1,0 +1,2 @@
+copy: media/libvpx/libvpx/vp8/common/arm/neon/idct_dequant_full_2x_neon.c
+copyrev: beaf1b35ca5e30c4dc375109dc4f223bad831181

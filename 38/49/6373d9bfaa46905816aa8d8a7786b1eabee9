@@ -1,0 +1,2 @@
+copy: taskcluster/docker/android-gradle-build/nexus.xml
+copyrev: e14811b561f6976f1e2adf219a1626a774c2defd

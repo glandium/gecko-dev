@@ -1,0 +1,2 @@
+copy: third_party/rust/sha2/tests/data/sha512/one_million_a.output.bin
+copyrev: 94db7cb33be03be28fb96d661b04d1b3a1379837

@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/solaris/mod.rs
+copyrev: c6c656959ee97634c8e2e065ba405690bb55caed

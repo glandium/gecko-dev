@@ -1,0 +1,2 @@
+copy: taskcluster/docker/desktop-build/bin/checkout-sources.sh
+copyrev: 794309f13097fdcda7e4a581d257c50cb136ad7f

@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/common/arm/neon/vp9_convolve8_avg_neon.c
+copyrev: b99efaf9d6fc8c42703a1b1c6ce97be651afaafd

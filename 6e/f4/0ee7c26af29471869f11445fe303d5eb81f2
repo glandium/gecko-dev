@@ -1,0 +1,2 @@
+copy: taskcluster/docker/rust-build/upload_rust.sh
+copyrev: 9e4b864871841bad84e53df33875e4955560da8f

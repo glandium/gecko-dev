@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/ci/docker/mips-unknown-linux-musl/Dockerfile
+copyrev: 15e8d646e30608681f0af4bd7be37401647909de

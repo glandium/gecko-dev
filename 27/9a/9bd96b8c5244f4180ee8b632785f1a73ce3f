@@ -1,0 +1,2 @@
+copy: third_party/rust/regex/src/simd_fallback/mod.rs
+copyrev: b03ef6f87980846bf4fa2fcf5afd0ad05af7f923

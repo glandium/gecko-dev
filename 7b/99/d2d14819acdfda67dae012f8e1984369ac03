@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/bsd/netbsdlike/mod.rs
+copyrev: 0b54586ae81887c106164d7a11082402c3a5e546

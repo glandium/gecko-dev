@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/ci/docker/x86_64-unknown-linux-musl/Dockerfile
+copyrev: a939f669d2f73ad50a866785e3a4f97f68b3b820

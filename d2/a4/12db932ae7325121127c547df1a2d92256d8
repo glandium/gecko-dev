@@ -1,0 +1,2 @@
+copy: modules/fdlibm/patches/15_use_safer_strict_assign_on_visual_studio.patch
+copyrev: 45584dc78a631e46e9e70581bc26b9f18c9053c8

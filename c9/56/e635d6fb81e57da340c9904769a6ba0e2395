@@ -1,0 +1,2 @@
+copy: taskcluster/docker/upload-symbols/bin/upload.sh
+copyrev: c398a42eb528f71c92e6ea66a0d451a6cd56bcb5

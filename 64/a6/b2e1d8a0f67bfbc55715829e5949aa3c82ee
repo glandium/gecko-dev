@@ -1,0 +1,2 @@
+copy: media/libvpx/vpx_dsp/x86/highbd_variance_impl_sse2.asm
+copyrev: fa2c123d18ce47d8379b21ea902082fe9a09f7e3

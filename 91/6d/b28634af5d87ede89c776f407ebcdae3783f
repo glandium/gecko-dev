@@ -1,0 +1,2 @@
+copy: taskcluster/docker/desktop-test/dot-files/config/pip/pip.conf
+copyrev: 93b6367f281a1c05ad9fef03ddadf6aead5995dc

@@ -1,0 +1,2 @@
+copy: media/libvpx/vp8/common/arm/neon/bilinearpredict_neon.c
+copyrev: c6b5bea82cbc262c203eb245dcd28b9fb3e75e9e

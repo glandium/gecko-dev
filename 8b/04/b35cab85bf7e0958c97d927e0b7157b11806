@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/bsd/apple/mod.rs
+copyrev: bedcf98bd15feb094ba127798a964572a12ea2a3

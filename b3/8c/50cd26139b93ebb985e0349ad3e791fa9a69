@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/bsd/openbsdlike/openbsd.rs
+copyrev: 97c00b564086d9e8fc34f0efc3a48709cf18647f

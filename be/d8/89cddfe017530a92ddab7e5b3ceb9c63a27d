@@ -1,0 +1,2 @@
+copy: ipc/chromium/src/third_party/libevent/patches/android-arc4random-buf.patch
+copyrev: 9fb8488fd479e65ae04fd380e90cb637fd2b0248

@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/bsd/freebsdlike/freebsd/mod.rs
+copyrev: 0ee3ceab27e75776538c71cb3f4c74b9ea15f237

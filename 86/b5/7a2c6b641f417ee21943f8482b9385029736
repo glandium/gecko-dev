@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/ci/docker/x86_64-rumprun-netbsd/Dockerfile
+copyrev: d750ee429f78421371e40f45fade967905e5e5f7

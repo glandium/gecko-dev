@@ -1,0 +1,2 @@
+copy: third_party/rust/rayon/tests/run-pass/sort-panic-safe.rs
+copyrev: a8a2c87615198cb4733a6549e6a63268952ffaea

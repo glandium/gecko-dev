@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/notbsd/android/b32/mod.rs
+copyrev: b9854aab96e287db7fd096bcc1b47ab846648802

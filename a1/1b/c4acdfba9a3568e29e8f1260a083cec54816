@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/ci/docker/mipsel-unknown-linux-musl/Dockerfile
+copyrev: 0d3330b44905c60148fffe434bdaaa89142b5495

@@ -1,0 +1,2 @@
+copy: python/psutil/psutil/_psutil_bsd.c
+copyrev: d9bf8b8f676ecf9c596ab7bee653abbbdf06f3ef

@@ -1,0 +1,2 @@
+copy: third_party/rust/httparse/.travis_after.sh
+copyrev: 8ab84f8fd5ba0db8c7f16cec60317fc53356e186

@@ -1,0 +1,2 @@
+copy: servo/src/patches/mozjs-stack-bounds.diff
+copyrev: b84d8e6f927f66c6350c9e316f0e147e8f816f12

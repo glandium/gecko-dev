@@ -1,0 +1,2 @@
+copy: taskcluster/docker/periodic-updates/scripts/genHPKPStaticPins.js
+copyrev: e7ac044a375eb112d3c1d48e74adfc64b484fa76
