@@ -1,0 +1,5 @@
+changeset e8a4e520dcb76bbf3a6813afcbecd3e769c4c4f2
+manifest bb897496099a8a03d5cd7bb53eea5f3bcb9fd3fa
+extra rebase_source:b827197f5f71d81c664ea556e47a5518d482a60d
+files browser/modules/test/browser_CaptivePortalWatcher.js
+patch 350,424,

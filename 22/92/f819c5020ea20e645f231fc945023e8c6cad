@@ -1,0 +1,5 @@
+changeset 780cc8989f5d971f780b04448c548f925ea0363c
+manifest ad9555afc3f1102d379a8fd9d67bdba43c021fc4
+extra rebase_source:c8ed703221aa84ead8288dc7c1f200838808792b
+files toolkit/modules/PrivateBrowsingUtils.jsm
+patch 474,548,

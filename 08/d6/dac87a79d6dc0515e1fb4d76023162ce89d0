@@ -1,0 +1,5 @@
+changeset 65f6388e03bbed4f3abdd6a86568e1a371132a42
+manifest 7f07278f0d719d86f6f28e1abb206badaba61a2e
+extra rebase_source:b10e0e64661dffe6058c01d40a50af7c8291a430
+files browser/modules/HiddenFrame.jsm
+patch 323,397,

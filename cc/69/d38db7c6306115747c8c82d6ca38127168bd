@@ -1,0 +1,5 @@
+changeset 22c6202bd0d80505778ded5365f709e573f831ff
+manifest 4069e51e96e76dfb7d3e58372fb373601c69dbc4
+extra moz-landing-system:lando
+files testing/web-platform/meta/content-security-policy/img-src/icon-blocked.sub.html.ini
+patch 329,373,

@@ -1,0 +1,4 @@
+changeset 51b47794ef39475489ba1fb9b2557bcee4abd769
+manifest b611aead7647f3465131c04725549857039e76e6
+files devtools/client/debugger/new/test/mochitest/browser_dbg-breakpoints-columns.js
+patch 325,326,

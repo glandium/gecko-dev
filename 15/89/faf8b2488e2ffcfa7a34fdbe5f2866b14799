@@ -1,0 +1,5 @@
+changeset eaefe57724c7cdf82de3dd524094cf119de734e6
+manifest e3222658ccb4568192b8a5fb80876f34ef2d1f57
+extra rebase_source:f6033ed9be0afde7d1a5502bf69234247c95b8ba
+files browser/locales/generate_bookmarks.py
+patch 635,709,

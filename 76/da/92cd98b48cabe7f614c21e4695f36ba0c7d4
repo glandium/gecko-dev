@@ -1,0 +1,5 @@
+changeset 8675ff71202cb14c8ff3d7138d8166ff5870b5cb
+manifest eaed54012a2a3bfbc3949e6d143cca84af51db39
+extra rebase_source:60b86111e7f780aea6ec085c24aa8b20f846fe1c
+files testing/web-platform/tests/html/browsers/the-window-object/apis-for-creating-and-navigating-browsing-contexts-by-name/resources/message-opener.html
+patch 440,514,

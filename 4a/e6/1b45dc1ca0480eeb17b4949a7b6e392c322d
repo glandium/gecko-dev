@@ -1,0 +1,5 @@
+changeset 9936f2ea4dd2e16c35217dfa7b3350a2db8562dd
+manifest 22b5c30ee51d8d8c2b30a695bcfc76889f9c2fd2
+extra rebase_source:e372f1ea3029a0666077443893962f8ba663ee57
+files layout/reftests/image-element/reftest.list
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 4a0e9b01d69df9ead9a51f2b2c2a696f66ef9caf
+manifest 01b73f5730d929d4bb2ff1fa982c54e3d6d721ce
+extra rebase_source:1f44ca4f1b74524b7d97f93108f61ed2edaf0a8d
+files toolkit/components/places/tests/unit/test_hosts_triggers.js
+patch 361,435,

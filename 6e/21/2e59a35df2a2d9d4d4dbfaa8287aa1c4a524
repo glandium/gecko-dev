@@ -1,0 +1,5 @@
+changeset 847803cc7003fc07f385b61369f6ff06cd97c3ff
+manifest 0aa84237cb619e982e507b77dae52f4c1768044e
+extra rebase_source:c71d4e028bcef921f6a2725d14aaf27940d87f5e
+files mobile/android/base/java/org/mozilla/gecko/widget/GridSpacingDecoration.java
+patch 483,557,

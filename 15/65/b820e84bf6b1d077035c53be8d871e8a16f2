@@ -1,0 +1,5 @@
+changeset bc7cd6e70a267dcca38e50450ded275e48cbc788
+manifest 0ee01e4c50806e99f2cc48a5900a5efb5ada05e9
+extra rebase_source:6a310d6c8c38032cdc9df218eb0983aa4feabf9f
+files toolkit/components/extensions/MessageChannel.jsm
+patch 330,404,

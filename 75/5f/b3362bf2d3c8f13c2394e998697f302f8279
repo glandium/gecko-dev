@@ -1,0 +1,5 @@
+changeset 523f3b2c3526ff75824538a42450bdaaa14070d9
+manifest 3fe8d98805f04d12fc5dc7ca6089bd1e9088801f
+extra rebase_source:0e1ebd5d62a426c501b665240109a6a7e4c48a52
+files browser/extensions/webcompat-reporter/test/browser/browser_report_site_issue.js
+patch 411,485,

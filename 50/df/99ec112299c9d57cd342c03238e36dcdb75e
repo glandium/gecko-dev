@@ -1,0 +1,5 @@
+changeset d72ffedf30cd98552e8d55506c4c37fd00bb7edf
+manifest 52622880178ff0425307308e61c23f716b7a57bc
+extra rebase_source:1d28f42d3272e0ca3d171efae511d291ce5af8d3
+files xpcom/components/nsIClassInfo.idl
+patch 234,308,

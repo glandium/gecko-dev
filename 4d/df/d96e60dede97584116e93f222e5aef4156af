@@ -1,0 +1,5 @@
+changeset 1bbf691c2a7ef844d76d45ff5a3ecb50ab91d415
+manifest 51d4276b6f6778e2adfaa2e55c47a62b38270fd8
+extra moz-landing-system:lando
+files dom/xul/XULTooltipElement.cpp
+patch 330,374,

@@ -1,0 +1,5 @@
+changeset 144dfe94c302af1a3c12d6f06af3f43da15c2c94
+manifest cc56aeafd8a6be7b118598450f4657724a5ccbec
+extra amend_source:ce26064c333e09d7ec1030134699abcdb0965ef2
+files js/src/jit-test/tests/typedarray/typed-array-inline-cache.js
+patch 331,404,

@@ -1,0 +1,5 @@
+changeset 81873890e8b7d43fa291b54fe506f9b1e4fb4ee2
+manifest ad0a27bbb9b708b7ad9e20bd557c74b9ef1ef80a
+extra moz-landing-system:lando
+files toolkit/xre/moz.build
+patch 641,685,

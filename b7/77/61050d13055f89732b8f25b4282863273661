@@ -1,0 +1,5 @@
+changeset 82dc592c7293290a7b17c4473c01a228e42615cd
+manifest 7c449bc69c54daa0bd981674dc1ad80d55d37620
+extra rebase_source:a55ee2906850bec382cb3b2b418fc374bff7e47c
+files testing/web-platform/tests/webdriver/tests/send_alert_text/send.py
+patch 478,552,

@@ -1,0 +1,5 @@
+changeset d521c1d8d60503c088aa4127300a83161852f297
+manifest fc1c6273d8a6a0bd2587a84137f9fdcbe92d5c32
+extra rebase_source:5ad31fc22dcb016936b5f6d3bbe40ac5d793f435
+files browser/themes/osx/compacttheme.css
+patch 298,372,

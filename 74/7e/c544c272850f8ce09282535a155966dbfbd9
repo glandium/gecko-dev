@@ -1,0 +1,5 @@
+changeset 176e16629030869dfd6e31e240006f9ea70be2ba
+manifest 55c1d7e800321066a02b5c325e25bb5fa07632c6
+extra rebase_source:488da59a8dcd3c233d9dda38ccb2535b787e9985
+files browser/modules/ContentLinkHandler.jsm
+patch 310,384,

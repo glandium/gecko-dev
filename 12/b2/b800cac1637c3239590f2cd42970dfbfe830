@@ -1,0 +1,5 @@
+changeset bc592bed0522e528eb713f24a639be4c299eb715
+manifest 2f9f6ca206a15629c6689c340ea9cc0d2c704081
+extra moz-landing-system:lando
+files toolkit/components/remotebrowserutils/RemoteWebNavigation.js
+patch 630,674,

@@ -1,0 +1,6 @@
+changeset f1a74cfcfe1a4e126806a7f34335d31fabbceb57
+manifest e8a6fd5c7cda024efa4a9d74b8a2c82eb5586409
+author Dragana Damjanovic dd.mozilla@gmail.com
+extra rebase_source:68ee6e8b59821adc13a5fb6077af28c32e16c338
+files netwerk/protocol/http/nsHttpTransaction.cpp
+patch 283,357,

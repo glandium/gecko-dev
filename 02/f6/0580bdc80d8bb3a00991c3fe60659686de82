@@ -1,0 +1,5 @@
+changeset 01d04147fd943da72fdd02a52fb1361317cf7fb7
+manifest c1f0869834580cf3ad6677de2f05944ea87583d3
+extra moz-landing-system:lando
+files devtools/client/inspector/flexbox/components/FlexItemSizingProperties.js
+patch 359,403,

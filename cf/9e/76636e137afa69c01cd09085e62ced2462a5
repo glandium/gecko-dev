@@ -1,0 +1,5 @@
+changeset 9305a99ea1c3aab53a9675be0f76ec60b1a30e5b
+manifest 14e682a3c62142e9c138cd75ebaf08bd81c39d26
+extra moz-landing-system:lando
+files netwerk/test/unit/test_captive_portal_service.js
+patch 586,630,

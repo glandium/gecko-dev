@@ -1,0 +1,5 @@
+changeset 1a8ec63c6456d97cae278b46b12323651ad3010b
+manifest a6575cd93cf5cd6226a6767a7a63f760a78cee60
+extra moz-landing-system:lando
+files browser/components/payments/test/mochitest/test_payment_method_picker.html
+patch 477,521,

@@ -1,0 +1,5 @@
+changeset c66ba2794d94ccced815676c52c8dfab959dfb68
+manifest edcb3ab3d1568b7a3a3c53909d8f1168b3f40a25
+extra moz-landing-system:lando
+files layout/generic/nsCanvasFrame.cpp
+patch 360,404,

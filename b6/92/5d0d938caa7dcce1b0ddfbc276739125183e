@@ -1,0 +1,5 @@
+changeset ef38ce7ce64ddef56fcdf1554106a8008e9d47f8
+manifest 8597d32bd785297bb5bc140c9def043afdb7cf2a
+extra rebase_source:cdd45c34d1cae326c56ad5ca064505aaa2b9b0f3
+files mobile/android/base/java/org/mozilla/gecko/widget/ActivityChooserModel.java
+patch 371,445,

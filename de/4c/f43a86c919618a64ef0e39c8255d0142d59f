@@ -1,0 +1,5 @@
+changeset e6291f8821091ab3199096de35c3f7cc641d9731
+manifest 416b21772c8120ed8145b46d5e0558a0f791550b
+extra moz-landing-system:lando
+files taskcluster/ci/test/talos.yml
+patch 662,706,

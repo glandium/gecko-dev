@@ -1,0 +1,5 @@
+changeset 8a1c25fdedf62d20563fdd48fd39873f9625a5d8
+manifest 8751d545323ea9717677b2043afad7410b4e6b20
+extra amend_source:355e02634c851d6b9331101c770d3529d70aa603
+files testing/mozharness/mozharness/base/script.py
+patch 293,366,

@@ -1,0 +1,5 @@
+changeset cc3f0de953e41bc8ca8b098c31cd3cf2fe983529
+manifest a1a33c7afc859b773c58ffa33272e55b999d140c
+extra moz-landing-system:lando
+files gfx/thebes/gfxPlatform.cpp
+patch 1125,1169,

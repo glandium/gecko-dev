@@ -1,0 +1,5 @@
+changeset 1eb5d75221367b1f46ca6e8a1a650ca75cde90dc
+manifest 76361fe060881cbb611779491e82083bfa9c0f44
+extra moz-landing-system:lando
+files toolkit/xre/nsXREDirProvider.cpp
+patch 511,555,

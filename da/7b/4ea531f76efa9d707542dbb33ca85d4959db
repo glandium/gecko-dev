@@ -1,0 +1,5 @@
+changeset 371ce9714a3e21fa4f2550d264626858ad7b1e48
+manifest b06efaeefb0214f04a0b5e2faf6d0867dc48658d
+extra rebase_source:c29b7c4ebf6b2520e9d702f4d1475484e53fca30
+files browser/config/mozconfigs/win64-aarch64/common-win64
+patch 262,336,

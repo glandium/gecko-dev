@@ -1,0 +1,5 @@
+changeset 8d79b6822bc73b1186bc77538ee3955202538b64
+manifest de2b381ac5dfb6e9e5b9ef5395377e27e92551a7
+extra rebase_source:86d470ce1368610a3334950333b79b1b0c6ebc7d
+files python/mozboot/mozboot/archlinux.py
+patch 268,342,

@@ -1,0 +1,5 @@
+changeset 8bda47dfef15a0cf5c04ad4a08bf664c7c2360ec
+manifest 027ee42244104b6b38506b06745d724c6c046fdf
+extra moz-landing-system:lando
+files browser/base/content/test/general/browser_tab_dragdrop2.js
+patch 331,375,

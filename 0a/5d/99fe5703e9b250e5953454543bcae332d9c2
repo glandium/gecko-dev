@@ -1,0 +1,5 @@
+changeset b3a530c29fbe1a471fded9632d9affcca79d58c7
+manifest 61993c542c2f62f0de44fb58d0503896d6e6fe1e
+extra rebase_source:2f51591be14560004ecd1dbecb2c49e5cfe778b9
+files taskcluster/ci/release-version-bump/kind.yml
+patch 283,357,

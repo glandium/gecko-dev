@@ -1,0 +1,5 @@
+changeset 271e6768d94afbfe03acab303007bd289700ea36
+manifest f2c0403f186416e432f30905718ebb238692656f
+extra rebase_source:72c160028d5f718166161a9d05948e00b9939476
+files extensions/cookie/test/unit/test_cookies_async_failure.js
+patch 264,338,

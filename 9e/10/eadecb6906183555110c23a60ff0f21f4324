@@ -1,0 +1,5 @@
+changeset c7bfebd287aa839bc1f655d321d7b455fc2be0a7
+manifest fbd18feb74bb66bfdabb18ee8e84dfa462cc89ed
+extra rebase_source:74c0ff8edd109a055dcff65f9238ca2f82820536
+files testing/web-platform/meta/html/dom/interfaces.html.ini
+patch 473,547,

@@ -1,0 +1,5 @@
+changeset e2f5c2921910368bb586e257fe4ffee088322218
+manifest 20848a4b93daaecfeb8f801186e8a5b2b0a27dd7
+extra moz-landing-system:lando
+files toolkit/mozapps/installer/upload-files.mk
+patch 295,339,

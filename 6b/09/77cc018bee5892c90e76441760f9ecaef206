@@ -1,0 +1,5 @@
+changeset 106b66081b0df1dfbdebfdbeac5988c7f444943e
+manifest 7123c372e6bc113d43c55f247d33131587682925
+extra rebase_source:fd18c3dac2a9fc331f78d492154283472ec2957d
+files toolkit/components/url-classifier/nsUrlClassifierHashCompleter.js
+patch 320,394,

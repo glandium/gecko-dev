@@ -1,0 +1,5 @@
+changeset 63a089b7dc0446545593e3d1e8592f7285cb1a7c
+manifest 9cbeae8b3711ff18ea4ede9d9afdf218e4b56f62
+extra rebase_source:384ff19974491683779847131569652430cc2670
+files gfx/thebes/moz.build
+patch 272,346,

@@ -1,0 +1,4 @@
+changeset 85332a69ae0cbad6556541883960c517b1b86a03
+manifest e9ed22fee4a7bf371dd0241301d8896ae35f8222
+files toolkit/components/telemetry/tests/marionette/tests/client/test_main_tab_scalars.py
+patch 238,239,

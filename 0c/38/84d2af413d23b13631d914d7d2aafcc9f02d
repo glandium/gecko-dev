@@ -1,0 +1,5 @@
+changeset 57e435f97c303a4e04f9d74e5eafbe89cc6acab5
+manifest 90fdb7cc6a1a966129f2252bd1e0b64aa4b2b2e8
+extra moz-landing-system:lando
+files js/src/jit/arm64/Trampoline-arm64.cpp
+patch 332,376,

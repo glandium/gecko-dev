@@ -1,0 +1,5 @@
+changeset 6fbf2ee56e344b690f7bab168cb5077dc13f60c6
+manifest a835ddbf80ca4e0439ea1b8e7aa08b814f73b5c9
+extra rebase_source:9448411e072d144456e7672b92699cdf288a13fc
+files services/sync/tests/unit/head_helpers.js
+patch 318,392,

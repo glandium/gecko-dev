@@ -1,0 +1,5 @@
+changeset a677efcd8768ff23c2b65aaeb9c680a10d3afeb8
+manifest f9ff09055ec4f9b088a37975e3b0682909903528
+extra rebase_source:e9d2a4a85ccbdd6c0520392a9b187bfd45afc77b
+files python/mozbuild/mozbuild/virtualenv.py
+patch 558,632,

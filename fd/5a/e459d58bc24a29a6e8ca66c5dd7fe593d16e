@@ -1,0 +1,4 @@
+changeset d3c8bb635a33b79be8517549722dc37ac0eebb39
+manifest 70037b850a9956d6b7d05083ee3bd6d629fa1c0a
+files devtools/client/debugger/new/src/actions/pause/mapFrames.js
+patch 317,318,

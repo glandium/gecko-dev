@@ -1,0 +1,5 @@
+changeset e3891caf027f304b6b9c2a6040edc7053daba8ea
+manifest 2e248ffaaddc27be6f04a54f14c99df7703b7851
+extra rebase_source:82bb36eb5d67e4c7950baf9c2002243b461ae850
+files toolkit/components/telemetry/TelemetryScalar.cpp
+patch 345,419,

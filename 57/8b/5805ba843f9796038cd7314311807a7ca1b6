@@ -1,0 +1,5 @@
+changeset dc2c0589597ac48331473183b823604d1c29621e
+manifest 9abe7fc3fbe59a61b7f15280ee8de30a5a734f72
+extra moz-landing-system:lando
+files testing/mozbase/moztest/moztest/selftest/fixtures.py
+patch 440,484,

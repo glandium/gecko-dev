@@ -1,0 +1,5 @@
+changeset c69055ee2869c6177d4408608ec508e634c15386
+manifest 524541054ec3525c7b4dee05d0a3dac6005bcb1b
+extra rebase_source:73df9c714d0b1c7628cb3bc9667fb27e757cf89f
+files dom/plugins/test/testaddon/Makefile.in
+patch 457,531,

@@ -1,0 +1,5 @@
+changeset 199b64bd4ead7f270101d53e2e781edfb22a63a5
+manifest c59b6ca118d7109cbcba2de7207e54c3b7d8bb59
+extra moz-landing-system:lando
+files dom/base/test/test_window_define_nonconfigurable.html
+patch 399,443,

@@ -1,0 +1,5 @@
+changeset bbd428acbe9e14511be7d6afae4bd381806ef7b8
+manifest 25ee1dad37d6a2413bb165240932655f7d75cbcb
+extra moz-landing-system:lando
+files toolkit/components/antitracking/test/browser/head.js
+patch 310,354,

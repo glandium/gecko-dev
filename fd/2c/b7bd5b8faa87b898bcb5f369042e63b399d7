@@ -1,0 +1,5 @@
+changeset f390959ffb3c3a322ef5fa6cc102290897603fe3
+manifest 813d83dde033f74d1e6b3746031f809cc08b8e69
+extra rebase_source:50dcf42ac157efaca54f3d2e0cbc2d78323da562
+files browser/extensions/onboarding/OnboardingTelemetry.jsm
+patch 341,415,

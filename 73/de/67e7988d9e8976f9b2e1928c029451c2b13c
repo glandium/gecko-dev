@@ -1,0 +1,5 @@
+changeset 03b8ff9402a748cc5feea6d48fcb4490dab83b8e
+manifest 635db0a8f2e43ce206276c3209d293a3d43cdb97
+extra rebase_source:74e8b99a38e9d9fd94d1a93c2385fb91d66c12f4
+files layout/style/nsStyleStruct.h
+patch 328,402,

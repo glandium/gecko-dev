@@ -1,0 +1,5 @@
+changeset c9d2c08bea3cdc95ce6bad70ac29bbd0a2fd13d7
+manifest 4a417d9f7cf41e903e7e2f4252a4bb6eea19d2aa
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/README.md
+patch 343,387,

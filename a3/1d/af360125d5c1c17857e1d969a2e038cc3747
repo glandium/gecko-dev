@@ -1,0 +1,5 @@
+changeset 52e225228c3e1297d246bdb34863bcbc8c0c9653
+manifest dda7f282bc367fc1d27a7fdd2b65a98f537d27c6
+extra rebase_source:cf8397698356fb56172e8fcfefebd1a7065f58ce
+files testing/talos/talos/webextensions/dummy/manifest.json
+patch 323,397,

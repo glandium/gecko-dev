@@ -1,0 +1,5 @@
+changeset 4a30dea025cacebb50cd376e1429ae8041c75790
+manifest 2487c32d37801e7a7dcd6c590465309ddc319eaa
+extra moz-landing-system:lando
+files toolkit/mozapps/update/nsUpdateService.js
+patch 333,377,

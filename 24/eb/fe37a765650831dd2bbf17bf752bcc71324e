@@ -1,0 +1,5 @@
+changeset 57994656668db26261b12f836b8b57aa8369f50c
+manifest 13a9ef956888a860af1154fe3d24e876ceeae714
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/prompts/PromptListAdapter.java
+patch 414,458,

@@ -1,0 +1,5 @@
+changeset 3a993e60513ec57eecb4be86c14f9d2303dfc04b
+manifest 116be356308dd73ad92a8a9efa3f67e56c177e70
+extra moz-landing-system:lando
+files toolkit/crashreporter/breakpad-client/linux/minidump_writer/linux_dumper.cc
+patch 990,1034,

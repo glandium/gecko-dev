@@ -1,0 +1,5 @@
+changeset 6d4ccd7d8f62887e9a028ffa9664ca1b87a979e0
+manifest cf30448e47bdbbd941cc982c93cc49f786e8ebc4
+extra histedit_source:e020d87a947376884dae2e796ed1b7b7f50f31da
+files dom/security/test/mixedcontentblocker/mochitest.ini
+patch 283,359,

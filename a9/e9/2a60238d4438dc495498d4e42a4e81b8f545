@@ -1,0 +1,5 @@
+changeset 9a22edb5c335044baf5fd63f28553d5f6cfb4103
+manifest c5fb3eff9c7bda2223ff7be03d60f452ac2921a3
+extra moz-landing-system:lando
+files widget/gtk/gtk3drawing.cpp
+patch 315,359,

@@ -1,0 +1,4 @@
+changeset 0da803764ff9a9a27253aa82328b73e0aff2325a
+manifest 4e65ba2de1921a7486237ac4971d3d69e688eb8f
+files devtools/client/debugger/new/dist/parser-worker.js
+patch 317,318,

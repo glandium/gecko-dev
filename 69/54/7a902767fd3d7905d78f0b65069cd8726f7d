@@ -1,0 +1,5 @@
+changeset 0e9cdd20feec19f96ff38e69f5e9c1f49b8a465e
+manifest dc18ab9367e8139a3d5eddbefd6c57f4add41c66
+extra rebase_source:65b98e87382b5d6cc25ad7eed07d42a9c72dd6e3
+files mobile/android/base/java/org/mozilla/gecko/dlc/catalog/DownloadContent.java
+patch 352,426,

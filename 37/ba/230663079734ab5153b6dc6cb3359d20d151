@@ -1,0 +1,5 @@
+changeset 702485851935a8b3efb62b5efd3b82543b5167a4
+manifest f36ad6cbc304e25d9687a96c7a901312a36689aa
+extra moz-landing-system:lando
+files testing/web-platform/tests/tools/wptrunner/wptrunner/wptmanifest/parser.py
+patch 367,411,

@@ -1,0 +1,5 @@
+changeset 2859c48a1a810f72032d9d592c63900390e689a0
+manifest dfb8fa8fba7b2c9b58f19629daa60a593c264ad2
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/CrashReporterActivity.java
+patch 541,585,

@@ -1,0 +1,5 @@
+changeset 9130155caf455de2a54dc95aab351af3388485b0
+manifest 8a9f116cdf44c20c16635f3cbe47282cd6d7a3af
+extra rebase_source:c892e2d4b13ca11345c4353113014415b5b619b4
+files browser/components/preferences/in-content/tests/browser_fluent.js
+patch 327,401,

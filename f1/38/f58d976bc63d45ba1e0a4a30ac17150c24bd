@@ -1,0 +1,5 @@
+changeset b0002d2ea03f3a91a8fb3319b9eb03367919e398
+manifest 53d821f52d02e8fa42e62f2d60dc618cc3e2752c
+extra moz-landing-system:lando
+files build/autoconf/android.m4
+patch 470,514,

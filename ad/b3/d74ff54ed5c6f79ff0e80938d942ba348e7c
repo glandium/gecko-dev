@@ -1,0 +1,5 @@
+changeset 98ea7eeab6f3ae7835e8fa47d9b42cc2a02a29a5
+manifest 32c3a8bcd5c91bb44032f5740dc2cd1047874eba
+extra rebase_source:5bd7fc25a4cbfbc288ce19650831b484757689ed
+files js/src/frontend/ParseNode.h
+patch 259,333,

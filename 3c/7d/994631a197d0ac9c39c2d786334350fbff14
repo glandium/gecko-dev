@@ -1,0 +1,4 @@
+changeset b2a36230e1936ff5e6554e3809274fa87e4297b1
+manifest 356cd6d00d8a020059b9b9f542d231da3a1aae76
+files netwerk/protocol/http/Http2Compression.cpp
+patch 321,322,

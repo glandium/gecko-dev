@@ -1,0 +1,5 @@
+changeset cc2c3de0b1ff2f236d0f2c1aa5194d66b15892d0
+manifest 0aac2feaf7563456c4f5d13bb81b292561ca39d0
+extra rebase_source:96364e7469b92f3ce1a2e8b56b886b4581287d89
+files media/mtransport/third_party/nICEr/src/stun/addrs.c
+patch 304,378,

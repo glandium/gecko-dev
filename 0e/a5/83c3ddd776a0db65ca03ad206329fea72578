@@ -1,0 +1,5 @@
+changeset 018b21c272eef2eb6d4b13a5543cb7a8738b9334
+manifest a9c5ea6a86488c2059e7d74c939e50af97cd8420
+extra source:20a1a11b4d0ba7010b36b952bb212f3c36e6aac3
+files xpcom/components/ManifestParser.cpp
+patch 357,424,

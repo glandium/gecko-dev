@@ -1,0 +1,5 @@
+changeset 959450489bcfc84a4c01cbae0e58b2b0455851e8
+manifest 2e7ffbac51238eef669a3747b38d0a5ad60a0058
+extra moz-landing-system:lando
+files dom/webidl/Window.webidl
+patch 316,360,

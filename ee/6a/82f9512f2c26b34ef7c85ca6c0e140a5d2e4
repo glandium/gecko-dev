@@ -1,0 +1,4 @@
+changeset e5b6f247a849108db472a6a10909a89dcbc6caa4
+manifest b12e10d94dded0c47515cc7b9df34098e797e561
+files taskcluster/taskgraph/actions/cancel.py
+patch 260,261,

@@ -1,0 +1,5 @@
+changeset 1c9f780c4e9c5d34d1dce011480bffd789c5ee9c
+manifest 21752ff9fb1465179113e00598f08b303b129d82
+extra rebase_source:5d99fbd6d548344781c79d8debe918e713b533ee
+files toolkit/components/tooltiptext/tests/browser.ini
+patch 451,525,

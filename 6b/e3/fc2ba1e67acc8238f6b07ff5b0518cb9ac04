@@ -1,0 +1,5 @@
+changeset 03aeae77fd57e9585894181e4ee6affe7ba9eac1
+manifest f5d4638735d4683a9725cb8a14cdf2ad30567c79
+extra rebase_source:3afe0136e35e25361e9e1802a9738d82b97e99e5
+files memory/mozjemalloc/jemalloc.c
+patch 545,619,

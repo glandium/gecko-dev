@@ -1,0 +1,5 @@
+changeset cd12bd4827548b4556b2e1b40f56f6315d018060
+manifest 52624928eb510b9fd1fccbfcd4fea6d73bc93647
+extra rebase_source:c8fba2c54ed9b8b9bdfb9547fe17021e69ed1b98
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/topsites/CirclePageIndicator.java
+patch 352,426,

@@ -1,0 +1,5 @@
+changeset 5dc260a940fb4c7e4804ae08de3fa853d8b46c2b
+manifest 1c71a25c77d5609e5bb5b3d5a8775938afffc602
+extra rebase_source:6febe5d20e6ee20e58e987616d20c623c64b6e3c
+files taskcluster/scripts/builder/build-haz-linux.sh
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 4f27d46e7abeafce27a74ce0282257a3889572cc
+manifest 5028f850f21e163e7e2777f799a8af7ab1a657d4
+extra rebase_source:fc8462fdc4c7f425d7b0c3ce57d25239e6412c7d
+files xpcom/ds/StaticAtoms.py
+patch 280,354,

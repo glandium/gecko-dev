@@ -1,0 +1,5 @@
+changeset 0b60e81f892e6eb7874a84876a6814d36dc86745
+manifest 12ef5b4eff9499220a4526b2b6b8e1e1a4627e51
+extra rebase_source:aa68104b99b3828f5a0d5eca1145dca32750b07f
+files devtools/shared/base-loader.js
+patch 295,369,

@@ -1,0 +1,5 @@
+changeset f0cc36791dde4152d7bbeede9359f10ae1f1d661
+manifest 24147f9baea8956bc388b3cc25bb79b567cd0925
+extra rebase_source:0ad1d51871383eb3eb4f0399bc90eb063287211a
+files mobile/android/base/java/org/mozilla/gecko/bookmarks/CreateFolderFragment.java
+patch 345,419,

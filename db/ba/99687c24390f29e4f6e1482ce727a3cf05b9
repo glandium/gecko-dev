@@ -1,0 +1,5 @@
+changeset c6e12df0792f6c532982860663bb55a122d4f1e6
+manifest eb10d300c63e4101ce82ae359750bf1ead46f17f
+extra rebase_source:fee266790c1842818c8332c31e30fbee0ea3feb1
+files xpcom/base/nsDebug.h
+patch 260,334,

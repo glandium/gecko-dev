@@ -1,0 +1,5 @@
+changeset f14fb118695e47d59c97c4f8e90bb90607f43aae
+manifest c01ae0f7bdb92e920465b1d1c3d51d63ee4d6bb4
+extra rebase_source:850cc12d2d9db0964dd53014a103202f4afd1fbf
+files tools/profiler/public/GeckoProfiler.h
+patch 287,361,

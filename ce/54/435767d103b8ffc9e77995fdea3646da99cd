@@ -1,0 +1,5 @@
+changeset a7c7fd053fa3fc0933bb5e0472a2af0683fe0cde
+manifest 5949d8bee743266fc5bffdc482629d824aa05037
+extra rebase_source:7a58ced68f674f3b56f68254b9719a1663dddf9f
+files browser/themes/windows/compacttheme.css
+patch 306,380,

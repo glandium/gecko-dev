@@ -1,0 +1,5 @@
+changeset da54de0286592e0037360d662e5f4fc649a88a70
+manifest 3e3640d57f969255a2dc2241fc3f96117e4ce142
+extra rebase_source:31417c4ab76f822462e4e7367ae37bbfe7a4d411
+files browser/base/content/test/general/browser_windowactivation.js
+patch 329,403,

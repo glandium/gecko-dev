@@ -1,0 +1,5 @@
+changeset 94f3d2f692069f5970ffe47ac67fff472ec23d5e
+manifest 65abe728c50358f4cf080d9c377241996c212ac9
+extra rebase_source:b08d90136ab02e3ef38da97c53d20d3a5623562f
+files browser/extensions/formautofill/content/manageDialog.js
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset 322d3fa99a64b509335d1cf251cc5a6e92b2d794
+manifest b99747da856f96e7aaa0b7a87fa51fb4327fea3f
+extra rebase_source:70323ce299070231517ce8e2a153c14cd878a89a
+files toolkit/mozapps/extensions/test/xpcshell/test_filepointer.js
+patch 319,393,

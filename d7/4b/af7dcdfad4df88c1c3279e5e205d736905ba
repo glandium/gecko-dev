@@ -1,0 +1,5 @@
+changeset 8ff3ef5e885add7d13f43ee2d4b346fc7f3dff34
+manifest e69b5f10ccc51d5810e2c1c69d0564488355cadb
+extra rebase_source:f7351689302d98aaa9c7ebfe15c4046e661d8c9e
+files mobile/android/base/java/org/mozilla/gecko/home/HomePager.java
+patch 345,419,

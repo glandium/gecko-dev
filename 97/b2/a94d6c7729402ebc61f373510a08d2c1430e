@@ -1,0 +1,5 @@
+changeset 765d2befbd2340192f0a4df1b639c175318be66f
+manifest 9ae2750c6d365e29be86590c8396278cf4c6b061
+extra rebase_source:6803c5a65b0e2aa0cbc40dc040d90d1d1d7b2ce7
+files browser/components/migration/FirefoxProfileMigrator.js
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset cf96b05721a4de781830e7b6f5c2dce0a8def45b
+manifest 5b31a800aa92ed91b68ea47b64021c4ed5695ccb
+extra rebase_source:fb518d946f193c5237fb3fb7e28a8b1f7e3559e3
+files accessible/generic/DocAccessible.cpp
+patch 296,370,

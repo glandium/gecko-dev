@@ -1,0 +1,5 @@
+changeset 0705214135b0bf126bfe0d47c5c6b29d70e00cee
+manifest 878e2c3b9e97c8fb2cb6519c838b53bef20f5c7b
+extra moz-landing-system:lando
+files mobile/android/app/ua-update.json.in
+patch 303,347,

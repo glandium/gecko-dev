@@ -1,0 +1,5 @@
+changeset ed07fb947b5e6c14b93c00a6596b756b37d306c0
+manifest 4c04fa5cff550ecf2ea1e516c62a49a4bd5083fd
+extra rebase_source:1cd73723a7cafbd64f2d91601e8c62507ded2a4d
+files mobile/android/modules/geckoview/AndroidLog.jsm
+patch 449,523,

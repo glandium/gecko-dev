@@ -1,0 +1,5 @@
+changeset 364d70626f4b348628e33e627e42353fad91b5fd
+manifest 3f62eda9c6d659024d7cf6b9fd8ccdbb7f706b81
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/doc-files/CHANGELOG.md
+patch 404,448,

@@ -1,0 +1,5 @@
+changeset e8ab07c1c98f91a0a92cc0fa79a96de20487cf37
+manifest c0fc0a75f36c14a8a4f72c625c96d23ea743bf73
+extra moz-landing-system:lando
+files gfx/layers/apz/src/AndroidVelocityTracker.cpp
+patch 348,392,

@@ -1,0 +1,5 @@
+changeset e17c105c0be870ad5d07a1ff0b0a5da1646f35a7
+manifest ef6ab7e0cdfe335bcfc257255f61f2f0226afb5a
+extra rebase_source:e35e5f5d9e3cea22776078ffdb3085ffe61ba99e
+files toolkit/components/extensions/parent/ext-identity.js
+patch 301,375,

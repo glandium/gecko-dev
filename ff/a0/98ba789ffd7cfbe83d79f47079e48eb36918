@@ -1,0 +1,5 @@
+changeset a9c97c2aa4b9551ca53a3b22163c0d0ddf784b3d
+manifest e452fb513ae9c17fe05d012aa49b688dcfe69840
+extra rebase_source:cc5479f21c91df1fc0967900fb1022e3ec6dff3d
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_close_sidebar.js
+patch 689,763,

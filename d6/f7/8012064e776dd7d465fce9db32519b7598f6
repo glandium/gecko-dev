@@ -1,0 +1,5 @@
+changeset 3f4e1feb7c8ede70b62d712ff9c3740c4540ad4d
+manifest 43013d882c614eb21aa866eb2102fe87483791b4
+extra rebase_source:07b27db25e9c8e3226dc996d3fcef401ca498739
+files taskcluster/taskgraph/actions/registry.py
+patch 580,654,

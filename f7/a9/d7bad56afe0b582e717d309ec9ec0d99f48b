@@ -1,0 +1,5 @@
+changeset 041b0a0ece72b58fca950f50da937269c69d3e29
+manifest f0373aa53cc6b448548e07fea0e39f11f6571944
+extra rebase_source:03c391cb28e7e7a24a890fc1452096ccdcd05d2b
+files browser/components/places/content/placesOverlay.xul
+patch 310,384,

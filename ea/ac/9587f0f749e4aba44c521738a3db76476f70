@@ -1,0 +1,5 @@
+changeset 952bd76f99bcbfc6b22cc9083a8804b940c67051
+manifest 172f052173e2ef12d982dbffc4d556f396d50035
+extra rebase_source:c63e54d404a8589accc074d308eb0e47855a800c
+files devtools/server/actors/utils/TabSources.js
+patch 302,376,

@@ -1,0 +1,5 @@
+changeset 6adfb885abd523d418b0919cabd04b4a22472a25
+manifest d10bd442adba68a674e7a939003a1f704285e321
+extra moz-landing-system:lando
+files js/src/jit/VMFunctions.h
+patch 270,314,

@@ -1,0 +1,5 @@
+changeset da1261cd611ccc4f35ae67fddc2885b0c7179c4f
+manifest a2569f94575d4404651e22ed42d0d193f0e4fbdf
+extra rebase_source:bc98820991f8858486f7bbaab929bc60d4d39b0c
+files servo/components/style/properties/helpers/animated_properties.mako.rs
+patch 516,590,

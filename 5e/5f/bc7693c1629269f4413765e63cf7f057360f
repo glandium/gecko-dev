@@ -1,0 +1,5 @@
+changeset b8c498fb8223517460c4124cb3d822718cc6e38a
+manifest 63cfc69296ea5836a6f55d0778b6df0a26aaef11
+extra rebase_source:6bacd03e1a47d0fcd24b561e92a048ed20a75704
+files netwerk/protocol/http/UserAgentOverrides.jsm
+patch 333,407,

@@ -1,0 +1,5 @@
+changeset 0503d6eb70a76db7a941202ae05e1bfc448714b2
+manifest 8c94b409fc53424b4463dd21855a339a2ff88f39
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_telemetry.js
+patch 2867,2911,

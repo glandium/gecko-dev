@@ -1,0 +1,5 @@
+changeset 59ac85f056505d33bc90a77ef47f42c0ca62da2b
+manifest 39b2ee63bcfacfc33d729f8190767317ab2f711c
+extra rebase_source:16b82d0d17347ec891089eefb5b9bfa07634a53b
+files python/mozbuild/mozbuild/gn_processor.py
+patch 307,381,

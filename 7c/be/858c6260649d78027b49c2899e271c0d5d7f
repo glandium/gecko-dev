@@ -1,0 +1,5 @@
+changeset c9814f860a6773e3f11eda23aaa8fb9033d77256
+manifest 10f5c6fdcbed73d7bc5431cf72c50cc97e993176
+extra amend_source:71b9da131b80c5e269cd3c459306939bcada185a
+files xpcom/base/MemoryTelemetry.cpp
+patch 259,332,

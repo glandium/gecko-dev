@@ -1,0 +1,5 @@
+changeset 47b086b8fa062bc221f01169a00f55f850f265f3
+manifest 7e5f19d09cf826e66639b512aa974e8403399742
+extra rebase_source:be0ae98ba0b54fc626b6857336c59d114be1e6f3
+files tools/code-coverage/nsCodeCoverage.cpp
+patch 468,542,

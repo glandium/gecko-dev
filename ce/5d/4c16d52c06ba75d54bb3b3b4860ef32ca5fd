@@ -1,0 +1,5 @@
+changeset 95c294286e66c5e4d3ae15706247ad95357b34fd
+manifest cb84d7ff7204341c45ee3e0dee3fd674ab3bf2d5
+extra moz-landing-system:lando
+files testing/marionette/puppeteer/firefox/firefox_puppeteer/ui/browser/tabbar.py
+patch 342,386,

@@ -1,0 +1,5 @@
+changeset 0c2a8c43e38efe614fd7f70e6f5c364bb63e93c4
+manifest b84a6f12a7d52cb847af005fe0fcc6bf3d0b3f75
+extra moz-landing-system:lando
+files browser/extensions/onboarding/test/browser/browser_onboarding_tourset.js
+patch 352,396,

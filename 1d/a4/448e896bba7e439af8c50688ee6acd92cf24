@@ -1,0 +1,5 @@
+changeset 7179fbe1f4fde8498e60a099048eca3ba9a8ffa7
+manifest 9c5ecdac1a8cde901baebad102b9eb590a54e17f
+extra rebase_source:2ffe6ffdad1ee61ce49ddd0101436020d649ed52
+files browser/modules/AboutNewTab.jsm
+patch 288,362,

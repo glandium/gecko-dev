@@ -1,0 +1,5 @@
+changeset ac8dff6980b7c45cbe8037f9c93d4a812e707df8
+manifest 4782f04fa3285f657952b32de9f9a1614f434ac2
+extra moz-landing-system:lando
+files toolkit/actors/WebNavigationChild.jsm
+patch 312,356,

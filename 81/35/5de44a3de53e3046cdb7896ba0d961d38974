@@ -1,0 +1,5 @@
+changeset 1f5f38b7f143b0db9eff95d72e8605c31905c48e
+manifest 76d199d7d46002b1d3bb25e6bdf08645aca8b148
+extra moz-landing-system:lando
+files security/manager/ssl/OSReauthenticator.cpp
+patch 383,427,

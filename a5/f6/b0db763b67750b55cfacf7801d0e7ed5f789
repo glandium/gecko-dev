@@ -1,0 +1,5 @@
+changeset 7f4fc5128452027fd2aeb355d485b7ec45eda51a
+manifest cf60f1328467420b9d0764c3d42b68857bebf980
+extra rebase_source:50acfbe06d0f4e62660f0ba0fd0d11050c35f9e8
+files python/mozterm/setup.py
+patch 248,322,

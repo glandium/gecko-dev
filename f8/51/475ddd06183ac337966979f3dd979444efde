@@ -1,0 +1,5 @@
+changeset 78de1ee2021fc17a73efa0235711095cfff19323
+manifest f09880af5d57bfdb11fdda6997bd6681a718bc11
+extra rebase_source:f8fe524fe54b069e30176ac797b45fab4f8c912d
+files js/src/doc/Debugger/Debugger.Source.md
+patch 271,345,

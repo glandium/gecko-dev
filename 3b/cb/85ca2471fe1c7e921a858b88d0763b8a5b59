@@ -1,0 +1,5 @@
+changeset 56eeab3db2d73397e0ae59aebe967adc3e2b48f7
+manifest eb1024e49e94445fdbc1708c3e2114c4a3794a82
+extra rebase_source:161a17a719b8dcd856378a2af96ac3fde66d3aa7
+files layout/generic/nsBulletFrame.cpp
+patch 598,672,

@@ -1,0 +1,5 @@
+changeset 7903281904534c34e1c73781f30d55711322f13c
+manifest 09a79e77c3a019039fb72942fbc56b9a02754494
+extra rebase_source:8a26c97c30e46af0a5f77060066046cd91ccb64c
+files intl/l10n/Localization.jsm
+patch 293,367,

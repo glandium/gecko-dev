@@ -1,0 +1,5 @@
+changeset 5175f4c659a32f91be7b39f7edf00027b9d395ce
+manifest d519bc6bf7f66c4dc2f0ce524c3c9a4e04ef67f9
+extra rebase_source:320b23d8d6a1fcff7fe6573243f10393f1bf56cf
+files mfbt/GuardObjects.h
+patch 275,349,

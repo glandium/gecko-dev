@@ -1,0 +1,5 @@
+changeset 75fc6292ea459d1baa3ba8b229fb996b83c53ec7
+manifest afbc46312aad812f4593c203bb0678c1ee8d9569
+extra rebase_source:db3b2b003eed4655cd9ea1ea1f42377f4ee85cc6
+files dom/html/test/test_fullscreen-api.html
+patch 329,403,

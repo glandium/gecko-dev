@@ -1,0 +1,5 @@
+changeset bdc6784cdfd4b751daf6855251eae481f9ba53da
+manifest d428125ac9b74bdfdd34fd4d988f41fbbe7d3f4f
+extra rebase_source:950c2945f3fb53bf7e89d25d77df9e50a3d15b85
+files devtools/client/inspector/grids/components/GridOutline.js
+patch 780,854,

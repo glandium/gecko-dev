@@ -1,0 +1,5 @@
+changeset 3b5eec74e7e5fdd9f3f92df6f68aa981ecb227a8
+manifest e8baeb0109ea9a9b721295bcf80f78d8bf4eef25
+extra rebase_source:614fb7c1edd4b5e3a86e8e3edad53ed315f6f9df
+files python/mozbuild/mozbuild/codecoverage/lcov_rewriter.py
+patch 298,372,

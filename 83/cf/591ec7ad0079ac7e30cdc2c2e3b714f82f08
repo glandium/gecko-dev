@@ -1,0 +1,5 @@
+changeset c959ea5adf6acaa072b5d9cd4a0e5770da423fe7
+manifest 3cfee2341d3f0162a22a8bd010df199fd8895c44
+extra rebase_source:659bfb57eba416e6105035e453d7366a9515ea3a
+files build/unix/elfhack/elfxx.h
+patch 298,372,

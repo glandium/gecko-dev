@@ -1,0 +1,5 @@
+changeset 96046dff0022da18603a359733514a4ff0efc799
+manifest d0a0b42d56b2b8bb91af3b14fa79a83d118b9dfd
+extra moz-landing-system:lando
+files build/mach_bootstrap.py
+patch 850,894,

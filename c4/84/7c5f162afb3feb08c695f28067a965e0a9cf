@@ -1,0 +1,5 @@
+changeset 7e55a78b333997c6ccf98ee3669dc284648ea3c8
+manifest e45e7f8c692d88126e1d7b32eddafc58885168d1
+extra moz-landing-system:lando
+files devtools/shared/fronts/memory.js
+patch 289,333,

@@ -1,0 +1,5 @@
+changeset 778572e3e6bc002ac38f20194c5fac04bdc1527c
+manifest 4851b258ebf98c0beb510b449db08c8ecf9543f8
+extra rebase_source:982e2fcb8aed0640acd80025319fdcac24634c47
+files browser/config/mozconfigs/macosx64/debug-searchfox
+patch 362,436,

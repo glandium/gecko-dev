@@ -1,0 +1,5 @@
+changeset c0e181ee31b3bf53e7e1b4982b9c374fd3369db5
+manifest b963db72223a86b9af466ecfb299cd4f6a1e73a7
+extra moz-landing-system:lando
+files taskcluster/taskgraph/transforms/repackage_partner.py
+patch 423,467,

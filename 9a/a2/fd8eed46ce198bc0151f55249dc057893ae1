@@ -1,0 +1,5 @@
+changeset 5d990834b3e42f6900564f17a6e5f8aa1cd8eedc
+manifest 34769b28195176924cd52ee1ea56159a4a42890a
+extra histedit_source:d3157300315052048756c22ac2c999523d28679d
+files config/external/icu/common/moz.build
+patch 447,523,

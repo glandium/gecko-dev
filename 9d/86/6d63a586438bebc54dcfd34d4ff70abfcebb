@@ -1,0 +1,5 @@
+changeset 8d4c2f001354b186da9e411d2ff1def458d00efc
+manifest 8efd9e14e4b5e104c880b2c847f2c4e6e92869ce
+extra rebase_source:53c4d6d530889d4b217de499b158e0e4352c832d
+files addon-sdk/moz.build
+patch 265,339,

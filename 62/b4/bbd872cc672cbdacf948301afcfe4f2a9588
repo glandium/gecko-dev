@@ -1,0 +1,5 @@
+changeset a9a828f85c918316db6f21cecff15d5f20275296
+manifest 552bb418145413cd1f288b5aca405dd8cf4f9094
+extra rebase_source:5352c8f331bfde46d8372f9c465586bd28340143
+files browser/components/urlbar/UrlbarInput.jsm
+patch 316,390,

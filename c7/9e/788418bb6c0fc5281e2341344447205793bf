@@ -1,0 +1,5 @@
+changeset 12c2e68e674d9c0d4903849d308233d36742e164
+manifest 68253469b29f9429510e000fd8d86fbc4ef23d46
+extra rebase_source:090cecef83a34d18c6120645ef378947fded16bb
+files toolkit/components/protobuf/upgrade_protobuf.sh
+patch 474,548,

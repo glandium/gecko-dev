@@ -1,0 +1,5 @@
+changeset c6d2c3390c0b974ebc08a27dac5ee14cb392f7c9
+manifest 6dba4e40ba86e8a56e7f914065cc608538a0e3a1
+extra rebase_source:63da9edaa2669a8a6c9f47f4d4110c0dae20232e
+files toolkit/components/extensions/ExtensionStorageIDB.jsm
+patch 769,843,

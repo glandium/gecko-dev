@@ -1,0 +1,5 @@
+changeset b401fc737a4fbd3d8990fc858cfe5a5cae388dec
+manifest 2c86e3bbe3197daf4dcab34eaed8694dfa26856f
+extra rebase_source:966773fc5e7d1c5898e30720641a72fea175480e
+files devtools/client/shared/components/splitter/SplitBox.js
+patch 313,387,

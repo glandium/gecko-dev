@@ -1,0 +1,5 @@
+changeset 4009cf4a61b40c439532898f4fd10ea19d08043e
+manifest 1cba3ed3fc98c19a75f482b2774d4a54e6901c8f
+extra rebase_source:744571645793ab89ea030ef68b9e1fa713cccff6
+files taskcluster/ci/docker-image/kind.yml
+patch 276,350,

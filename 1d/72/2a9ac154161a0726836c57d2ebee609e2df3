@@ -1,0 +1,5 @@
+changeset ce05cf6d5e1990c93c5c0220ea9354b4b646786f
+manifest 1a02b9ffceacf894d6a3c3fad9d6458e014396c2
+extra moz-landing-system:lando
+files build/submit_telemetry_data.py
+patch 804,848,

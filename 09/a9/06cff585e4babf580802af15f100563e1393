@@ -1,0 +1,5 @@
+changeset b207d21ee5a58b66b722ce8c6c95683cb2185bab
+manifest 3331edd51d49fc4a86ca3c81cfabe5d6773231ca
+extra rebase_source:340cc0fccac0e986cfb3949e78b55e0ee930a139
+files media/webrtc/trunk/webrtc/modules/video_capture/windows/sink_filter_ds.h
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset 4c4e3c2df1f2ecc1cf3880f95d46ab45e4df6345
+manifest d311de94c81121f7cd9fd62c337fda85a9d3f6f4
+extra moz-landing-system:lando
+files browser/modules/BrowserUsageTelemetry.jsm
+patch 308,352,

@@ -1,0 +1,5 @@
+changeset d811ce4ebcd9a7bfce3e6ac0ec5d006f9e2ff82c
+manifest 8a312fd77de0b9a6cce3164fb92c99b65284a525
+extra rebase_source:62211636c33aa21f7d898535425798a3e190fd89
+files toolkit/components/extensions/test/xpcshell/test_ext_contentscript_triggeringPrincipal.js
+patch 373,447,

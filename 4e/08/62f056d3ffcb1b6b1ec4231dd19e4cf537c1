@@ -1,0 +1,5 @@
+changeset 10090de4624bd97e4aeb9e876b77fca5fcfac285
+manifest 2e32ce754445068219d349bfa72e7cb7ff17492b
+extra rebase_source:db6fd26cb516bf181f71e0c97b64159cd129f7d0
+files browser/locales/en-US/installer/nsisstrings.properties
+patch 441,515,

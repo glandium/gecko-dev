@@ -1,0 +1,5 @@
+changeset 1f0ea920012282582551a6eae8c36ef2b62ca9b7
+manifest fb12d86f4d26f919e8f737982925a8c55f43f491
+extra moz-landing-system:lando
+files devtools/server/actors/highlighters/flexbox.js
+patch 377,421,

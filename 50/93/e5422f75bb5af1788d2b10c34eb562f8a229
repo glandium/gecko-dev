@@ -1,0 +1,5 @@
+changeset b7781d888fa1359989445e131a1c107a34e6368f
+manifest 4314f55c378d004b75b0cadc874066607a84ea49
+extra moz-landing-system:lando
+files toolkit/locales/en-US/toolkit/about/aboutAddons.ftl
+patch 299,343,

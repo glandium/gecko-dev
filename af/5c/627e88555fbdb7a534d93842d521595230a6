@@ -1,0 +1,6 @@
+changeset aed3425ebf17be3a3edd5e1aeac400331d89b6f5
+manifest d4e8ebe44b7d296cf0ee41e964efa97d18433e93
+author aselagea@mozilla.com
+extra rebase_source:8ada907404b7de22e7bb51d6af0e4c7230bb20b2
+files taskcluster/taskgraph/transforms/docker_image.py
+patch 325,399,

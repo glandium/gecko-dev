@@ -1,0 +1,5 @@
+changeset 178d6dc6194141d4b659cb869d3f2c7efd67a0d4
+manifest a678ccf858af88dc7d0d2025ab779436bf825c01
+extra rebase_source:689bfaa0e93b96f8ebbbaf31e17e80547004506f
+files xpcom/base/IntentionalCrash.h
+patch 550,624,

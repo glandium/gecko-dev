@@ -1,0 +1,5 @@
+changeset 244e82052be1aad0bc2df0fd621719f5817f210c
+manifest 27f6d0753a89d050478e5a3f224d6118f3ccb541
+extra moz-landing-system:lando
+files gfx/layers/wr/WebRenderCommandBuilder.cpp
+patch 552,596,

@@ -1,0 +1,5 @@
+changeset 95e975bffe31406777dd8e7a837f61d506336d23
+manifest 36003bef1f1df63cb1faa3ca6e01efef53ce5137
+extra moz-landing-system:lando
+files parser/expat/lib/xmltok.c
+patch 326,370,

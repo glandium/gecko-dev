@@ -1,0 +1,5 @@
+changeset cd8993e4d0dd9b4ae7d7bc7f48a5119d0cbd416d
+manifest ae5ee2b0912a524204d3f84ed9aa05143e989a2c
+extra rebase_source:8d57c20cfb5690c6b10e0fccad56ad678647e5a8
+files testing/mozharness/mozharness/mozilla/structuredlog.py
+patch 823,897,

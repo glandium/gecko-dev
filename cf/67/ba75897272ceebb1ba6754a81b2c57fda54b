@@ -1,0 +1,5 @@
+changeset da7d8d24de6135355ebe6b2f72eefa8c475a9d30
+manifest 575518e395183cf3b84b91f51b8ad15d803c6b27
+extra rebase_source:5268750a9f88064e2892e0294704470697e81e80
+files toolkit/mozapps/extensions/AddonManager.jsm
+patch 629,703,

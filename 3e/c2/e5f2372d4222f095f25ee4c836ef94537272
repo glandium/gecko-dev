@@ -1,0 +1,5 @@
+changeset 755ac698de795b016bec6f6b14d15d6dd5f88a23
+manifest 36ed9ebe6b829b6fcfd0e93e5c7d5de417845188
+extra moz-landing-system:lando
+files devtools/server/actors/targets/frame-proxy.js
+patch 324,368,

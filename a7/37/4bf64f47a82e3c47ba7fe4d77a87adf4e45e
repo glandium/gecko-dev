@@ -1,0 +1,5 @@
+changeset a8c72ed6284859fd0617ff09c3ad99b33e2f2ca8
+manifest 71c528925d7c5319c12bfc3ef3bcab3b9df8c9c6
+extra rebase_source:1b652a2ad6aa6b51e15828e1b6944b887972a6cb
+files browser/extensions/onboarding/test/browser/browser_onboarding_uitour.js
+patch 294,368,

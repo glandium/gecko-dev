@@ -1,0 +1,5 @@
+changeset f61bf65fceaa591e9b3d6516457ab4039dd71a96
+manifest 5e72055be4fff4a146bb63735e7b74f9ce6f7292
+extra moz-landing-system:lando
+files testing/awsy/awsy/parse_about_memory.py
+patch 312,356,

@@ -1,0 +1,5 @@
+changeset a402ebd682d2d6a44538d272c1f81488eaf5aae5
+manifest 34990fa8f38c076ebb32c036760a3ebe18fe64ab
+extra rebase_source:53ef9acf40d5c882342488c6ef1abf6bddae0542
+files media/libstagefright/system/core/liblog/fake_log_device.c
+patch 292,366,

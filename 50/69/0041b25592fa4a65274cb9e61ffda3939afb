@@ -1,0 +1,5 @@
+changeset c0d3f2af4dc97c3a7185f961848f877e4b2ecf3d
+manifest 9abbc083a490ea4eeb9e4e412d0ef0c818a48b63
+extra moz-landing-system:lando
+files js/xpconnect/src/XPCJSRuntime.cpp
+patch 314,358,

@@ -1,0 +1,5 @@
+changeset 6af18d0f2aaf00cce3e608d32b79793fa8294d2f
+manifest 070c5a2687579c0cc6d04088692a237ca27e1a62
+extra rebase_source:44f87677a4918aea4abaf2721895e48045267c7b
+files mfbt/Span.h
+patch 254,328,

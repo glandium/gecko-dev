@@ -1,0 +1,5 @@
+changeset 221de067267f029ec59b6bde13843a40ae5a3077
+manifest 50b3122b8a8dd24230b30e84e6e7c3573e9e2f07
+extra rebase_source:d62f8d26e3bf93601d075125a05496d7b78eea4a
+files browser/components/places/content/places.xul
+patch 296,370,

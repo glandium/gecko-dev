@@ -1,0 +1,5 @@
+changeset 48c075b47cc16bae385962c2f54b1fb368d320ee
+manifest 1c4562e8313308285147be154c6ed45dcdec00ab
+extra amend_source:c24f8fc6fd1d8fa76853c097e803a22784f7c621
+files browser/components/preferences/in-content/findInPage.js
+patch 325,398,

@@ -1,0 +1,5 @@
+changeset b63d0e63975e1faaea2d94b65592b65e13955ff4
+manifest 82acb26ed69ee7783d5c1063fd05fd90b3da090a
+extra moz-landing-system:lando
+files toolkit/moz.configure
+patch 302,346,

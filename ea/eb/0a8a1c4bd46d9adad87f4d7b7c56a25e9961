@@ -1,0 +1,5 @@
+changeset 48c7d643d2fa9caf7ebe07831cb5d15fa7f82a76
+manifest 3bd01b11d75e96e0e69e52b53685b30823a603a9
+extra moz-landing-system:lando
+files testing/profiles/xpcshell/user.js
+patch 674,718,

@@ -1,0 +1,5 @@
+changeset cd601d93d9f39d7ec1194d77686db1984a2ee708
+manifest 7ef5e4fd758eff5524650770e49a419466132e2d
+extra moz-landing-system:lando
+files taskcluster/ci/test/awsy.yml
+patch 293,337,

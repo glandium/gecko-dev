@@ -1,0 +1,5 @@
+changeset 285b7c7f9df0ab2f49a5bc88cefd91ef9783929d
+manifest a05af5cb1187e10f0ecbfc91259c9f2e79c1d47b
+extra rebase_source:993b90abc00072bb125a066b5fe6d16c4523f2f2
+files editor/composer/nsComposerCommands.h
+patch 363,437,

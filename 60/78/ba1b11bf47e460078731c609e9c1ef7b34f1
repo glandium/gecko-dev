@@ -1,0 +1,5 @@
+changeset d09a45f02c78fd51a0aaf1026baf5d50b99d0f40
+manifest 382b47e324b8f5c247cab0170fd0afc75c44de94
+extra rebase_source:f1e77036d03778c602a3265df6f759a748cbf825
+files intl/l10n/L10nRegistry.jsm
+patch 320,394,

@@ -1,0 +1,5 @@
+changeset 605d15524a488ee41d9566f1f48904798cb188a8
+manifest cf6d416ee0a05b2daf793687f9bd21aed366cd5b
+extra moz-landing-system:lando
+files toolkit/content/widgets/autocomplete.xml
+patch 424,468,

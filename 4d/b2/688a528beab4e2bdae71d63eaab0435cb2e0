@@ -1,0 +1,5 @@
+changeset 976d54360e53438f9f7029b636b4585ee974f891
+manifest fcff7b02bd2cf3316f8e528f6deb0040097fcbed
+extra rebase_source:61c69670543d920724266334524a2c367e35060d
+files testing/web-platform/tests/service-workers/service-worker/navigation-redirect.https.html
+patch 367,441,

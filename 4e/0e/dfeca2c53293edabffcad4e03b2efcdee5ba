@@ -1,0 +1,5 @@
+changeset 9bab1274f79df5a9406ea8846aae08a1cff31709
+manifest eaaee05ac38137a3ac9208e241f0d6d79a6bff12
+extra moz-landing-system:lando
+files testing/talos/talos/tests/devtools/addon/content/tests/webconsole/autocomplete.js
+patch 561,605,

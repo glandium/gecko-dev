@@ -1,0 +1,5 @@
+changeset 7608e0de5f5fcdb9405bd85982c111e583fd2c30
+manifest a9fba053d665cdc2842a026d07e50b123666906c
+extra rebase_source:5cd3f175501dd0e3239e6f689dada1da99f2a8a2
+files devtools/client/netmonitor/src/widgets/RequestListContextMenu.js
+patch 333,407,

@@ -1,0 +1,5 @@
+changeset b30d6d4445b6673ffd481c449a76960b95f24eaa
+manifest 6246c4746538420ed1f06e0f16cc08dc58335626
+extra histedit_source:92a5e68985346095b9e2919a4483d1e5c5756851
+files js/src/wasm/WasmFrameIterator.cpp
+patch 508,584,

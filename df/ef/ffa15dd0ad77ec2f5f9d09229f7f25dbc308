@@ -1,0 +1,5 @@
+changeset bc8e00559118b213ce20a2f5e2a319c8b8c78a7a
+manifest ea5beb641749d305e5d6de5d21ecf69f4df50482
+extra moz-landing-system:lando
+files toolkit/components/extensions/LegacyExtensionsUtils.jsm
+patch 782,826,

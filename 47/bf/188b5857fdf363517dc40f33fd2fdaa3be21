@@ -1,0 +1,5 @@
+changeset 63d37d73f5ae5d76fd50a469a9c67fc9f38b3b82
+manifest 320651ac860410ec6e305bc5ce2dc5ded52bdcd8
+extra rebase_source:ea026e0f651cac7cfee6b0e2aa3291f548795152
+files js/src/ds/Bitmap.h
+patch 237,311,

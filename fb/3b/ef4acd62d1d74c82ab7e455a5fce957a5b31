@@ -1,0 +1,5 @@
+changeset 9b99855c32cac452f6e6ded85e6b96769f9d6318
+manifest f3c56ae612dc957f2211d92b03ee0d0fc5ddff40
+extra rebase_source:c9c7a60d813f7a7a10d2776ffe8fe2f56530268a
+files toolkit/components/gfx/SanityTest.js
+patch 436,510,

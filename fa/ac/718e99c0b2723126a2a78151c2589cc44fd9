@@ -1,0 +1,5 @@
+changeset 813d8cffc9c9911746a263cea478c39b8e7e58ee
+manifest 4861617f4782fd0302ad3f0a9133b6d1c30e6ea4
+extra rebase_source:e99d6fdf715064339b01935eedc213bbe98a3deb
+files toolkit/library/StaticXULComponentsEnd/StaticXULComponentsEnd.cpp
+patch 324,398,

@@ -1,0 +1,5 @@
+changeset 238eb0ed2874eac59df57722b507b1bc0b6652e0
+manifest 2ef2a22ad9d8b06c1055e6503af6d21c8433aecc
+extra rebase_source:ce47d78db84f808b8be85ae208b67818325db2f5
+files devtools/shared/gcli/source/lib/gcli/util/util.js
+patch 600,674,

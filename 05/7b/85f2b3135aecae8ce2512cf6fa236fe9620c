@@ -1,0 +1,5 @@
+changeset 5a89b4f4ff4ddb5218c0d1bdc95450a1f6f0015b
+manifest 200ed3445deceecb7a52dd0790f51bc60a9e366c
+extra rebase_source:72d0e4aeb9e9c0132d77f22abdcda60a0b5b3503
+files python/mozboot/mozboot/osx.py
+patch 287,361,

@@ -1,0 +1,4 @@
+changeset 5c5cd7954f5ce97a1d08dcb32b07c1b4d56b8411
+manifest 8758f2c7e75b86cfad427041f7fd43131c8d8b79
+files devtools/client/framework/test/browser_toolbox_dynamic_registration.js
+patch 219,220,

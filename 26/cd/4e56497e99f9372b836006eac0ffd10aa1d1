@@ -1,0 +1,5 @@
+changeset f49f269d4fd0a11b46826b30bce1d9bc9e51fc58
+manifest 9df585aa25cea3c2541b27c2283738a4ab707ce7
+extra moz-landing-system:lando
+files modules/libpref/init/all.js
+patch 411,455,

@@ -1,0 +1,5 @@
+changeset 45b3adc56a5338592e0973ef78c03c957e059bfe
+manifest 0daba9041c204663be71e39a9150b0b38380b66f
+extra rebase_source:4f1c98faffe829db9817bff9974d38b0e279dc91
+files js/src/vm/EnvironmentObject.h
+patch 279,353,

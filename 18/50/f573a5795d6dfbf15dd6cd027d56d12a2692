@@ -1,0 +1,5 @@
+changeset 930561bbe55d1baaee2d2fde6fb4119e86fce70e
+manifest 5c165cfeba14adae97cc052354c088c367f57f2d
+extra moz-landing-system:lando
+files dom/interfaces/base/nsIDOMWindowUtils.idl
+patch 505,549,

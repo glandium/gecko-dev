@@ -1,0 +1,5 @@
+changeset 0e956bdfab8b666a4a6ec3d05b194c8528ac527e
+manifest be38214fc5034b1cb05e0aaa91e78ad55d23ab32
+extra rebase_source:1c8f9a319e9f43866e6e6418619efc89b3250389
+files browser/components/preferences/handlers.xml
+patch 299,373,

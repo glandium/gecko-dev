@@ -1,0 +1,5 @@
+changeset 0286599493ff51bcb8dc24b32683427383e6316d
+manifest cc54a82612ff48eb29584938da95b024a4c6c587
+extra rebase_source:a2e95ff30374ed10a0e6e96a64d5d342bc82ca1b
+files toolkit/crashreporter/google-breakpad/src/common/windows/pdb_source_line_writer.cc
+patch 364,438,

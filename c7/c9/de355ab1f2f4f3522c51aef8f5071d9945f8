@@ -1,0 +1,5 @@
+changeset 9d8a4e3c2baa2863f5819ec4c7b6970104d29ba9
+manifest 5843a2f5e6410a6601cd98dcd67c0c0f015c1f78
+extra rebase_source:8878b12da8a8612e59c6e760a103d402108ea4e5
+files browser/components/nsBrowserContentHandler.js
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 0f64a4699ae8ffbd3b8fac4816d602a0611811df
+manifest 2059f7fd01e13aec32d473b7afba6e3e97135518
+extra amend_source:820c1b987ed179e6f5ff51ec2ec91696588b6fa0
+files netwerk/mime/nsMIMEHeaderParamImpl.cpp
+patch 460,533,

@@ -1,0 +1,5 @@
+changeset f0fdb5395e783fee406b08ca41856e1e7ab2f6cd
+manifest ccbe15e6c5a0d69cbcdc87dead399e4df9dc7cf8
+extra moz-landing-system:lando
+files toolkit/xre/CmdLineAndEnvUtils.h
+patch 348,392,

@@ -1,0 +1,5 @@
+changeset 1df447ff4c775115522c4c70366db19e59b0e12c
+manifest b4f233f99de2562c538ea788d5b4da8212a5197b
+extra moz-landing-system:lando
+files other-licenses/nsis/Plugins/nsJSON.dll
+patch 415,459,

@@ -1,0 +1,5 @@
+changeset 71e42954633fde1ee9b48166c18d2e178ad08890
+manifest 3695b446fb3d088a8f7160d847d93cc8f7d0d016
+extra moz-landing-system:lando
+files toolkit/components/telemetry/Events.yaml
+patch 284,328,

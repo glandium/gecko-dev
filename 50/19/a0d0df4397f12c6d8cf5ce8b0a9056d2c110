@@ -1,0 +1,5 @@
+changeset 95a48b58f7f8d097a2a8335c2668722e7efbc425
+manifest 0b4fe69acf33edd9e5683cdb95064465c83c8f50
+extra amend_source:bbb421f538e75a7db668b3a026e5d1b689fef6b5
+files devtools/client/shared/view-source.js
+patch 258,331,

@@ -1,0 +1,5 @@
+changeset 4a0d3f3133dbb88b023da59a10b11230031a7623
+manifest 07aafd2927e4b493f62797c18ee708fee99499f6
+extra rebase_source:1ca9efd117ec3692bf99f716621499b8f2cb0521
+files browser/components/originattributes/test/browser/browser_firstPartyIsolation_aboutPages.js
+patch 387,461,

@@ -1,0 +1,5 @@
+changeset 5b878f64a697a9e95ee56257aa293d31fa5838de
+manifest c96b089b18fb16a6dce537534f16b8a47ad1e1a7
+extra rebase_source:ab9d6ae38b4b73e12151a228107ad3f3f12e36b3
+files mfbt/HashTable.h
+patch 705,779,

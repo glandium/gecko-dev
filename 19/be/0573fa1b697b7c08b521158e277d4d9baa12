@@ -1,0 +1,5 @@
+changeset 20f8e61b78f5bbda8e2819ce07162f56271b9cf3
+manifest 2e90641cc3e3045faddefe94ce07186790b4b3b8
+extra rebase_source:4bf53b557247ac82933f4da70cccddafa6c2c7b2
+files mfbt/RefCounted.h
+patch 245,319,

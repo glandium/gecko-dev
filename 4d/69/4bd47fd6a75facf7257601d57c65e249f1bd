@@ -1,0 +1,5 @@
+changeset 9a00f3b44547afcdec22dc3d5bfe93e41c4ee843
+manifest 733017a450e32c19065c8cd162dd46df45038a32
+extra moz-landing-system:lando
+files build/moz.configure/memory.configure
+patch 579,623,

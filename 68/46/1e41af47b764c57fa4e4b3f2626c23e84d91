@@ -1,0 +1,5 @@
+changeset 263f02e651d99c9fa2334b6b56aa3137cc7efc09
+manifest bdca4368973ad9402a771d09c80348d0d20a9ce5
+extra rebase_source:f54b096d7885ccd05a0a4dbc1130dc76bb32755e
+files taskcluster/taskgraph/transforms/l10n.py
+patch 329,403,

@@ -1,0 +1,5 @@
+changeset 89efc702a4f2b3d14863b7169c7e5845ea37482b
+manifest 198149b4d86e857223c63ff110037acab0cb713a
+extra rebase_source:12031eea1a7106a00a0d921825c71731fdf33ea4
+files browser/components/customizableui/test/browser_876926_customize_mode_wrapping.js
+patch 338,412,

@@ -1,0 +1,5 @@
+changeset 502f442198b6d41e05d6fac2be02b1bd229bae6a
+manifest 77bdcedd019475422c3e6629dbd6d041012ad8b8
+extra rebase_source:ff22df8a9c839a4379ac8b5b6652081b8db69ad3
+files js/src/wasm/WasmStubs.cpp
+patch 274,348,

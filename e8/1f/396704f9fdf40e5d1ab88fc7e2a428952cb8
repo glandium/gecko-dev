@@ -1,0 +1,5 @@
+changeset d461ec51f4d9cb68251103ab18a5d02cbc6f44e5
+manifest 4f4178c03d243923d2d8d29b5e6b35759e023e5f
+extra rebase_source:03ee8180e455e01b72016b3132001745b87f78e7
+files taskcluster/ci/artifact-build/kind.yml
+patch 372,446,

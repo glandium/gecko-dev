@@ -1,0 +1,5 @@
+changeset 785094a573f91cbaf3c6bed2f62b862aa780ec3a
+manifest fbeaffca3ac1cd1fec61906beff99b80894a2b1d
+extra rebase_source:bf1d9757dc94d121c18ccc47787f1e6bd3c7b363
+files devtools/client/debugger/new/test/mochitest/head.js
+patch 245,319,

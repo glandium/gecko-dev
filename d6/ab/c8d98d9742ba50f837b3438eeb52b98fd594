@@ -1,0 +1,5 @@
+changeset 4b75d448862ee5e7fd388324e0dab8fd6356f818
+manifest 8c2cdf5cbeaf30b8f6b11b7b4abc681c59174e10
+extra moz-landing-system:lando
+files devtools/client/framework/toolbox-process-window.css
+patch 300,344,

@@ -1,0 +1,5 @@
+changeset 35a9f78699bb465ade9d3666836a24f2cf17999f
+manifest e1d40f92cc6181c110e6f07dd009804ccf5f6abe
+extra rebase_source:8843a008b48f0561164d91457bfa57d331561ac7
+files mobile/android/app/local.properties
+patch 290,364,

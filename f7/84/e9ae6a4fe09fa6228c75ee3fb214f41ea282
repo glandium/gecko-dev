@@ -1,0 +1,5 @@
+changeset 45d0e5c1b3cedf198e0abf9a50017da53a32b89b
+manifest 80ee0a1e48a4a93760ad83622205ea0b29d84c4e
+extra moz-landing-system:lando
+files netwerk/dns/TRR.h
+patch 451,495,

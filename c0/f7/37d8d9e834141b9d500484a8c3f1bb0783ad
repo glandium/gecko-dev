@@ -1,0 +1,5 @@
+changeset bd55bd27bb1e55e44fbe76786993b1657c2af944
+manifest f53dc99ad9cf6f47e573365382c23cfafa95e491
+extra rebase_source:f974fa6dc5cf0316b463bc7d1c7f6cd4478c4b59
+files js/xpconnect/loader/script_cache.py
+patch 311,385,

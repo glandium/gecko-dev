@@ -1,0 +1,5 @@
+changeset 24117c13a4043ea2ec4e56d55569e8d643446e82
+manifest 595d81e03a69134b52c37946b92f7da82e7792ee
+extra rebase_source:2a5f32a71be4688d260786f6f762183f38b682a8
+files mfbt/Attributes.h
+patch 294,368,

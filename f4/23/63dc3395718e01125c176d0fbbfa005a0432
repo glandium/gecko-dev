@@ -1,0 +1,5 @@
+changeset a8e917a141ef83dae92d960e5834b560f64337ae
+manifest 690ac6e6ae4ba07fb1606cc04ca20652e28326dd
+extra rebase_source:100634c2cae0fea1e9f1640376b657fa80318a85
+files toolkit/components/telemetry/parse_events.py
+patch 288,362,

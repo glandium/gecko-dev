@@ -1,0 +1,4 @@
+changeset 3758580bd8895d0a0df7762fbc38b2b746ecef5d
+manifest fdab3b7efe25a151aff462749b526c33b333fa08
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/ContentDelegateTest.kt
+patch 514,515,

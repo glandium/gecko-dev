@@ -1,0 +1,5 @@
+changeset 3361fcc40ea294df9eed70a218c0eafe11bf60a7
+manifest b386071f0ce021099a7cd30a3cc2f7f9173e9971
+extra moz-landing-system:lando
+files third_party/rust/lalrpop-snap/src/parser/lrgrammar.rs
+patch 610,654,

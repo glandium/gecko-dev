@@ -1,0 +1,5 @@
+changeset 9a05c09af3770321c9d3acd89204ac62f3fb1878
+manifest a07d63712edd58adc70fb5a48bf5ed3486ef5d23
+extra moz-landing-system:lando
+files services/common/kinto-offline-client.js
+patch 643,687,

@@ -1,0 +1,5 @@
+changeset 569670a6d205dd3162ad6397cc223b4b8dc156ba
+manifest 8ac8ff2ef35177eee5743fc4487cfe173448f7b2
+extra moz-landing-system:lando
+files taskcluster/scripts/misc/fetch-content
+patch 293,337,

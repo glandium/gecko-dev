@@ -1,0 +1,5 @@
+changeset 15bf2faef2926041fb53e1a41085d1dee45d8ed5
+manifest f55ba750534b5fc726060be0d1adc0b5c1b722e7
+extra rebase_source:2711ca3d1b05c3f0aae6943f959b9ab41b273200
+files gfx/layers/wr/WebRenderLayerManager.cpp
+patch 503,577,

@@ -1,0 +1,5 @@
+changeset 7679f368a1f3426bc0c9e3cc4156f9d630c7dfe5
+manifest 92aa6f9e1022c82a3fae7b9181884e8d8a9a5111
+extra rebase_source:c735733bfdb59ac0538189f536e30017ba308182
+files toolkit/components/telemetry/docs/data/crash-ping.rst
+patch 310,384,

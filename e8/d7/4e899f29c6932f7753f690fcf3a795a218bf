@@ -1,0 +1,5 @@
+changeset f8856b75831267e929518323f32afd34bbe4bfa5
+manifest 33d4e72edec525393ac8bb6420014ea9ee73e485
+extra rebase_source:8eed8da0b1ddf575d4f43391175b95ba25551623
+files js/src/jit/AtomicOperations.h
+patch 271,345,

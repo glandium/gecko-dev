@@ -1,0 +1,5 @@
+changeset 41725614e772232c3ebcc7c2ead5330414f1a465
+manifest a46a375b14fafca91f7640459a20c377ea4f49e7
+extra moz-landing-system:lando
+files browser/components/urlbar/UrlbarValueFormatter.jsm
+patch 435,479,

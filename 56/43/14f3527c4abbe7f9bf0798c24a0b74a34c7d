@@ -1,0 +1,5 @@
+changeset 077264ea997e6156a8f711fc6f1384bf802888a3
+manifest bcc850ef3d40c40012494e97c49e84325d0738f2
+extra moz-landing-system:lando
+files widget/gtk/nsDragService.cpp
+patch 321,365,

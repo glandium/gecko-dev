@@ -1,0 +1,5 @@
+changeset 3ba255876335c727a546dca2f6c0c48576c6e538
+manifest f56a45d3e76a6beb570fb5df3ce79ab948f94ee9
+extra rebase_source:6e4109b5da8fac62cb71b42239154bcc039299c4
+files gfx/webrender/src/device.rs
+patch 304,378,

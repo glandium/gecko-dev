@@ -1,0 +1,5 @@
+changeset e5e8ced1e070d6bad84fcb19198fa002fc04ed28
+manifest c2efbe02da0aead7c88b63884c6d6f66258804e5
+extra moz-landing-system:lando
+files dom/serviceworkers/test/test_scopes.html
+patch 593,637,

@@ -1,0 +1,5 @@
+changeset 042dc35d6fb5a9e8b7b12591b3bc782a64a965ea
+manifest fe23b00f4d8b41631dc1ebadff79207aace407ec
+extra rebase_source:f429730d3f4a8da28b481b42c916145ae82e6bb5
+files testing/firefox-ui/tests/puppeteer/test_toolbars.py
+patch 763,837,

@@ -1,0 +1,4 @@
+changeset 83520e8959cc199342a74fa87aa4ef62a5470f63
+manifest 2e10cf4f93e04b083e79fb7bea2e4576f06fc1cc
+files servo/src/components/gfx/render_context.rs
+patch 331,332,

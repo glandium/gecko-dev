@@ -1,0 +1,5 @@
+changeset 288ac723b91d502a0c5b1f76920af31bc508d715
+manifest 34a393bf4fbe9899b83ef2a5e3d5523d15aba1b3
+extra rebase_source:641d7702e43695b4ff36403247ed367d8cebfc99
+files config/system-headers.mozbuild
+patch 298,372,

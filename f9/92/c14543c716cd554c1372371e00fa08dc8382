@@ -1,0 +1,5 @@
+changeset 79511b594380b3d30a89db9084182f5cb5b1f588
+manifest 71a5767485eb80607c0a2c0d388801750756f5e0
+extra rebase_source:af6c71999c0672a3ad2d3be58a500131ea25a88d
+files toolkit/components/extensions/ExtensionTabs.jsm
+patch 280,354,

@@ -1,0 +1,5 @@
+changeset 1476b84d8f878a3db499fb9cb67222cf36e13f6e
+manifest 228c40480ec11c34d65884083592ab64d33f004b
+extra rebase_source:454ac4e667f42da9d90dc474a1bccf31b64ad628
+files dom/browser-element/mochitest/browserElement_ExposableURI.js
+patch 286,360,

@@ -1,0 +1,5 @@
+changeset 7c500fbf07258dc610082b0002d4efddce7c3f21
+manifest 5bc5d1ed4bbee39a491db7746df6a0d3727fc8ef
+extra rebase_source:a2963dba94f1ed78779ea9797c59813c08eb9ff1
+files dom/media/test/test_seamless_looping.html
+patch 346,420,

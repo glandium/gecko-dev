@@ -1,0 +1,4 @@
+changeset 7eb27dc0a5e35c331002d3cdcefc6920bd2a03b8
+manifest f445b28a8f687f669e6301df0000679b37f7f12e
+files testing/web-platform/tests/service-workers/service-worker/resources/skip-waiting-installed-worker.js
+patch 512,513,

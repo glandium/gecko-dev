@@ -1,0 +1,5 @@
+changeset d45fcfb86c5d4b3727364b36071b475904c548d2
+manifest f9f613b6992c7397222ec72cfe33dfd4fdf6a3c3
+extra rebase_source:aed14abaf59f7cb4278e034ea1b7720a6ea985b6
+files gfx/gl/GLXLibrary.h
+patch 378,452,

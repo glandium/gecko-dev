@@ -1,0 +1,5 @@
+changeset ee8ba6ad714a5e38a867303ba7b18afa1fbee0cb
+manifest f130854bf919ec91e92a76690e991ce78adb0d99
+extra moz-landing-system:lando
+files widget/gtk/WidgetStyleCache.cpp
+patch 511,555,

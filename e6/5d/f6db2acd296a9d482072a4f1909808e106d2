@@ -1,0 +1,5 @@
+changeset 9c6b035eedf6cff2120adb73415e1f3659adacf4
+manifest 97d3e2187284cad3563833c44a3a9d5c8cf63cb2
+extra rebase_source:9a3ca66a657021a93018622caee7297db8c78b5b
+files devtools/client/webconsole/test/fixtures/stubs/pageError.js
+patch 337,411,

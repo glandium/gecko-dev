@@ -1,0 +1,5 @@
+changeset 00c0b56135d56a012d9a44e7361e6292888bcd25
+manifest aedf59514dc2b17af93f19a771e295a6c734b4f1
+extra rebase_source:a1c0b8c1fd6d08c6a8423459ea6d96992f30e2e6
+files toolkit/locales/en-US/chrome/mozapps/downloads/downloads.properties
+patch 310,384,

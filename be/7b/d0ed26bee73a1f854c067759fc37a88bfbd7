@@ -1,0 +1,5 @@
+changeset 95779bb379580b2ebf57acef5e400258e4dfa88d
+manifest c35d4a2f3ec98542eb744453a0d8db377fa01f1e
+extra moz-landing-system:lando
+files toolkit/components/telemetry/core/nsITelemetry.idl
+patch 311,355,

@@ -1,0 +1,5 @@
+changeset dc9cfde75af6e65fc28a5a0b2564658c8ae5b363
+manifest 64fdc7e99ef5828d8823e352abec8ed7afa16f0f
+extra rebase_source:f4df49e52887d4974afdb46d68dbaadcfa86be5d
+files toolkit/mozapps/extensions/LightweightThemeManager.jsm
+patch 321,395,

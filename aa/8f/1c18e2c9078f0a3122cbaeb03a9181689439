@@ -1,0 +1,5 @@
+changeset f9d606261ddf934c84a73d3ab1cb32c3339f27ef
+manifest a8f4e3b83b18054f646c380f437492ead0567617
+extra rebase_source:f146ed60c1bdcd177c3248f84b37c7d1192b8733
+files layout/reftests/invalidation/clipped-animated-transform-1.html
+patch 359,433,

@@ -1,0 +1,5 @@
+changeset 713eea9bd41b34e86a45a38e6083a85d84f79b60
+manifest e443eb98f538efaa20ba43ef4e15118e0ffd0457
+extra moz-landing-system:lando
+files devtools/client/sourceeditor/codemirror/mozilla.css
+patch 556,600,

@@ -1,0 +1,5 @@
+changeset 65b6a2ecc1110716ad59602d2dae30ab510c8be4
+manifest c5566835753888ca6b80292bcd5120616c91b754
+extra rebase_source:98d56e06c4e217816116f1f9e8e47f00d5189677
+files browser/components/extensions/test/browser/browser_ext_menus_events.js
+patch 315,389,

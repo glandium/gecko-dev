@@ -1,0 +1,5 @@
+changeset 4d434313555ab39636c97c528ff80481b5c0df39
+manifest c055f2e0daad77b326fd0648d33ee48d557fcb00
+extra rebase_source:48775eba4f934fd244a74da615bc7754370b504e
+files tools/update-packaging/common.sh
+patch 377,451,

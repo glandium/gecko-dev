@@ -1,0 +1,5 @@
+changeset 63706bc5380ab7794fc998e5a14c7a48f8253cff
+manifest 282a3af3283653230c46d63b326ecb79e4b9cef4
+extra rebase_source:b795f97ab209499824afa5ef1aee9da52657ceb9
+files taskcluster/scripts/misc/build-cctools-port.sh
+patch 397,471,

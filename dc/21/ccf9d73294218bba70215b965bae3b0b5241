@@ -1,0 +1,5 @@
+changeset e318d13beafcef75dfff782ea49046829df66823
+manifest d7532ba2b7166cd5b2af6c6aff8e1a7e531d87ae
+extra rebase_source:cb6faa8043ab30a0acebf1ac902d35f9aa502267
+files devtools/client/jsonview/test/browser_jsonview_encoding.js
+patch 325,399,

@@ -1,0 +1,5 @@
+changeset 777f90a6648bdf5bf483a65ffe2d31e8429223f6
+manifest e8290a4e2ad634475ff3c0c7d9a3e3d3b26e5932
+extra rebase_source:7b7696826e74c779ac625dcc17032c90f9c9aa44
+files toolkit/components/extensions/schemas/browser_settings.json
+patch 320,394,

@@ -1,0 +1,5 @@
+changeset f7087d394f1e9552d9c2684ccffe8d052470770b
+manifest 4309a54fc7b4874aed49f168753297cb46ee2d63
+extra rebase_source:ad62689236d0f164b88309b606898a995bd609e8
+files dom/events/test/pointerevents/test_trigger_fullscreen_by_pointer_events.html
+patch 388,462,

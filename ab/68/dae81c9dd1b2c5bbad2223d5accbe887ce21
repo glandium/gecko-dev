@@ -1,0 +1,5 @@
+changeset ae3ed8b79fa70f533a2dc639888b8484b04f8364
+manifest 0418c748b4f56f08db120061b0754db9087840e2
+extra rebase_source:c44d6020934f16e53ce1c3553c5f952981bceb03
+files memory/jemalloc/moz.build
+patch 260,334,

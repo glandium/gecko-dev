@@ -1,0 +1,5 @@
+changeset 5ebb632fa7bbc3062db38606c604c86eab0a6ef4
+manifest 932422d56f088d61a043241a89234e47ffc019e1
+extra rebase_source:f46f187c442bc3f97ebd6009522fc33176ab86a1
+files browser/extensions/formautofill/phonenumberutils/PhoneNumberMetaData.jsm
+patch 339,413,

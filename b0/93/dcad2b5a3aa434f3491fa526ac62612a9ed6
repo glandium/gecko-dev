@@ -1,0 +1,5 @@
+changeset 645c311bf4ca9057572d2cd947eb7dd0c23069c3
+manifest ce451f6e4d2d73bdd6507a07a8a8e2e2eb3e79f9
+extra rebase_source:c34491287a5efc5f770106ec2a401ecd42ea77ec
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_telemetry.js
+patch 336,410,

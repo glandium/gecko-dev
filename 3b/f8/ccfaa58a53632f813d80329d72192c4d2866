@@ -1,0 +1,5 @@
+changeset c66a7dc6df755713c36631416531ff1773112410
+manifest e424fdeca1bd43e1a0921c3f87a947623d36207b
+extra rebase_source:c480f5aba127ce488ac5481808a42417dffbb337
+files addon-sdk/source/lib/sdk/io/buffer.js
+patch 268,342,

@@ -1,0 +1,5 @@
+changeset 8fad085b6143987b80b0c3ddc5a5e2783bfa2c06
+manifest a7fc6eac72df8a494f81c268ec3253da28083114
+extra rebase_source:26ce2f5bcdb7efcd52577b253ec4b90ce0b77568
+files layout/generic/nsHTMLCanvasFrame.cpp
+patch 285,359,

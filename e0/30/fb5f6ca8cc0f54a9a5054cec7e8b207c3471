@@ -1,0 +1,5 @@
+changeset 7d63e1235defe4c6a80d246658140470fc25c98a
+manifest 6d9f2a5d7f8f1f12f2f741514d7fbebb9591c619
+extra rebase_source:cc8c819bc31741e19a29c1d381c783cc6e1ad42e
+files parser/html/nsHtml5StreamParser.cpp
+patch 255,329,

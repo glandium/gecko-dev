@@ -1,0 +1,5 @@
+changeset 910902e3dea7eb671ac09b811977d76459ab436c
+manifest 95667c9eb74226aea586d429f0a4b1f15f4d1f62
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/GeckoActivityMonitor.java
+patch 1433,1477,

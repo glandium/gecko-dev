@@ -1,0 +1,4 @@
+changeset 4d2ae762f65a12dd2010e67314794fc195c29d12
+manifest 00c78d263b28fabea0be1463ce9a3573abc02a75
+files xpcom/threads/ThrottledEventQueue.cpp
+patch 277,278,

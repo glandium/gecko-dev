@@ -1,0 +1,5 @@
+changeset 35b5e6295787c4e5907dc502eef3c602969941d2
+manifest 25462583969560d007ed2fada26de641d2e27409
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/internal/AddonRepository.jsm
+patch 457,501,

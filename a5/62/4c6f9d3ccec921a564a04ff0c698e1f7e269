@@ -1,0 +1,5 @@
+changeset 034d72052f8c9df2e8627836c64516a7478df20e
+manifest 0edde5d401ade7f5e14e721781de0bddb846258b
+extra rebase_source:b1fed73b2c03d1cc1261a674a44fe578c2fe7d99
+files mfbt/WeakPtr.h
+patch 338,412,

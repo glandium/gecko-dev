@@ -1,0 +1,5 @@
+changeset 9c4b0c5cb5fc9ae20d4a93309c41c902dc3fa45d
+manifest 0a6dafc1573eb10c15b9e8ba79cd4eb00f65799a
+extra rebase_source:be6d73506402a1838b96ce55e69b44dcb00949f1
+files security/manager/ssl/nsNSSCertificate.h
+patch 383,457,

@@ -1,0 +1,5 @@
+changeset b7429b8c830dd79220d94186e715a69f30658d37
+manifest 68ddc2611dd6ccc33eb7ff38c8091456d700d0c3
+extra moz-landing-system:lando
+files browser/components/shell/HeadlessShell.jsm
+patch 325,369,

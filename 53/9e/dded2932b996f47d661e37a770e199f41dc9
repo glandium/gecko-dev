@@ -1,0 +1,5 @@
+changeset 36132fa62b44b4de90bf90ca9eba9412103bec9b
+manifest 1601bb269adfe7bc74eece43d5222ebd2e3d7411
+extra rebase_source:3ba425fc9316d1b3df12a481c9ece1e3a65c8fe5
+files build/unix/elfhack/moz.build
+patch 281,355,

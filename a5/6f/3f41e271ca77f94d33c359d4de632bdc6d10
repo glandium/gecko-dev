@@ -1,0 +1,5 @@
+changeset 5936bfdef7c10f3336d1b07f5e667448664b236e
+manifest a06b725f87fc9c49be228f3e2d61ada5ead614bf
+extra rebase_source:6a631f67fbe32ad2102296ad0252f8dbf6999061
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/SessionTextInput.java
+patch 480,554,

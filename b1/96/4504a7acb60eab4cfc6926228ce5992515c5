@@ -1,0 +1,5 @@
+changeset d6aefc121d0c4056ac148532518a1679df73820f
+manifest e8d5659c38598c26f183364674e5fa5ddeb9dfc9
+extra moz-landing-system:lando
+files testing/talos/talos/tests/devtools/addon/content/damp.js
+patch 321,365,

@@ -1,0 +1,5 @@
+changeset a18353aa563cc0b8ceb6059791579aea778a5f37
+manifest 2604d61313fd52fcb686ca818f7a02d8bf51e53f
+extra rebase_source:aae760f7730b148fba12d3a97777568a47adc707
+files js/xpconnect/src/XPCDebug.cpp
+patch 352,426,

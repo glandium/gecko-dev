@@ -1,0 +1,5 @@
+changeset e8b97f68a7fac9ceee967e830a66073125079c04
+manifest aef8bc9e5580cd3afdbd27276dd4ba77f292dcfa
+extra moz-landing-system:lando
+files devtools/client/dom/panel.js
+patch 375,419,

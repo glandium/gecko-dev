@@ -1,0 +1,5 @@
+changeset b500a58183a46c76e09b2f2f86ae06193af87131
+manifest 78eb7a0a65e44300e4b83495925785f42ed17f28
+extra rebase_source:806d5b542e1165b80e98d154c10d8c1c56b26a74
+files layout/generic/nsInlineFrame.cpp
+patch 401,475,

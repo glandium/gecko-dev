@@ -1,0 +1,5 @@
+changeset 65c49a6c83f3152d1dc021056b2795e17de6bf11
+manifest e7f4918217594e5c2736285eaf4727de2cdc8e3c
+extra rebase_source:9fc7ff5bb19a0c7097d8e69dfebe8f7aca4d0191
+files build/docs/jar-manifests.rst
+patch 258,332,

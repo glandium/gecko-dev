@@ -1,0 +1,5 @@
+changeset a76a3251a9d242186b5de495e4388e56390b8fc8
+manifest 530ab430d10ab97f1be541d609203affda30967a
+extra rebase_source:52d4720a59550d0bcbde1c21ba850fdc918b3241
+files devtools/client/webconsole/test/mochitest/browser_webconsole_context_menu_copy_entire_message.js
+patch 552,626,

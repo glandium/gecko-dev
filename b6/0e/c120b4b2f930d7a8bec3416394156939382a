@@ -1,0 +1,5 @@
+changeset 149859d8a23d280e1e8b62ce9747dbbf71e18a85
+manifest 0e63d5ec5ae7f109a50078cea69dfba70b43adf6
+extra rebase_source:eae7e710f76aabdc271c5b3136c2cc621be3fbdb
+files testing/web-platform/tests/webdriver/tests/cookies/delete_cookie.py
+patch 345,419,

@@ -1,0 +1,5 @@
+changeset b533d7f9b9c2c574175cbdd6a965bd85133a25ef
+manifest 132a26237cc00d11661528f2d61af4ea9c774300
+extra rebase_source:e0d9e8a6f6927ab999b2a29fa6a9fd6a33dde5a9
+files addon-sdk/source/test/addons/jetpack-addon.ini
+patch 285,359,

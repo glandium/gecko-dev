@@ -1,0 +1,5 @@
+changeset 088181b0729687b536a62fb4b5783a9edc329b3e
+manifest 50b7769912d606d2e49dc328e695ba93a40a5650
+extra rebase_source:8a24d9b9f012a28c171cb6d2024e9f5a83ba9080
+files xpcom/io/nsAppFileLocationProvider.cpp
+patch 341,415,

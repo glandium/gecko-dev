@@ -1,0 +1,5 @@
+changeset 3a465e6eae7d92d958ea7c4a764e756b924983c3
+manifest 7eedcd93cb818a2cf4dfb23e2f7562d9de12140d
+extra moz-landing-system:lando
+files taskcluster/docker/debian-base/setup_packages.sh
+patch 502,546,

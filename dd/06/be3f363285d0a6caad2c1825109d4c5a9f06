@@ -1,0 +1,5 @@
+changeset cbcc7b902237d350cc78ca9b3cd2d04abbf2e7d5
+manifest 69f57ec352bf97622a70a611b3765ca1388b09bf
+extra rebase_source:6c5141c437389e2ff9802c10488d2d2ffc5ad850
+files layout/tools/layout-debug/ui/content/layoutdebug.xul
+patch 344,418,

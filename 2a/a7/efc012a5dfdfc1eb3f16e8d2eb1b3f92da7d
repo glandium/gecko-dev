@@ -1,0 +1,5 @@
+changeset dd13046c9317521aca5c2e3459df99419d3949f3
+manifest d2b89cf5dfdf02a21238527f00407ad275c6002b
+extra moz-landing-system:lando
+files js/xpconnect/tests/chrome/test_bug771429.xul
+patch 558,602,

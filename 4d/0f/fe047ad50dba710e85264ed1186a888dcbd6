@@ -1,0 +1,5 @@
+changeset 0593f5f447c82eb7746e4d7f1d99da8d2bebb4d3
+manifest 42fc3adb17af7e5f7136e37be82dcff46d271f29
+extra rebase_source:3d4b4fee86490c5d9bbe41d11414f2b4d0323132
+files build/macosx/local-mozconfig.common
+patch 479,553,

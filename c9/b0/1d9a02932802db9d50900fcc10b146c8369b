@@ -1,0 +1,5 @@
+changeset 798de42346d14e277a4f2de2189d4e1870eeef8e
+manifest bee8ec45be17c85cecadbe84e5e65a6c4c28f3f4
+extra rebase_source:898771109c879f950d607273bc469734a9a0f99d
+files services/fxaccounts/FxAccountsStorage.jsm
+patch 327,401,

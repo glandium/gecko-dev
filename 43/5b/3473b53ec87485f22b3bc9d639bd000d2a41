@@ -1,0 +1,5 @@
+changeset d0bc39688caaed340f8cfaaac80584ef8ba95656
+manifest 296643609b3bd06aa5e71a7d1260624390f519dd
+extra moz-landing-system:lando
+files devtools/server/actors/highlighters/box-model.js
+patch 376,420,

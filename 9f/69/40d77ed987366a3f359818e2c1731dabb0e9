@@ -1,0 +1,5 @@
+changeset 3679236300eedc274e4c4b6911344eecd52006da
+manifest 082fcc57f79d051d25e7fd3db8f4189e7711550d
+extra rebase_source:74cbac351fe96277441fc0252fc4b1ba3e4521b8
+files browser/themes/shared/bookmarked-notification.inc.css
+patch 566,640,

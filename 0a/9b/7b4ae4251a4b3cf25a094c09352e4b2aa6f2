@@ -1,0 +1,5 @@
+changeset 40a6f6d55dfad3bb644ccbd2fad35cdee9e7303b
+manifest 95a35f7c288a9cc7718591bed8c81b1d1c9e6a70
+extra rebase_source:b76a21893c8e349b9beef41b50a8ccf90aa4395a
+files testing/mozharness/configs/android/android_common.py
+patch 304,378,

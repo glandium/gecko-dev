@@ -1,0 +1,5 @@
+changeset 890120f72192a4a2fc8d8249ba91026d8168a2a1
+manifest 6075efee51668daeb2711dc79d47e2e2c7b928d7
+extra rebase_source:d8f134fd33c914066766cc713292cb0246b05467
+files toolkit/components/resistfingerprinting/nsRFPService.cpp
+patch 368,442,

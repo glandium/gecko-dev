@@ -1,0 +1,5 @@
+changeset e134df617e0c7b95649dfc315a5ce537e9ca3fe4
+manifest 24fb0e3767915bb63cbe074360960168a88328c0
+extra moz-landing-system:lando
+files browser/components/places/content/browserPlacesViews.js
+patch 333,377,

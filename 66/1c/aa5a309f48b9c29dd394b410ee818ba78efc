@@ -1,0 +1,5 @@
+changeset 7695daf6bc2da8616269282f55b4bf88b2a8abc3
+manifest aad73535cae3c7663958295125f06a378aaefe0c
+extra moz-landing-system:lando
+files build/moz.configure/old.configure
+patch 308,352,

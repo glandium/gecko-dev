@@ -1,0 +1,5 @@
+changeset 16ac0e4e24839794dc2e63b5b9c68b64f71b7945
+manifest 3af4b4ce3fe705338f3fc186da6806a8e085fa00
+extra rebase_source:bac7184798652b5962327201b3dd65a5d5c73518
+files devtools/server/actors/window.js
+patch 271,345,

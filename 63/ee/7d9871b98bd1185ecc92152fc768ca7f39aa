@@ -1,0 +1,5 @@
+changeset e123b6e47340e0fba6d6d8c4d5f64b665b5e72a0
+manifest 52af87f71ee5c9043f9f66fe1391f52deee13a8f
+extra rebase_source:d14f9ace34d80f2ed23ef9600fd03442b0cf6b0e
+files toolkit/components/telemetry/tests/marionette/harness/telemetry_harness/testcase.py
+patch 472,546,

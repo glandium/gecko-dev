@@ -1,0 +1,5 @@
+changeset 7ec7580e43e4a81cd5cdab7b6678947002d2791b
+manifest b4c0f62a76518bb2bccd64c50b28dbee136a9e3e
+extra moz-landing-system:lando
+files python/mozrelease/mozrelease/buglist_creator.py
+patch 334,378,

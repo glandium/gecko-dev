@@ -1,0 +1,5 @@
+changeset 08c76d30c604f7ea0b21b75648008b897c66b0fe
+manifest 4b1333f8cde6643a43173a6fedf538b00e1618aa
+extra rebase_source:b2b83d869d22304a048449afdeaed77db80c3a94
+files browser/components/preferences/in-content/tests/browser_hometab_restore_defaults.js
+patch 367,441,

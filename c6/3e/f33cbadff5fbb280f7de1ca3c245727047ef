@@ -1,0 +1,5 @@
+changeset 9e4a2f72702f4e3be3098aa1d9e0b5c7112f28ca
+manifest 6e40c17d0e2d0826ae1cf0ba80e88ffd457fe6ee
+extra rebase_source:9433f0b51da456eb7a53bf1b275c1f20a2b5d545
+files toolkit/components/thumbnails/PageThumbs.jsm
+patch 322,396,

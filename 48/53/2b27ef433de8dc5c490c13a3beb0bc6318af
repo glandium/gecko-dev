@@ -1,0 +1,4 @@
+changeset b26bb47a058b1320dbfc04ca65af410a964b0112
+manifest 2782ddd47070303a1c4d6f8155f81634fb113c11
+files testing/web-platform/tests/content-security-policy/navigation/to-javascript-parent-initiated-parent-csp-disallow.html
+patch 1210,1211,

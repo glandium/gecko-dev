@@ -1,0 +1,5 @@
+changeset e8700e52f777b56af2c095d545fd084478bd9db5
+manifest 83b11a213ad6b86b6b56749524d1c9b219a23cae
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/base.py
+patch 546,590,

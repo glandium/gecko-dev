@@ -1,0 +1,5 @@
+changeset 1c459f5c05e8d13452ce5eeea3b191720a03ae2e
+manifest 2d3b9038195ddc617b30916b3c69f00960cd7e77
+extra rebase_source:8e5818d186aa151f9ba0cb1a6569de8f9211b049
+files gfx/angle/src/libANGLE/renderer/d3d/d3d11/ResourceManager11.cpp
+patch 337,411,

@@ -1,0 +1,5 @@
+changeset 2065eef5fa19e6933a2bc6b4684a4f2dcdf2f101
+manifest 3624c8642d83e574b5b473aa4c53f79d43c52072
+extra rebase_source:5b59a4c23efb30bade427a28242885480cbedf77
+files mobile/android/base/java/org/mozilla/gecko/preferences/GeckoPreferences.java
+patch 495,569,

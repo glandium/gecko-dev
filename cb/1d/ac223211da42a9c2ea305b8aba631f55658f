@@ -1,0 +1,5 @@
+changeset 4afbb7a68839e5ca3635b708eece2c5a9e205475
+manifest dd9310aaf1738703e8d51606f78a304e27417518
+extra moz-landing-system:lando
+files services/settings/remote-settings.js
+patch 408,452,

@@ -1,0 +1,5 @@
+changeset 858f248f4714dc1a3e9283cf61c47febfb284107
+manifest 2f0706df703c8915408ef15884cd21e37b984c7e
+extra rebase_source:b4f919589e613896798907261f29561f81faf30c
+files devtools/client/application/src/components/WorkerListEmpty.js
+patch 337,411,

@@ -1,0 +1,5 @@
+changeset 9687165d5721ed8b80c767056c90575857b72d6b
+manifest 6f8935399ae51a8c30104e0d0df7266c72e1db28
+extra rebase_source:33797a0960a52b6f78a3a943859b69429688202e
+files dom/canvas/ImageBitmapRenderingContext.cpp
+patch 285,359,

@@ -1,0 +1,5 @@
+changeset 4d6305377516fa4eefaac8284fffc765d84a64b2
+manifest 1d66389ad98f4f026876a8b3687cfffdca30ef61
+extra rebase_source:a88b625f13516b630f68a752577ef89e829b7bd4
+files browser/components/sessionstore/nsSessionStartup.js
+patch 604,678,

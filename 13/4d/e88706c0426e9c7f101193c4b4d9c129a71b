@@ -1,0 +1,5 @@
+changeset 7b179818adc232a404cc46edc8cbee994397bef1
+manifest 7f8d049e5a101e5328a7b462d4cf667e54778bde
+extra rebase_source:7def5e5e8129014c857b78de2c675e48147bd0b3
+files browser/components/preferences/in-content/tests/browser_advanced_update.js
+patch 360,434,

@@ -1,0 +1,5 @@
+changeset f13bbf0e59ae40749a4600e4f936f611b7135c93
+manifest cb1e9bb8a44625212952180a4029c12f23b23f6c
+extra rebase_source:1f2692152b608d9283990a6051091410ad0f6fea
+files accessible/xul/XULElementAccessibles.cpp
+patch 261,335,

@@ -1,0 +1,5 @@
+changeset 1cd5f9b4a6af952a3831281c27abe0b5aaa466c8
+manifest b959763bdeb4decf92562fa80705ea094b92405e
+extra rebase_source:260ec9f99839468d9994186fddd7cf2b33e6c87d
+files mozglue/misc/nsWindowsDllInterceptor.h
+patch 894,968,

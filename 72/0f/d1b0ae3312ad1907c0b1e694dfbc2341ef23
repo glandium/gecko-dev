@@ -1,0 +1,5 @@
+changeset 08cbc53b08f973c264f81bd6bd38542f523f9933
+manifest 227773590ba9578958e8a86cf188e2f1b823343b
+extra rebase_source:5114896c7e0a81e8c85fc5f35f35f5c17d405ecb
+files xpcom/build/nsXPCOM.h
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset 6a7574d2dfb8f5f7bff7ae8aab3a60fbfca8fdbf
+manifest a03123d6d8c22d83995fc9a3b93f44a313a8f7c4
+extra moz-landing-system:lando
+files browser/actors/BlockedSiteChild.jsm
+patch 394,438,

@@ -1,0 +1,5 @@
+changeset d3964f81fbd41c20f261a001906668fa12810fb7
+manifest 5e2e0ae17daba965fe45f29668ea4d18048bc241
+extra rebase_source:54dd1ad57d44cd13f05575d3e259800b5acff6e1
+files browser/base/content/test/general/browser_bookmark_popup.js
+patch 344,418,

@@ -1,0 +1,5 @@
+changeset e16d8ebb698f5dd4fae9234d0ecb26edd58f3a12
+manifest 35df6207486678ffc1377dd88bf412f575c14539
+extra moz-landing-system:lando
+files gfx/webrender_bindings/src/bindings.rs
+patch 310,354,

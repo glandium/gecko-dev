@@ -1,0 +1,5 @@
+changeset 7fc565646f9fdfb475b2be610739c44f2cb5effb
+manifest 7be7a9f657cbd7a57048564a0f473a69f7b34a8a
+extra moz-landing-system:lando
+files taskcluster/ci/build/windows.yml
+patch 641,685,

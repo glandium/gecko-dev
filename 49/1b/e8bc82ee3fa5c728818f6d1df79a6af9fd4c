@@ -1,0 +1,5 @@
+changeset 3ba37496274abb940d4b98df7e8df2209601af5a
+manifest 7224fee7d2a5252baf7923873bf8e7553eeb3687
+extra moz-landing-system:lando
+files servo/components/style/properties/properties.mako.rs
+patch 584,628,

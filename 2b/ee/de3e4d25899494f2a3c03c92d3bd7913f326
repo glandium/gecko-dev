@@ -1,0 +1,5 @@
+changeset 4fdf3fd34bfc816a68fe4e34ad116626807bb022
+manifest 73249699430e4f3417f57cc634f9fd36777506de
+extra moz-landing-system:lando
+files browser/base/content/nonbrowser-mac.js
+patch 328,372,

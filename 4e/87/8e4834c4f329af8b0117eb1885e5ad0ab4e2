@@ -1,0 +1,5 @@
+changeset 9f4dbf7fdbddf6061b800594c42932eefc20b547
+manifest ca8796cf3264fe5e1f003aa0e9fc7e41b18ffeb8
+extra rebase_source:e07c9e3736375ecfcf24ba15527e1028543303ab
+files testing/mozharness/configs/releases/bouncer_firefox_beta.py
+patch 333,407,

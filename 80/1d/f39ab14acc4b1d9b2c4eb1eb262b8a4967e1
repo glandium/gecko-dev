@@ -1,0 +1,5 @@
+changeset 2b01eae261ba9aa94af6884d2e08e00617d2c65e
+manifest 81d85f7458d13a9720d721447769cdecb10e1e72
+extra rebase_source:1c1bb7f3ea5116b02462e1f194e2d99ccf7960aa
+files browser/base/content/test/general/browser_no_mcb_on_http_site.js
+patch 283,357,

@@ -1,0 +1,5 @@
+changeset 38d9cbe6e3d20e9099807a00bf1335a8451a9764
+manifest 491af32e984155b99d3c8606ada411e17725a0e4
+extra rebase_source:2ad7b7004ec4be540675cf197986841e1425fc12
+files browser/components/extensions/test/browser/browser_ext_user_events.js
+patch 313,387,

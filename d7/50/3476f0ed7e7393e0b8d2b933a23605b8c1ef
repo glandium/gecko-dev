@@ -1,0 +1,5 @@
+changeset 5ddcc92a2af645f66550a80af23309d68e31b517
+manifest 6c92b4af497eb39cff23903f2d972d91b300d1ab
+extra rebase_source:4bd71775f02f57573af0f0efd5c1946285e4e4f4
+files editor/libeditor/HTMLTableEditor.cpp
+patch 448,522,

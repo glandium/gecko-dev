@@ -1,0 +1,5 @@
+changeset ffe71a987b8245db2873918f0aa00b6c8cb5c311
+manifest e5638acd13eebbfb65b16a8b84cf35e73b3aa5e0
+extra moz-landing-system:lando
+files gfx/vr/ipc/VRProcessChild.cpp
+patch 325,369,

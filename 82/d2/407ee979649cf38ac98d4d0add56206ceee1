@@ -1,0 +1,5 @@
+changeset 3632bf46c2205f05d1417a4edbbdcba3ff5c005a
+manifest 2536fd01eb4bdb4616c12963b0a9c4fa443fdb33
+extra rebase_source:68b24cda681f6479758d65c47a321cbfd5169bab
+files tools/lint/eslint/eslint-plugin-mozilla/lib/rules/use-ownerGlobal.js
+patch 316,390,

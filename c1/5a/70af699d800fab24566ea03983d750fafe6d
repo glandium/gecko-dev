@@ -1,0 +1,5 @@
+changeset e6734d35011cce6813e3a47f7cf231eb9fe920dd
+manifest 84e0416f6c6cc3178942a179194f1695d9cfba2a
+extra rebase_source:74cbfe8d1925caf6f24f410caaebe719624fa41a
+files xpcom/typelib/xpt/xpt_xdr.cpp
+patch 271,345,

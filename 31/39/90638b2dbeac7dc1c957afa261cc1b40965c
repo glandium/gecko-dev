@@ -1,0 +1,5 @@
+changeset 26fcec5f5ee4f8e56cf149349c27e582afdec5f0
+manifest 64526675972b88291985e8c3fc2901a5429dc0f8
+extra rebase_source:5fa22b9a9dc6183d10c7b9ce58c072f49c5ebbd9
+files toolkit/components/payments/res/paymentRequest.js
+patch 312,386,

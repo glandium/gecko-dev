@@ -1,0 +1,5 @@
+changeset 4d1b24ff04cd27e503d6fe4cbb9609332c3911c1
+manifest 288f713c7d3390765f257fd60a7684ef2e64964a
+extra moz-landing-system:lando
+files gfx/layers/apz/src/InputBlockState.cpp
+patch 511,555,

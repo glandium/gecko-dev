@@ -1,0 +1,5 @@
+changeset 89651a962a9d46fd0aa84dbf17590bb8f03d412d
+manifest 3a055215aba8f0e86e8d51d4ca91f9bb024f4145
+extra rebase_source:3d7be9a2a72ee182e6cb6b49190fc5ef5eb025e3
+files testing/mozharness/scripts/release/update-verify-config-creator.py
+patch 377,451,

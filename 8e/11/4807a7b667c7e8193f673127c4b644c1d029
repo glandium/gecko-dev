@@ -1,0 +1,5 @@
+changeset 43287cba5c265cca0df92bf66441ad1d75a1ca81
+manifest 2b5ab479cd31a169d176e4a7fbaeffeec917f149
+extra rebase_source:84981127cde93ca9de53d56ee29a4d8b00aebfeb
+files media/webrtc/trunk/webrtc/modules/audio_device/android/java/src/org/webrtc/voiceengine/WebRtcAudioTrack.java
+patch 316,390,

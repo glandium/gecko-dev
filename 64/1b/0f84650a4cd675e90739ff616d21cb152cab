@@ -1,0 +1,5 @@
+changeset ba5d3ec164f2670f64eee231e55926c37cb9a3c2
+manifest 93904b7bf340ba6697e79fd4587ce595caad1978
+extra moz-landing-system:lando
+files js/src/vm/JSContext.cpp
+patch 1531,1575,

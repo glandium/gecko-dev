@@ -1,0 +1,5 @@
+changeset 56ad43d18220e1ec276694c948406ae236f31941
+manifest f686e35fe07d30cf8a7b75bcf3988885ae0628c8
+extra moz-landing-system:lando
+files browser/themes/windows/compacttheme.css
+patch 357,401,

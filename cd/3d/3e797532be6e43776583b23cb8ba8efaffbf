@@ -1,0 +1,5 @@
+changeset 9aa94abacb927c5803092a774659bd7644cc46cb
+manifest a8cfe390b06ce065c2c40632b5b3715a90488c99
+extra moz-landing-system:lando
+files toolkit/content/widgets/richlistbox.js
+patch 316,360,

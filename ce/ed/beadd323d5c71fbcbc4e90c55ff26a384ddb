@@ -1,0 +1,5 @@
+changeset 4dce0b1b22af0eaaa01030de35c97cd3af473305
+manifest 76ea670b32b6bf44c62d12086bb538158b949ae8
+extra rebase_source:87dc3560125bbb6c77215777753c9fbc2a34e7f6
+files xpcom/ds/Observer.h
+patch 243,317,

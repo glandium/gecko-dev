@@ -1,0 +1,5 @@
+changeset 1dc4651530f8290007b9440c9013493cc0ef65f2
+manifest 32d8393623a79de261a8d706c10cee4e215e5ea1
+extra moz-landing-system:lando
+files toolkit/components/telemetry/docs/collection/events.rst
+patch 299,343,

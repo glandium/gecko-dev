@@ -1,0 +1,5 @@
+changeset 7758499ad01f8a5775f90a66bc1b1adfb2776507
+manifest 36623bed45e90e56b32240efadada022df6a6cf8
+extra rebase_source:3fa99f58affa35baa99eda0e8a0951766a6f9b57
+files toolkit/mozapps/extensions/internal/XPIInstall.jsm
+patch 305,379,

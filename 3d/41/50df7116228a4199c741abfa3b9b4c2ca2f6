@@ -1,0 +1,5 @@
+changeset 0b14528bab1af20f96cfbb336d762ad645d83c5b
+manifest 7c309391337be508e07d25574424279010c7260b
+extra moz-landing-system:lando
+files python/mozlint/test/test_filterpaths.py
+patch 507,551,

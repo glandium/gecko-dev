@@ -1,0 +1,5 @@
+changeset 6b2841fea17de6eb7b965e05ff25492e875cdbde
+manifest 69188427eeeb8bfd4f424d06ea0f919b94e63bb9
+extra moz-landing-system:lando
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/devices/FxAccountDeviceRegistrator.java
+patch 371,415,

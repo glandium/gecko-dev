@@ -1,0 +1,5 @@
+changeset 04ee2bae4973154527cedb8597eae4b04a3e7b4c
+manifest 25accf051807d8c499f265b6d8a46ccafb5da192
+extra moz-landing-system:lando
+files testing/mozbase/moztest/moztest/resolve.py
+patch 303,347,

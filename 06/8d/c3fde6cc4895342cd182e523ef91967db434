@@ -1,0 +1,5 @@
+changeset b46490e922b4b404359830f21aa1f01097201335
+manifest bc55e8a0dbe03de59bef93572dd42cc010b56ff9
+extra moz-landing-system:lando
+files tools/compare-locales/mach_commands.py
+patch 340,384,

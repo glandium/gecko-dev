@@ -1,0 +1,5 @@
+changeset 268a72b7c3c41a32a7fea02c8f758b5f46f10687
+manifest 5a807baec545ac234cddd8136dbe572646301137
+extra rebase_source:28e5e421b82e2f25fbc806804d36686907cfdd9e
+files widget/cocoa/nsAppShell.mm
+patch 289,363,

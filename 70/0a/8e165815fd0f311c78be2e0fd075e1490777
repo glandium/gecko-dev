@@ -1,0 +1,5 @@
+changeset 5639bfbf4a006dc45e9dfe74156714e9ea11ed5d
+manifest 8c176d111b6ee387687121b6fccfa5ce9b67bf50
+extra rebase_source:c9485b728ea34a7b257cf501d3e6114da17bc0e4
+files toolkit/components/telemetry/docs/data/health-ping.rst
+patch 416,490,

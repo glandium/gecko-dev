@@ -1,0 +1,5 @@
+changeset 641cfb982930380a568ea2c6439d418de8cc198a
+manifest b2401e91e3cb7d2b07fa655310a310fbebc4d2b0
+extra moz-landing-system:lando
+files dom/base/nsWindowMemoryReporter.cpp
+patch 306,350,

@@ -1,0 +1,5 @@
+changeset 54b5db87eb7e86b8f05c9e94c8e2353b87e78403
+manifest 3f9009a34edcd599c20ec15b3af730e574fa10d5
+extra rebase_source:0254446f8d477d0214b602b1e7ab2cc8b762d115
+files dom/security/nsContentSecurityManager.cpp
+patch 265,339,

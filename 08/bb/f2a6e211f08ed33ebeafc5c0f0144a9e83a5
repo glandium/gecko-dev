@@ -1,0 +1,5 @@
+changeset be2bd0abcf3e8ece18447833ff5eacfebe25f517
+manifest 696d6bd95dddaff9dea0ab849234ad6d422ceaba
+extra rebase_source:510027ecbc18b921c7a7fa5824466113b04057a5
+files toolkit/modules/sessionstore/SessionHistory.jsm
+patch 1102,1176,

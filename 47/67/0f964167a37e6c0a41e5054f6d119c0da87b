@@ -1,0 +1,5 @@
+changeset 098a2b99cc1bda47b46f2428acc9a62e7ac6d2d4
+manifest fa6b5ad3a71efc79f06d9f256148661c7acd8873
+extra rebase_source:ea62101a86e52e15abaed1a81fa471a0d97393a1
+files devtools/docs/tools/debugger-panel.md
+patch 294,368,

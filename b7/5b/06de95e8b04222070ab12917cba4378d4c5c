@@ -1,0 +1,5 @@
+changeset fe2a0b79e7af00cee8bf77de5b6d829e25c89f8e
+manifest 4b065a65d92b1f91f68a8769edecc64d0a7de53f
+extra rebase_source:2c4367350b1b3ee496e620c4190e4fd32963a951
+files testing/raptor/raptor/manifest.py
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 160cc7a53e2142dd5165c7ed5d28c2d224cf451c
+manifest 9f8e2addd2ade7b474bc465a64c1a23c3578fa66
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/debugtarget/ExtensionDetail.js
+patch 423,467,

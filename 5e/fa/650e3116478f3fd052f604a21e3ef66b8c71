@@ -1,0 +1,5 @@
+changeset 52fbe8ec8c07a95cf3d2584d52f1c9f9a1914d69
+manifest 21412112e2e1ff29af1bcdb0ad33b6429ec30eef
+extra rebase_source:684c9bf0352f68a06e7a3be54800f101f8f25e11
+files testing/web-platform/meta/XMLHttpRequest/open-url-bogus.htm.ini
+patch 376,450,

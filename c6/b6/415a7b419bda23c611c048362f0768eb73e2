@@ -1,0 +1,5 @@
+changeset 1e489f546448d4762df44d484d12910c91d12453
+manifest b7ea40036cf5096aa94a094be32e0a5d78372cdb
+extra rebase_source:e550671c26e250843d34cb2b83497c861225883f
+files memory/replace/dmd/moz.build
+patch 387,461,

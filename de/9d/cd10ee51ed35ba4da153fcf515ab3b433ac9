@@ -1,0 +1,5 @@
+changeset c38af115dcd9513d25a57633f0ce2c0c743e208b
+manifest dd807681677bc1ae86fe4f8b20c3bf5cee80590b
+extra moz-landing-system:lando
+files mobile/android/geckoview/build.gradle
+patch 310,354,

@@ -1,0 +1,5 @@
+changeset ac0ce28e333760bbe09896b5804d0e55407488fd
+manifest 8c61b98f6e370c373b52b165b9acd5d57a2da34a
+extra rebase_source:0d474e3818f8b5abfd6c5904473cf3801a98b1cb
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/crypto/CryptoInfo.java
+patch 339,413,

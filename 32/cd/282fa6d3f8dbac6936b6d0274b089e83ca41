@@ -1,0 +1,5 @@
+changeset d715602913363ba79382aca4095a3abdc1be1432
+manifest 933cb8f35784cf5fbec29677da86e17999a4b373
+extra moz-landing-system:lando
+files browser/app/profile/firefox.js
+patch 303,347,

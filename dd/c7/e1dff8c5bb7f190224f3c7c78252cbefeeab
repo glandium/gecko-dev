@@ -1,0 +1,5 @@
+changeset 557ae99dfd45a34208c2eaacae124ee15a4e5060
+manifest ef2af144bd207261a211f5bdde252d4528e0cd09
+extra rebase_source:8eabd1b7860a57978d2277b2b8b948e440c47fac
+files js/src/jscntxt.cpp
+patch 265,339,

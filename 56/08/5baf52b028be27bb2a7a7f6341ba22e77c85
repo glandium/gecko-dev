@@ -1,0 +1,5 @@
+changeset be5e92dc51ec0fe08ac21ce20e4d639a396b5165
+manifest 14e81118d87dd4f38920696b2b5253cfa53247c0
+extra rebase_source:b640f978008859d4de21dff8793d91427d05adcb
+files toolkit/components/viewconfig/content/config.xul
+patch 348,422,

@@ -1,0 +1,5 @@
+changeset dd5e331122a911f9bb88e50205de4e2e841073cd
+manifest 23a67c205b6ab24a95befe9392435a7df480f1b0
+extra rebase_source:4c4448c388e17dd473b3bf44f087f2f05058e685
+files devtools/client/aboutdebugging/components/addons/Panel.js
+patch 384,458,

@@ -1,0 +1,5 @@
+changeset 80282ed4858572c6cbe9e2de75d933c8ab2056e8
+manifest b960292b918996646ce4eb28f33efc950488127b
+extra moz-landing-system:lando
+files devtools/client/netmonitor/src/app.js
+patch 281,325,

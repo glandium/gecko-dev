@@ -1,0 +1,5 @@
+changeset 934520f4b7a06ea3a9d69c664e9d72772fa70cb1
+manifest bda6340326867e9e7284d4f852acae300a2260a0
+extra rebase_source:b3c057a40bb5e38ccf6fabe0e905e5152ad3dbb3
+files mobile/android/base/resources/layout/home_pager.xml
+patch 329,403,

@@ -1,0 +1,4 @@
+changeset c2bb2f9f7dc3413071a91c2bc7b9eaf6be1d09f5
+manifest 52d203bdb9321164cf4529bde045701d019a697c
+files js/src/jit-test/tests/ion/recover-newarrayiterator.js
+patch 212,213,

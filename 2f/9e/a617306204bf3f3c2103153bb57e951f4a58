@@ -1,0 +1,5 @@
+changeset b4b2dcb8de263b9ac64f9619e6acf24bbd4ceb18
+manifest 900fd221eae0b909ce74a8de1553bd13537b8cc3
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/artifacts.py
+patch 948,992,

@@ -1,0 +1,5 @@
+changeset 051b1c82dac88620fa79a48c6c269262c3888301
+manifest 74274d2e9c6a4887b392be866dad4344b665b24c
+extra moz-landing-system:lando
+files js/xpconnect/tests/marionette/manifest.ini
+patch 648,692,

@@ -1,0 +1,5 @@
+changeset 17049f612abe7a62b454add8c110e0993f84e5a6
+manifest 52691b32250fc6282efcee51f96a5daf9f54de62
+extra moz-landing-system:lando
+files testing/mozbase/mozinstall/mozinstall/mozinstall.py
+patch 331,375,

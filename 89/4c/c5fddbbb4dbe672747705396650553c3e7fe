@@ -1,0 +1,5 @@
+changeset 6b406fa5a8a35fe00792d698bedd58eef07ad367
+manifest 08e03fbc7bd66011be02401293a3397215700637
+extra rebase_source:97640dd2f31cc1105e0296b356d781996ee37113
+files browser/base/content/test/webextensions/head.js
+patch 303,377,

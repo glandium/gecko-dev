@@ -1,0 +1,5 @@
+changeset 2f412849ad38683187cff35d9dcfa57951eeadb4
+manifest 3ff6bc5b1257a1c4af3dc13bb1d436a429504df4
+extra moz-landing-system:lando
+files layout/style/GeckoBindings.h
+patch 286,330,

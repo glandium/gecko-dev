@@ -1,0 +1,5 @@
+changeset c3afc68aab2c175165f73ded98a4d2a34decbabe
+manifest 5590a3ee07a0b110cf8ac48ffd8f16542ffe59b6
+extra rebase_source:b7ce0228f7086a5f933a7cdd6c4695eabb1530f1
+files browser/config/mozconfigs/linux64/code-coverage
+patch 355,429,

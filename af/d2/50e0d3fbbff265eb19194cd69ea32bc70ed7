@@ -1,0 +1,5 @@
+changeset 680d1feab4fed4384ba94eae0205da1da8786579
+manifest 911dac2725e5497f1274540df1aa9abcd1eef3b9
+extra moz-landing-system:lando
+files browser/base/content/browser-fullScreenAndPointerLock.js
+patch 355,399,

@@ -1,0 +1,5 @@
+changeset 24cd301f1e439e414c178fd6f404894d44270e34
+manifest 1e1a79c91c146d36b5cb0d9e9c7a8e8d7f15ca10
+extra moz-landing-system:lando
+files browser/installer/removed-files.in
+patch 430,474,

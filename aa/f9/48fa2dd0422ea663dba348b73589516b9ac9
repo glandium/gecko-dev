@@ -1,0 +1,5 @@
+changeset 1e52ffae5eb49e06edc3ec9701e3365ef7649c78
+manifest 44547bde9560d7ef90eb87323c690eab414eb732
+extra moz-landing-system:lando
+files js/src/jit/BaselineCompiler.cpp
+patch 466,510,

@@ -1,0 +1,5 @@
+changeset 9312a1903bf49ef39365c21c9681dab388952c29
+manifest 59a47543cccd766508d157461df9323f9289f5e8
+extra rebase_source:a534d2ed62d1400d39050d3430c407792266707d
+files browser/config/mozconfigs/macosx64/nightly
+patch 411,485,

@@ -1,0 +1,5 @@
+changeset c5047f299f6072182266ef9a9be65cd5d7a9b51b
+manifest e7e8ea67b97adeaba882fc764931e49b409e1f1b
+extra rebase_source:b9d7773e2ea782498755ce4fb34feaa67a706049
+files toolkit/components/extensions/webrequest/ChannelWrapper.h
+patch 330,404,

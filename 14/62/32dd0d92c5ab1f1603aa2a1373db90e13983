@@ -1,0 +1,5 @@
+changeset 2b51a6cf8f4c25baa87d90e98646868615e8273d
+manifest 12d87c7a8eb43f78556b8fcb432186f40c96901b
+extra rebase_source:8a7dbd1467b975f4adb5b35ea854d7035900c96a
+files editor/libeditor/tests/browserscope/lib/richtext2/currentStatus.js
+patch 318,392,

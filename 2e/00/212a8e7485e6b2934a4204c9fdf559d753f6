@@ -1,0 +1,5 @@
+changeset ce8a60ec0ee9fc3775cd2a2a56bd9a066a2e1bcc
+manifest d5b835ab039467920e5309ed15275b270e63f4b2
+extra moz-landing-system:lando
+files mobile/android/chrome/content/CastingApps.js
+patch 514,558,

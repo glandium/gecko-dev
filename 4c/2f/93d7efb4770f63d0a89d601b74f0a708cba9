@@ -1,0 +1,5 @@
+changeset b20329b1ec0565b3b94db73e13a9c49e43c418c3
+manifest d4eb24abf589a0f76db08daaa2161c0d3f59fa6a
+extra moz-landing-system:lando
+files media/webrtc/trunk/webrtc/modules/video_coding/codecs/vp8/vp8_impl.cc
+patch 695,739,

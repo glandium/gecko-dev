@@ -1,0 +1,5 @@
+changeset 06dfdd5999997878e7eff2d3a11fb8d54ef81bd5
+manifest f9da2d195a9bf98b544091cf7fe94690298dcfe4
+extra rebase_source:74dec1f521eccb5150c7a0ce3d728c74f2b508c5
+files js/src/vm/HelperThreads.cpp
+patch 273,347,

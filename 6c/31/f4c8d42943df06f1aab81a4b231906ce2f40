@@ -1,0 +1,5 @@
+changeset 602fa2f2e75da226a632f65700c9a1db8baf89ae
+manifest 0ffc33e20927128f48db0d0883cd7cd6998e0478
+extra amend_source:30b8ee268ba9b5c1c9fcbded7fc3d6b3dfd4c650
+files toolkit/mozapps/extensions/test/browser/browser_webext_options.js
+patch 299,372,

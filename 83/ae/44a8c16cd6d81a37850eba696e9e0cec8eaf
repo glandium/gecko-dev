@@ -1,0 +1,5 @@
+changeset 976212a3a35ae79448810a19f0cbe0ee2d0a3dd9
+manifest 3c34707b6f8dca04373ba133d91050bdaf3cb879
+extra rebase_source:880a754f631f691aaf85bfda610e29b7bfcb89b4
+files python/mozbuild/mozbuild/backend/tup.py
+patch 465,539,

@@ -1,0 +1,5 @@
+changeset 6e4da634fab4c1e70046fb6a6111cc2575667d62
+manifest a8f499b2294e9d5eebc152d69435a736f16256a9
+extra moz-landing-system:lando
+files testing/mozbase/mozrunner/mozrunner/base/browser.py
+patch 337,381,

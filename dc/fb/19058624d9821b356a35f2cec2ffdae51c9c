@@ -1,0 +1,5 @@
+changeset 65fb1f76ed5be8feefc81390eeb7ef7f36cbcca4
+manifest 837af4cac1f33ba172b4e021e359e5a794a1eff4
+extra rebase_source:728f698a97a03b0259d82ea9e418117deda488a4
+files layout/style/nsCSSValue.h
+patch 519,593,

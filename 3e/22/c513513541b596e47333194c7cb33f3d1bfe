@@ -1,0 +1,5 @@
+changeset bacd19ec0d4b81a51049faa28faddc2e4a35b3c2
+manifest f8c8317d561fd05ef7985959f9bd45e1dab392d5
+extra rebase_source:80b1dc28641b30a75e6419d335ba089c0e747119
+files widget/cocoa/nsStandaloneNativeMenu.mm
+patch 308,382,

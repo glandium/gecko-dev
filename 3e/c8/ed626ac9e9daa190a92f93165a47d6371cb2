@@ -1,0 +1,5 @@
+changeset 3ff5094d1ff03c2d5d4848479b498a9302bdeb08
+manifest 164ace07007c1e836acd07aa41b26b750d476ea0
+extra rebase_source:983c1dd7194c5d702f92686b3507861fb8a1e861
+files devtools/client/shared/test/browser_num-l10n.js
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 1138b6fe86e164767b141265b8c30c0c8c769a63
+manifest 0ffa11ed2c5cdae05ccbb195fede36660851ff42
+extra rebase_source:b23cf8f4c82dd3ce4304a8779577e4e0a309da8d
+files toolkit/components/telemetry/Telemetry.cpp
+patch 323,397,

@@ -1,0 +1,5 @@
+changeset b08454f26dc56f9dcbeb49452a8404627d307dbb
+manifest 29eb74b76d41ea3267ecca556cfbe45bd3b68029
+extra rebase_source:6a42169a0c1f51dd11f0b2e5c87d2b928595cad6
+files mobile/android/base/Makefile.in
+patch 397,471,

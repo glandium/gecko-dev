@@ -1,0 +1,5 @@
+changeset b47348c5f123fda2a1d14c923ef2bada5af82a59
+manifest a0fcb9191640ad33db8f73fe3b7a680d7ab3f148
+extra rebase_source:ab82488c546892f039ade761b2ae2191e6caf48b
+files testing/web-platform/meta/content-security-policy/prefetch-src/prefetch-allowed.html.ini
+patch 368,442,

@@ -1,0 +1,5 @@
+changeset 08939adf27908bb6b8e5a5fa0a8e1b6e396a2f41
+manifest edfd0db20bb3b41c176adb20f5a6db2fe2f87bac
+extra moz-landing-system:lando
+files gfx/thebes/gfxAndroidPlatform.cpp
+patch 345,389,

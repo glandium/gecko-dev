@@ -1,0 +1,5 @@
+changeset b62d582090e11edcdd01c2c707e0b07b33ad0b12
+manifest b13cecc0d27bc481c72642c33335a74740c7a012
+extra moz-landing-system:lando
+files dom/serviceworkers/ServiceWorkerRegistration.cpp
+patch 712,756,

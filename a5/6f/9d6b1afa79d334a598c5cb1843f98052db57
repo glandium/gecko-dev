@@ -1,0 +1,5 @@
+changeset c5b037dfba7e9863efea887e6e9bb970ce3102e3
+manifest ba31d654206d8716966f5e69e47525d68f72471b
+extra moz-landing-system:lando
+files tools/lint/eslint/__init__.py
+patch 326,370,

@@ -1,0 +1,5 @@
+changeset 56be2e8bb66a80a4d76cd8eb4fbf80cfe128483b
+manifest 47aae9ec24cd04f4fa4d7ba335629f071fdd65f2
+extra rebase_source:8ee57ef14853a27189ef6146629be77b406f4103
+files media/mtransport/third_party/nrappkit/src/registry/registry_local.c
+patch 314,388,

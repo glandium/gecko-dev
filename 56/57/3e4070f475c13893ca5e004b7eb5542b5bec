@@ -1,0 +1,5 @@
+changeset 5934ceb7311587a6b096401d4b2058a2d13933d6
+manifest 5f7b6eb4ea8d03d27b79db636267544c6bdb7ca1
+extra rebase_source:d5663824930792c7de03ef2eeaf2e638d2f57fa8
+files gfx/layers/apz/src/APZUpdater.cpp
+patch 414,488,

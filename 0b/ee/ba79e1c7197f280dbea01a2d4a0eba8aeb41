@@ -1,0 +1,4 @@
+changeset ce9e9f0dc752896ac7ba00bb0610b3f731e948b0
+manifest 3305ecabf2599a4bc399877b5c930e894494f684
+files xpcom/reflect/xptcall/md/unix/xptcstubs_pa32.cpp
+patch 1219,1220,

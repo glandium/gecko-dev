@@ -1,0 +1,5 @@
+changeset c2b1d6f40e476383dd55caeb8c1ce3f946b2855d
+manifest 704cbb4a0f9dc1539d78eb631bedfbe184f2049d
+extra rebase_source:78f784be1cad741ce84b464c7537af2e15ba68c9
+files media/libstagefright/binding/MoofParser.cpp
+patch 273,347,

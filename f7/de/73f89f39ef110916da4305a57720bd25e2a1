@@ -1,0 +1,5 @@
+changeset b9b5c00e6352a396d0e72dd90aa1c843c30bb871
+manifest e041964f6e6b307714890f0527f416c7f072fc75
+extra rebase_source:19eed08f959d3ebad4f8bc34665e9962f32c681e
+files mobile/android/base/java/org/mozilla/gecko/SingleTabActivity.java
+patch 609,683,

@@ -1,0 +1,5 @@
+changeset 0dd4af772417112a499dcbcc31ccf5e391046cff
+manifest d6758ca289da68b71d5650fd3e1809cd9af16dbc
+extra moz-landing-system:lando
+files browser/components/search/searchplugins/hoepli.xml
+patch 315,359,

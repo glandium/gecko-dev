@@ -1,0 +1,5 @@
+changeset fb2bfbb474914efe28f08715dbccde15069b1582
+manifest 81582176bc49d560b7863425026300226258ca6d
+extra rebase_source:198f3bec99e8a026cbef2f0103b40d1c1e2b53c2
+files devtools/client/responsive.html/components/device-modal.js
+patch 345,419,

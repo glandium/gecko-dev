@@ -1,0 +1,5 @@
+changeset f19f7ec672025faaf33fd9fbb0f08c482323c88e
+manifest 0d4ae841a4ad6a9c07b4c21de9a6482d032f27c6
+extra rebase_source:bed3bb4981dd3a5f5a0886726fca530d65d2bfd9
+files browser/modules/PingCentre.jsm
+patch 293,367,

@@ -1,0 +1,5 @@
+changeset faaf89285517cacf28cd764294ce2b0e0486f94d
+manifest eb819ff6f0899cb1e29e430474b0948b017385ae
+extra rebase_source:69e36d7e462ed26740874dbf96a695dd92bdb850
+files toolkit/components/extensions/ExtensionTestCommon.jsm
+patch 320,394,

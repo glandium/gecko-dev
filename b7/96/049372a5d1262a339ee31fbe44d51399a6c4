@@ -1,0 +1,5 @@
+changeset 96f72bd042922a7fe7245c6517f1c8b1b1762bc6
+manifest a0f71025545537530c7974e849aae85f80aa31e2
+extra moz-landing-system:lando
+files testing/mozbase/rust/mozrunner/Cargo.toml
+patch 316,360,

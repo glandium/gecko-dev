@@ -1,0 +1,5 @@
+changeset fe01cfeef13a91090c59e58bc33d1c62c19f0074
+manifest 9199fd13c5d72bb98a63c9648d0988298f59fc44
+extra moz-landing-system:lando
+files dom/base/test/browser_aboutnewtab_process_selection.js
+patch 345,389,

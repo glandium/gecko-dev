@@ -1,0 +1,5 @@
+changeset b9e61617c8c988a8923b87d1c3989d57d0a4a8d6
+manifest 86782514228ba75221590b938cea1c6d07c4b2e7
+extra rebase_source:f82336d71d333f4111166af2fb53e1a58d2bcafa
+files python/mozbuild/mozbuild/configure/constants.py
+patch 294,368,

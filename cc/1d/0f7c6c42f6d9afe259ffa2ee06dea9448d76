@@ -1,0 +1,5 @@
+changeset 13a6ff7f76c814b7d05a8e61247ddb48c29beda4
+manifest 4aa5c69039f58a3402ef8a83502b51c4fc6f1b2a
+extra rebase_source:8049d1b19d538aa888df11534f8cc0dfa771e610
+files browser/components/shell/nsShellService.h
+patch 293,367,

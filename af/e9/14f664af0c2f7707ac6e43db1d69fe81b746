@@ -1,0 +1,5 @@
+changeset fc4e7aa8f23ec6048fea85e69703deebe2b7477c
+manifest 441c7368f93e6bce73c5d3cc275e473952b0cd98
+extra moz-landing-system:lando
+files netwerk/base/nsBaseChannel.h
+patch 632,676,

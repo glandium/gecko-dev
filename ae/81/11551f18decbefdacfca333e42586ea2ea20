@@ -1,0 +1,5 @@
+changeset d5d5e0d4ef333dd704469654bb9567d6d4ce1c4e
+manifest a3b7290602fb823197c507f6f320b266a9c4ac65
+extra rebase_source:9aebe0711cf8ad81dc47592521a4f29b4f75caab
+files xpcom/base/ErrorNames.cpp
+patch 422,496,

@@ -1,0 +1,5 @@
+changeset 08caf9eba4e08694b86c21edbf09ae715e6c4b10
+manifest 31976b24dc5872247d499ec0a7d04f14461be118
+extra rebase_source:b99c39cececca21d604387658ac9453671c20026
+files toolkit/crashreporter/CrashSubmit.jsm
+patch 344,418,

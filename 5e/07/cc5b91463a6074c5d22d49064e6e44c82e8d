@@ -1,0 +1,5 @@
+changeset c066358cf6fcb5d705c87beb29eec6a208c4bbfb
+manifest 88a38aa573e8cdf3f8b1c1a169a7305a4f7bfcca
+extra rebase_source:4c2b0419bbc47c7f248b13b6c06a15e7331649d3
+files browser/extensions/formautofill/content/editCreditCard.xhtml
+patch 283,357,

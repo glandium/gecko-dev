@@ -1,0 +1,4 @@
+changeset f82b28e1b886b72c083a96c7431bad00299a168c
+manifest fd07e3ee52d902b73b18d109ff49600738bca2df
+files security/sandbox/chromium/sandbox/win/src/win_utils.cc
+patch 356,357,

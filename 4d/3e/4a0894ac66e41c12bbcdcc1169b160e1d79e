@@ -1,0 +1,5 @@
+changeset ce1767f52fe6312a247702c5a215ec9429c675e7
+manifest c9eec8acefa196d20d7b981e80a6915303b0343b
+extra rebase_source:1d648a5c91e802554f044c395a39be8e7f30419b
+files xpcom/threads/nsIThreadManager.idl
+patch 311,385,

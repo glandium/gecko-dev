@@ -1,0 +1,5 @@
+changeset afef0ecf6379147aa7e8c9269ff13b2fb24ef37f
+manifest 5eb4cff5550b75d9a3e45eda24202bae844bef61
+extra rebase_source:b11f3cae53a6b65afcf864da10d5d6e995369111
+files netwerk/mime/nsMimeTypes.h
+patch 284,358,

@@ -1,0 +1,5 @@
+changeset b226d4c40893fdd080f65c9d8d8a52990a5386be
+manifest e1d31eb199b2646cef5fe2c5fc5d835fb8b4deb9
+extra moz-landing-system:lando
+files xpcom/ds/nsDeque.cpp
+patch 391,435,

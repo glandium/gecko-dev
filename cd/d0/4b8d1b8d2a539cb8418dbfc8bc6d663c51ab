@@ -1,0 +1,5 @@
+changeset e00e03df2c6b67ddb2be816cca1be77d5b3ef25d
+manifest cf5158abb53afab10432a46dffef33abb3285ae1
+extra moz-landing-system:lando
+files toolkit/content/widgets/browser-custom-element.js
+patch 364,408,

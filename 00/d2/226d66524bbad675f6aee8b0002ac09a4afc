@@ -1,0 +1,5 @@
+changeset cfde782a9b546f9282469c932011644db7a396a1
+manifest 348d91172d3aaf6dfe938ccf082546b28646c310
+extra moz-landing-system:lando
+files toolkit/themes/shared/popupnotification.inc.css
+patch 297,341,

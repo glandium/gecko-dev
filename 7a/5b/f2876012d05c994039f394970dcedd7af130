@@ -1,0 +1,5 @@
+changeset ea27fe65d7abfa823dfc8c5b66883ac69b659c73
+manifest e74bbe15002f5cf2f4a9fc04614c20cbd5744048
+extra rebase_source:fa1cf4d4d37f7fb56c622de100f95ca63a95ac4e
+files browser/components/aboutconfig/content/aboutconfig.css
+patch 347,421,

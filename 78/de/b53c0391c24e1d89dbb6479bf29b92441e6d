@@ -1,0 +1,5 @@
+changeset c662b7320a4349bf83c2355cbdf23d287b871a23
+manifest bbed91515319b9eea0f0c600ea5340bd51eff73d
+extra rebase_source:bd8b74595ef4bf4e8ce7c987bc6beb8123f020cf
+files devtools/client/shared/devices.js
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 6bcaae60c82e02e3c1f549745d77653e96b06583
+manifest eec5a1f753b801782dc6ac220d72997c8d6c1a25
+extra rebase_source:5766e141968c1f0073b43b592a2303ea9f78f9ad
+files toolkit/components/telemetry/docs/collection/scalars.rst
+patch 350,424,

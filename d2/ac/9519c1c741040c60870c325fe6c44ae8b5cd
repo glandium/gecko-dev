@@ -1,0 +1,5 @@
+changeset f904e3d130ab951280c19ab2f32384fe30374bce
+manifest 5478e21bd91d184c519677b564502f517f59e006
+extra rebase_source:7267ae37b0b0d5813ce5510c1aeb225e16649bba
+files toolkit/components/extensions/ExtensionPolicyService.cpp
+patch 324,398,

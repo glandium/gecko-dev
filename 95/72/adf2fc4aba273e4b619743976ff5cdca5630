@@ -1,0 +1,5 @@
+changeset 602042c7e7a6aa5439a7ea5b7c70fd02a5bcb196
+manifest 9bf0ab9ba401c69183681ec7ad9c34c2e65f2ff2
+extra rebase_source:36f17d01084e31f5e175cdb8c352da175567691e
+files toolkit/content/aboutServiceWorkers.xhtml
+patch 282,356,

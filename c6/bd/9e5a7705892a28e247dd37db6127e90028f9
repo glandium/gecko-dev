@@ -1,0 +1,5 @@
+changeset 8315c95af78c24ff42133c5d3cb4f95088e0e00a
+manifest 7d3f92a5bd536fb077e00213b3b1c8fa794af61e
+extra rebase_source:fa40dad711119828697d4e77a2cd940d6baed683
+files browser/locales/en-US/chrome/browser/preferences/applications.dtd
+patch 315,389,

@@ -1,0 +1,5 @@
+changeset 3b363b82f9d0f8b70e99c463824e42bb44ae547c
+manifest 9ab28aefa9567e65f394b5095885565dd175148d
+extra rebase_source:82ff8c97379ae46391436623ed303f8ba4e72317
+files layout/xul/nsXULTooltipListener.cpp
+patch 308,382,

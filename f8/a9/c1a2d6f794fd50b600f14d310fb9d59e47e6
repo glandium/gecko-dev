@@ -1,0 +1,5 @@
+changeset f5fbea7e93d41fa6b77ef084d5d33989c91d9c8f
+manifest caf4192f7ba0b7197217294644c85d312c563808
+extra rebase_source:a2b081159611a8852f6676412b801eaed7786b93
+files toolkit/components/passwordmgr/InsecurePasswordUtils.jsm
+patch 550,624,

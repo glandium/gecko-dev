@@ -1,0 +1,5 @@
+changeset bffb6a5b78d13240ee3201d273a72a67a56270f5
+manifest 8b0e5c9e7c12783c1d15cf7f5c88f9b462009521
+extra rebase_source:0ee258440252e8c87ec375a4d09cc5d8ee60a208
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/GeckoHlsPlayer.java
+patch 353,427,

@@ -1,0 +1,5 @@
+changeset 7faa84f9f73a76f37d605a6b07d46c24e516e576
+manifest fcf39cd835bd996b1ad3709514c5f0e3c35fb486
+extra moz-landing-system:lando
+files js/xpconnect/wrappers/XrayWrapper.cpp
+patch 318,362,

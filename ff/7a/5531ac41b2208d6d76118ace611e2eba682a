@@ -1,0 +1,5 @@
+changeset a1b14111a06d96a326be5055fb5c944b2935163e
+manifest d0c5bac6bf425ee7a696c05944d4f82813d90253
+extra rebase_source:072ec286faefb00480ab51e099a36636cb05233b
+files toolkit/library/rust/shared/build.rs
+patch 335,409,

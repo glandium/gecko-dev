@@ -1,0 +1,5 @@
+changeset cad6506b2f5d1c179603ef7a125219ef94c7e04a
+manifest 50a083166ec198450f5c9a7d3cfa3558e640259f
+extra moz-landing-system:lando
+files toolkit/xre/nsUpdateDriver.cpp
+patch 370,414,

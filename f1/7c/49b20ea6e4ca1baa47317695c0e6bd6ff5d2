@@ -1,0 +1,5 @@
+changeset 9262f3f80dcb48409f4e34b29dba99eac6091af1
+manifest ab50fdc64b5515733d82ad1ba4cee2d069dbeade
+extra moz-landing-system:lando
+files testing/web-platform/meta/screen-orientation/lock-sandboxed-iframe.html.ini
+patch 353,397,

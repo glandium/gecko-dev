@@ -1,0 +1,5 @@
+changeset 90453cc7c3b4021b28e3a03eb4c540f372c5974d
+manifest d4de76107c0fd9fa4b838ecd767a6a46feb88103
+extra rebase_source:c671b3ddc0876c054b295dbd0b1f16a250b2b888
+files devtools/client/themes/rules.css
+patch 306,380,

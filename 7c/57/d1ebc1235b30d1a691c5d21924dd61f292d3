@@ -1,0 +1,5 @@
+changeset 7d9c2c64313645b36b89de6c06e157b1e8fb5499
+manifest 77effa2d2296bb7dfff60ea3adcd5956b3c4db01
+extra amend_source:dd18ea79977a1956ba920d86aadecf746a4827cb
+files devtools/client/inspector/test/browser_inspector_highlighter-cssshape_04.js
+patch 407,480,

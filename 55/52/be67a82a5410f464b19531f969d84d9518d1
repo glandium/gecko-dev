@@ -1,0 +1,5 @@
+changeset a9c6b8e2e0ea933cabd5f31a5bf9250712978fd3
+manifest 7c1ee0132ba5b5a21799ab1642a614657df8a1ce
+extra amend_source:3913ac1516e7aa3f5b2e4005c2f1a68dfc5d22a0
+files widget/xremoteclient/XRemoteClient.cpp
+patch 292,365,

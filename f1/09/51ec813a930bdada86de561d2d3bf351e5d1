@@ -1,0 +1,4 @@
+changeset a38e794472d8a0dc6b07a599cd066f4e884dfa6a
+manifest 8eec9f4ec50e2a981e75414bcdb65eb41847ccdd
+files netwerk/protocol/http/HttpBackgroundChannelChild.cpp
+patch 337,338,

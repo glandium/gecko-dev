@@ -1,0 +1,5 @@
+changeset f9f4e7c55d61c215d94166c14da24e8f9fcf3f1e
+manifest 687956eb94989cf8fad8c2a6d7b1eb52ddeb22a4
+extra moz-landing-system:lando
+files testing/mozbase/rust/mozprofile/src/preferences.rs
+patch 323,367,

@@ -1,0 +1,5 @@
+changeset 1776ec7c64711d9c2cc289ffa4ada7f4b346424c
+manifest df5bad6a9f5daa0e4bd221653c939548459dd977
+extra rebase_source:f29d04508cf492c82d65f324d7b1990849a0da13
+files xpcom/threads/SharedThreadPool.cpp
+patch 885,959,

@@ -1,0 +1,5 @@
+changeset 29ebdc54d6bc82f8e5696f5129feffe2929460f3
+manifest 68a726072b712825706718997d367cebc2b4aa5b
+extra moz-landing-system:lando
+files testing/web-platform/tests/html/browsers/the-window-object/apis-for-creating-and-navigating-browsing-contexts-by-name/resources/message-opener.html
+patch 414,458,

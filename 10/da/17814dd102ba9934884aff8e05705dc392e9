@@ -1,0 +1,5 @@
+changeset 87a1eddf108de28a69c984939274daf2df3d3e02
+manifest b0eda117984ea03f3f7216ccaaef3b0328a47dce
+extra moz-landing-system:lando
+files mozglue/build/mozglue.rc
+patch 365,409,

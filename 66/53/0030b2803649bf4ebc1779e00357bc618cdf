@@ -1,0 +1,5 @@
+changeset 6066c5ca8f705fe06004a1123678dd427905fb2b
+manifest 3b6d5930f5ba0bf8c93054e6ba1ac24eb0825a39
+extra rebase_source:f39105fcb15e1c7eccae5088b34352e849f1b2b6
+files xpcom/string/nsLiteralString.h
+patch 375,449,

@@ -1,0 +1,5 @@
+changeset beac4909c28ed4dee0e41833c031b34523d3f87f
+manifest f06531fd439117a57f498816d50be0d50e2e43c8
+extra rebase_source:535f138d2faf4cee76e44f5617d6459d9d8f0705
+files devtools/server/tests/unit/test_xpcshell_debugging.js
+patch 322,396,

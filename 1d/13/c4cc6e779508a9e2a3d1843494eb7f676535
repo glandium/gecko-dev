@@ -1,0 +1,5 @@
+changeset 2a37c67f14f26b10b15efb89dacc6ba15fc7d19f
+manifest 1830fb4ffc8c030b9252fcf7671ad39071910636
+extra moz-landing-system:lando
+files browser/components/payments/res/components/rich-select.css
+patch 350,394,

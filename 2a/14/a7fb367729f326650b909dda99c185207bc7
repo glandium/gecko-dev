@@ -1,0 +1,5 @@
+changeset 3f27c2b65ef409b60ded331682a95e224f77a65c
+manifest fd4d2e77457ddb4fd05bcf7ffe16a74653922372
+extra rebase_source:a49469315838f0118206ab4f7cd2881aed8e8bf5
+files js/src/frontend/ParseNode.cpp
+patch 1056,1130,

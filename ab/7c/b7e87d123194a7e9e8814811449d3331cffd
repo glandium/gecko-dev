@@ -1,0 +1,5 @@
+changeset a238b0434c9718357c7569b124f3be97f0564806
+manifest 857a50f9a226d0c0e1233ff174aec8de06f2ceb9
+extra moz-landing-system:lando
+files devtools/client/accessibility/components/MainFrame.js
+patch 362,406,

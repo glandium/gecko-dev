@@ -1,0 +1,5 @@
+changeset 26884a56b7421e6fa02ff832777573ede3fec024
+manifest 4d084d5d0a3cfcefb1f4a3b879964970af47371d
+extra rebase_source:8d171de1576fc9ece0d4973ec48259bb945f1921
+files taskcluster/ci/release-bouncer-sub/kind.yml
+patch 288,362,

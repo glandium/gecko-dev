@@ -1,0 +1,5 @@
+changeset f98b5c33cecccc780ed8743f1ea3125105cbed0a
+manifest 0549a0c1d4a59fc7469d3d7a6262adcbd604a62d
+extra rebase_source:1d02b4714c8fafe6cdcd74e6d9b5612c44dcb3b4
+files python/mozbuild/mozbuild/repackaging/mar.py
+patch 349,423,

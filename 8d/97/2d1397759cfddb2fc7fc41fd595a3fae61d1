@@ -1,0 +1,5 @@
+changeset 217570468fdeb24a79658f4a5730b40820a8c70d
+manifest 0aae2a8a12e60b59709261b513d361eead03044e
+extra rebase_source:73f980885e08760fa9052964ff6ae3db24e454be
+files testing/mozbase/mozinfo/setup.cfg
+patch 296,370,

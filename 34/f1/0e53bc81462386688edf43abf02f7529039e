@@ -1,0 +1,5 @@
+changeset 1cab6bbbe25ac440cafa7ac67b63e622a11596aa
+manifest 4f4960b4013531af1e0ba497cb01269333c4510f
+extra rebase_source:5bcc577a5fb82be098d69eb3def3c9704ddfa3fb
+files taskcluster/docs/how-tos.rst
+patch 288,362,

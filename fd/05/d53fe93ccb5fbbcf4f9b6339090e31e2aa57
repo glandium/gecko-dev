@@ -1,0 +1,5 @@
+changeset 684f8415581ee3763d5c896e8212ce24ff6c4a47
+manifest 3c752140ad1c104cc11a8cc4e8abea59bf246734
+extra rebase_source:275b5084899646520d28b7c33e4bf5efdd11b996
+files services/common/kinto-http-client.js
+patch 512,586,

@@ -1,0 +1,5 @@
+changeset 4604dcda85aa20d4694df3c91b7f105a1b62b8e2
+manifest 9e20dc6b38c7bfe13b80957ac82594b5109ce1f0
+extra moz-landing-system:lando
+files devtools/shared/specs/index.js
+patch 277,321,

@@ -1,0 +1,5 @@
+changeset 3db828b6494a0f680310fb453a71f00fbb505bb3
+manifest e79fb33c983d24e2eb0f84143fe83ee421d65596
+extra moz-landing-system:lando
+files js/src/shell/js.cpp
+patch 280,324,

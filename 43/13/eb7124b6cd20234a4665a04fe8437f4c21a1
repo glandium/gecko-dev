@@ -1,0 +1,5 @@
+changeset 44fd25e3d484042f680f76ab4b0ab3ba0652b2f9
+manifest 4c8ccb70ad4085c7d3282b5f8dc55077d857c665
+extra rebase_source:11b65a89fdc90263e46f69c67909c5a8a43046f6
+files storage/mozStorageHelper.h
+patch 272,346,

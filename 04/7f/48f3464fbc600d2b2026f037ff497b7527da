@@ -1,0 +1,5 @@
+changeset 243740671440c9eed547bf24a048bdc6fbeb6f46
+manifest a74f5c86a28168899e14b6237d2fb8c835f2cc5c
+extra rebase_source:7e6847fd1f4fa358df791f60dd3710783cad89fa
+files browser/themes/shared/incontentprefs/privacy.css
+patch 293,367,

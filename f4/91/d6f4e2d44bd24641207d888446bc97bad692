@@ -1,0 +1,5 @@
+changeset 73e6945ecfa74dff313c824201d4f06cc3e66424
+manifest 4c8022f59cf95e9274d1d38cad8c855afc3b2698
+extra rebase_source:58eee98212878e124339e1e36684c6f45847c3ad
+files browser/base/content/test/general/browser_accesskeys.js
+patch 320,394,

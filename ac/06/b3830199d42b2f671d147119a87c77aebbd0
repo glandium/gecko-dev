@@ -1,0 +1,5 @@
+changeset 860ac47c10fbe9abae52c7f0ff9a9005723d36e2
+manifest 712f0ac47e37100767a617dc8f74015586a17d6f
+extra moz-landing-system:lando
+files mobile/android/components/geckoview/GeckoViewStartup.js
+patch 317,361,

@@ -1,0 +1,5 @@
+changeset ddb585f4d9d751d42c3b69ebad15b9c3128efbab
+manifest 6316afe1cacb07c7620c380385b829ac3e57901e
+extra moz-landing-system:lando
+files widget/windows/InputDeviceUtils.cpp
+patch 612,656,

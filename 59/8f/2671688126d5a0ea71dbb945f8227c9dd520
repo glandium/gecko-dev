@@ -1,0 +1,5 @@
+changeset d2c2abac6d01e7b78142bffecdf5bd3e3265a47c
+manifest f81e147227cfde5c4501bc313a4d0b00d0d8a31d
+extra moz-landing-system:lando
+files browser/base/content/browser-pageActions.js
+patch 619,663,

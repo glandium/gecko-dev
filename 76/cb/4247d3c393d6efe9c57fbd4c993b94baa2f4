@@ -1,0 +1,5 @@
+changeset dae86d421021b034d6a2994447157d8518bbc049
+manifest 3799a0d984f343190848cd7a7d8ce84ebe4573c3
+extra moz-landing-system:lando
+files layout/painting/nsImageRenderer.cpp
+patch 319,363,

@@ -1,0 +1,5 @@
+changeset e26eda77b71c6c02db69441236dd95fc0db5c7f2
+manifest d3f73318bbc3cb7d963c8f3a24dc25a2f7ee5783
+extra moz-landing-system:lando
+files third_party/python/psutil/psutil/_pslinux.py
+patch 538,582,

@@ -1,0 +1,5 @@
+changeset 67f5e518f5751d7d037db95d5d7e705d04d1752e
+manifest cbf6c850fa3bd77aab0d6c2b7db96554850f1f19
+extra rebase_source:2101fb1c0f713a389356fd85e4d26288a7581767
+files intl/l10n/DOMLocalization.jsm
+patch 279,353,

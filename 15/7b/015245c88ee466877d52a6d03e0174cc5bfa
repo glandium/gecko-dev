@@ -1,0 +1,5 @@
+changeset 3c6d8d0c66f504ae8097c4bda1afe1159a320d0e
+manifest 51ae21b41c5e4752fc632e97c5d68530f9a2241b
+extra rebase_source:09edb1bd8eceb125d5c6741abefb3d137044b963
+files testing/mozharness/configs/unittests/thunderbird_buildbot.py
+patch 324,398,

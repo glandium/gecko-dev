@@ -1,0 +1,5 @@
+changeset a90f4d33dc80e1209492a3183da9d9a52935628b
+manifest 4617444715e830a47cd3d0907df5f55084acf0d0
+extra rebase_source:e89fe4eefe615d3f65d2471ff59aa9d51d9ae5e2
+files gfx/layers/apz/util/ActiveElementManager.cpp
+patch 506,580,

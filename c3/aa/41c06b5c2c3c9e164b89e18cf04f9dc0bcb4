@@ -1,0 +1,5 @@
+changeset 7450881da1879598a7ac3cb9ab53748ad95b02a8
+manifest 3df9671960fdaa2bccaa14e24008f10f2f0a229d
+extra rebase_source:e686021eabe8931105d3eae5e7f27f5a76ed21c1
+files media/gmp-clearkey/0.1/ClearKeySessionManager.cpp
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset f89e3bba65ec92a63f0c4f1b1e1f679966e7d533
+manifest e623ee9903eef6eac8081c9f6ba839acca048eb5
+extra rebase_source:1a5974df3f7305c475da6e098ffb3e8d845f8949
+files testing/mozbase/rust/mozrunner/Cargo.toml
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset 5868ff24a21df53d0bee97894194c7df105e8f84
+manifest c1f2b32b360629cabf60f3b2c4733384dba9f5b8
+extra rebase_source:bfa01fc4f88c96085b646f8ac624eb3a9d7c0623
+files toolkit/content/tests/browser/browser_findbar.js
+patch 289,363,

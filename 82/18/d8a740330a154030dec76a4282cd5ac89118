@@ -1,0 +1,5 @@
+changeset 741465cf8a3c4dba29d9079c8ac36a277c96c7e9
+manifest 27fafec773fbce9f2e83e5f73ee46bac4c93a9fa
+extra moz-landing-system:lando
+files tools/clang-tidy/config.yaml
+patch 310,354,

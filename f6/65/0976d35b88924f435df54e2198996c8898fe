@@ -1,0 +1,5 @@
+changeset a8eecd3c269798e25f7406bfbcf8bc41673e883f
+manifest fe44fa3d3b08af9db90a07b68c886d8bfcff8f41
+extra moz-landing-system:lando
+files toolkit/components/telemetry/parse_events.py
+patch 531,575,

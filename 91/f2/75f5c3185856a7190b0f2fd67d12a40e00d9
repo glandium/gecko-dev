@@ -1,0 +1,5 @@
+changeset 34b7638b00c8f465b368b53901b1a4597becd653
+manifest 137d5aa7cd7600ade48a2dbde18e11e3d10bc70f
+extra rebase_source:8cb917de8c7605097abaa69caeca0c39bd50ecf5
+files mobile/android/base/java/org/mozilla/gecko/GlobalPageMetadata.java
+patch 330,404,

@@ -1,0 +1,5 @@
+changeset b0fdcebfd20dd1319ea589ec79afc7dcad8a6c85
+manifest f65b29a5b945d17fe5d84ac73d82cac10e90e5a9
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/SharedMemory.java
+patch 350,394,

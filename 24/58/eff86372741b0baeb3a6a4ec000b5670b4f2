@@ -1,0 +1,5 @@
+changeset fc7af2529a138c39a8e9fd36bf55bb06fc46e1a1
+manifest b41ff5293074a60ff36de6f4f7c3adb82c90451a
+extra rebase_source:b869f21a78b5de1001d58777e8604faaa05b66d3
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/repositories/domain/TabsRecord.java
+patch 347,421,

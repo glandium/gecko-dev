@@ -1,0 +1,5 @@
+changeset fed3a10c6ffc85ec56c2af4c0afc59b2e15d76f6
+manifest 80ff2009a6a4fe5750798fdcdb757faf0364d5e5
+extra rebase_source:979f41e192a7e862a446b07c55fdde55e5fbdafd
+files browser/base/content/test/performance/hidpi/browser.ini
+patch 463,537,

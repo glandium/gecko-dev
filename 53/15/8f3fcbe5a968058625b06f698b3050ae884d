@@ -1,0 +1,5 @@
+changeset 710ac2f726a1945a81fc5bb6fe98fd3ffce1046f
+manifest b07b0ee8c7e5d5ecff78512abb14b0b5f9687893
+extra moz-landing-system:lando
+files dom/ipc/URLClassifierParent.cpp
+patch 729,773,

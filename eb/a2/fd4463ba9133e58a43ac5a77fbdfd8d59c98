@@ -1,0 +1,5 @@
+changeset ad3d44a5fa1ee70250dc39319777ae1ed4e49b59
+manifest 07105cbd9c8875d07241bbdc854a81644ab0cac9
+extra rebase_source:fe743f735c8c1935d0042279e70d15b289189107
+files media/webrtc/trunk/webrtc/modules/desktop_capture/window_capturer_win.cc
+patch 335,409,

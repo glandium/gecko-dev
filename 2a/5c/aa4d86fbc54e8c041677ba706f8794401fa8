@@ -1,0 +1,5 @@
+changeset a9b03b5675e56c6e00d5143b513a6308baf2ac9c
+manifest 55ecab859026536f3b456684c72ad944a579aa83
+extra rebase_source:59b887de15ac967acc7370ab57baec2211497ba7
+files dom/indexedDB/test/browser_private_idb.js
+patch 256,330,

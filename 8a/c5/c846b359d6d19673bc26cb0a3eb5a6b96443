@@ -1,0 +1,5 @@
+changeset 78404bf21684e03a6d4c6c10e91d00cf1ab09bfe
+manifest 252a001e47113aaabd331303a36c03a29d57b3c3
+extra rebase_source:05e21a7d85aa2617e3bdd3d0dd91dd194bc0cff0
+files toolkit/components/crashes/CrashService.js
+patch 305,379,

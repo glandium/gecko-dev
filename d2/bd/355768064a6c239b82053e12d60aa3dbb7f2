@@ -1,0 +1,5 @@
+changeset 810db9f8006bad4f7a2e1ff81eb37cfbea662851
+manifest bb6bb7179abf372cd9261d4e0ff22efe495aeb1e
+extra moz-landing-system:lando
+files toolkit/components/normandy/test/browser/browser_PreferenceExperiments.js
+patch 372,416,

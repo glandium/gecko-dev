@@ -1,0 +1,5 @@
+changeset 0fe978adaddc9a2379adc7828060d7923a98a054
+manifest e786b4b3bcb8e5af0a3fdf9176bd598019c635a4
+extra rebase_source:e83d613e11b40ad8dc75399bc5b946231ffe2886
+files netwerk/ipc/NeckoCommon.h
+patch 260,334,

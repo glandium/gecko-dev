@@ -1,0 +1,5 @@
+changeset 690cfe65a8c961ec5b2e56f8249498693e26edd0
+manifest d909e9f72b8f71df89cf3a9e5e66f7df160016ed
+extra moz-landing-system:lando
+files testing/web-platform/tests/mediacapture-streams/MediaStream-MediaElement-srcObject.https.html
+patch 379,423,

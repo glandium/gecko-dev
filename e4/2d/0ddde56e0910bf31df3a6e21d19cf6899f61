@@ -1,0 +1,5 @@
+changeset 9ca2c544da677838481319db501571b7d31a3f61
+manifest 14a04046f11b406e0dccbe0f9e9fda8bd894bdf4
+extra rebase_source:4421d3085270375a912e2611377ba2299c41d132
+files browser/tools/mozscreenshots/head.js
+patch 318,392,

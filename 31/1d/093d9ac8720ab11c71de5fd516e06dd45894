@@ -1,0 +1,5 @@
+changeset 8cd3573fb83bf887ce088a889932fe4c944fc080
+manifest 2466add777c6da693dc4aeffde0cedcc9c4b3b8d
+extra rebase_source:1e20ceed8f923fb2c2407b755d6d84ab5a81cb6d
+files toolkit/modules/NewTabUtils.jsm
+patch 289,363,

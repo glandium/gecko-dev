@@ -1,0 +1,5 @@
+changeset 7d31105b29dac1ceab654ab6f401948a3e8dbb66
+manifest 4c9e2477d7146105f782564178dd302ff1bcf54f
+extra rebase_source:7001f8b615d8f4491b41fe2e4869b8e599ba1535
+files js/src/jit/arm/Lowering-arm.cpp
+patch 270,344,

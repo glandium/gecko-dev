@@ -1,0 +1,5 @@
+changeset 3daa2953df6bce8767619114ef3fbff4018c3997
+manifest 37a07bc7aa394d09d037b2d99c9a9442058e792f
+extra rebase_source:2b710ca483f1732d91527820006da5da331b5df3
+files testing/marionette/client/marionette_driver/selection.py
+patch 444,518,

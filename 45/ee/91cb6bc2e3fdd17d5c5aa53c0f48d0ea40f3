@@ -1,0 +1,5 @@
+changeset 46115aeb42164569238e64f18552a77281090b9d
+manifest f7e14b2ada168b9ac450d172104cc363f3b38e68
+extra rebase_source:92094268ff3feec1cbc0e20a2af2750ca7d15fd0
+files browser/components/migration/EdgeProfileMigrator.js
+patch 373,447,

@@ -1,0 +1,5 @@
+changeset 97e8882d03431bdb47e706925ac526061966389c
+manifest 405586f4293b7d78c7c02d3bf5bd48eeb74e3032
+extra rebase_source:f9e8ccc87fc46741722c35abed4a28389b73091e
+files devtools/client/framework/test/browser_target_events.js
+patch 310,384,

@@ -1,0 +1,4 @@
+changeset f3ea2731b10b7a6a251f43e96c588a954bb11c62
+manifest 49e0547e9723bb46652f88d7f118c785be5132a7
+files xpcom/io/NonBlockingAsyncInputStream.cpp
+patch 217,218,

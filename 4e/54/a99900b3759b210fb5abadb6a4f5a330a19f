@@ -1,0 +1,5 @@
+changeset 1f1322219d9ffefe7a51c000fb68d1722d64901d
+manifest b5526107c94345d0cd789de29e1218ba62e1e238
+extra rebase_source:7cfdb2cc7fd926bec36673d8ca334920c07d0a43
+files xpcom/io/nsEscape.h
+patch 308,382,

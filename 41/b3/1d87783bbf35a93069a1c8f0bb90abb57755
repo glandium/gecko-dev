@@ -1,0 +1,5 @@
+changeset 5e992675a27da649fd41e9b7c26bd68155735436
+manifest 2c386ec250f46cd2c2beedcc8468fb5828674f4d
+extra rebase_source:8ec9b4f087e9c54a8b3587c043df844750430945
+files mobile/android/app/src/main/res/layout/home_empty_panel.xml
+patch 317,391,

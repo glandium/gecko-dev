@@ -1,0 +1,5 @@
+changeset 899fd5a47a205adc5ce28ea57e8426a299c79dd3
+manifest cd00d378ca19648a592a9d02582e9be1e1b4a9ac
+extra rebase_source:f05d3a31543ea8ed35a756a1721adc272c792a08
+files xpcom/ds/nsExpirationTracker.h
+patch 289,363,

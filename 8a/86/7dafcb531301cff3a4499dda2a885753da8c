@@ -1,0 +1,5 @@
+changeset b7b09fca2cc5c9b06ecf3a4fb4494b9a867d4541
+manifest 817c95f854725034cd560d63ceb34433a8f331cf
+extra moz-landing-system:lando
+files widget/windows/GfxInfo.cpp
+patch 558,602,

@@ -1,0 +1,5 @@
+changeset 1db15ad43914154a383e389ff05f43364f161606
+manifest 863b6c8720119f7573fe37eff35390dafc668d14
+extra rebase_source:2e78219ed1d980881dd317cb8fa831d8d8be67a8
+files toolkit/content/tests/widgets/xbl/mochitest.ini
+patch 249,323,

@@ -1,0 +1,5 @@
+changeset 8953bab8246cf93cae049279a380a70f0de87264
+manifest 4501a869e3d50f39b3001cec26dcb65ba49bd264
+extra moz-landing-system:lando
+files taskcluster/taskgraph/transforms/docker_image.py
+patch 306,350,

@@ -1,0 +1,4 @@
+changeset b78e23cca334ea21e805e2dc0ab28dd4bd4de8c1
+manifest 7c75163a936ace5ba4c2ea3a54ae43003536659b
+files js/src/vm/JSObject-inl.h
+patch 496,497,

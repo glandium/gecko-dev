@@ -1,0 +1,5 @@
+changeset 5e2c3f2fb8a089e033858bb9f6b8f2a96595153a
+manifest 5a803b986ac2cee3d62b63e41551cd5b41e12b8e
+extra moz-landing-system:lando
+files gfx/angle/moz.build.common
+patch 418,462,

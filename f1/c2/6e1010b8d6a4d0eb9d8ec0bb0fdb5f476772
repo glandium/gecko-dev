@@ -1,0 +1,5 @@
+changeset 2a1d927227787a4aa6abf3401286d564a2dd4b7f
+manifest e53208d6d78ae741ae0c39dcb74072bbb14d7449
+extra rebase_source:5a5cf32202ac55ae773b3c11f65a4cb304bff417
+files build/moz.configure/windows.configure
+patch 547,621,

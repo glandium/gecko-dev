@@ -1,0 +1,5 @@
+changeset 827bf0695bcf70de80faa8cf4bf30db334ad6c83
+manifest 5720d952091c44dca1cbd3643f6140b144164ffb
+extra rebase_source:f3b0ca4a27d0fa8df11b41ae93954478c199fef4
+files toolkit/modules/tests/modules/PromiseTestUtils.jsm
+patch 558,632,

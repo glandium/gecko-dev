@@ -1,0 +1,5 @@
+changeset 7e7fda92a9938609639e67559227247131f726af
+manifest 24be6aa962c64661d646158b4eef4a84c73f6c55
+extra rebase_source:f641fcd8e20383b89fd62abe1b567133dba3db82
+files toolkit/components/payments/docs/index.rst
+patch 299,373,

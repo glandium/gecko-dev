@@ -1,0 +1,5 @@
+changeset 8ca368cb3bbfdc279c11fc706ee4b799208b33a7
+manifest e3ee077c6722f5ba4550c92f6783d7ad37ebce0d
+extra moz-landing-system:lando
+files toolkit/content/widgets/progressmeter.js
+patch 468,512,

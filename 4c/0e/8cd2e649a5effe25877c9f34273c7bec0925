@@ -1,0 +1,5 @@
+changeset 1ee7e40589078ae1a8db0b049f57ea62ba600b96
+manifest c05b28482836c6687eaafc87b615764ec0bbe074
+extra moz-landing-system:lando
+files testing/mozbase/mozlog/mozlog/commandline.py
+patch 353,397,

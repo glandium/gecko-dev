@@ -1,0 +1,5 @@
+changeset 5c21b021bcf368a3e1c20083363c3ff7a51f6e37
+manifest 9e7f45e6c291f5c81b10ca6fc7225b50ea7b95b4
+extra moz-landing-system:lando
+files testing/talos/talos/tests/devtools/addon/content/tests/netmonitor/complicated.js
+patch 406,450,

@@ -1,0 +1,5 @@
+changeset 32c6b4f77110e43b1fe74cb1f81d09c3aad6ffad
+manifest 72752c948f54ed38c0cc5a312f31316e72270446
+extra rebase_source:40400b187a274d581c2f77081e1cddf589d39a78
+files netwerk/wifi/nsWifiScannerDBus.cpp
+patch 579,653,

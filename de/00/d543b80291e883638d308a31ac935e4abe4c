@@ -1,0 +1,5 @@
+changeset b79157e0ca5566d6559cba649cdbd9222c191b77
+manifest efc7debd6cb3fa1e80ad7969d8f2d56fcfc7de54
+extra rebase_source:da1b35b969b9e58b339b4962eb2d5f661b0ad81a
+files devtools/client/animationinspector/components/animation-timeline.js
+patch 335,409,

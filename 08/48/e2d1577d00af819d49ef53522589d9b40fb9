@@ -1,0 +1,5 @@
+changeset 65cd5f435d68e66c4e0aae02114b7f4aad529027
+manifest 1940ead772f3f8f87e035861d39ce402d172e59b
+extra moz-landing-system:lando
+files build/clang-plugin/ScopeChecker.cpp
+patch 775,819,

@@ -1,0 +1,5 @@
+changeset bf522e33426e76de01764d051e1b0fd565442858
+manifest ef48bb96e7ece8669103f6069345244758cd9009
+extra rebase_source:9d6a0fc905b42e8843693f6c5fe8cd1444d08868
+files browser/components/downloads/content/indicator.js
+patch 615,689,

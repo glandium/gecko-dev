@@ -1,0 +1,5 @@
+changeset 8076e3b5771825ae8d3437a7665e8c8102657d0a
+manifest f97dc635f047f0caf0bc3aa68e0b9205d3454f9b
+extra rebase_source:90aec420bce264fadf001451c611b28bb3efe66c
+files js/src/jsfriendapi.cpp
+patch 245,319,

@@ -1,0 +1,5 @@
+changeset 01d3cd0517a13e9c783769aff6c46a3b978fc867
+manifest f50a8d13c2adb66db365f630a3e70c1277f89b93
+extra moz-landing-system:lando
+files media/webrtc/trunk/webrtc/modules/video_capture/objc/rtc_video_capture_objc.mm
+patch 328,372,

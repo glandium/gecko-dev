@@ -1,0 +1,5 @@
+changeset 34feae8faf9f1fc6d30b4a3f22d50ee59a020c4b
+manifest 695e5f58e01e3d55624fb1b6c094daa473e2007a
+extra moz-landing-system:lando
+files taskcluster/ci/release-version-bump/kind.yml
+patch 320,364,

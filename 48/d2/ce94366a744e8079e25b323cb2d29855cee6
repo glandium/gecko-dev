@@ -1,0 +1,6 @@
+changeset da46b9690d97ee2894422e3cab30fd8190135650
+manifest 859d0ccea75fb56602dbb7062b47ab8b6878da6d
+author Ursula Sarracini
+extra rebase_source:5e497a20fd6e2360f1bcb30c10bcb839097eb322
+files browser/base/content/test/about/browser_aboutHome_wrapsCorrectly.js
+patch 355,429,

@@ -1,0 +1,5 @@
+changeset 6dc5276a418a56303ccc1b1603b4a032da56b0ec
+manifest 817dffde8909a104d4b9f2a29216e1a4014d1757
+extra moz-landing-system:lando
+files xpcom/base/nsIErrorService.idl
+patch 333,377,

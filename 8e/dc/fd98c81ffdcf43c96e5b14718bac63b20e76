@@ -1,0 +1,5 @@
+changeset cabfd08a7a32cce13db71da4086feae9ce4a1163
+manifest 8a64abaa1e052e68b34f24def06736445c8980d7
+extra rebase_source:95459e1a1ee474a7da246d1da305575f9b0a39d9
+files browser/branding/nightly/pref/firefox-branding.js
+patch 339,413,

@@ -1,0 +1,5 @@
+changeset 77865d6f19c17d0a16c86fb2511d85091007315f
+manifest 60d5c0999fb35f05fd733818949e7df552c051c3
+extra rebase_source:bd508f1d3dcdfe08580e3dca4c4a64ac507efa92
+files testing/marionette/harness/marionette_harness/runner/mixins/window_manager.py
+patch 346,420,

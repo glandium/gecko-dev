@@ -1,0 +1,5 @@
+changeset 8d9338c622944658d6737ff7831d1c14aa789a43
+manifest c1fde55662e75ec17dcaa4c423128be29c5ca430
+extra rebase_source:ba966b0f22c1ceb7fa1a747e75b159a30997929f
+files testing/talos/talos/tests/tresize/addon/content/tresize.js
+patch 552,626,

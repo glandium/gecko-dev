@@ -1,0 +1,5 @@
+changeset 1604addc1fc97587040e1b17e6e454ce54328703
+manifest 621d491d041162a391f0f41c2adf8d6488a5b976
+extra moz-landing-system:lando
+files devtools/client/framework/selection.js
+patch 316,360,

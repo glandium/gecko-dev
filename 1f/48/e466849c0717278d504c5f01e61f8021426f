@@ -1,0 +1,5 @@
+changeset 856511eb563acda775c91512367c448d7712ab72
+manifest d891739ef18e60e9a04de7acbfda0acbaf8b8d71
+extra rebase_source:256f08cf7e16c15959a69f1b11f57cf965969aeb
+files toolkit/locales/en-US/chrome/global/languageNames.properties
+patch 326,400,

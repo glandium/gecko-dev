@@ -1,0 +1,5 @@
+changeset 7b1a39e7a0366115ec410ae28917fd03c3f60e23
+manifest c9021dd2d9b891dd2692e73473c54c0bd78896b3
+extra rebase_source:b73b91aa6baca2543eaa75816f6478e14b293e3e
+files toolkit/components/osfile/NativeOSFileInternals.cpp
+patch 458,532,

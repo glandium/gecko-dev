@@ -1,0 +1,5 @@
+changeset c488c8738ebe9bba1a0414bd7bbb0e320a6178e4
+manifest 111d492bbadc552c4fcc284214e282e25683a70e
+extra rebase_source:461b2cde38ff96d68eaa25ba5661e5dd8d44834b
+files devtools/client/inspector/toolsidebar.js
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset e5f5ef449435b0dd45528990f51caba6398fd3c3
+manifest 3624917dd513606e93ee2cbff00095a0a971e695
+extra rebase_source:49bcf0fb53157dedbf1bfcad49f4684dfe610a7c
+files testing/awsy/requirements.txt
+patch 279,353,

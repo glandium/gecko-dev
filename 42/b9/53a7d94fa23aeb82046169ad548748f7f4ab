@@ -1,0 +1,5 @@
+changeset 4f0fce98dd3a7bdc4d4961a978f328e37bff615e
+manifest f5646e1b0bdc00a592664577474da196cc773819
+extra rebase_source:e7dd8262c1d7c69209ce57323dc4c24a19774ec7
+files dom/base/nsTreeSanitizer.cpp
+patch 282,356,

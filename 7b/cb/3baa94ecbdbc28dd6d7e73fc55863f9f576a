@@ -1,0 +1,5 @@
+changeset e25127db470ca6f01bd9650b347a369e18e55a45
+manifest a64014a3112ab355983051716986ba4dd5bc6853
+extra rebase_source:4390f8ccbfd60667cb6fb299299e00921817866f
+files browser/components/preferences/siteDataSettings.xul
+patch 336,410,

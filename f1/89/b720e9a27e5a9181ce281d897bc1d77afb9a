@@ -1,0 +1,5 @@
+changeset 1fdfda9f7f1285b15a10a6aa00837b895d936832
+manifest 33d31d3f4b817138b47d748c9244b9d157ed2e7a
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging/components/workers/Panel.js
+patch 533,577,

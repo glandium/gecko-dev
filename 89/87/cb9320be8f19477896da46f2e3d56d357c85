@@ -1,0 +1,5 @@
+changeset 65a6e84a6be501f7ece21e3bed84b715f4afa117
+manifest 10f43b41157d59608a59710063be564f56953863
+extra rebase_source:ae1734c5d8d3365ba7cd41635b56db93175420e8
+files toolkit/mozapps/extensions/test/xpcshell/test_manifest.js
+patch 317,391,

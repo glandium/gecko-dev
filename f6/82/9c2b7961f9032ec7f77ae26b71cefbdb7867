@@ -1,0 +1,5 @@
+changeset c118b2a8f1b12e7354b8fe284b489310bc717d99
+manifest 65b8064d9da39d0cc376b9454580d0ad746ced26
+extra rebase_source:6906075f06478b7c10229201de46e36d08d1f7f8
+files xpcom/string/nsTextFormatter.cpp
+patch 378,452,

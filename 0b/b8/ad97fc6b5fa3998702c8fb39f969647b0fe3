@@ -1,0 +1,5 @@
+changeset b782fd4800729485a1299d7b67c3194c804feee5
+manifest c536857ba3570d4cfcb8abc47ef97d676f042e84
+extra rebase_source:4c0beee0e90bb590ba5a91216fb39e951ff692a8
+files browser/components/preferences/siteDataSettings.js
+patch 307,381,

@@ -1,0 +1,5 @@
+changeset dff46afaa69c7b7d4a53d2d7728346d016b78adb
+manifest 863dc9e170c385b09b107836094c7c1d47495ca5
+extra rebase_source:2fa5fce316bfd905bc5bac975bab003e670ae9d9
+files toolkit/mozapps/extensions/internal/ProductAddonChecker.jsm
+patch 577,651,

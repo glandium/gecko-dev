@@ -1,0 +1,4 @@
+changeset b2489d648b64487c8218f1e77d411ab5d05c44d6
+manifest a07f7928c1f5da704e70ff2a775c4739242983f2
+files servo/src/components/script/dom/bindings/proxyhandler.rs
+patch 363,364,

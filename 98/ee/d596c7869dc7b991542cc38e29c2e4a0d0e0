@@ -1,0 +1,5 @@
+changeset 3fd5d8f120c72898ee74e2cd8194ef35880cd794
+manifest 1538c92e5b3e135586425962a7082d0d7a1ca0ef
+extra moz-landing-system:lando
+files browser/base/content/test/static/browser_parsable_css.js
+patch 332,376,

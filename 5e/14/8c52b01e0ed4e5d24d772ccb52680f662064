@@ -1,0 +1,5 @@
+changeset 5563e7da39b265ed1ba7796ec058bdbcf6f792f6
+manifest fbdb01dd9c02adecc3d6b01271d67a10b0344265
+extra rebase_source:23114ed2f50ad9b208ee319df29b00f62158329f
+files browser/extensions/onboarding/test/unit/test-onboarding-tour-type.js
+patch 318,392,

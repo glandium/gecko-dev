@@ -1,0 +1,4 @@
+changeset 3d4f4a6bb6ba36a649f7f9b856b7b42c2127e133
+manifest 31c05790dfb026768e001eee864bbde359cc439b
+files security/sandbox/chromium-shim/patches/after_update/change_USER_NON_ADMIN_to_blacklist.patch
+patch 239,240,

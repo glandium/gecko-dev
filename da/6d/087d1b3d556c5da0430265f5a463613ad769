@@ -1,0 +1,5 @@
+changeset 3a889c491c7f51c593e64585d080a775cf62fbf5
+manifest fe34146e955014cf23ae2af8366309514a0ba7ae
+extra rebase_source:fa2528239b3eabd838fa9ecc9dc0b2d7de3b25ef
+files media/libstagefright/binding/include/mp4_demuxer/H264.h
+patch 303,377,

@@ -1,0 +1,5 @@
+changeset b0484c90364e7534e48527f1d66fc2c136549766
+manifest 8d80cc2ebbba756ac1f0b04c642973e01089c914
+extra rebase_source:02e208ff7025174cb36dc4c9c70b17ce9986b9d6
+files browser/components/extensions/ext-menus.js
+patch 306,380,

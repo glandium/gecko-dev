@@ -1,0 +1,5 @@
+changeset 623fa9efc4652d7d4d7386b70721b7ff844ca856
+manifest 1e588307fcf8f1beba588bdad95993878d6c358a
+extra moz-landing-system:lando
+files browser/components/pocket/content/pktApi.jsm
+patch 333,377,

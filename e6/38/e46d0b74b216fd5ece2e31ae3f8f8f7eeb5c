@@ -1,0 +1,5 @@
+changeset e88260ac431b47c80fc5b051421a1978250bdd05
+manifest 9904172b0da5a4ef79f5c5783eb9650e74c33b37
+extra moz-landing-system:lando
+files browser/app/winlauncher/LaunchUnelevated.cpp
+patch 334,378,

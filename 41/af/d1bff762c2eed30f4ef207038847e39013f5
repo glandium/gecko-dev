@@ -1,0 +1,5 @@
+changeset 3e75d7c78e42350683289433ff419c975d63fafc
+manifest fef28be15af4badae2efea9d072ee1413505ffe9
+extra moz-landing-system:lando
+files gfx/src/CompositorHitTestInfo.h
+patch 327,371,

@@ -1,0 +1,5 @@
+changeset fbd44d38b79e69d500fd49716269185da7aef8a4
+manifest e05eba8347266efd747ccf24df15dfc14a866298
+extra rebase_source:b72cd2342bc77705de134601400b9bc188a169cf
+files mobile/android/app/src/main/res/layout/activity_stream_main_highlightstitle.xml
+patch 321,395,

@@ -1,0 +1,5 @@
+changeset 0db18c13ea0ab3958dc8ce525455912cfb79d8a7
+manifest 7f64ec7696037b0cebda3c07aed62a8d38fe8bed
+extra rebase_source:14318877ae4d52384090e99e7668e1deb19f3408
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/GlobalSession.java
+patch 354,428,

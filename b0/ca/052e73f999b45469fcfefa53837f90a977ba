@@ -1,0 +1,5 @@
+changeset bcdac263d98f058513827f545c90ed63460ba57f
+manifest 96fc089bd23a1c9e044ce0eaf2639b4f978eb4b6
+extra rebase_source:d323c0860989985b72933dcffd62743b9d73644d
+files security/manager/ssl/nsNSSCallbacks.cpp
+patch 504,578,

@@ -1,0 +1,5 @@
+changeset 57204974417c9b9feaba3c2306624f3dd5d57d12
+manifest 1af0d7b3f95a5261086db79a9c4cba621d27b33c
+extra moz-landing-system:lando
+files widget/cocoa/nsDragService.mm
+patch 495,539,

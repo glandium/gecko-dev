@@ -1,0 +1,5 @@
+changeset 2b2b6233aa0bd3a7ad2dc5228529cbdba3811e14
+manifest 35fd3bd29c309a1ff0dbe80ff84a6c0fefa92769
+extra rebase_source:36a09469ddf1a9a6fa0954aadc53534a4308d2b0
+files testing/modules/CoverageUtils.jsm
+patch 494,568,

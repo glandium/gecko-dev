@@ -1,0 +1,5 @@
+changeset a3b39ebdba02b6fbada4c86dd6c18e9db1fa048f
+manifest 158c81b5b522fd0cd336ecd7686fb359a48dabf5
+extra rebase_source:6fe3d58293482563cc4fc4f16a91fa4a3c4c12da
+files widget/windows/ScreenHelperWin.cpp
+patch 481,555,

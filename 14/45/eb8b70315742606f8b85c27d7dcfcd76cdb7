@@ -1,0 +1,5 @@
+changeset b69e3c4f4afb50e5cd91b7b41bcb5030054e21c8
+manifest 7e8da5844a28da7351cd806563ff87d0bea245ea
+extra moz-landing-system:lando
+files testing/web-platform/tests/mediacapture-fromelement/capture.html
+patch 324,368,

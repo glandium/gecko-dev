@@ -1,0 +1,5 @@
+changeset 8ff26293b8985c7aaee637cd174f2f0fcbc2d352
+manifest 14efea94879883e27083f6b60b9b532a6dd848d3
+extra rebase_source:f564e9b3bf94aed234906ff6364b64f3dbe8f9d2
+files dom/plugins/test/mochitest/browser_bug1196539.js
+patch 296,370,

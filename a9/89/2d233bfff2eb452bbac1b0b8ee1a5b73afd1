@@ -1,0 +1,5 @@
+changeset 82753b1778fa47e316546fcf460fac6c281eed94
+manifest cc65d38c1d00b1fde1fea3afc5c33b80693a13ad
+extra rebase_source:9bcb0d14d6655771f8b075d3ef9a024a0e6abd0a
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/synchronizer/SerialRecordConsumer.java
+patch 394,468,

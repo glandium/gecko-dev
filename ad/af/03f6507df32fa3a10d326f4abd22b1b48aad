@@ -1,0 +1,5 @@
+changeset 77803e121c8f469e2044e5ade6bc6c37f9a55052
+manifest 7cd45868f4fe56b7db74292b41e9231c8c630493
+extra rebase_source:210f2f24632c242e1d3fb129285717dafe0660d4
+files layout/style/nsMediaFeatures.cpp
+patch 422,496,

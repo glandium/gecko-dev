@@ -1,0 +1,5 @@
+changeset e8d7b4fd98387380219b879f8a8b211bb87095c7
+manifest 51db7565e4faf9455838810e2331e9dab98376ae
+extra rebase_source:0ea24add9f941b21b66b4fd216833a46bfa2a5ed
+files mobile/android/base/java/org/mozilla/gecko/toolbar/PageActionLayout.java
+patch 493,567,

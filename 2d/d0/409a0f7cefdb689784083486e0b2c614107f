@@ -1,0 +1,5 @@
+changeset 9e05198aa74aa76790001aa403d6d7e33b49f9dd
+manifest 8d22a45e541968f31d72aa333f722bdc251724f0
+extra rebase_source:b5a240381b7a4b302cca90ac2ac999289891f8d2
+files toolkit/components/extensions/NativeMessaging.jsm
+patch 345,419,

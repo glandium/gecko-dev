@@ -1,0 +1,5 @@
+changeset c53e5de60627e44ff808bee2be549f9cc9322dfc
+manifest 7bb2c4f7f0b82a2d7e95ea4026993f282f3b871e
+extra rebase_source:c590b90b784df2676df6ccd9c43d4e5ca82c1fd3
+files js/src/jit/ExecutableAllocator.h
+patch 256,330,

@@ -1,0 +1,5 @@
+changeset 6a7fae3bdc345e639bd793d5388db9d6948638da
+manifest c455d4cab33ec9fb96be9927fdb692a29eff4959
+extra rebase_source:5f9d43e2dff33b8427f68b4897ea277e16bab7fd
+files browser/components/extensions/test/browser/browser_ext_tabs_create.js
+patch 329,403,

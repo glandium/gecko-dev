@@ -1,0 +1,5 @@
+changeset 38ba5d0973cd60a8f4126e60fd9b10bac5d7490b
+manifest 9c683537b842ec4558fafc5bc057ff59f56efc4e
+extra moz-landing-system:lando
+files testing/web-platform/meta/html/semantics/selectors/pseudo-classes/focus-autofocus.html.ini
+patch 337,381,

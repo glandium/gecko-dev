@@ -1,0 +1,5 @@
+changeset 6afa28099f1ec6f3533128f3f8ac596c622a09a6
+manifest 8b312aa88cd975a7548601a293e7c3221a5c277e
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/element_click/interactability.py
+patch 356,400,

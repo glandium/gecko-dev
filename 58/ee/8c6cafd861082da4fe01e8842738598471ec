@@ -1,0 +1,5 @@
+changeset a5450f478cd96e5f552a37d6f89c63e671958bdd
+manifest 6d2c4e4fdbabce168879b0b9099c4327a5b3debb
+extra moz-landing-system:lando
+files servo/components/style/invalidation/media_queries.rs
+patch 311,355,

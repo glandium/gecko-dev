@@ -1,0 +1,5 @@
+changeset 388d0887f62b561b10608a2e7ffb8581e6077a15
+manifest f322a92a85d054e4daa62c0d934cad1a8761617e
+extra rebase_source:011d65bfe28514449fb279b1c50e69de3e109e61
+files toolkit/components/places/PageIconProtocolHandler.js
+patch 321,395,

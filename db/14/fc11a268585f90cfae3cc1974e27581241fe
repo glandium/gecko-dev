@@ -1,0 +1,5 @@
+changeset db78be8dbc1c81844eb7d35c1a3073078eb5d923
+manifest bf19a7bb531ebae88cf02288ff89ec6af7ca82c2
+extra rebase_source:c8cb5b07e99f3e0dbf7012405ec5785b3a984bb2
+files toolkit/components/extensions/test/browser/browser_ext_themes_autocomplete_popup.js
+patch 343,417,

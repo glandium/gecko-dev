@@ -1,0 +1,5 @@
+changeset 841ed9c78bf765e7d9f40614c29853948b6680d0
+manifest d9f3cf760d90d2474ca2a6fb8e3edade004e9922
+extra rebase_source:82b750185b598418d2ad0842090fc53bfbeedde3
+files js/xpconnect/loader/ScriptPreloader.cpp
+patch 303,377,

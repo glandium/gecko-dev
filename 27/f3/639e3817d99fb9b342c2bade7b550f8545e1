@@ -1,0 +1,5 @@
+changeset e40e77f848063469114960ac2f13dae5649b328f
+manifest 34c2c143520ad675a2fec8c860c78fa55bf28ed7
+extra rebase_source:8138faa2b16e847da31861abae2bbc1c7bac4e02
+files xpcom/ds/nsGkAtomList.h
+patch 604,678,

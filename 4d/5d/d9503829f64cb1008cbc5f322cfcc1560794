@@ -1,0 +1,5 @@
+changeset bf786c1aca5f35302edb23ae14015ac0f39887ff
+manifest a46bf211712d2c8ee1ac2030890be5d2ac64175a
+extra moz-landing-system:lando
+files browser/components/extensions/test/browser/browser_ext_browserAction_popup_resize.js
+patch 409,453,

@@ -1,0 +1,5 @@
+changeset 218757467ee8b8feec1fcf3b028d5397bb748bac
+manifest b4ff9700b23d19d90f358341eb5935a2f8f78142
+extra rebase_source:149c8d0fb46d3b71a9de19aaedfb5e0dd5b9a460
+files security/manager/tools/getHSTSPreloadList.js
+patch 585,659,

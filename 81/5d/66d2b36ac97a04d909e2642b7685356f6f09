@@ -1,0 +1,5 @@
+changeset 6909c7487def14b559d00c5181c403e36d09ee62
+manifest 2176dbfc7eca5d5ac05e53c0fb735427c5c560c5
+extra rebase_source:6ccc1b2f4ab0e71584f442e86d94322e2c6382fb
+files mfbt/SizePrintfMacros.h
+patch 413,487,

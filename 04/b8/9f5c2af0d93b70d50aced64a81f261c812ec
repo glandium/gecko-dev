@@ -1,0 +1,5 @@
+changeset 9370dc79ddfc94fdb20f3ae6036c9fcbd3c3d6c1
+manifest e5086ab3711a298f567b286389d302bf724ef9f9
+extra rebase_source:a26282aaebeb7a22739065c3ead000252d9703c9
+files js/src/jit/CacheIR.cpp
+patch 279,353,

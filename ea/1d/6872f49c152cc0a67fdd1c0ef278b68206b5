@@ -1,0 +1,5 @@
+changeset a39f7a592250fd777f574aca3ac5910abd3e2f1e
+manifest 8f59057c14cd33db84a0f5f2d7d1857143478fc2
+extra moz-landing-system:lando
+files testing/marionette/harness/marionette_harness/tests/unit/test_window_fullscreen.py
+patch 533,577,

@@ -1,0 +1,5 @@
+changeset b6a01f3ac7046300a8cdd4bab80417e0d1e85b7d
+manifest 5cb126b0e0ded84b85e071a90276eb8be0aba219
+extra rebase_source:90197e537ce3f12248e1acd066ea1aac83397d39
+files toolkit/modules/PopupNotifications.jsm
+patch 481,555,

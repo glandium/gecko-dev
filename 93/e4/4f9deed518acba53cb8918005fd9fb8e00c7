@@ -1,0 +1,5 @@
+changeset 24d91202ae28710254a5a9e8bb82e7ca4852da34
+manifest 41ecd0c0775abe2e8e12b58b36fdc858ec192b6b
+extra rebase_source:d1838920e02a797bd4f85bec25f545294ee10576
+files gfx/webrender_bindings/cbindgen.toml
+patch 304,378,

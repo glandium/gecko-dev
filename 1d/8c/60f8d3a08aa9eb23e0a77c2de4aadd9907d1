@@ -1,0 +1,5 @@
+changeset e680412515eb1adcc10f51747819088b04863613
+manifest e01960c2831e253de84e3614ca40068fc55cd4c6
+extra rebase_source:c949f90c1f941ea9993a696c681a2eecdf0bce6b
+files ipc/mscom/Ptr.h
+patch 260,334,

@@ -1,0 +1,5 @@
+changeset ad673f1dd375b04361e13c61db48454206d0e2a3
+manifest 6c36156e50351d1afcad746ce0dc126b098b5ffe
+extra rebase_source:55813db8d6dbab8cc53912015256714b0577db2e
+files browser/modules/ZoomUI.jsm
+patch 310,384,

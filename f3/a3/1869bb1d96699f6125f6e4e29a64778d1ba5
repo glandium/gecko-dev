@@ -1,0 +1,5 @@
+changeset 4914beabe06a0545e8aab6ddff25f18cf2a2c555
+manifest 5632216a6a33af836dba5dcb82dd7b454a85c45d
+extra rebase_source:f52c2e19bdad6e28ded106cfcdc64f3464281d54
+files tools/tryselect/templates.py
+patch 299,373,

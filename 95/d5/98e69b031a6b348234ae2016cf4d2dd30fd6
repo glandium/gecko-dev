@@ -1,0 +1,5 @@
+changeset ebad6bf3323740d13e2c8bea75c35061e6b6c295
+manifest 6e96c32779148952958cd9746ef1f45d7e12401d
+extra moz-landing-system:lando
+files netwerk/protocol/http/nsHttpHandler.cpp
+patch 302,346,

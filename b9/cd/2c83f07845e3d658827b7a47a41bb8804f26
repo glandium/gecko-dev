@@ -1,0 +1,5 @@
+changeset 0c16110ecba61557a84ab9ff2a700cafec6987f4
+manifest d87bd99edf0e4bd374a99291867a68a779ab3e85
+extra rebase_source:cf7139ba22da4208c00dbaf1175abf1bfee6f5ba
+files xpcom/reflect/xptcall/md/unix/moz.build
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset b63ee28352e43eb966375c2a128e3a79d867c0c3
+manifest ca46d51cabfc9e680bfae66b76a0d81e326ca910
+extra rebase_source:5d6ee8c4c90383f8dd7cbdd8b79f1b3fe8ac18b6
+files toolkit/components/extensions/ext-management.js
+patch 326,400,

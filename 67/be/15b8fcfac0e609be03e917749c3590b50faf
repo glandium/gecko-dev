@@ -1,0 +1,5 @@
+changeset 8c6fcfca64219879ccdefa96ee04a33d39216fbe
+manifest 779dfa63cd791f888718f763e4769a9870347157
+extra moz-landing-system:lando
+files dom/bindings/BindingUtils.h
+patch 328,372,

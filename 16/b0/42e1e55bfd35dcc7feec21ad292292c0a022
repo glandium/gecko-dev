@@ -1,0 +1,5 @@
+changeset b47507e113e39a6b2df358c38237a3c92468d43c
+manifest 32b2862fe997e6a2ad36ad3f9fdb074101a5429c
+extra rebase_source:ef2e5127a5c56008771a434cc5c342ebeca1b7be
+files dom/animation/AnimationEffectReadOnly.cpp
+patch 536,610,

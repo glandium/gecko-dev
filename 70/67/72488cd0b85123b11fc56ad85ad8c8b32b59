@@ -1,0 +1,5 @@
+changeset abf61cd5fb773b2d48b47a7b0ba8ecdaf78ec613
+manifest 955045fb1caaaff9c7734f12785b57cc9d46b5a1
+extra rebase_source:d572a7994e917ce6cfb7708f5ca9a10f74720a1e
+files browser/components/places/tests/browser/browser_library_panel_leak.js
+patch 329,403,

@@ -1,0 +1,5 @@
+changeset a364f923e1c53a674fee4bfad5b52b4d294b4f36
+manifest 1819889a041111098b32e0cf52a3cb23b9571541
+extra moz-landing-system:lando
+files js/src/jsfriendapi.cpp
+patch 272,316,

@@ -1,0 +1,5 @@
+changeset bcabeb8c81a266a76bea170b3482bde25ca65c8a
+manifest db9ec066b35a922da34ad474a2cb42e82388f2f9
+extra rebase_source:c3a39c080aaa7208da14986dc0e85ccfb0c6a2a8
+files mobile/android/base/java/org/mozilla/gecko/switchboard/SwitchBoard.java
+patch 411,485,

@@ -1,0 +1,5 @@
+changeset c56155e57e01a4adbd98c9e9a8e804c544816004
+manifest 7775558e4c7afdf7670f6b8fab4f7eb1b360fa40
+extra moz-landing-system:lando
+files browser/components/customizableui/CustomizeMode.jsm
+patch 762,806,

@@ -1,0 +1,5 @@
+changeset f1a13ca79a5dbf5cfef03097748ed281de7cd168
+manifest bdf074637c7ae0b26c1fb0f3aec6a79e23eed74f
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/findInPage.js
+patch 378,422,

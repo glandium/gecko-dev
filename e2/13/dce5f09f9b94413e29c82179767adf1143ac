@@ -1,0 +1,5 @@
+changeset e805540bfd7a9966e2f2324fd086737ac6622657
+manifest d2206e64b1438b828c84015fcd89b1c9f40b4f07
+extra rebase_source:e15d67bba37ddb54c20f6ad37ce99469eb9fe742
+files tools/clang-tidy/config.yaml
+patch 304,378,

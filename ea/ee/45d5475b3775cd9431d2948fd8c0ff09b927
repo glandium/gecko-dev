@@ -1,0 +1,5 @@
+changeset 6da766edcce8b8c66cecce879728d60fabc1b8a8
+manifest 4d89f1cf556248fccf3a7a660d5102eebe3f31ed
+extra rebase_source:b13f2fb11c9e006a83c7d5c3175af001e384b55e
+files xpcom/io/SpecialSystemDirectory.cpp
+patch 1185,1259,

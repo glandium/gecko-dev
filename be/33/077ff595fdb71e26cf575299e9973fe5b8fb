@@ -1,0 +1,5 @@
+changeset 6b2e91dc30b0658f58b3f7dc2e525152f5486a5b
+manifest e5e22f96781e113e3fc32a7ec96812fe73491800
+extra rebase_source:6d632dc086d79a17e577da66336c77003d963f67
+files testing/mozharness/scripts/mobile_l10n.py
+patch 582,656,

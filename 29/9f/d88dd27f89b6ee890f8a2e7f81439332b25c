@@ -1,0 +1,5 @@
+changeset ccebec3c4e7e6dc2f50f24e4add8320f52c93088
+manifest b23168062698925d3572e317b75d1b4edc682878
+extra moz-landing-system:lando
+files testing/mozbase/mozlog/setup.py
+patch 280,324,

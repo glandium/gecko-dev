@@ -1,0 +1,5 @@
+changeset b38851147aa63233a4987247476f9ae544cfdbc5
+manifest 6ab2e4435c1fccdf94273632541567050f145c2b
+extra rebase_source:3dfafd9479371d3a47ec263a66942ddbfbefdb46
+files modules/libpref/Preferences.cpp
+patch 373,447,

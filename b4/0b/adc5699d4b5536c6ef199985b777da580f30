@@ -1,0 +1,5 @@
+changeset 94dbd3b4e5e5af03c38052afac6360462add039d
+manifest f03026cb481566f84e16090556e64801a6439c91
+extra amend_source:db7c32253ca547e9440405cfc3c97ce639eb7adf
+files browser/components/originattributes/test/browser/head.js
+patch 327,400,

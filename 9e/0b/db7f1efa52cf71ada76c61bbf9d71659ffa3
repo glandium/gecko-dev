@@ -1,0 +1,5 @@
+changeset 77ccceb898f88ad4cb580647e561e65dddec5b0a
+manifest 80fa2eab76faab1be9f4e4f82052fdeeb6ab0d83
+extra rebase_source:33fd6caaa4ada9530fe8d874b827d91ac355e0c1
+files layout/tables/nsTableColGroupFrame.cpp
+patch 500,574,

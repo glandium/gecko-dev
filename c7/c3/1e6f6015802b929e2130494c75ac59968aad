@@ -1,0 +1,5 @@
+changeset 76650f11d581af9fb3a04eb8bba226cd414760c3
+manifest 7cd99e7450cd2a54b4005afbe7029d2cc02cf748
+extra rebase_source:56a76a6a9eaa6e48d633fd2a2a0a6ef8b818f813
+files widget/windows/moz.build
+patch 275,349,

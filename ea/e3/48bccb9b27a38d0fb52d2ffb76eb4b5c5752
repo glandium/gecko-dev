@@ -1,0 +1,5 @@
+changeset 15345d697b84ad51ed76485f77aaaf93c9f2340d
+manifest 866470a4c69b0f7ea52b13e0828ad7abc6b96369
+extra source:2e536a204cec3d485c8861a4bcca96324e3b7ae1
+files servo/components/style/properties/declaration_block.rs
+patch 431,498,

@@ -1,0 +1,5 @@
+changeset 0fc972e77eb4916165c208f15b93f2fecc78f60c
+manifest 7507f473036ebba77a70861f1949e4ce7efb255f
+extra rebase_source:856ad0ee3e4d77fe6f388c4eca736d97d622043b
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/LollipopAsyncCodec.java
+patch 340,414,

@@ -1,0 +1,5 @@
+changeset 9339469b766a46500d09fefb8e3171413b2786e0
+manifest f95bdc486ecc81e24d7bb3008c16527e72e71dd1
+extra rebase_source:2c622396edef067b92393f1e5e5291db9105417a
+files widget/tests/window_composition_text_querycontent.xul
+patch 470,544,

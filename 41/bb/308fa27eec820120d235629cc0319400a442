@@ -1,0 +1,5 @@
+changeset 1ef55e0ab7300be515244574ef70c2607e94d2f1
+manifest bc72751b9973ee77b24b6b0f3e1464c871ae9810
+extra rebase_source:f9683d71247b9a8702ea4edb74d39b67a341f65f
+files layout/base/tests/marionette/test_accessiblecaret_selection_mode.py
+patch 382,456,

@@ -1,0 +1,5 @@
+changeset bc93ef323aa20d6ae6e4ef24a60267fb560344af
+manifest 033c4469150653543e06d991eec52801d62c18a8
+extra moz-landing-system:lando
+files testing/web-platform/meta/compat/webkit-appearance.html.ini
+patch 535,579,

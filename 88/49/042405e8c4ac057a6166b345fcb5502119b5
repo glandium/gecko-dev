@@ -1,0 +1,5 @@
+changeset d65ff6b9dbcd9a318555907fafe531fefbced8ed
+manifest b6cb1e80f4fe7ff5e4d4a250b7177a5401466e94
+extra rebase_source:e659c830fc278928db36b9aca48d9be3f1e869a5
+files toolkit/mozapps/extensions/internal/XPIDatabase.jsm
+patch 804,878,

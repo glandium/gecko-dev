@@ -1,0 +1,5 @@
+changeset 9f7d877140e65473e1e37d677bbd11f0691a8168
+manifest fb3a282a6cd26908b12da7471a1d51517bd564a4
+extra rebase_source:d3a6aac4042412d82aa1c3a5f47a40230d5297eb
+files gfx/webrender_bindings/WebRenderAPI.cpp
+patch 301,375,

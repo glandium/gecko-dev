@@ -1,0 +1,5 @@
+changeset 7f10456d052adcb863b57eab69ef38221645620b
+manifest a25d8b1daa37f7d6975817f87068c678bea83cc8
+extra rebase_source:6fce6c36c77518c1c75092c36e3e3454ae03a019
+files editor/libeditor/HTMLEditorObjectResizer.cpp
+patch 303,377,

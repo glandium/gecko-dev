@@ -1,0 +1,5 @@
+changeset e8989873ff18eb91579a1eda51a28b8da5b79db7
+manifest d91115a50b5894eeef515eb2d80da2a2fe123fee
+extra rebase_source:5dc9ff82dd30e965420fd3cda8c0df59744b779a
+files browser/base/content/test/webextensions/browser_webext_update1.xpi
+patch 298,372,

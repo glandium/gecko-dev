@@ -1,0 +1,5 @@
+changeset 1d40377d3c2558da69e641df37ab1948d91050ea
+manifest 0500f08479de3ecb7007b8da4483fdaac68b36c7
+extra moz-landing-system:lando
+files devtools/client/inspector/inspector.js
+patch 459,503,

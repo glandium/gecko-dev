@@ -1,0 +1,5 @@
+changeset 28c077e3738f82975f3b6d06aeec9f037073081e
+manifest a70f43576380582f2501ea2e20ad52977cd077fa
+extra rebase_source:01cf030c13fab256a4161e6fe2da466922f964d9
+files js/src/jsobjinlines.h
+patch 307,381,

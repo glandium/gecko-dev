@@ -1,0 +1,5 @@
+changeset e5fb2e369165426e1109bada6667539cae10b4a6
+manifest ac9b2a4b1a2867b066b94357a808133c60d36831
+author Dragana Damjanovic dd.mozilla@gmail.com
+files netwerk/protocol/http/nsHttpHandler.cpp
+patch 218,219,

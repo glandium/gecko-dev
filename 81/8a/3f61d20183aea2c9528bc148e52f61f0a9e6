@@ -1,0 +1,5 @@
+changeset af793aaa80dc4a9162aba3a3f4f6c47926a9958b
+manifest 60418ad065646ec3b8968cb9049ff65b2fc248b7
+extra rebase_source:3d680aa90623bfcd66b5bd82bcbf0d07e0a347cc
+files js/src/tests/shell/mailbox.js
+patch 299,373,

@@ -1,0 +1,5 @@
+changeset 0947fb7cdfd2038dd86da1abea2e8c039c7ea58d
+manifest e219a2593530b58d552d9232be417ec436b780ef
+extra rebase_source:944a57f9aa0c3ebec7e2f7d8f9c66f9c22ce36af
+files devtools/client/themes/variables.css
+patch 302,376,

@@ -1,0 +1,5 @@
+changeset 20b09b171574502215c62c6ddfef788041fd4165
+manifest 7a4038ddd1e76eb7283abed1adcd0ced6625f8da
+extra rebase_source:91644bb11fe27e45fdf954c6d146e00bfe3dd514
+files devtools/client/dom/dom-panel.js
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset acae3198b087f26a4f1da62588ec790f947125eb
+manifest 4dca2712db86661975b804f28f158fcbc271fd9f
+extra rebase_source:687a7b310270823180b848d6c65cba7ba688b2ae
+files ipc/mscom/AgileReference.cpp
+patch 466,540,

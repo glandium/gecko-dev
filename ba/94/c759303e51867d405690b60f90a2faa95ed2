@@ -1,0 +1,5 @@
+changeset c44d096d361a7bb520569e0a5e005fc5e093dcea
+manifest 188791edb353929256a548de416826d2982be941
+extra rebase_source:d641c6d6f27390f9dfaaeecffe2ec86a88617652
+files devtools/client/inspector/markup/views/element-container.js
+patch 308,382,

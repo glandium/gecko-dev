@@ -1,0 +1,5 @@
+changeset 7f4229cbc66563ced5b3277f58fc30295cfeb685
+manifest a0d446bf848c9b5133da337c84275fa4f5bcf452
+extra amend_source:0b6a48153e993dabcd51df6674dc60e66352fad3
+files browser/extensions/shield-recipe-client/test/browser/browser_ClientEnvironment.js
+patch 278,351,

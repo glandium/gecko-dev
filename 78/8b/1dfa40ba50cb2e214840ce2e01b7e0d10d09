@@ -1,0 +1,5 @@
+changeset b5aa40dbdc18c258e8cede20fc36cd6b672e91bd
+manifest 4f667e8852f7c8065cc43513559eeae3477c06e9
+extra rebase_source:92d7f17fc38cd03c98d7f2a63e57cc7e6d5ed516
+files media/libstagefright/binding/include/mp4_demuxer/Box.h
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 86505eb29b2c249407f32dab62c1003ab359f3cc
+manifest 43be9876e40a749a09e4e5bf6ccb2576d1f1effd
+extra rebase_source:16c89319749efa1f16a4909f6f9dacb59f76e3d1
+files widget/cocoa/nsChildView.mm
+patch 294,368,

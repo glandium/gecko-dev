@@ -1,0 +1,5 @@
+changeset 6751fa7c52610960e62ab6e743037c7f43951682
+manifest 271c9b0d923995848c04bf03d19dd1647c404dc6
+extra rebase_source:4606c31bdcb3ff3e4d108b3c9f58d0965b923072
+files dom/base/nsIContent.h
+patch 272,346,

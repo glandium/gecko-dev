@@ -1,0 +1,5 @@
+changeset af979c2baf41046a6fad16ab6eb7ff8b4acab818
+manifest 5a9ac1be0618bc5c4839984b59555b7b9880e419
+extra rebase_source:6e612ad00e834b2cf4014fdd3fbbc33c716ecf80
+files xpcom/threads/SchedulerGroup.cpp
+patch 346,420,

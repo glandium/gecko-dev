@@ -1,0 +1,5 @@
+changeset d85e5fb4421c39a263ea1268f39804a6c91f0bee
+manifest eea33b66216cd72ba28472b19b5701e216692289
+extra rebase_source:51b92b3f9b9349dc4953d3277cb1f251d222c369
+files gfx/thebes/gfxPlatform.cpp
+patch 246,320,

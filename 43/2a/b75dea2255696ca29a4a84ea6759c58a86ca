@@ -1,0 +1,4 @@
+changeset 12bfd7a50a79e0509aabf9e97b72013a93d747d4
+manifest fc036316a75c6e00613d5a256fb701a5512d819d
+files taskcluster/docker/diffoscope/Dockerfile
+patch 216,217,

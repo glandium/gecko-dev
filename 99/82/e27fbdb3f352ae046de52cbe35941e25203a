@@ -1,0 +1,5 @@
+changeset 7e125b229e2990eeeae27927415ca5ea4a9ed77e
+manifest fb9e88b25f6f30388160ce597cea0b00d454768f
+extra moz-landing-system:lando
+files devtools/client/shared/components/menu/MenuButton.js
+patch 343,387,

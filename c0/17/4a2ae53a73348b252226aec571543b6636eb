@@ -1,0 +1,5 @@
+changeset d70fba3550b4f487e64eaa4f4068df5fbfe90403
+manifest 3bb201bcf5d4946d8dbd4c433a7f0ce788933355
+extra moz-landing-system:lando
+files js/src/jit/CacheIRCompiler.cpp
+patch 308,352,

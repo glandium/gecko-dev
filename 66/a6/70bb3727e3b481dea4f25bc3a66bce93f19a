@@ -1,0 +1,5 @@
+changeset 64dbabacba57318ce3a7844adf428dbcdfa35ab0
+manifest a52da38748cb8a55df2d6feda5c4c86f3492de89
+extra rebase_source:5ab70507c4471e912b625cee6438280b8b5bb686
+files dom/base/nsGenericDOMDataNode.cpp
+patch 277,351,

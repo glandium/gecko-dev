@@ -1,0 +1,5 @@
+changeset 6adaa75e18dd417ea46ad0d7cf800e74679c7d02
+manifest 0e5077654c0be0099eef7af104b74e7bdfcc3cdd
+extra moz-landing-system:lando
+files widget/cocoa/TextInputHandler.mm
+patch 704,748,

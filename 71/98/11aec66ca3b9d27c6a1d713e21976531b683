@@ -1,0 +1,5 @@
+changeset e94c43d92f18abcf29cbca12f59ed4e92224de87
+manifest e1f42b903c5ace002c962ea90c075ada7527e20a
+extra rebase_source:900793c4b42cde37ad38e212c6fe8f3aff2a72bc
+files browser/components/preferences/in-content-new/privacy.xul
+patch 376,450,

@@ -1,0 +1,5 @@
+changeset fddd866cc32c6500d35100a77a7c2c37dfbb6828
+manifest df826f43b95aed1d46652ae4ac92486639e268fd
+extra rebase_source:9ce5441bc6bca1827a6e5fff044df84a3b7bd316
+files js/src/devtools/automation/autospider.py
+patch 251,325,

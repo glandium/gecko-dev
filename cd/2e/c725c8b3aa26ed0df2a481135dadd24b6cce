@@ -1,0 +1,5 @@
+changeset 668b300615182a466a4d4568962b19959ae069a4
+manifest 2650658b973ddbfc0c938aa7fc6fd1d20dfa7b9b
+extra rebase_source:40121cae1868d4870a5aa05e3514a75891c3d77c
+files taskcluster/docker/rust-build/repack_rust.py
+patch 545,619,

@@ -1,0 +1,5 @@
+changeset 87c849a40f9d8b5c2f54a2f5228827059f43b357
+manifest 794b7160f76e07538c29ddf4399d8d4efe80980c
+extra rebase_source:6b2f087709015882929b2cf533160eb1695067e6
+files layout/reftests/w3c-css/failures.list
+patch 487,561,

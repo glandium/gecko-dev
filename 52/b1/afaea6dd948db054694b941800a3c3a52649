@@ -1,0 +1,5 @@
+changeset 412b3c06c06d191d1c0db2d19ccb5e9ff954813d
+manifest 4d471a2c9a22927eb384382b8021d0279d853576
+extra rebase_source:d368302e6eb7d0bda9f5492c632f84ff70974429
+files toolkit/crashreporter/minidump-analyzer/moz.build
+patch 311,385,

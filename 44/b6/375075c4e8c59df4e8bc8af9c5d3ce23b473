@@ -1,0 +1,5 @@
+changeset 44f885bc7c227aa6c6c7862629f55e2e16c1f4d4
+manifest b01a0602c12bef28a690c71f2b0c01437132628e
+extra rebase_source:36b3cbe1a6a9e5cd163782c1c13653be8558a03a
+files taskcluster/scripts/builder/build-android-dependencies/repackage-jdk-centos.sh
+patch 387,461,

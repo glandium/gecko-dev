@@ -1,0 +1,5 @@
+changeset c4029bc621f59edca2c3e0011ca50747be81b2c7
+manifest 84af7ec608f10c0f2c076336a44ca95a9d59e201
+extra rebase_source:592af1d2f55b7964d2b84c8e6f3def310557a866
+files netwerk/protocol/data/nsDataChannel.cpp
+patch 418,492,

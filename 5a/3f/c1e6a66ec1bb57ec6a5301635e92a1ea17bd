@@ -1,0 +1,5 @@
+changeset 72a9bca22654ea28ba17a50d9dd9d078e14fa309
+manifest d89b1b7e8194143bf11a838db109b01e4c9232e5
+extra rebase_source:a95f5af6d5ad96541bf54ecc42fc6735360cc7f2
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/topsites/TopSitesCard.java
+patch 371,445,

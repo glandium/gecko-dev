@@ -1,0 +1,5 @@
+changeset dccca441b9803ac8672d0135ea208826333fcdfc
+manifest 57b9df2bed8afacc0a2ef961c284277ff062bc1d
+extra moz-landing-system:lando
+files devtools/shared/client/debugger-client.js
+patch 345,389,

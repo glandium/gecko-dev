@@ -1,0 +1,5 @@
+changeset 02896a1245a546f6202a2c1b01ee72b35d3daf50
+manifest 7a669158cec14cdd7238a9cc0a9d112c20f71052
+extra rebase_source:aafb41aa59febf14c688be720e51503b0d7b3427
+files testing/mozbase/mozprocess/tests/manifest.ini
+patch 290,364,

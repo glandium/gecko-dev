@@ -1,0 +1,5 @@
+changeset fed8a2c0d3147025fc0d555a217c625003adb19f
+manifest d6caaa11286190f9345383d8cd9035bcaea95f6b
+extra rebase_source:fdcb4f67f2fab40108911ce1935b9643472b2fdb
+files extensions/spellcheck/hunspell/glue/mozHunspell.cpp
+patch 303,377,

@@ -1,0 +1,5 @@
+changeset 1470c550ab6d543cbeaeac953fba00df9cb69626
+manifest 8fccf67f13ed05559cc4842accf8b249008f7bad
+extra rebase_source:2537cd400cf6622c365a67d8c9e9e3236f6f023d
+files browser/components/extensions/ext-sidebarAction.js
+patch 331,405,

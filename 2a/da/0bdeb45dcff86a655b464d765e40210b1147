@@ -1,0 +1,5 @@
+changeset 0ecf239647a414cd19f42a1262759518f9c6eb08
+manifest e8889ab37c78a1bd2168c5d41f9911e9e5474296
+extra moz-landing-system:lando
+files browser/components/nsBrowserGlue.js
+patch 327,371,

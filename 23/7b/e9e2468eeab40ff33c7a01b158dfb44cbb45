@@ -1,0 +1,5 @@
+changeset 99285afe81d61c020955558d45ac31709b866da8
+manifest 7c15aeed3f8e3661640fdb7d39d904c80be93d82
+extra amend_source:67da1820e99848c108f24ec67dbb5755a708c205
+files dom/canvas/test/webgl-mochitest/mochitest.ini
+patch 264,337,

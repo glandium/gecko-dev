@@ -1,0 +1,5 @@
+changeset b8b0f4d2fa2cbc951383d18f28f72a34a77d32a1
+manifest 1e42a9c17b20eb66e2ffe8a35405c91fb6e53f8d
+extra moz-landing-system:lando
+files tools/lint/eslint/eslint-plugin-mozilla/tests/use-returnValue.js
+patch 326,370,

@@ -1,0 +1,5 @@
+changeset 1e4caa4e405acf1a7de8edca712c49f51eaeb31a
+manifest 612b3103afb86d94b0a2394c4f592eb1b925c056
+extra rebase_source:6b08ff312f596b56d31b444e670f442c47d7d110
+files gfx/webrender/src/renderer.rs
+patch 496,570,

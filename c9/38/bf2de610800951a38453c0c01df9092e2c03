@@ -1,0 +1,5 @@
+changeset e933d5d558ec8e57bdb1e6f302a180d68ae850c5
+manifest 745f64b860ddf3616253c6cb3506a918e3c4c225
+extra rebase_source:e4ad36c76c6ccdff86ad9749c3968d7f0438531f
+files toolkit/system/gnome/nsGIOService.cpp
+patch 687,761,

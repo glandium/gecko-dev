@@ -1,0 +1,5 @@
+changeset af4655e3719ae83b55bb4654e3cbcdd496bd4062
+manifest 63131eca3cc78c6dea48addbc0ec3c458f7a2a79
+extra rebase_source:b821eadc8f02569d2c763613c88afd4f188795bd
+files browser/base/content/aboutDialog.js
+patch 298,372,

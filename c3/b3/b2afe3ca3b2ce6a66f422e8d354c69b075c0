@@ -1,0 +1,5 @@
+changeset eb48848a375b4374a279ef87794cbc54eadc2f67
+manifest 3961fa7c222f48f3d69931d1060aa65c47b66c91
+extra rebase_source:f755e66c37a3bd1c045a992102b59d37dacfbce8
+files toolkit/mozapps/extensions/test/xpcshell/test_install.js
+patch 334,408,

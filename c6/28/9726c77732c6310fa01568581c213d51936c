@@ -1,0 +1,5 @@
+changeset 7b2482a5eb049a0e79824daf206c0e36a31305b0
+manifest 2b3005d9cbacd09a7e577beae69bbd1bdd451e19
+extra rebase_source:2776b52c02abaa2522f992739d5c8febbe368b5d
+files testing/web-platform/meta/webvr/idlharness.html.ini
+patch 747,821,

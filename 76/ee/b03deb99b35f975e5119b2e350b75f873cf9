@@ -1,0 +1,5 @@
+changeset 89a67ef04c61a3f01146f082676259e2ac585fbf
+manifest f7868024767b0369f2d6f713d04714e3bf47d503
+extra rebase_source:3f507ca5776e4ad63ac2ea71f20376519953274c
+files gfx/2d/DrawTargetOffset.cpp
+patch 478,552,

@@ -1,0 +1,5 @@
+changeset dcedddab6d8947a557b3a9f1724a2a37a4f13b54
+manifest fa9c94a26af540947eca2c62d79a54fe72e0f81d
+extra moz-landing-system:lando
+files tools/tryselect/tasks.py
+patch 717,761,

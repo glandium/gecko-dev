@@ -1,0 +1,5 @@
+changeset 8feb305b9cff05220ba5f5473932400f7d11ec09
+manifest 46f0fca80e42e74d919e135f37eb811c84629199
+extra rebase_source:db21b85604b4e486d54fa45c993a32a64d76778c
+files mfbt/FastBernoulliTrial.h
+patch 233,307,

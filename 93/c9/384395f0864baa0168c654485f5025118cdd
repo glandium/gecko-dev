@@ -1,0 +1,5 @@
+changeset 9e57229ccdb9c231c9506e115fd7f64fd84cb1b6
+manifest 9b51fcbb1dd34d9a54fa3357d80b55ef451d030f
+extra rebase_source:81e8d4edf6e2fe17b42cff3fbcd0f6c3ddc96bc8
+files python/mozbuild/mozbuild/frontend/reader.py
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 26b0f3f9fca10fc215d2c597050e20ed21cad510
+manifest 5a5b226ab75b632035421d5c92e0c77949b9a324
+extra rebase_source:2f02189d0288e833debb2d4ca47efbca632924e5
+files intl/locale/windows/OSPreferences_win.cpp
+patch 610,684,

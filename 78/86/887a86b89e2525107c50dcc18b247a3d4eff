@@ -1,0 +1,5 @@
+changeset a70d8500b13aa2bb046a65e417a836f22d15d4cc
+manifest cf14b5d69783e00845da368150ac70c380c25d7f
+extra rebase_source:f279021f013bcfb4e671b9c6d609f342b57faac9
+files mobile/android/components/SessionStore.js
+patch 327,401,

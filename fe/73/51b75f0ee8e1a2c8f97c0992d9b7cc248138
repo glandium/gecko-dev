@@ -1,0 +1,5 @@
+changeset dc7e50632df14bad20cd11b2c1bedab587676ed5
+manifest 6155192a60245c4cabe7128b2345b171577bd384
+extra rebase_source:64eadae51b0192231846327c0e677154287bd1a6
+files tools/profiler/gecko/ProfileGatherer.cpp
+patch 1000,1074,

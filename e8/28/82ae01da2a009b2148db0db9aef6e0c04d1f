@@ -1,0 +1,5 @@
+changeset 44c791154e7cb7108749362de3340ee69e4f9bb0
+manifest 02678d74a9dd4a1850897e87be8d05cfb62ca9b0
+extra moz-landing-system:lando
+files python/mozboot/mozboot/bootstrap.py
+patch 361,405,

@@ -1,0 +1,4 @@
+changeset b5a05c5f134c06a0f4419d2a27d53070e6831160
+manifest 40488e0e72fcacbda35b276986f6674b582913cf
+files devtools/client/webconsole/test/mochitest/browser_jsterm_no_autocompletion_on_defined_variables.js
+patch 252,253,

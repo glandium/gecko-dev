@@ -1,0 +1,5 @@
+changeset 48f24f61c8b662bf2cbba2e180ed6169f3234437
+manifest c8f16e047645d4dfd9995583c3d6720e05d4fccf
+extra rebase_source:01a2a65de62d0ad04db85e7554ab8d8ea86006de
+files mobile/android/base/java/org/mozilla/gecko/telemetry/pingbuilders/TelemetryCrashPingBuilder.java
+patch 391,465,

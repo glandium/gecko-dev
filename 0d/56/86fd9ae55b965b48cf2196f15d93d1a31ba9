@@ -1,0 +1,4 @@
+changeset c24e3cffb4b7bc364ce527e3c553cb60435c0934
+manifest 853c0e44c9075fb25c7b2e878465cc3ae7284643
+files servo/src/components/script/html/hubbub_html_parser.rs
+patch 376,377,

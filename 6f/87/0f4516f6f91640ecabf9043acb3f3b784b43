@@ -1,0 +1,5 @@
+changeset 02dfd5908dce4fdcfebc56993350030f37d8259c
+manifest 79ff77519fcaf3a7615b624290f7d21e1f5eac4e
+extra rebase_source:286583c22238b02ecc585777e62f16acaf557e80
+files browser/base/content/test/webrtc/browser_devices_get_user_media_in_frame.js
+patch 353,427,

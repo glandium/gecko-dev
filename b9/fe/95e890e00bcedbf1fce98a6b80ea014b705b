@@ -1,0 +1,5 @@
+changeset 3def9b35478f9f5d25a9ff4f16d2836931f5335f
+manifest 07501b4faffec9b1c54c0a1409deece8bdb6c077
+extra rebase_source:545de6efa0efb3935a22dd6e5375f0b6fe0d3d57
+files netwerk/protocol/res/ExtensionProtocolHandler.cpp
+patch 498,572,

@@ -1,0 +1,5 @@
+changeset 57d58de5d58daa70b93b53117e7300820637d7ef
+manifest 5e888a9116cfe771abb4a3141791c13a519c2ccb
+extra rebase_source:1120061259fc8e5d4ceb067da41ef350584871c9
+files toolkit/components/extensions/parent/ext-tabs-base.js
+patch 301,375,

@@ -1,0 +1,5 @@
+changeset a748ff0b5e481a826f653e9f472a6df6f9821dd6
+manifest a14b5db3ac7de5ffe4af31b20d0def1d64e13ab5
+extra rebase_source:5419bfbbe2abcc33fe9b191c87ef175aa84907b8
+files devtools/client/netmonitor/src/components/headers-panel.js
+patch 320,394,

@@ -1,0 +1,5 @@
+changeset 4531e50e1f3cb63b6be1538a1ba48dd18bbbd7b7
+manifest 18490f9f06e8f535f2e4fdba11add9b153bc3926
+extra moz-landing-system:lando
+files devtools/client/webconsole/test/mochitest/browser_jsterm_autocomplete_in_debugger_stackframe.js
+patch 429,473,

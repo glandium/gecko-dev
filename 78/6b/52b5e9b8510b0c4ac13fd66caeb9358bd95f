@@ -1,0 +1,5 @@
+changeset fad0b0be486a2c44198a025983f4ad138d02ec8b
+manifest ad92eb69b18fd71fafaaaa320e5dadb080e9b1d5
+extra rebase_source:b8283e2eb3da96601adced69fb4629abc018f712
+files devtools/client/storage/storage.xul
+patch 302,376,

@@ -1,0 +1,5 @@
+changeset 09210ae19019330ec2581480ba719176a309e98c
+manifest c6f8390c0649c15463d592341b4526ec25bf0216
+extra moz-landing-system:lando
+files widget/gtk/nsNativeThemeGTK.cpp
+patch 284,328,

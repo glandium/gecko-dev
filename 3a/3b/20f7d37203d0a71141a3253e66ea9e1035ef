@@ -1,0 +1,5 @@
+changeset 5ee4ea4aee38ee6ef53d5d1301080833b50f37a3
+manifest 1afdfb68f7f4e03480ae88311627cc3ce9f03eaa
+extra moz-landing-system:lando
+files browser/locales/en-US/browser/preferences/connection.ftl
+patch 345,389,

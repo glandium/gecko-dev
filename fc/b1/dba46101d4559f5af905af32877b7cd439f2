@@ -1,0 +1,5 @@
+changeset b00ba83901bb76eddf089eb18e6984e6df5c4a4f
+manifest f105cf0d23849146d09310347b3fd241a85cf415
+extra rebase_source:2f12d0acab93994d4d25cc200daeb0b16996a7b5
+files devtools/client/aboutdebugging/components/addons/Controls.js
+patch 303,377,

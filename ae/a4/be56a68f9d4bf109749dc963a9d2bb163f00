@@ -1,0 +1,5 @@
+changeset 2222a3f4ae1b0ab8bea4ae6e656a77e6be083742
+manifest 459efcf6778073c934a4df74cebf9cc1928e768c
+extra rebase_source:1852f0529c485fc97fb21665261d70239fb677ae
+files python/l10n/fluent_migrations/bug_1435912_preferences_general_xul.py
+patch 330,404,

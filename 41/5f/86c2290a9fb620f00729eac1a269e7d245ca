@@ -1,0 +1,5 @@
+changeset 3de53d306319456c567a704918bb1680533919af
+manifest 251b3556ff8d792051310f8e23ea49aabcd69701
+extra rebase_source:ba70cc721f8a7f0993442c0df1770d8a15a87170
+files browser/themes/shared/compacttheme.inc.css
+patch 475,549,

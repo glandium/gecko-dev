@@ -1,0 +1,5 @@
+changeset c1a21b5a5175452c8cfc34461e932a05a41c96eb
+manifest b9a058164970fff61bbba80f2f1067a833ba8587
+extra rebase_source:1019d56f880f69ef1ab9a8f5517c3f653a0d9595
+files third_party/rust/bindgen/Cargo.toml.orig
+patch 327,401,

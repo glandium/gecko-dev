@@ -1,0 +1,5 @@
+changeset 838f16e6dcf2239d5b94dc5d5086f22558467dba
+manifest 525cf15e0d8956e6f3c2dd7b57a17db1134cd867
+extra rebase_source:e11be23b19088eb9b6179e236acc0f3eed40671c
+files toolkit/components/aboutmemory/content/aboutMemory.js
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset 94dabc6479b22c85b59722f94cebf7371f0de4d0
+manifest 326c27ea9c012a74eaea850542ab3b376872e33e
+extra rebase_source:db3058559757b8f4df2a7d6cb9b31013cec220e2
+files layout/generic/nsLineBox.h
+patch 341,415,

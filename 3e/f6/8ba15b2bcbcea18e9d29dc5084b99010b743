@@ -1,0 +1,5 @@
+changeset cfc581f4768c3a9424902541747e805749565e13
+manifest d2e2fc2c553fe8b1be78f88daedf06c71235860a
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/actions/ui.js
+patch 394,438,

@@ -1,0 +1,5 @@
+changeset 0ab0d909476f55bd58181485889f0a31d032b308
+manifest c66ec3f855b3ee5ab8317c2701e6f2a65312cfa3
+extra rebase_source:67a45d6f59f39fcb84bf84af7404718d6d181e5d
+files js/src/util/NativeStack.cpp
+patch 235,309,

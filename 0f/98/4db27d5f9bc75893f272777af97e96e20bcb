@@ -1,0 +1,4 @@
+changeset 89b29e846791ee116c4374361bcff50088e009ed
+manifest 3c4bb87261f6e6d3aa9e5ed5a235d820f2f5edfe
+files toolkit/components/extensions/test/mochitest/test_ext_contentscript_create_iframe.html
+patch 304,305,

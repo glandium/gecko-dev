@@ -1,0 +1,5 @@
+changeset 17454360b8c5106a16f183f69b35024eca5c1cee
+manifest 5d7b393fc7daac13e4714fc3ad861d30df39f3a9
+extra rebase_source:d46f2708c2a9cfdb166ae99d7aaa127eb008acc7
+files devtools/client/framework/test/browser_toolbox_zoom_popup.js
+patch 521,595,

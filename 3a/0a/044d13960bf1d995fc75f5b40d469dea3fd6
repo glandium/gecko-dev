@@ -1,0 +1,5 @@
+changeset 7175a2fbf5047e556f7978c91cfd16602c7a4160
+manifest aae0785924adbe48a2008890f9e9e199df9cbee3
+extra rebase_source:d72452708fa0397272b79247d9d4844b35e5ee26
+files taskcluster/docker/recipes/install-mercurial.sh
+patch 1040,1114,

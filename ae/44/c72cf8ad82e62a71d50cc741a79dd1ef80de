@@ -1,0 +1,5 @@
+changeset 135512b63ffc0ba69ee632474f51a9223f8a802c
+manifest a151d107df5b95fda43b1a571d9396bb05a7714b
+extra moz-landing-system:lando
+files browser/components/search/content/search.xml
+patch 291,335,

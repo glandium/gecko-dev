@@ -1,0 +1,5 @@
+changeset 562edbba63e650c76765bd60f4ff17b6bc658407
+manifest add856fa15c7efb8da0fb657ef2142ff503b28e0
+extra moz-landing-system:lando
+files dom/encoding/TextEncoder.cpp
+patch 316,360,

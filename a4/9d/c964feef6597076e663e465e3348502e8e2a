@@ -1,0 +1,5 @@
+changeset 0e1f60508407f11848916a8b881cad85da70b414
+manifest 4dea000e7640dec58a493535d2e8ad8ac547b739
+extra rebase_source:4eca32c001f69513c4c53eaa2064f423f8bd7ed0
+files devtools/server/actors/highlighters/shapes.js
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset b00f52ee67ba46fc48117304a161c5ff91cc16a7
+manifest 0f1ecf469ec97c9c0402823e66a1865d652b0b3f
+extra rebase_source:04b04ca1aa40b1e1e32ab40bbdeaf35e7f99b411
+files testing/web-platform/meta/html/semantics/embedded-content/media-elements/loading-the-media-resource/resource-selection-invoke-remove-src.html.ini
+patch 516,590,

@@ -1,0 +1,5 @@
+changeset b73f534f457f317ee4638d4a1e704d34df4c836f
+manifest 87a068c120024ccc6b616e43bdfd44b657390815
+extra rebase_source:a2cddea1890d536d5c8a4a80b8fbc626252deb2b
+files docshell/test/test_bug123696.html
+patch 269,343,

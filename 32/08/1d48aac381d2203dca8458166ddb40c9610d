@@ -1,0 +1,5 @@
+changeset 0c617268ad37a5a89f7134956095c9037fa85b21
+manifest 7f5b1866cb2753eeaed50f9cf4a85d2e583df42d
+extra amend_source:dbd613ec9ed864aa07e957fc181e2554097d1cc5
+files mozglue/misc/TimeStamp.cpp
+patch 238,311,

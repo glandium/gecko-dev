@@ -1,0 +1,4 @@
+changeset b75e6bb295a948cda358d42f96a0b8c95db8655d
+manifest 293ab4348ca9620abba9ea0c2969ae62edab3d6c
+files mobile/android/geckoview/src/thirdparty/java/com/google/android/exoplayer2/upstream/DefaultHttpDataSource.java
+patch 519,520,

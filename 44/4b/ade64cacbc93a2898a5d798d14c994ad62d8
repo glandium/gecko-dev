@@ -1,0 +1,5 @@
+changeset a13ecbafd932558b873bf60c877fa1451b1d67a3
+manifest 65e2829bb0abcbf6dc9ce5a7dfa8be5e9a91d4dc
+extra rebase_source:0c854f02696cdf24621eeea576ff420f04694adc
+files browser/extensions/shield-recipe-client/lib/Heartbeat.jsm
+patch 370,444,

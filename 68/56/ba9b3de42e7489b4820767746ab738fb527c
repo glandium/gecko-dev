@@ -1,0 +1,5 @@
+changeset 12855beedd3e19adb6cb233cbc629dcf534a6f22
+manifest 8816839a22a53ec39bb262bedf2a13461704955d
+extra rebase_source:97b50fa34186f9c92f0d01e1d486137b5159a8bd
+files media/webrtc/trunk/webrtc/modules/video_capture/mac/avfoundation/video_capture_avfoundation_objc.mm
+patch 360,434,

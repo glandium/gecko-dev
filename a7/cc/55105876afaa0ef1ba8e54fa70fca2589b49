@@ -1,0 +1,5 @@
+changeset 99cf11868f478c5715c1cecdb12530bf9b736dc1
+manifest 6f905315beb03ad1df2157b99eb2e1eef0e6c2be
+extra rebase_source:8595baf25b650b2382f781f809a294af0a9c182c
+files browser/modules/Feeds.jsm
+patch 443,517,

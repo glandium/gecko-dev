@@ -1,0 +1,5 @@
+changeset 39e9b069c41563d643db57b01f0c4ea109759f73
+manifest fce8d5d6f85bba0ae67ccc3cf29f4f8af3884c7c
+extra rebase_source:311ba02325179f62f7a734ab5ae9f5a184a20d78
+files browser/components/places/tests/browser/browser.ini
+patch 356,430,

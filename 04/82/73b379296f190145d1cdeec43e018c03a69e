@@ -1,0 +1,5 @@
+changeset 93fccab4f951f154e61e87081ceae912d16db025
+manifest 4e603f5215596414aa2c878bc56024a1ef4a8ed9
+extra moz-landing-system:lando
+files toolkit/components/telemetry/docs/start/adding-a-new-probe.rst
+patch 321,365,

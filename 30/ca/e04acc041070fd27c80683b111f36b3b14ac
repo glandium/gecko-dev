@@ -1,0 +1,5 @@
+changeset f069f3c695977904c4b2dda44a5218efe17d28b5
+manifest 52bf5e737ddbf9cb4fe9e8fb01167bfabc22e1d6
+extra rebase_source:a443c3bff2a716620448e869aeadd6c9b34e1f53
+files mobile/android/components/geckoview/GeckoViewPrompt.js
+patch 307,381,

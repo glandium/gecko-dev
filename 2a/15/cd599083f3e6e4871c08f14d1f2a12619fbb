@@ -1,0 +1,5 @@
+changeset 0464922649173660387fe62569a932a62fd37287
+manifest 862bf2a44dd6aabd43405ea6ebfc67d6d21d936c
+extra rebase_source:2f8beb81d40d73caaf70f935cbbcb1fbfb2da535
+files parser/htmlparser/nsScannerString.h
+patch 320,394,

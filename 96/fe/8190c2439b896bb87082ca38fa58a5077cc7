@@ -1,0 +1,5 @@
+changeset 0db1768c15099a65a1858e34d2143e5340b24108
+manifest 5c69fb579496fd8b0fcb24b6d8bc44ce9d7f27dc
+extra rebase_source:062d201073a13a906e156cee6592ef5251ab39d6
+files python/mozlint/mozlint/vcs.py
+patch 312,386,

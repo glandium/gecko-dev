@@ -1,0 +1,5 @@
+changeset 05d423e6353756ccc65fd28d04b0af843a2e051d
+manifest 6d1edc7124f3669f5ea09225b4da00ece953f382
+extra amend_source:ef160b8921947461fc0877215b291e5667bbc2c3
+files testing/web-platform/mozilla/tests/wasm/js/globals.wast.js
+patch 270,343,

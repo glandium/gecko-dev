@@ -1,0 +1,5 @@
+changeset 4e2f1afadef23d2cbe85b98fd501898cd2dc4b0d
+manifest 21a101ec052bdbd219772a4299d8143b3728da25
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/internal/AddonTestUtils.jsm
+patch 597,641,

@@ -1,0 +1,5 @@
+changeset 52512f137a66ea7a9e9ff9889adace2324c42952
+manifest bbfa3dba5ff3ff8fec3ac9655028e850763f5717
+extra rebase_source:992071259dbfdf0a0a9bc3585c3dcb27938525ff
+files toolkit/crashreporter/nsExceptionHandler.cpp
+patch 270,344,

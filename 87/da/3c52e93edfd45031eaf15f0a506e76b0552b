@@ -1,0 +1,5 @@
+changeset 2eb5810dad5b0e400f1906d46784f8c15ef4d0db
+manifest 413542da49d056a4703e65c3721abc47317f076a
+extra rebase_source:c6cf33a8d23c1d6fec4898b847767a3c4b4b7cdc
+files testing/mochitest/tests/SimpleTest/WindowSnapshot.js
+patch 284,358,

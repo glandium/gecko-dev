@@ -1,0 +1,4 @@
+changeset 546d282a9c3a6a5d52b0475212d25381d90e48d7
+manifest 8a65e7a78e8cf9f3a9d7f1fda2b7fab236b7bb7b
+files servo/src/components/gfx/text/shaping/harfbuzz.rs
+patch 423,424,

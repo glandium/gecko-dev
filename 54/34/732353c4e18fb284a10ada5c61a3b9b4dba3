@@ -1,0 +1,5 @@
+changeset 0ed3f8f103c013b9c360360c6337956175b59ef5
+manifest 87cea12dd6596a218c87202439b6e2634b5ab218
+extra rebase_source:41994cf4a198ac7c1e7a3a6334c367847c835af2
+files js/src/frontend/TokenStream.cpp
+patch 342,416,

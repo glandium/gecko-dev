@@ -1,0 +1,5 @@
+changeset 97fd4316ee229a7feaed11d593b68e5a443e5f90
+manifest 4b9890208724595279ecbe40595f3847051c14d0
+extra rebase_source:4545b70db1a608fdf736c6ff4c02836c00c80e93
+files gfx/layers/client/ClientPaintedLayer.cpp
+patch 746,820,

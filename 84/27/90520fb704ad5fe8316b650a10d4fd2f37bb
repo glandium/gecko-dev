@@ -1,0 +1,5 @@
+changeset e538796068a5fed9153759d1345f770d92357840
+manifest ff459922712ac4d8822c3bfa23d21a0b16b7481c
+extra rebase_source:0b875b0a375e9254eec3d1c569274fae8edfdcfe
+files layout/svg/nsSVGOuterSVGFrame.cpp
+patch 468,542,

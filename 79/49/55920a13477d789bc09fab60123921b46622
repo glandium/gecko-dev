@@ -1,0 +1,5 @@
+changeset 5d12c0ceb2a517aebc6b1664d21b50baad1c55f3
+manifest 26513a5360700470efb5032c29ccc9e1ad5dd9ff
+extra rebase_source:467b9d885e92c1c855ed547f2a7496b1062f2dc2
+files testing/mozbase/moztest/moztest/resolve.py
+patch 469,543,

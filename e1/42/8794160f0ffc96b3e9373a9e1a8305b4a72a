@@ -1,0 +1,5 @@
+changeset 84ad3a2b20d0d73c4a0659ea8e1eeefb97c68ee6
+manifest 7b8b52e7a783a6f464ee3c9236a919027f006e2f
+extra moz-landing-system:lando
+files tools/fuzzing/ipc/ProtocolFuzzer.h
+patch 312,356,

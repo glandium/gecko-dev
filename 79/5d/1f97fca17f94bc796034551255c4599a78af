@@ -1,0 +1,5 @@
+changeset 64e7486cf038872939913a21c2e1e68f09cb1000
+manifest 0ee31d945f03fccd71fd7dbd1be8065c725ee835
+extra rebase_source:3e2acfe3eea087a2a201dbf2bf47e6981380c7b8
+files mobile/android/app/src/photon/res/layout/home_smartfolder.xml
+patch 487,561,

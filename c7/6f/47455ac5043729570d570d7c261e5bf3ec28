@@ -1,0 +1,5 @@
+changeset c359697043078fa233fd45d044263fe6db5eeb3d
+manifest e4adbdf494b29ab5458a17135a6c83e9291ac4c7
+extra moz-landing-system:lando
+files netwerk/protocol/http/HttpBaseChannel.cpp
+patch 371,415,

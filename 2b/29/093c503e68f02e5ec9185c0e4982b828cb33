@@ -1,0 +1,5 @@
+changeset 1239495d7a606ce1306d7b6dc4a5e4eed4368b94
+manifest dd66aa1db3665002f4b081eed5bb3ecf227df321
+extra rebase_source:37f3112383f8073d1afa220ff7e8ac4d7fc38ec5
+files services/sync/modules/engines/prefs.js
+patch 503,577,

@@ -1,0 +1,5 @@
+changeset 0109ac9d3b1aec13a1c787468da02f39fde664e6
+manifest 11aee896d4ac6114e0448ce026031f36d1ec0e47
+extra rebase_source:95dccf7e490f9c873a181a7024e4145d55c02185
+files xpcom/base/nscore.h
+patch 268,342,

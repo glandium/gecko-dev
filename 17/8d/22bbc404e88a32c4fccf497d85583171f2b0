@@ -1,0 +1,5 @@
+changeset 43db36acc04fc464e9f75b79bf635e7cc2ba328b
+manifest c9ea894fd18b598b9cd559fa8a292c56061a0e85
+extra moz-landing-system:lando
+files browser/components/pocket/content/SaveToPocket.jsm
+patch 321,365,

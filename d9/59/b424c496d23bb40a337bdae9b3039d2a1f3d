@@ -1,0 +1,5 @@
+changeset 68faf9528d57faadba69b18e883a3d291a504b5e
+manifest 291d38bbb2cc71e917bba6a8e86644e2a26609cd
+extra moz-landing-system:lando
+files toolkit/components/normandy/content/about-studies/about-studies.css
+patch 329,373,

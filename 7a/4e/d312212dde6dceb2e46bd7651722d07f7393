@@ -1,0 +1,5 @@
+changeset bc8fbf503fea22d3db9d44a2e79e440c6c86490a
+manifest 4c79d1f9f6ca42fad80f31341d5458a38ddd4c98
+extra rebase_source:93446a8ab938c66f01d1166d17da6262390c728b
+files security/sandbox/linux/SandboxFilter.cpp
+patch 286,360,

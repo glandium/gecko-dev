@@ -1,0 +1,5 @@
+changeset bc3f6f7249edd9d126669ba7a4f22b49eddbc6b3
+manifest 47d377256348096f87abe16da5fe9ca4d6b9b7cd
+extra moz-landing-system:lando
+files services/sync/modules/engines/passwords.js
+patch 371,415,

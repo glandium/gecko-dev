@@ -1,0 +1,5 @@
+changeset 4ceb9062ea8f4113bfd1b3536ace4a840a72faa7
+manifest b59360c96b2065919210e0d85e4e29693674ac79
+extra rebase_source:545740a55ff33d43eee2cff005f1f478b3538d6c
+files browser/components/.eslintrc.js
+patch 285,359,

@@ -1,0 +1,5 @@
+changeset 4cc04fbbd1d7d6a4af9dbb0cbea52905cff3fef7
+manifest 70788088cfda2b94b07ca6c3b2aa3a2bec845e59
+extra rebase_source:38b80fc36cdf7f3db7181376f98c451ae124bed1
+files taskcluster/ci/release-mark-as-shipped/kind.yml
+patch 284,358,

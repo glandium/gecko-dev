@@ -1,0 +1,5 @@
+changeset 21fa5fd2a00af6cca25958ac4c2560e460fe376d
+manifest 978915cbd98d8b9a8ff0131829563da911c2cf80
+extra rebase_source:c31005907aeff8178eaa07a69d90e7d159c32063
+files browser/components/payments/moz.build
+patch 273,347,

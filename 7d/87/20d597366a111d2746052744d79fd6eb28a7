@@ -1,0 +1,5 @@
+changeset 9ddbf855c3d64baf3eb7de327088e99fd345e586
+manifest b040175fc334e4bd5d17e3f2abf4bc3d4dfd831b
+extra source:b49bd726c8a6e955c672df17b2b9134ab3ad34d5
+files mfbt/LinkedList.h
+patch 300,367,

@@ -1,0 +1,5 @@
+changeset ed26ed848a8e61972094c37d9eabb781f0f3d03f
+manifest 52ec2744ab3a7812c6b181940eea2a886f403ba1
+extra moz-landing-system:lando
+files testing/mozharness/mozharness/mozilla/building/buildbase.py
+patch 312,356,

@@ -1,0 +1,5 @@
+changeset 84a17995db6f2ff316d14c65b0cf8743425c2173
+manifest cdeca1adb36435a2c74c213e1803dca29fa8e9b7
+extra rebase_source:498a3f1162ab15157ce553db9b38b4218a81ef48
+files tools/tryselect/test/test_again.py
+patch 264,338,

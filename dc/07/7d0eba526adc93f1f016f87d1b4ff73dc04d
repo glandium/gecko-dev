@@ -1,0 +1,5 @@
+changeset abd469789934f9445d81d3b9537861b7eca67793
+manifest ba68dc7b0c42148f0e2a80efeb86403672cd0b7f
+extra rebase_source:9196cfb334ec0cc303abcd1c04a2ddb4cd9cf15f
+files netwerk/cache/nsDiskCacheEntry.h
+patch 298,372,

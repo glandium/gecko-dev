@@ -1,0 +1,5 @@
+changeset 0f92422cf9bc28dbb9132eb5aeec1e8aa2ae66d0
+manifest c94072eb5d38e2a96e38c5ef415be58a8861cd6a
+extra rebase_source:b15db60da888b49cbd371bc5c8311577a2c7ece4
+files ipc/mscom/Objref.cpp
+patch 798,872,

@@ -1,0 +1,5 @@
+changeset 91cfecad03b9f868bc7283e2c3051e8e95ca744d
+manifest 329517594abebe3ce26f6bd6ca806995aab94362
+extra rebase_source:52430c8af7604c33be87199953fc45f16b62bd48
+files browser/components/payments/content/paymentDialogWrapper.js
+patch 345,419,

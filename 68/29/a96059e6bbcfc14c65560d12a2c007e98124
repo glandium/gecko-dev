@@ -1,0 +1,5 @@
+changeset 85548886215546769bdaa533223424151080a458
+manifest 144d002ed7b40063d6f88ddec574254b600a42c9
+extra rebase_source:9bb3c8227a547e2e12804179c57116937b7cbdcf
+files toolkit/modules/tests/browser/browser_Finder.js
+patch 352,426,

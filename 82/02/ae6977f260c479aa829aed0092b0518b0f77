@@ -1,0 +1,5 @@
+changeset e5a2005e75342ab1be1d49d4e497b7b5d0220b09
+manifest a038ee85d2f524e084f44dfa362116f3496c115f
+extra rebase_source:f27b57b5608bf4a698c5bb61b91cd88998684411
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/StreamRecyclerAdapter.java
+patch 369,443,

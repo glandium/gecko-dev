@@ -1,0 +1,5 @@
+changeset 06416cd120e9f816d83604d0a660b1bc98056017
+manifest 77ec73c09e74d04686d339af0505d7f784051d03
+extra rebase_source:f798a188a521b76a5ed15913d24733324602820e
+files tools/clang-tidy/test/structures.h
+patch 340,414,

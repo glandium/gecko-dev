@@ -1,0 +1,5 @@
+changeset 95a9f538ae4faf91054c1ba4997aa493acb03ad6
+manifest 81ac429574f85e8722f5992f98bfafcabef8a970
+extra histedit_source:6b1d51c35a53d6e5881bfc91d67b0fd5bbfc8402
+files devtools/client/inspector/inspector.js
+patch 268,344,

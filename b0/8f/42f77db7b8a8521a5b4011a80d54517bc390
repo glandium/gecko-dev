@@ -1,0 +1,5 @@
+changeset 6fd10955e89903caf8f92e2c600aa2aa4a2be496
+manifest d06f595d4a99d882650ca3a7d897b1cf2b875183
+extra rebase_source:a32c7f2b4a471495929b4055ba293826d07c6da2
+files ipc/mscom/Interceptor.h
+patch 306,380,

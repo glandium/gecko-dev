@@ -1,0 +1,5 @@
+changeset 34aa201bb6a8ba3323729d21685390052591e521
+manifest 7130cb5042de5944b00b517f160e36d3b1f66327
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/internal/XPIProvider.jsm
+patch 293,337,

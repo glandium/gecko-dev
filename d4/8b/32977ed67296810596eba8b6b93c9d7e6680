@@ -1,0 +1,5 @@
+changeset 33b0a8337b9e1efb66ae78815f8734b465c69651
+manifest 98ba842e77dbe53208f6bd3de9fed5377a26d978
+extra rebase_source:6c35e63ffd6b057b99dd826dff41d91694dd6b60
+files layout/xul/nsDeckFrame.cpp
+patch 295,369,

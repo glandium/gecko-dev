@@ -1,0 +1,5 @@
+changeset 305c06df7740f4b2393c53dae175f0d199f3e30b
+manifest 8659049b9f6350ae45a36c25e45b9493fe55cf5b
+extra moz-landing-system:lando
+files python/mozboot/mozboot/osx.py
+patch 304,348,

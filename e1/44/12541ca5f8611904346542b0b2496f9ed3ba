@@ -1,0 +1,5 @@
+changeset ac5ebd3c7e8299b479167760d0ec0b277c6b3065
+manifest 9bcce58edefed55031f882c1caaa1425f8832ff5
+extra rebase_source:e1888f036624557015a72f15e45100067099ae4b
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_network_messages_expand.js
+patch 341,415,

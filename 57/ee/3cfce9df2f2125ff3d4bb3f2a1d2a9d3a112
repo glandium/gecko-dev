@@ -1,0 +1,5 @@
+changeset 001929d30497723a29acd84d4028d81e590c5be6
+manifest 71deead7494c78d54babe84ab9196986065c81f7
+extra rebase_source:1cbcd377d5c52cefa82d5007629b6896a7fa4aac
+files toolkit/components/extensions/test/xpcshell/test_ext_native_messaging_perf.js
+patch 325,399,

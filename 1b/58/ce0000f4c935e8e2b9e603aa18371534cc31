@@ -1,0 +1,5 @@
+changeset e83b09115327ea8c19a8d435f430e0ec0e11f404
+manifest bfb8591a23399f83790af8b450e1a6ec91923a9c
+extra rebase_source:a97c66dc36328563497130aa7a3829bc8a9eb204
+files editor/libeditor/tests/test_dragdrop.html
+patch 399,473,

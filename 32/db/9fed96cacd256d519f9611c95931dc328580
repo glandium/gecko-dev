@@ -1,0 +1,5 @@
+changeset 1d53ede1a1d3c1afd847fb50f31aa9ab3e48cc21
+manifest 769e6de534b7065b0a05987a934e99dff6b548b5
+extra rebase_source:75df805d8b2df32b76ee77b95ced625f20331744
+files mfbt/SegmentedVector.h
+patch 360,434,

@@ -1,0 +1,5 @@
+changeset 5d797c6f6f132d76c04dd556c5c2e9fc0ad3cbcb
+manifest 7cf711f58d30956e49c03f65a2b6526bbc324430
+extra moz-landing-system:lando
+files mfbt/WeakPtr.h
+patch 262,306,

@@ -1,0 +1,4 @@
+changeset 4076423ea9133e3146ed01a249922da2a3c6b61c
+manifest d40bc1319e9a79119c97256dbc033bb2037dbedc
+files taskcluster/ci/static-analysis-autotest/kind.yml
+patch 253,254,

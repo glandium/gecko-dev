@@ -1,0 +1,5 @@
+changeset d09dd833d6f02dc210cccd67585d3dedfb81bdbd
+manifest d54889419b8d3994925f20d851e3aad97a49550d
+extra rebase_source:cf68830cf5c5816e0487a14aacfa04c3e8eafa47
+files browser/modules/test/unit/test_SitePermissions.js
+patch 314,388,

@@ -1,0 +1,5 @@
+changeset 7b828445f551549382c2949a180aa0c2d5396f6f
+manifest cafb337ccee6b3db413c9fc54b5221af6ae0ec8a
+extra rebase_source:404ec04053adc2ab050f1b3c03b4d9dd4a243522
+files taskcluster/taskgraph/loader/build_signing.py
+patch 404,478,

@@ -1,0 +1,5 @@
+changeset df9c4ed9ec081bb01719e3c5f9dd1fab701abe2a
+manifest 2b74537dbe65027884b89c65100fd57e38088f4d
+extra rebase_source:8e350c51aa9153088adabd104d6b7e053d8325d1
+files dom/animation/test/chrome/test_animation_observers_sync.html
+patch 345,419,

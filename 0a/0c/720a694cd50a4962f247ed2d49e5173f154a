@@ -1,0 +1,5 @@
+changeset 8c038bd77897a043f3ccee57b8af2184814fadd2
+manifest b723f1374f29125a1d9e97a5e4e9294bbe0215b2
+extra rebase_source:f68034829b16c9def34436dc6e33b393865348bc
+files widget/gtk/WidgetStyleCache.cpp
+patch 348,422,

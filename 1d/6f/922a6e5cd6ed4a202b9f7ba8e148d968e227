@@ -1,0 +1,5 @@
+changeset f642bc883aa5af550e918050457e63e6c6d6c28f
+manifest 00124d1227d039d88396cdd6e01dd2a8a9b5eac8
+extra rebase_source:c15e0ef9d549902440b8cb62dd7f11a17d94bc7b
+files toolkit/components/jsoncpp/src/lib_json/moz.build
+patch 331,405,

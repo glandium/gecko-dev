@@ -1,0 +1,5 @@
+changeset 62cf6d29e787107d8632a31f0ef4ca7645287df3
+manifest 6cea8a5a50c551efc5dd925390fa88cb6431645f
+extra moz-landing-system:lando
+files toolkit/xre/LauncherRegistryInfo.cpp
+patch 359,403,

@@ -1,0 +1,5 @@
+changeset 58e7ff564f30818956c95995ddbe3eddf1e7bb54
+manifest 9a0dfd593ea3d663bcba6762d49300237d2ab917
+extra rebase_source:d8c7c9ff9a63afdde135b608fddb51abc54d84ac
+files browser/components/search/content/search.xml
+patch 299,373,

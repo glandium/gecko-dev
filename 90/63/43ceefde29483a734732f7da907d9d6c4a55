@@ -1,0 +1,5 @@
+changeset 91aac5ca5a50564127066acc6456b8b2103cbcea
+manifest b976fec24a35284c30ee9be05eb10149284ce5d1
+extra rebase_source:ec9bc2b961bd1c2ec08580d95f0fec06a7f2b437
+files toolkit/mozapps/update/UpdateListener.jsm
+patch 606,680,

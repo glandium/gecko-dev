@@ -1,0 +1,5 @@
+changeset 8d3e8b57fb0fbfa23f03938b65605c77dec6d96a
+manifest 92c047142adfb00e59de742180b39c7e3c57bb11
+extra rebase_source:67902cf10b9311adbd97fecf7906762bb86c52e4
+files xpcom/ds/nsCOMArray.cpp
+patch 366,440,

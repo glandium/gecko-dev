@@ -1,0 +1,4 @@
+changeset 3b61ed43658627960464f2978cc8ea99fb6652c0
+manifest 78c0345907ea3b13f1d093b18a4ccc1c4b96f333
+files devtools/client/debugger/new/src/selectors/visibleColumnBreakpoints.js
+patch 334,335,

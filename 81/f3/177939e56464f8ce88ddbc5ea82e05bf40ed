@@ -1,0 +1,5 @@
+changeset eea7f6eebf0f5fcb164105c4fec27c287430f7b3
+manifest 93e95767d3fe2f7a36ed463a7b8c8b9abdd7939a
+extra rebase_source:8b960c418533b62fcc880d6b6b9911bf0a24fd6a
+files toolkit/components/passwordmgr/test/browser/browser_notifications_2.js
+patch 346,420,

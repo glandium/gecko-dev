@@ -1,0 +1,5 @@
+changeset 5b09820ac9bd607d41c64386ce7be1b15d70e959
+manifest 986bb0fe3b0ca74b45099fbbcb7106ac2acb60f5
+extra moz-landing-system:lando
+files xpcom/tests/gtest/TestStrings.cpp
+patch 309,353,

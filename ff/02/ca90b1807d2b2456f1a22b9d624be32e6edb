@@ -1,0 +1,5 @@
+changeset 4eebab7d065ec743f96343bd32906b4c1dfdd70c
+manifest f8fa9dc3feaeb5a05353865d3f90ddd3832cb567
+extra rebase_source:8d419344dd67dad5692506c31763e9c3c3d4d968
+files widget/cocoa/nsNativeThemeCocoa.mm
+patch 294,368,

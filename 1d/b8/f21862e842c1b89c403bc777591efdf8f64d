@@ -1,0 +1,5 @@
+changeset 6bad5caedbb0dda8f72be17cceb8e188056d2ba1
+manifest 299c563f27e2e314d1855e1eb3e983d0e0a7b4bc
+extra rebase_source:549b4d9ab9c963ab5a92b81311cffe07fae6953c
+files browser/components/downloads/DownloadsTaskbar.jsm
+patch 406,480,

@@ -1,0 +1,5 @@
+changeset b4028ac4b1a5bfe1e12e41093e61c3c58044697c
+manifest d42e48b6cb394b267b77e5ef2c2e72f2eb3ec63a
+extra moz-landing-system:lando
+files layout/xul/nsXULTooltipListener.cpp
+patch 468,512,

@@ -1,0 +1,5 @@
+changeset a35d21be662d107bd43ecf9c216f5f0c4c5f5c35
+manifest 72e45bf798e7bd7cb67fa11c1d6ea74dedb470ce
+extra moz-landing-system:lando
+files tools/tryselect/selectors/release.py
+patch 307,351,

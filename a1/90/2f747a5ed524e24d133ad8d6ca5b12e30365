@@ -1,0 +1,4 @@
+changeset 9f5c35b8d79fd44d2c465c382b0b3409d042f916
+manifest 9dd5e3c151f3b1ff6a9c752093761099f64a3a20
+files servo/src/components/compositing/platform/common/glfw_windowing.rs
+patch 344,345,

@@ -1,0 +1,5 @@
+changeset dfdec6abcc4d52fbb7ab10617209c13fd29f78bd
+manifest 1740128d4410d299025ff76b6b6722081fa87dea
+extra moz-landing-system:lando
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/authenticator/AndroidFxAccount.java
+patch 649,693,

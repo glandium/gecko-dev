@@ -1,0 +1,6 @@
+changeset 2e399a0575a43a95dc784559daa16a04dd28cd01
+manifest de564f48834ad73be67a0da83230f8fcfdf5c72e
+author Ganesh Chaitanya Kale
+extra rebase_source:d853cd4455b3fedb1610e016bf58dbae0df5bce6
+files toolkit/themes/linux/global/in-content/common.css
+patch 270,344,

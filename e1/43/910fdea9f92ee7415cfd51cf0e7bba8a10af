@@ -1,0 +1,5 @@
+changeset f10300d5ef4e95aac0aeb495cd9cf80aa5d11521
+manifest 4e6551399334dfefe3d00d61d19a44c835f345eb
+extra moz-landing-system:lando
+files netwerk/protocol/http/HttpChannelChild.cpp
+patch 330,374,

@@ -1,0 +1,5 @@
+changeset 04b001dda76ab1101a23b869142af9c27c1d16c5
+manifest 40ba7a8cabc261edb05902c986969f657165392e
+extra rebase_source:e0451eba917d0b372a24df900208c35ab2b3edf0
+files mobile/android/base/java/org/mozilla/gecko/GeckoApp.java
+patch 317,391,

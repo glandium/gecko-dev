@@ -1,0 +1,5 @@
+changeset 0398b6fa1a0e574aef4370d1151574c550476551
+manifest ea1ef2627df0f3796c314d98645ec46ee8688fde
+extra rebase_source:36c13d76546ca231a88ebb36d0a3e33c5fbf75dd
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/HardwareCodecCapabilityUtils.java
+patch 355,429,

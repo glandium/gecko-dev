@@ -1,0 +1,5 @@
+changeset fef3121e0dd2874b6dec7e7073ceabef634ead23
+manifest 8fc1fe83cc623f82b84c9d041223f9bed32b764d
+extra histedit_source:a18886aba3443d84eb909f1f37a3d63b7aa415a9
+files js/src/irregexp/RegExpParser.cpp
+patch 358,434,

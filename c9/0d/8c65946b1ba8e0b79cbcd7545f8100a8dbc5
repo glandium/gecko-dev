@@ -1,0 +1,5 @@
+changeset 9995d46d468f2d43bf48c14feee78ff419229349
+manifest d457524242267adf2d2541eb3744d61c0d5a07d3
+extra rebase_source:5fba75d65081e56df5a0d171c41689c489a3aace
+files security/sandbox/test/browser_content_sandbox_fs.js
+patch 500,574,

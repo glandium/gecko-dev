@@ -1,0 +1,5 @@
+changeset a239e4b25e30dacc7a762bf5ae36cf0b803b8f69
+manifest 3c01651b36172bad23bd5b1f99407bafd19f59c4
+extra rebase_source:0eb81069bb44e26dac3a3f62d782f912e381aebb
+files mobile/android/base/java/org/mozilla/gecko/media/Codec.java
+patch 325,399,

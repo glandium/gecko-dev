@@ -1,0 +1,5 @@
+changeset f2bd9e8d0975b435bd437b001d94200d43cab5ff
+manifest eba1ae3ee888353e4ca8329dad9efcb3b09bb2fc
+extra rebase_source:772e21d5ff1b41c31efb0c0461aa60e08a0b4372
+files browser/extensions/shield-recipe-client/skin/osx/Heartbeat.css
+patch 569,643,

@@ -1,0 +1,5 @@
+changeset d3e94a705125c1f4dc9e4cfc4597078601f7807f
+manifest 80c3a6129ee09a7f9e20724e377232c720d64ff8
+extra rebase_source:e5e35a33dd34a9eebae46f94c1c0fabf74038946
+files python/mozbuild/mozbuild/action/package_fennec_apk.py
+patch 422,496,

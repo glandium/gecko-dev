@@ -1,0 +1,6 @@
+changeset 9c7207731ee192a8d76b4c5662adb585fec45698
+manifest bdf7aa1cb40e70bfbbcdcb82eee9e4fea5576646
+author Dan Mosedale <<dmose@mozilla.org>>
+extra rebase_source:2d3d0155f5d25533f22b80b0a8d796cbe8e21472
+files toolkit/content/license.html
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset f9feff68a41cc62c1b67e2bffd0a14ad7810b25e
+manifest 3f1ce7a99499ddb04f990e9284353c7c157015a7
+extra rebase_source:28efc3783a69b9edbc09427c3a7e951263a47b9f
+files browser/components/newtab/tests/xpcshell/test_AboutNewTabService.js
+patch 406,480,

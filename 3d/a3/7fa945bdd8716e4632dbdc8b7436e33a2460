@@ -1,0 +1,5 @@
+changeset c68924ac8d0bd9da66cdc93571a3ab79ec904f70
+manifest fabae71798e97de4a7c110d020a86b8f80e3d4df
+extra moz-landing-system:lando
+files mfbt/UniquePtr.h
+patch 250,294,

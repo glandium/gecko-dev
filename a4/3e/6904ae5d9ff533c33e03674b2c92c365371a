@@ -1,0 +1,5 @@
+changeset b4299313fa51d83e7fa241649acc584fff003c0b
+manifest b13dc78f3c2614bc92cffb160b8c6731a5bd72c0
+extra rebase_source:72d5a5b2585aa2614ccfcadc9319cf1aa4529e52
+files js/src/tests/non262/statements/for-in-with-gc-and-unvisited-deletion.js
+patch 251,325,

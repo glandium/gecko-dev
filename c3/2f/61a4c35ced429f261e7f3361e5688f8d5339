@@ -1,0 +1,4 @@
+changeset 15df5665d7790d965a9efa718113d1cea0144358
+manifest e332f6f36c23feb1000f4bc0c5c81036c0f5bd31
+files taskcluster/scripts/misc/build-sccache.sh
+patch 227,228,

@@ -1,0 +1,5 @@
+changeset 87cd01b3dc4c615da71bc64e14594b96a7f65519
+manifest b301335db05786537e3ce9a830006adb52484711
+extra rebase_source:928c85e00e1b690129345a03c4741f1d8175a2ad
+files devtools/client/webconsole/new-console-output/test/mochitest/browser.ini
+patch 408,482,

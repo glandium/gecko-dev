@@ -1,0 +1,5 @@
+changeset eaf99ba3813aa82632262ba4fc0438a7e2574af6
+manifest 774c3b5deb11a970b98b449720ab14e0ea4a11d9
+extra rebase_source:01834f49584ee696a4caec240d16356db8efe5bd
+files extensions/spellcheck/src/mozInlineSpellWordUtil.cpp
+patch 491,565,

@@ -1,0 +1,5 @@
+changeset 20d26085371c10a2b4a9a49a45b2f508bf2b2403
+manifest e249f41be4174cb34e14a0ea94afd9b19b0752af
+extra moz-landing-system:lando
+files browser/locales/generic/profile/bookmarks.html.in
+patch 317,361,

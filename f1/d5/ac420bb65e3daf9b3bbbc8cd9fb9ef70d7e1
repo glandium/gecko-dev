@@ -1,0 +1,5 @@
+changeset dd986854e840cf96e36ffd7dcf9a14abe614dc0b
+manifest 61fa040dd868a415f0d85f961948cb384b6bcafa
+extra rebase_source:a78d1513e46f85375e4e75377550940d40c25b70
+files tools/lint/eslint/eslint-plugin-mozilla/lib/environments/places-overlay.js
+patch 308,382,

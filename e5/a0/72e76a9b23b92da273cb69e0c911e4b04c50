@@ -1,0 +1,5 @@
+changeset c70e75e993fcc25fb0c31d1fc137c5c25eef2ae0
+manifest efec6a2552d34763755fd27fb458024e20584b77
+extra rebase_source:af804d3104da91be459b219b261949d84b4f7c26
+files widget/gtk/nsNativeThemeGTK.cpp
+patch 531,605,

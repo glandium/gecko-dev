@@ -1,0 +1,5 @@
+changeset 0871597bc67b53a65ad1b2ca71f9503594b280cd
+manifest bec041ec2d936d9f14343ed7015fd27576f717f0
+extra moz-landing-system:lando
+files layout/svg/SVGGeometryFrame.cpp
+patch 316,360,

@@ -1,0 +1,5 @@
+changeset a1a2ee0ee145f0a61c450d979dc23c4fd3b849a2
+manifest 922b81eb35a0ff15927ced75a99d4f1ffbca4574
+extra rebase_source:f6a97dcdbc12cb53d58be6e7fe19de7825755425
+files toolkit/content/tests/browser/browser_block_autoplay_media.js
+patch 344,418,

@@ -1,0 +1,5 @@
+changeset 8e05304275ae777fba8cc10de9f48c505e097f93
+manifest d1c36ab4eaf91197a4a78bf229deaa95d1d1d88b
+extra rebase_source:911aa4f458e8622e1482e41874f1cce50bcbdd1a
+files js/src/gc/Tracer.cpp
+patch 291,365,

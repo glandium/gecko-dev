@@ -1,0 +1,5 @@
+changeset 1182ae0e001bd9f49afe281955f2892217d362a6
+manifest 768e2742132d2748b832eb8786087fbb89cd42c5
+extra rebase_source:17e87aab81374462cd8891289ae9623f47af8f70
+files testing/talos/talos/pageloader/pageloader-signed.xpi
+patch 288,362,

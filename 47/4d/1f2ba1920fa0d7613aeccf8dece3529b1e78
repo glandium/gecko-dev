@@ -1,0 +1,5 @@
+changeset 6abd15012dcd2e345ba694ae5480e223502e59b7
+manifest 7f366140ecb59537918a24e9f8f3b6d08f35d752
+extra rebase_source:811b2fe7057caaf4785ce3c8678740bb92133ee7
+files modules/pdfium/pdfium/core/fxge/win32/fx_win32_device.cpp
+patch 335,409,

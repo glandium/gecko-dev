@@ -1,0 +1,5 @@
+changeset 3e9dee27eade4a155aec2748424e414a1900ece2
+manifest e28f8f4fc89ae6c9a9a5cdf2ea6b872cfc3872b3
+extra moz-landing-system:lando
+files xpcom/rust/xpcom/xpcom_macros/src/lib.rs
+patch 302,346,

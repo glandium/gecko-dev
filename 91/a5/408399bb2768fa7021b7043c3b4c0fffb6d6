@@ -1,0 +1,5 @@
+changeset e4778814309e1069698b7859ac2bf9d8fdf54b43
+manifest cf7418f66423ca29a5ad00ec6f112e62da1ba450
+extra rebase_source:bc48adac48c887b549c24106e98016dacfa0371f
+files taskcluster/docker/firefox-snap/snapcraft.yaml.in
+patch 305,379,

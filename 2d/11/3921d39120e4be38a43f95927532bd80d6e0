@@ -1,0 +1,5 @@
+changeset 7fe0b02d865c6d02e8f5eb238c19e5ad3fb40c18
+manifest bef00d1dcddea2cbfc8465e48f320362e690cf35
+extra rebase_source:168ba96c877a72ef72ac86751a6e6990f7a85fb3
+files browser/themes/osx/browser.css
+patch 271,345,

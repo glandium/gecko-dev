@@ -1,0 +1,5 @@
+changeset fbebc15cd4f40f0978bf22def0fcf355ce69f27b
+manifest ab032a3cdc9cbfd1d2e83ec80b10a65fd5db1d98
+extra moz-landing-system:lando
+files dom/canvas/WebGLContext.cpp
+patch 307,351,

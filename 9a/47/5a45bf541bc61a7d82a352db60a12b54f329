@@ -1,0 +1,5 @@
+changeset a6b254ae65695f43cb6d75ec15625700bbd8ce6b
+manifest aa951bad96a6e8fc5a1df47de10971bac209f9e6
+extra rebase_source:d398e93deb2d5bd7cc43d96eb37580552b8e2d72
+files services/sync/tests/tps/test_addon_nonrestartless_xpi.js
+patch 355,429,

@@ -1,0 +1,5 @@
+changeset 9f84155d8f25ac8d1d5c41d007277f12b3188da3
+manifest 5e6366a3075a6b5d900137a69b620c08ddfaf3a4
+extra moz-landing-system:lando
+files netwerk/base/nsSocketTransport2.cpp
+patch 281,325,

@@ -1,0 +1,5 @@
+changeset 2a51222fb8239a736ddb8f8887d4fbc743434fab
+manifest f03538e6e91fc50c36de3262d445f60112f98c6a
+extra rebase_source:a7b3dbe511cbfcfae695093eefc5021120a3d658
+files dom/events/test/test_all_synthetic_events.html
+patch 296,370,

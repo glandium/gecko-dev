@@ -1,0 +1,5 @@
+changeset a6499b00d6d6bac010206d457bb1643f7f68e1ed
+manifest 180bd2d68b7ccdb01dece93b33150f4010b2c269
+extra moz-landing-system:lando
+files devtools/client/netmonitor/src/utils/mdn-utils.js
+patch 316,360,

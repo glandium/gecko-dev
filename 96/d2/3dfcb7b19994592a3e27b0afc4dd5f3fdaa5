@@ -1,0 +1,5 @@
+changeset eb787b74bd04005a9d4bcc3099d2201461c3b0ff
+manifest f5ec0a3e3423f271ace588323488cd8d695ebf45
+extra moz-landing-system:lando
+files dom/canvas/WebGL2ContextFramebuffers.cpp
+patch 297,341,

@@ -1,0 +1,5 @@
+changeset 415c0a43a2405afb40480b370dea0e0a2a2049c5
+manifest b238d8fc9d69532357501c1119a6d5ed17818ca6
+extra moz-landing-system:lando
+files dom/media/platforms/wmf/WMFVideoMFTManager.cpp
+patch 562,606,

@@ -1,0 +1,5 @@
+changeset 8ab31240dbec5dbe913462a7d68dfa3f5526cdce
+manifest 96207364606eaee2a670a97b9bf5dd2d12294797
+extra moz-landing-system:lando
+files widget/android/jni/Natives.h
+patch 457,501,

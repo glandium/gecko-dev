@@ -1,0 +1,4 @@
+changeset ef3bab52fbd0a9fb45f50f2112155bb15bdf3813
+manifest bd83dd66c3f83a89c0c421029a5b948bb1b81c75
+files js/src/jit/CodeGenerator.cpp
+patch 243,244,

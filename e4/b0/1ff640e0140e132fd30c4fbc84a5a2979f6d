@@ -1,0 +1,5 @@
+changeset 52844031165ab767dfd5533740a22355640dab6d
+manifest d046a288147481e89888c20fb6ba05292033e726
+extra rebase_source:c6c5ced06a994179f1cbf16762e085e58e9e6f9e
+files browser/components/payments/test/browser/browser.ini
+patch 284,358,

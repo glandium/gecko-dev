@@ -1,0 +1,5 @@
+changeset 096fac9d56ff148d03b4d8054390bb840438e959
+manifest edb345bc23e50e6c7497e52013ac49802071e2df
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/HardwareCodecCapabilityUtils.java
+patch 353,397,

@@ -1,0 +1,5 @@
+changeset 30dbf7c51250ed1b0c36e9b4d8dbb7305952fad2
+manifest 70c4e7d6128dd1234ec947c66cf56ff464751cb8
+extra rebase_source:396cc37e1cbc7733b43d842abd0715c666524dbc
+files browser/base/content/browser-fullScreenAndPointerLock.js
+patch 329,403,

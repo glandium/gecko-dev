@@ -1,0 +1,5 @@
+changeset b8192f69e1a05783226e43b849f379e1bc04c3c4
+manifest 75e7f92fad965588f54be74bdf58be089df8a54f
+extra rebase_source:b6b8710666096db583a1b212757815ce81d8882e
+files js/src/jit/IonCacheIRCompiler.cpp
+patch 277,351,

@@ -1,0 +1,5 @@
+changeset 17e9932698582f1e459479963db0fa6ef8e3257d
+manifest 6bd7b4feb1b3824e05aa5fcae25c4adb9792994b
+extra rebase_source:c6584d917f03824d1f4ed2b11ddb69bf3165f307
+files browser/components/customizableui/test/browser_panel_keyboard_navigation.js
+patch 324,398,

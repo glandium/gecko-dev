@@ -1,0 +1,5 @@
+changeset 2c09bc9c0eb521ca8441c923a1b64bff1c1d96b4
+manifest 5a4d63515f1437f191279a7a3d7f4fe4b04c307d
+extra rebase_source:a75af575a137b7c050355a9c84ec256e6fc585b6
+files dom/media/webrtc/moz.build
+patch 281,355,

@@ -1,0 +1,5 @@
+changeset 186921ff2a55cd3e51e835b83b1597b7d66ea74e
+manifest 7aa6d5d5061400c0060dd7fcfabd689389c7739c
+extra rebase_source:e852bc2c32680907383cfca6d94490a76c971113
+files servo/components/style/traversal.rs
+patch 450,524,

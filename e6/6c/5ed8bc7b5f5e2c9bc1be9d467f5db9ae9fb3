@@ -1,0 +1,4 @@
+changeset b4a90e25b001807b340e35845e70aef9b3f9efd4
+manifest 80629b930aa9e6059128e67e3021c1a632400831
+files testing/web-platform/meta/html/browsers/origin/relaxing-the-same-origin-restriction/document_domain_setter.html.ini
+patch 369,370,

@@ -1,0 +1,5 @@
+changeset 352d2ed92fefe6509f5c31e8d102c00a0d8279d7
+manifest 1c522992284f97fe2a430dd70b4dbb5c37069fde
+extra rebase_source:c877adc843c2e269742735f9af203278dfe9a973
+files js/src/ctypes/CTypes.cpp
+patch 337,411,

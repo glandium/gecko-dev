@@ -1,0 +1,5 @@
+changeset 8afec4b17d5cbe6eaf19af09941df4f1292ac9fd
+manifest 251aa2b258a41892a05ed5c5fb46fab66c2bdd19
+extra moz-landing-system:lando
+files taskcluster/docker/funsize-update-generator/Pipfile.lock
+patch 314,358,

@@ -1,0 +1,5 @@
+changeset 01dec71addcc969afdd7c41c743e58744317add6
+manifest 86b7e484d6ab54b3670a0b23fcb4b09a6dd3e934
+extra rebase_source:a4a104897584aedcc9e07367d910727124e12e88
+files widget/windows/WinPointerEvents.h
+patch 290,364,

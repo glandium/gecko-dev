@@ -1,0 +1,5 @@
+changeset 3621d40b3403f5d0435549a26013e05cc810f279
+manifest 92e6e007876f9626ea3766df0e367e81f82480a1
+extra moz-landing-system:lando
+files gfx/layers/apz/test/mochitest/helper_basic_doubletap_zoom.html
+patch 430,474,

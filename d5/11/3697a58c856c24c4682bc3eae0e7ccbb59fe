@@ -1,0 +1,5 @@
+changeset 2a6dd743f395c89b61fe4389a7915f5114a8eb80
+manifest 837df299cbed6511deddf59d495c2763ce802e53
+extra rebase_source:d8a8f59bb1bc6b472484f0771dd979c58c488ee8
+files js/src/jit/shared/Lowering-shared.h
+patch 262,336,

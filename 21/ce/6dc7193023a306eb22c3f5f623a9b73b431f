@@ -1,0 +1,5 @@
+changeset efa367c096c01f060c8df356a06f8f933b2b0c92
+manifest 968a4eb45ffc28f6e5a8dffb7999f150f154415f
+extra rebase_source:7cf5efc50679d766373e50951b47c3278896fc42
+files browser/base/content/docs/tabbrowser/async-tab-switcher.rst
+patch 305,379,

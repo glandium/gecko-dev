@@ -1,0 +1,5 @@
+changeset 5ec157cbbdd11c216e996e2cc763bd087620cb11
+manifest 18ad2faf0ca64016efd3410d915d16b11367fbd1
+extra moz-landing-system:lando
+files dom/bindings/Codegen.py
+patch 1818,1862,

@@ -1,0 +1,5 @@
+changeset b850c8c06d17b80f63729ed23b5856c0e1697476
+manifest 3dd12c360bf9e988dcd2dc19afef07657faec6ff
+extra rebase_source:8065cb8f84b50d7260f36fbc1e6186c782590899
+files browser/base/content/test/siteIdentity/browser_bug902156.js
+patch 464,538,

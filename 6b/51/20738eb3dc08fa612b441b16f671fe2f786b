@@ -1,0 +1,5 @@
+changeset e6d4af6ebdd52536a1c7ae3350a9d09ae29e4a0d
+manifest caa1652db909277bfac16000e109bf6f3cf658ad
+extra rebase_source:47e5657162cb7c587a1a04d9c049555c46618d1e
+files browser/extensions/pdfjs/content/PdfjsChromeUtils.jsm
+patch 520,594,

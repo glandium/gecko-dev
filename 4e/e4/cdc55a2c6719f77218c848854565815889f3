@@ -1,0 +1,5 @@
+changeset 5fa8ee6d00d782616307dde41910e1c13ff963cb
+manifest a23fbaae0069767ed9353a9986449fe8e90d0c02
+extra rebase_source:3bd8d2f11d108c7463134c34f679244e6f4f3531
+files gfx/angle/moz.build.common
+patch 449,523,

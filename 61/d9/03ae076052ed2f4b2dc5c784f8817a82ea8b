@@ -1,0 +1,5 @@
+changeset 1cce2b80c6452dce775e3fa1c180cc1c7c4e9012
+manifest c3bc2cf13ea34872cbab6811bb4fcfc0b9fdfe3e
+extra moz-landing-system:lando
+files browser/base/content/test/plugins/browser_CTP_drag_drop.js
+patch 326,370,

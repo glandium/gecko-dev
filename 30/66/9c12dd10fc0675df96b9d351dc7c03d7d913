@@ -1,0 +1,4 @@
+changeset 1673d1fc6164d14517a61401968fe9188c4a73a1
+manifest bba92b878cf0d92d8b945a4b80a5d890ebe7fe13
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/NativeQueue.java
+patch 271,272,

@@ -1,0 +1,5 @@
+changeset c39826d3493f20dca39f41d2e164149e3dc17ebe
+manifest ec81cb05521b9d1cbe339e19bf822507b96ac6fd
+extra rebase_source:236aef0a8ed1ade7473ad19e1a11d4f94c3fbd83
+files devtools/client/webconsole/new-console-output/test/mochitest/head.js
+patch 328,402,

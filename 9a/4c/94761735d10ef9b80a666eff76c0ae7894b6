@@ -1,0 +1,5 @@
+changeset 82781ad9d4d3fb7a12edabef195969d15db18d1d
+manifest fe16c70b621702419cf255deaac2e1f0f18ac6bf
+extra rebase_source:03a652024d30a57ad270338bc6e222281d0e7c78
+files security/sandbox/test/browser_content_sandbox_syscalls.js
+patch 306,380,

@@ -1,0 +1,5 @@
+changeset e12dcb4be8551c14073c891a4c9f790e0d790215
+manifest 8c4ac47bf54598112d81bfe4da5808d21419d02f
+extra rebase_source:d44f0e715fc9792a82654f028905f6d8566c6958
+files toolkit/mozapps/extensions/internal/XPIProvider.jsm
+patch 319,393,

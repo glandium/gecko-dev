@@ -1,0 +1,5 @@
+changeset 9847c25e9433d07dc85a557a675933590ced8b86
+manifest c2784f0d6a82af09c373fe42c3fa5e60f5666cca
+extra rebase_source:9407b11319555103ac9bcaca1dcfeccb656408fa
+files devtools/client/debugger/test/mochitest/browser_dbg_multiple-windows.js
+patch 368,442,

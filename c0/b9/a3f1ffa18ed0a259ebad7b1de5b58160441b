@@ -1,0 +1,5 @@
+changeset a6b25f2541af4c45fbbaba43bd2811f3e118be82
+manifest 0470fe81b9239a17b6da6533c0db20fc965c01ae
+extra moz-landing-system:lando
+files devtools/client/themes/memory.css
+patch 348,392,

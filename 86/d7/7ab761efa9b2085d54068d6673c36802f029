@@ -1,0 +1,5 @@
+changeset 5a465e7bdc7a0f25a305a1e4301587dccd8935cd
+manifest 1e436490c84084503ae4cf3de7893753effeb8bb
+extra moz-landing-system:lando
+files browser/base/content/browser-contentblocking.js
+patch 345,389,

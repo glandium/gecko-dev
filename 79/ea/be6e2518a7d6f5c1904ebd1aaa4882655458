@@ -1,0 +1,5 @@
+changeset 2b23c8e294e39d57c076d66f563fa1d0fda9e5e5
+manifest 5385cb516d272aa7bc6eccbe73ce7b8f2992c967
+extra rebase_source:ed4d58717a83de3b76f4543c73b6215abc1167ac
+files mobile/android/geckoview/src/main/aidl/org/mozilla/gecko/media/ICodec.aidl
+patch 402,476,

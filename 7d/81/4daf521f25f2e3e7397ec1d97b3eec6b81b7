@@ -1,0 +1,5 @@
+changeset 42d07ddce2241fbc4aa8d87bf2d15c6b25b8c224
+manifest 93e10d82892d8ee7cd6e55c2ad2bcbbb98bf7d0c
+extra rebase_source:35414f968e31a6dabd91ef6a4834659b5d585b4b
+files layout/xul/tree/nsTreeBodyFrame.cpp
+patch 305,379,

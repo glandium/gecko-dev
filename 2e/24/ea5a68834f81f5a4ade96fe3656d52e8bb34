@@ -1,0 +1,5 @@
+changeset 9da32b3fe7051f57ea7ea8d516170639f3951964
+manifest 36a6b7c0baf393a12699d969f3fff75b522c98c2
+extra rebase_source:14484ca87bac0b38a457eaffd9a859404ca8d8b9
+files js/src/jit-test/tests/latin1/asm.js
+patch 274,348,

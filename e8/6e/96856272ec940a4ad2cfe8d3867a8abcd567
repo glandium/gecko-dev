@@ -1,0 +1,5 @@
+changeset 5d864c9b503bbed76b2a72a1b522d537c1199812
+manifest 3c2ceef42c3af5314a8a14c011d12b82242fd8ca
+extra moz-landing-system:lando
+files browser/modules/PermissionUI.jsm
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset d603faf452ceb1d5001b28e045ec08c19aa932be
+manifest 63f18ddb865fac70d1f00cc64267e0b19903ab4c
+extra rebase_source:0bcf0620c744b015c27bf1af44f3918ab2fe2621
+files devtools/client/webconsole/components/MessageContainer.js
+patch 281,355,

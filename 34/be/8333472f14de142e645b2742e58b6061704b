@@ -1,0 +1,5 @@
+changeset 0dc0af730b77e5e15f8d40b9577021d35588a8b0
+manifest d665de0d1136b743974433cd2e7c8d61987a8359
+extra rebase_source:7d77f0ee77813a1214cfa5bc618b57c3208443c3
+files security/sandbox/linux/broker/SandboxBrokerPolicyFactory.cpp
+patch 321,395,

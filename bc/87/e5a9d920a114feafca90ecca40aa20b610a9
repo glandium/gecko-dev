@@ -1,0 +1,5 @@
+changeset 6b672d70f335de6d4d39136ca51b41211666dc42
+manifest 32b8efe579bbf2a48a71ed9ce8211e8a7a4fa7d1
+extra amend_source:2e92f165cfa6aab511bf3fbc7284eb91f8c33383
+files browser/base/content/test/performance/browser_preferences_usage.js
+patch 331,404,

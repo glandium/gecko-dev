@@ -1,0 +1,5 @@
+changeset c0c7fa0ae4590b410b4ebb1d2d281eae175d293a
+manifest 0cb5ef6dad721db789aa8a424d76fdcef1bbc2e5
+extra rebase_source:6d01c0f5cc14b54b369e3d600f136e56ba96bfc9
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/rule/GeckoSessionTestRule.java
+patch 597,671,

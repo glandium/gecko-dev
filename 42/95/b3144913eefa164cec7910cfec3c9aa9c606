@@ -1,0 +1,5 @@
+changeset a9c753c1bb5d88dcbb666a9eb0a3ad2e2499c72e
+manifest 148018d87cbbfb96a6c9c962a44831fc0a3fe0bc
+extra rebase_source:2018f3fc52f1606ee43be8cebb6b072c1091c66f
+files services/common/docs/RemoteSettings.rst
+patch 313,387,

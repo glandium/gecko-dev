@@ -1,0 +1,5 @@
+changeset 3ae4195fba9785117f76bdbe2cf3775cbb806a46
+manifest eebc389474ac1054e6faae0986200aca58f0200c
+extra rebase_source:e21d8f8ab9c6e035a98f6ffdf90ab640c5d19973
+files browser/components/places/content/sidebarUtils.js
+patch 357,431,

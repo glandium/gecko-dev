@@ -1,0 +1,5 @@
+changeset 6683618bb98e768f545ac270847ed815904d6bba
+manifest 08d0b306ac8d85f59a18da956f97c258fc3d80a6
+extra amend_source:fd6fe1681aa192ed44675bd52cd46e954ffad9b8
+files services/sync/tps/extensions/mozmill/resource/stdlib/utils.js
+patch 328,401,

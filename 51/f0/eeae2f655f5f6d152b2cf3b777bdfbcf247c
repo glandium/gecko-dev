@@ -1,0 +1,5 @@
+changeset 31943df12a3aafc9846b852da24a676fc18505fc
+manifest d8c1adab043eb41d81c06a5d1e947fa86939b9a5
+extra rebase_source:1dd37f5d13f9128dd4310397f928b3ddad6aab2b
+files browser/components/extensions/ext-tabs.js
+patch 315,389,

@@ -1,0 +1,5 @@
+changeset dc450ef62331efdf418c7955e0b660302c41f792
+manifest 56ece2a9de906e4d87d8899e337f7cbebb821a9e
+extra moz-landing-system:lando
+files dom/media/AutoplayPolicy.cpp
+patch 436,480,

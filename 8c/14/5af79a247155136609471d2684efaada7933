@@ -1,0 +1,4 @@
+changeset 2d9aef6ee1831dc94b0ad21cbd9fc6318a61a022
+manifest 8b6a7670c53ae158e183f4ad1b4c22cd42a962a9
+files js/src/jsapi-tests/testGCFinalizeCallback.cpp
+patch 220,221,

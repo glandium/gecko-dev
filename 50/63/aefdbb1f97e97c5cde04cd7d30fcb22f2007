@@ -1,0 +1,5 @@
+changeset 5815afde6794b4f09ee57299c832dbddf46a3b0c
+manifest e8f99ab08b5bc1669296288054cdde3e1254fecf
+extra rebase_source:d6c0568d9fe1c64b21569c99bc2b61ee3291db8c
+files devtools/client/webconsole/new-console-output/utils/context-menu.js
+patch 389,463,

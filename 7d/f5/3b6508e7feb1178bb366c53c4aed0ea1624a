@@ -1,0 +1,5 @@
+changeset 4d69ed596b02737d692ce233a3d7617539569d1c
+manifest 0650408b33cf575cc7cf6f0c953f78dbb25ad3a6
+extra rebase_source:30851f5561d3bc044f2245af5b68bd6f038995dd
+files mobile/android/annotations/src/main/java/org/mozilla/gecko/annotationProcessors/AnnotationProcessor.java
+patch 567,641,

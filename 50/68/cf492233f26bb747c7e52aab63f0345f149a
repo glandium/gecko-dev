@@ -1,0 +1,5 @@
+changeset b1df335e52e42cf261e5dcb5c9f6aeb735875f9d
+manifest 24821ba5271d97282b173d0fecb7e4912017c311
+extra rebase_source:8108344d6607145b231e20d82cf2b3792ce5a4bd
+files xpcom/ds/nsCOMArray.h
+patch 276,350,

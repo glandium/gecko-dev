@@ -1,0 +1,5 @@
+changeset 4b48465720bb75ef569951454ecf3da86515544a
+manifest 6d45b264219ec16aabf69e840b315de427a2f99f
+extra rebase_source:dfa7b264854f52ea410c9a8da9ad6122e25e78fe
+files toolkit/components/places/tests/bookmarks/test_nsINavBookmarkObserver.js
+patch 356,430,

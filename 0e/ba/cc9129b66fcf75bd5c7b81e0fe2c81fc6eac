@@ -1,0 +1,5 @@
+changeset 1e7c60e83b86e18d1c7918d2e4b2fd5d4d79fde2
+manifest bc40e4de0dab9139b62018b4701f6871f005607d
+extra moz-landing-system:lando
+files browser/base/content/browser-siteIdentity.js
+patch 325,369,

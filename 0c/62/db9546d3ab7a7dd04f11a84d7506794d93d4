@@ -1,0 +1,6 @@
+changeset d261d4228bd8d29805ba7dc4c5ea7b0860605cf7
+manifest e4b89727e63ee2c6938b4bc1de9b8f937309ff54
+author Kanika Saini
+extra rebase_source:9961373c51cc966857b7f0d86813f3815ce69473
+files browser/components/enterprisepolicies/Policies.jsm
+patch 278,352,

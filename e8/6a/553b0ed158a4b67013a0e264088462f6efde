@@ -1,0 +1,5 @@
+changeset e2a1aee8ddf45bccd9a347170553b364e81d7834
+manifest 21cb6356bf5d37bfd6c8377bef2bac8a7056382c
+extra rebase_source:b99c7b18bc33add78d600cd1c6b3d585848483e8
+files toolkit/components/windowcreator/test/mochitest.ini
+patch 267,341,

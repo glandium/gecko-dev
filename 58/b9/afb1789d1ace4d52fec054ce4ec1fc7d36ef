@@ -1,0 +1,5 @@
+changeset 40c08de101f1413b58d7ceed08a3fcbd8654bbd1
+manifest 202e5d2251edf1fee50e3191205d3b3d10804b2a
+extra rebase_source:25cf1cf656d7396dcff2071ae050f60fd905a6ba
+files toolkit/system/windowsproxy/nsWindowsSystemProxySettings.cpp
+patch 664,738,

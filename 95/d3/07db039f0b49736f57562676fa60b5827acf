@@ -1,0 +1,5 @@
+changeset 39ccd499bea6600d894dc0dd8b682e1650110314
+manifest 607a53c0248af2a24f71f4e849a3c4e54645dda3
+extra rebase_source:2a3955ec771dd757d310d823d1812c9a56a0250f
+files python/mozbuild/mozbuild/action/langpack_manifest.py
+patch 352,426,

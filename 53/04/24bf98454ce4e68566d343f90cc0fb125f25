@@ -1,0 +1,5 @@
+changeset b5cf95178314a50d6ee2790cc55fb660708a3e02
+manifest 97a9eca0010e01ffa2bf48cd337da3bbd753d135
+extra rebase_source:2380bf5517da3982838e4c07dbc22a06c9f38465
+files browser/components/customizableui/CustomizeMode.jsm
+patch 323,397,

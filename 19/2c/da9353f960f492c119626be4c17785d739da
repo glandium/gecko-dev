@@ -1,0 +1,5 @@
+changeset 7a5b6591d679c44b90f95e5beeb6d08a855feabe
+manifest 7ca57921831d7818d7b12e8042f306662451d012
+extra rebase_source:9d9cff4667a9dfe591a8b08c2d3a6d52d33e0d09
+files toolkit/content/widgets/spinner.js
+patch 288,362,

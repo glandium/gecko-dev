@@ -1,0 +1,5 @@
+changeset 72b0f7554eee5c2174fc4a1be8f8975f830184a6
+manifest 3b27b38f89d1023dafc5fef483306a03214419c7
+extra moz-landing-system:lando
+files devtools/shared/adb/adb-addon.js
+patch 300,344,

@@ -1,0 +1,5 @@
+changeset 8880495b461577ee2ddea1281616d60cb3d9ec29
+manifest 0ad0286e6721200ac93684f7341bace450bb1d65
+extra rebase_source:d728739ef382f14f3a759e9c6aef7cb2771f7c95
+files browser/modules/TabsList.jsm
+patch 463,537,

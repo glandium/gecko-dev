@@ -1,0 +1,4 @@
+changeset c7e6c3867df449c25e8ab84bac1af8564d1d46b0
+manifest 121e85aacdb02a7333ce2c9188a98438571e5d80
+files servo/src/servo/parser/html_lexer.rs
+patch 281,282,

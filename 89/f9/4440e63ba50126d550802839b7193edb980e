@@ -1,0 +1,5 @@
+changeset d5dd45fa551c84f7e978f0cc862747242cee8297
+manifest 0c48b0031f3434d707a46321c79f846a66aba2ea
+extra rebase_source:4a09b2eaf81d675444553156a0e098be54703115
+files security/manager/pki/resources/content/exceptionDialog.js
+patch 634,708,

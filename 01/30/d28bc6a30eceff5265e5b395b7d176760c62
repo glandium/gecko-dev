@@ -1,0 +1,5 @@
+changeset 842a59019f61cf20c4e60098e8b730952deaaadf
+manifest 0e74d5c77d1a0c957215d02860c04e477f62473e
+extra rebase_source:3b6029ee4369e5d4762a8dc5d6a21336ec4683b5
+files browser/components/originattributes/test/browser/browser_favicon_firstParty.js
+patch 314,388,

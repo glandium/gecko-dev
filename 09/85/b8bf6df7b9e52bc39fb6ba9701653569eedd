@@ -1,0 +1,5 @@
+changeset 04bee69b3274bd8d5cf52d54a0a5cc14dbe8693a
+manifest 506be0f781bb16422567b3e1d3197523de81f9c3
+extra rebase_source:a9ece3d843e4657bcfad80b6aa93e11b0c3f225b
+files mobile/android/components/build/nsBrowserModule.cpp
+patch 302,376,

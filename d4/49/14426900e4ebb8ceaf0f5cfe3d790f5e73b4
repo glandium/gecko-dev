@@ -1,0 +1,5 @@
+changeset 50582093318ac50411fc4ddc0a4a730fb0b748d4
+manifest 8eb017005bdb496960cd21dcb2f89e2f37c9c4bd
+extra moz-landing-system:lando
+files devtools/server/actors/accessibility/contrast.js
+patch 383,427,

@@ -1,0 +1,5 @@
+changeset adff388db8bc1a8f445babcb470d1dde2d6709f3
+manifest 8984261fd490469013a7879bdcf6efdaed01e11a
+extra rebase_source:70d573989b8810e91525295aa10a9832e24f71cd
+files mobile/android/base/generate_build_config.py
+patch 286,360,

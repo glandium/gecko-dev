@@ -1,0 +1,4 @@
+changeset f5cbf0ee1014bd5a305866294e6325483b484499
+manifest c92f7dc065812b656ca513d9e0f6d9184243f671
+files dom/canvas/test/webgl-mochitest/ensure-exts/test_WEBGL_compressed_texture_es3.html
+patch 336,337,

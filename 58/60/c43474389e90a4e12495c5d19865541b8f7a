@@ -1,0 +1,5 @@
+changeset 0963632525acba294cb359cdb1f7f8fa33cfb815
+manifest ab91917805c6dd57c9766824b6deb47dc4e2738a
+extra rebase_source:cdcef16ec3b3934214f19367329df6dc3996818a
+files browser/components/migration/tests/marionette/test_refresh_firefox.py
+patch 348,422,

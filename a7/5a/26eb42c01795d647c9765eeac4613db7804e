@@ -1,0 +1,5 @@
+changeset ffed3e5978105c9f71fd4a5579746e2117ebc819
+manifest c318f609b0eafdf1288d400d6b150186e41ae7ef
+extra moz-landing-system:lando
+files xpcom/reflect/xptinfo/xptinfo.h
+patch 341,385,

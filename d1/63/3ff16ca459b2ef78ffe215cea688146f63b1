@@ -1,0 +1,5 @@
+changeset b91ce5ed4d3597cf627b49c96def71ba63f1cc7d
+manifest cb3d3e74ee3cea9d7279e62a52acb90a2b7daa43
+extra rebase_source:197f42188e89c467e40ab2d7047b2b2d7184fee2
+files browser/extensions/shield-recipe-client/test/browser/browser.ini
+patch 393,467,

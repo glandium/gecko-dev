@@ -1,0 +1,5 @@
+changeset f5d3fe8992308dfda23473cc3b5628e3209e4f0f
+manifest b67218b5d2f7569a42b54a21d1068d14dcd142b2
+extra moz-landing-system:lando
+files mobile/android/config/mozconfigs/android-x86/debug-fuzzing
+patch 627,671,

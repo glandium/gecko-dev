@@ -1,0 +1,5 @@
+changeset 989b6198392ed1e94997846095f3a2887818c4f9
+manifest ad9b186333b958dd6cc6269b2a2cb172c9c442e7
+extra rebase_source:093c23646843753bc06e40bbdab6f5604d687802
+files browser/locales/en-US/chrome/browser/preferences/sync.dtd
+patch 303,377,

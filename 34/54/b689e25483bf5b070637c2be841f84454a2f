@@ -1,0 +1,5 @@
+changeset 6f84c0c14d7cbe271a8058ceb85b0cb80d044655
+manifest cde1cb0269cbfc7135ce2493f1e9eac8190bf1ba
+extra rebase_source:adc3444894bfba21d38e7f64376687736a45b3a5
+files js/src/builtin/intl/CurrencyDataGenerated.js
+patch 409,483,

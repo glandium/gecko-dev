@@ -1,0 +1,5 @@
+changeset 3ebe77971c61f5d535272ebfde2616d8b01ac696
+manifest c299e2afd84512a107c9c2083a625fe0f17524cb
+extra moz-landing-system:lando
+files testing/mozharness/scripts/release/bouncer_check.py
+patch 305,349,

@@ -1,0 +1,5 @@
+changeset 2d1f497a1fff3c2023241f7f18b36a2c3495c063
+manifest 3ea4faddd481ed3f49244781b84732a1813691bf
+extra rebase_source:5f21cdf8d91b1521a80a5932d12e9b0480ca7635
+files tools/lint/eslint/eslint-plugin-mozilla/lib/rules/no-compare-against-boolean-literals.js
+patch 357,431,

@@ -1,0 +1,5 @@
+changeset 7964b0b2f8363fbf1e5d3cdcc50b1d279987f1e9
+manifest dd00dd2bc906fdb2d4e46e163948c1b0450ff951
+extra moz-landing-system:lando
+files dom/media/tests/mochitest/test_getUserMedia_mediaElementCapture_video.html
+patch 423,467,

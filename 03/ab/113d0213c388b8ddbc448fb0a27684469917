@@ -1,0 +1,5 @@
+changeset 0b509721c2f56bbf57e3a6901d3ecfe642cf956e
+manifest 4c6f2292eb303cc7f6fd0885cae3d8121bfd45c5
+extra moz-landing-system:lando
+files dom/base/nsJSUtils.h
+patch 361,405,

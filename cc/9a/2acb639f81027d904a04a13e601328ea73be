@@ -1,0 +1,5 @@
+changeset 605d00e70409c5f83fa3ab932f31f38cd4577c23
+manifest e6fc9edff076f979e2b6bb7b658823d84359ac0d
+extra rebase_source:635e50720bd1003b500087774848aa9e39c5ab2d
+files gfx/sfntly/cpp/src/sample/chromium/subsetter_impl.cc
+patch 283,357,

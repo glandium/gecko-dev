@@ -1,0 +1,5 @@
+changeset 2992db73415fabdf085c452f766d54ab62603f06
+manifest 2a85f77550d26ef89f593d39e84f33b9b076ed45
+extra rebase_source:012bb9c322ecda93be32f43582492b37e407396d
+files services/sync/modules/resource.js
+patch 454,528,

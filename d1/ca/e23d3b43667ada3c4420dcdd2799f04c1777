@@ -1,0 +1,5 @@
+changeset 8af6e9af76052696204adb50eba2b9bdfe81c149
+manifest 5bc8c1a3920797470bdd44111822a1d6d2310dbc
+extra rebase_source:f06b3c6f4e8e68a2a56ac39ef4261a669d99adaa
+files xpcom/io/nsEscape.cpp
+patch 278,352,

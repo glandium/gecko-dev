@@ -1,0 +1,5 @@
+changeset b81d44f829c9c9fcb3335fc7b0fa44f183f2b786
+manifest d2d35efdf0e925f6fdf5d44a18c7e986d6549b5a
+extra moz-landing-system:lando
+files browser/themes/shared/ctrlTab.inc.css
+patch 316,360,

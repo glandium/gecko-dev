@@ -1,0 +1,5 @@
+changeset 993f78b4700d242461c4e78c252b7a00d14bfd9f
+manifest 44f29b7966ee57429e1bec82e4d0a22bbbffb604
+extra rebase_source:a85b283a380e0f30935868c10e3a9d626a8a0061
+files mozglue/misc/interceptor/VMSharingPolicies.h
+patch 314,388,

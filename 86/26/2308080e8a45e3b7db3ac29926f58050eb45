@@ -1,0 +1,4 @@
+changeset c0b3c3c948fde682b37efa237235248aeb1f7ec2
+manifest 345a8cd01a2fbb3400e730a7d6d54871a68e8a85
+files security/sandbox/chromium-shim/sandbox/win/permissionsService.cpp
+patch 336,337,

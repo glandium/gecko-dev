@@ -1,0 +1,5 @@
+changeset 774451e25c49d07df4155455b90140c396a4e53b
+manifest 768f656f3cc463f7235b8c7db1da69c066017d1d
+extra moz-landing-system:lando
+files media/webrtc/signaling/src/media-conduit/VideoStreamFactory.cpp
+patch 764,808,

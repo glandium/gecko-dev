@@ -1,0 +1,5 @@
+changeset e0f400b5e60c5c0a25df98a9727e1e21ef253cfb
+manifest 4c4cb458b64b4ec7335f82292d97ee42e80a28d1
+extra histedit_source:19592a5518563618a12536901f6861fc51db44f6
+files toolkit/components/telemetry/parse_events.py
+patch 281,357,

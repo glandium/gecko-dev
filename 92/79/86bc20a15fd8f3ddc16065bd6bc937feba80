@@ -1,0 +1,4 @@
+changeset d81b45bce31544c5fcd243bc4001a6f6b04ee64d
+manifest f0e9c54f7ec80d54346e2d62e41146beac290935
+files security/sandbox/chromium/sandbox/win/src/registry_policy.cc
+patch 380,381,

@@ -1,0 +1,5 @@
+changeset 6deb2ce64d81e21d14636e8114e72bbd6dbdde9b
+manifest e568905dad48ffd1d824efa7b5037d367c8686e2
+extra moz-landing-system:lando
+files devtools/shared/client/constants.js
+patch 322,366,

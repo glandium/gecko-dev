@@ -1,0 +1,5 @@
+changeset 24f9821c42211c7e8ce5d0f660e1a6d432095524
+manifest 76f889d8b67ebe57642df7011129c190a3875433
+extra moz-landing-system:lando
+files browser/themes/shared/syncedtabs/sidebar.inc.css
+patch 326,370,

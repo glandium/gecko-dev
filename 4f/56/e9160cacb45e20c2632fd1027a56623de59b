@@ -1,0 +1,5 @@
+changeset 0ca6e1f583f4444e415f375d8cd5ff88e3a2be9b
+manifest 125ef5733eef0f74092b55c3a23cbf6b83ea7ea8
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/preferences/GeckoPreferenceFragment.java
+patch 347,391,

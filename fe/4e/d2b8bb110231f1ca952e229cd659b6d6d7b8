@@ -1,0 +1,5 @@
+changeset 6feb94524b7e519e720d7cccc3fa9cccc51f904e
+manifest e3def7aaca13001faa7e6a972d9e234d4109fea1
+extra moz-landing-system:lando
+files build/moz.configure/warnings.configure
+patch 1200,1244,

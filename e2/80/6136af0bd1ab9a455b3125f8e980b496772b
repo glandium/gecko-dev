@@ -1,0 +1,5 @@
+changeset 30ca625d8d6eb4c2a3760ba235f38ee1dc93b4f9
+manifest 58409cae8edd3b8c0c86219418a9da8d87d2fc6d
+extra moz-landing-system:lando
+files devtools/client/webide/modules/app-manager.js
+patch 339,383,

@@ -1,0 +1,5 @@
+changeset e2e49d66a482dd74ac73b40491007e7bd452a496
+manifest 4c8fd0987744974d35fb6042cd0366b6d189c956
+extra rebase_source:f48137d08e563d31a75f887329e38056c0602527
+files dom/media/test/test_mediarecorder_record_changing_video_resolution.html
+patch 763,837,

@@ -1,0 +1,4 @@
+changeset 3fee9c5dc2c258a40f542cf5040b46447d1cffa8
+manifest c1f099c917b83276df67d4f7b5cf7cc9caee18e4
+files devtools/client/netmonitor/test/browser_net_copy_headers.js
+patch 326,327,

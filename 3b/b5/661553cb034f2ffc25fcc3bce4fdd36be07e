@@ -1,0 +1,5 @@
+changeset d15d34168dd095c25dfbca6313a3bfa1b389da38
+manifest 567d8132b9acb9e5ae72ac95460cca01a59e8a47
+extra moz-landing-system:lando
+files layout/style/nsStyleStructInlines.h
+patch 431,475,

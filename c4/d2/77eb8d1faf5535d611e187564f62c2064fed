@@ -1,0 +1,5 @@
+changeset ca409f78c8a30208636e3f216924b87ffe7270b9
+manifest 7f3c5cb572d886b021546079d0c9c805fe45f5e9
+extra rebase_source:e9fd53e772f3814c5d2800544852b2f3ba13d621
+files layout/base/nsRefreshDriver.cpp
+patch 298,372,

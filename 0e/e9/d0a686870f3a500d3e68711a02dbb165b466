@@ -1,0 +1,5 @@
+changeset 1ba66e0d82a0d03a6b5656ba955b95dd60801b2b
+manifest e1cce6b94f2bddf78abbe9e0760ca6f012ee5cea
+extra rebase_source:41d4d297fb97ba917a042228e24620477fc87074
+files devtools/client/inspector/test/browser_inspector_highlighter-zoom.js
+patch 321,395,

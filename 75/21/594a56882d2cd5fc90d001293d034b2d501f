@@ -1,0 +1,6 @@
+changeset af5e83fa681abe697f54deb21a59d2261696a4a4
+manifest c042e3fdd9a67bfb4db25e002746baace43af8eb
+author Tiberius Oros <toros@mozilla.com
+extra histedit_source:f4ecb8147ef522a7624affad92c4af164c894d2d
+files devtools/client/debugger/new/test/mochitest/browser.ini
+patch 297,373,

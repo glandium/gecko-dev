@@ -1,0 +1,5 @@
+changeset c8cc3f9c8d5d9fff2d7b53cc8a545cc3a31eed12
+manifest 7c6bc753cd3497a66da3bdae72c1673633a97e27
+extra rebase_source:1efe65895759ffc07e0047d063a405d757cb1092
+files js/xpconnect/src/XPCLocale.cpp
+patch 722,796,

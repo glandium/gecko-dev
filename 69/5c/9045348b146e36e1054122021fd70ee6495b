@@ -1,0 +1,5 @@
+changeset 4af85178dea909332eb52908b6af103587756f68
+manifest c7eec8310ae91bfec3e452bde04147b3669a315b
+extra rebase_source:3b6b763b4a6cf2d62e125e5909f59e5cc9cc8d52
+files testing/web-platform/tests/webdriver/tests/state/get_element_rect.py
+patch 303,377,

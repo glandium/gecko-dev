@@ -1,0 +1,5 @@
+changeset a38aa0ec8f16b5fb67617b5d188d851bae56b133
+manifest 4ccfba4ea1460a33d0a606d14daa496147fa95c5
+extra rebase_source:18658a0249b5707e5b995da1a3a6efa711b1c5d3
+files devtools/client/locales/en-US/boxmodel.properties
+patch 336,410,

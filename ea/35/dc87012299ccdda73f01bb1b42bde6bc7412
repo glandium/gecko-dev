@@ -1,0 +1,5 @@
+changeset 6c5c7f763b65c4eab3ec5f61945366308fe5b4ca
+manifest 270df8d230e1a051439f0e5c7d7907cbfc187ab6
+extra moz-landing-system:lando
+files layout/xul/nsXULPopupManager.cpp
+patch 354,398,

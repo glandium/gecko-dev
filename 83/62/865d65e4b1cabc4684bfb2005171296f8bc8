@@ -1,0 +1,5 @@
+changeset c1a7bed23922c06094d251ac6de96af92cc6d649
+manifest 25b2d32239026269112ea8d2a7cfa6a3d161448b
+extra rebase_source:49cb109c6c0b630feab52e82a711249b5c2443ea
+files xpcom/ds/PLDHashTable.h
+patch 258,332,

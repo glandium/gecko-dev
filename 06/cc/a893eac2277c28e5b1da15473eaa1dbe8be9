@@ -1,0 +1,5 @@
+changeset cfc5d19e856fc43766669069b7e2695dd519e5c3
+manifest f9e9a47b7a3706d347846a8fb579c064cda56c3d
+extra rebase_source:c771bebb9fe894390ea272ca4259a9847aeaaa8a
+files netwerk/base/nsIBrowserSearchService.idl
+patch 323,397,

@@ -1,0 +1,5 @@
+changeset be80ea4986869d31c9ed9aecb0b39848c82de744
+manifest 17fe4a84914cbb3048d7eb50884b925136658c09
+extra rebase_source:a56a4fa76de084d8eeb1baebf520e672ba804119
+files tools/profiler/gecko/ThreadResponsiveness.cpp
+patch 375,449,

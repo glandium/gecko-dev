@@ -1,0 +1,5 @@
+changeset a3c06eb37887bbd7fcd1041ee933c844f30ca1a6
+manifest 55c973284f9a7ccdcc19ed1a55ff5018f244595f
+extra rebase_source:16873c6544febeeb3b8a99e254f61ecd3541cce0
+files browser/base/content/aboutDialog-appUpdater.js
+patch 319,393,

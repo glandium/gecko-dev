@@ -1,0 +1,5 @@
+changeset 836a5d3a2aaa3b4389f357d12b847694158fc3de
+manifest ad508012052e473c1348a98df561e596bdc2714a
+extra amend_source:48345b5387501421e7875da8aa34f1b2752042c7
+files toolkit/components/extensions/webrequest/ChannelWrapper.cpp
+patch 321,394,

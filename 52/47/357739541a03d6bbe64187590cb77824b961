@@ -1,0 +1,5 @@
+changeset 9c10d9a7198331b7a650cef79ed37f36d23a2c88
+manifest de4f6dc9eb10de684a65084ea0a61be2e5f7e208
+extra rebase_source:fe1d6f4f87df11d5ed495e309a4a0f144bfc2143
+files browser/modules/AsyncTabSwitcher.jsm
+patch 643,717,

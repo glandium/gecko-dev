@@ -1,0 +1,5 @@
+changeset 8a3088e2b4673c3badbbe015e1ce0ad1e551e703
+manifest b2edb1fa825ca47431cc3cfb2a4644cf6f85cb94
+extra rebase_source:2b990be5894f5575f37fb74a2f6d532c96d15957
+files servo/components/style/gecko/media_queries.rs
+patch 525,599,

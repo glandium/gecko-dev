@@ -1,0 +1,5 @@
+changeset a69d8969642d40db1312c0b4b9bde8a5d6422556
+manifest 3ec5c2c987aeae6fad38d79fb64ea698f8075129
+extra rebase_source:5c42616f502db812faab348d1354a79a7895fd89
+files js/src/jsprf.cpp
+patch 257,331,

@@ -1,0 +1,5 @@
+changeset d8252b50ec6c19fbf077db94763396ce7aa107dc
+manifest c8088549d1f66a5cd08ab02b834020b1d0b7e72d
+extra rebase_source:6eba2a3e83c666bcbaccde66d5e10f0b97fe6b57
+files devtools/client/inspector/shared/test/browser_styleinspector_tooltip-shorthand-fontfamily.js
+patch 387,461,

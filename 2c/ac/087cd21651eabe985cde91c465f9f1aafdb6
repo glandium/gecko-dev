@@ -1,0 +1,5 @@
+changeset dfde9a8145ce826f55da1495f1e24c10d0977f81
+manifest fda25e39d086701e4007435bc71acb1842b4351d
+extra rebase_source:c9dcd732581526a5a6bf09c13ca6722b589f904f
+files devtools/client/themes/images/command-responsivemode.svg
+patch 677,751,

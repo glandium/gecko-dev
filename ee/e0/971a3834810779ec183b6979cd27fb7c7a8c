@@ -1,0 +1,5 @@
+changeset 3214b1a3f2355410e940991a4435aef2cbc38025
+manifest c0398f0a779706e35d9ff2e20ee27d92a025618a
+extra rebase_source:a0ff9331d1475e7c87b9ecd28243de85ade6d129
+files devtools/client/shadereditor/shadereditor.js
+patch 338,412,

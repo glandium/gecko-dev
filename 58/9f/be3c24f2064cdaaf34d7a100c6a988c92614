@@ -1,0 +1,5 @@
+changeset 2d37b966abedd85da2f6dcf8412407f2e3f9c12c
+manifest 2f113c7a02b024a111aaeec13b33eb891bb6adf1
+extra rebase_source:c03478be181e693313da8e50a7933b0a3e27d435
+files testing/mozharness/mozharness/mozilla/secrets.py
+patch 324,398,

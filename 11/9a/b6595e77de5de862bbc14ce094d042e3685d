@@ -1,0 +1,5 @@
+changeset f62d1135e3d83f1d73e4cb5a6e90b3200673d89c
+manifest 1a25b752267cd90e03f78e922915d2018482ec03
+extra moz-landing-system:lando
+files toolkit/themes/windows/global/toolbarbutton.css
+patch 304,348,

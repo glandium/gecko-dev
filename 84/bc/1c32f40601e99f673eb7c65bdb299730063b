@@ -1,0 +1,5 @@
+changeset 604fb83b6b61c66ad29f46d81fb9fa58bd9b55fc
+manifest c302930afc593931f88c27cdeb963f56d6d1a8e8
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/mochitest/test_ext_cookies_first_party.html
+patch 438,482,

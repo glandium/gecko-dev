@@ -1,0 +1,5 @@
+changeset 4b380c4484bac968a96cf76878de0e0100d23a73
+manifest e988e4e8ea6d1c5f094fe743011f01af55891562
+extra rebase_source:1a55c4fd3a6b57af4ba1743c755865d7a5d03d69
+files toolkit/crashreporter/client/crashreporter_gtk_common.cpp
+patch 297,371,

@@ -1,0 +1,4 @@
+changeset 90928695e8b17a7b92551bebc11131834f4087db
+manifest ca5bb372f7b3d26fac4d089c37a66818d958bb46
+files taskcluster/taskgraph/transforms/diffoscope.py
+patch 255,256,

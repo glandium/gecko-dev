@@ -1,0 +1,5 @@
+changeset dba2aba69348f5186f64ab2b2dcda5a812906912
+manifest 780aa72a8d0e587eb50ebd7e1a206b59f8ab53f9
+extra rebase_source:9f460d5b03d5326d2181a884ee0fc843105f1054
+files layout/generic/test/test_bug784410.html
+patch 320,394,

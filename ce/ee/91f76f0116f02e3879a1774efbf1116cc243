@@ -1,0 +1,5 @@
+changeset 8c730b4539291f85f279f6dcb24283c9187b791e
+manifest 1ae3db55a7bdd067e4dd7d26bbdcced1b073b5bf
+extra rebase_source:4d440ccb0fb638a544ff6241557d7592c23588e4
+files toolkit/components/extensions/test/browser/browser_ext_themes_ntp_colors_perwindow.js
+patch 368,442,

@@ -1,0 +1,4 @@
+changeset 9875179818b61f10c8ea60e0a14f1ebb2bca32f2
+manifest 63116f63d4a6e435e3a5b9f5aa1b72164506aca6
+files servo/src/components/gfx/render_task.rs
+patch 359,360,

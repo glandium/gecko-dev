@@ -1,0 +1,5 @@
+changeset e5d9b47a10e0ba65b6908af9fe3eed955bdb0cf9
+manifest bd498b1ef9271eb5b2651ec462be10f68eb417aa
+extra rebase_source:bbc030bd3743e9c3fc8d8d2c32a6b89da4b87765
+files devtools/client/framework/test/browser_toolbox_options_disable_buttons.js
+patch 488,562,

@@ -1,0 +1,5 @@
+changeset 2112c2dd7175088f3ef3a102ff944ac1a32ef584
+manifest 96955ce881b62b69b51acfbbb2e10ff4444ed762
+extra rebase_source:cc418ea72f2a6b46da0032f41d46e5f48383bd3e
+files testing/marionette/puppeteer/firefox/firefox_puppeteer/api/software_update.py
+patch 345,419,

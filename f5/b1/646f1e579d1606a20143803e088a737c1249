@@ -1,0 +1,4 @@
+changeset 1adb2c87c080fa673ed8c4b2bb04ffec6beee436
+manifest cb675a550dc26f5a71fe4d82109a755e20685a6d
+files toolkit/components/extensions/test/xpcshell/test_ext_contentScripts_register.js
+patch 305,306,

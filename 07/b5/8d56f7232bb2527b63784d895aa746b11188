@@ -1,0 +1,5 @@
+changeset 4bf4766d914b027e60d93a60b6befeba9948f624
+manifest b8c746107f3907d5c1c55e683aa387406fe2c864
+extra rebase_source:fb1d7012039c3ebe43ea29bb8ca7b1d44b2f3c99
+files browser/extensions/screenshots/webextension/build/shot.js
+patch 525,599,

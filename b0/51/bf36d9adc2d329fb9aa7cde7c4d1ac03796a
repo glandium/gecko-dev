@@ -1,0 +1,6 @@
+changeset f28ce958895f9e4d682d6c779731745e6b98e729
+manifest 0bf677b3299526826a4690f367eb0a8e835f3696
+author qiaopengcheng-hf@loongson.cn
+extra rebase_source:716b6ff862d57e13b2169ba7fcc1f6e6ef2d636e
+files xpcom/reflect/xptcall/md/unix/xptcinvoke_asm_mips64.S
+patch 304,378,

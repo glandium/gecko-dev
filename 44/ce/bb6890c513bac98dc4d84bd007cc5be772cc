@@ -1,0 +1,5 @@
+changeset 11ed05bc88ff12d3349055750ad475842dd8b74c
+manifest 838330602c5b93d782d72bd4dd2d36d788fcbee3
+extra moz-landing-system:lando
+files toolkit/components/telemetry/Histograms.json
+patch 292,336,

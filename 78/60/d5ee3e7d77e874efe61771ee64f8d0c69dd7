@@ -1,0 +1,5 @@
+changeset f4a8816b477d059bd7c48d4a133b6b9952dbc851
+manifest 80c591e2e0c9b9921d589cfdb49fbb412663ecad
+extra rebase_source:b5e34b608af806fb05e9eaa4550b171e6db0eb8d
+files ipc/mscom/Utils.cpp
+patch 411,485,

@@ -1,0 +1,5 @@
+changeset 3d31313a92eb307d84f2246abd189631fd49fa82
+manifest bf3d4611bfd965d5b92a70e7624316fbaeb8e86f
+extra rebase_source:b5b79c47bc02fbd61c775e4749b8c674f7cf260c
+files dom/bindings/BindingUtils.cpp
+patch 286,360,

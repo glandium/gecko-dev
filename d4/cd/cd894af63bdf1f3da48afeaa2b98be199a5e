@@ -1,0 +1,5 @@
+changeset 3c135c119ef48c70730959624519487974199987
+manifest 0cdc672c11b78824b696788bbb5c38f379bc6e30
+extra rebase_source:b7b22212e50ee5ead0c53325c380e2568c4dfb9d
+files toolkit/components/telemetry/docs/internals/preferences.rst
+patch 522,596,

@@ -1,0 +1,5 @@
+changeset 7fb9fb8839aa9d320b07237e3ae30ece01b617e1
+manifest 7c854fcc022e312b753768b5020cdc6c6f0fea92
+extra rebase_source:d22d9cdb8f70a9fe9d113da6fd1c53cb80017247
+files browser/extensions/formautofill/FormAutofillHandler.jsm
+patch 298,372,

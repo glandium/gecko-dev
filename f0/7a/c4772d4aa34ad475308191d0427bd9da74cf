@@ -1,0 +1,5 @@
+changeset b277b79a2e7c6c35b74026ad58b844dca3b7d01f
+manifest 1e3bd05b9477292c57fffe6b4e0bc4557a13284a
+extra moz-landing-system:lando
+files layout/base/nsStyleSheetService.cpp
+patch 301,345,

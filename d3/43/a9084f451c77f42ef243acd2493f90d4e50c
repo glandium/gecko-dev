@@ -1,0 +1,5 @@
+changeset e36f11e684015e5d4abf3df854a3d32be2e7a228
+manifest 400a8099373e0dde8653e00bb3d7b02704b52217
+extra moz-landing-system:lando
+files devtools/client/debugger/test/mochitest/browser_dbg_event-listeners-01.js
+patch 361,405,

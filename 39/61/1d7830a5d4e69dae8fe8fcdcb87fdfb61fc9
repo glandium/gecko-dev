@@ -1,0 +1,5 @@
+changeset 1a03e40f850a2477dcaccc89245a3e73c661ea9c
+manifest 3667810cce940445711a16cdb3fc8fe21bf45b30
+extra amend_source:c034faf81fd818adcba0748e3b704db1eaa5fe14
+files toolkit/crashreporter/google-breakpad/src/third_party/curl/curlbuild.h
+patch 314,387,

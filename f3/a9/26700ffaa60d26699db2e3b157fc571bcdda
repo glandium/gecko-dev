@@ -1,0 +1,5 @@
+changeset 868c763e5d1038442dfad24bb2cf6cf00e1b5f3e
+manifest 2ec7c46c55b9868be6b638b0c1aabc6a56361a5b
+extra moz-landing-system:lando
+files services/sync/tps/extensions/tps/resource/tps.jsm
+patch 372,416,

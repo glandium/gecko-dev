@@ -1,0 +1,5 @@
+changeset 4a234901b459b858850a481b86d23da95d7dac90
+manifest 5830721f90d09be8ddd9aeffed0ae39ed837e9de
+extra rebase_source:c9ad775521d6f33379efe569982a2e6279311360
+files security/manager/ssl/ScopedNSSTypes.h
+patch 350,424,

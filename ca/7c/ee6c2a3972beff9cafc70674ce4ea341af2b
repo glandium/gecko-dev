@@ -1,0 +1,5 @@
+changeset c3d2757a5343f853edac0794df1b411748bc638d
+manifest a3af8d4d24014f57870f70df22e149b8fd869395
+extra rebase_source:21dcfc4d67a669af62777e78a1fa153d07e19b74
+files devtools/client/framework/test/browser_browser_toolbox_debugger.js
+patch 324,398,

@@ -1,0 +1,5 @@
+changeset 0a61a8fd3866b2a7a17bf866c9aaab8bff434c0b
+manifest e4eae3bfc35c5534520cbd9ce659afd6cf0c088a
+extra rebase_source:cd9e4d01898c7fc8b3f5a51e1780d68dc058efed
+files devtools/client/inspector/test/browser_inspector_expand-collapse.js
+patch 342,416,

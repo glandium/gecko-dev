@@ -1,0 +1,5 @@
+changeset a7c904c9581ffe0a02b548521a1bc052441b7715
+manifest bcc9f81cccf45bc95d2cc33f2c38beea5db05ce2
+extra moz-landing-system:lando
+files dom/events/EventStateManager.cpp
+patch 570,614,

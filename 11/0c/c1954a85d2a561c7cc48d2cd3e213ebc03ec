@@ -1,0 +1,5 @@
+changeset 8e5b21f2547f7ad3f4fed61e7af2e3c905d13830
+manifest f9ce694a432558cc7f9f2d2f8aeb02a7ebef4d53
+extra rebase_source:e6f781bb62ec21fa87e6b8eddec40fcdfa5c4d29
+files browser/extensions/formautofill/test/browser/browser_autocomplete_footer.js
+patch 403,477,

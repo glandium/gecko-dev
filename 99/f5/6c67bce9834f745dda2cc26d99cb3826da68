@@ -1,0 +1,5 @@
+changeset a126bd4f1ae905ccd4303053f1ec0c5339fee3de
+manifest 1cc3dca3716e68f2bca18b0870c474c190b4cb5e
+extra moz-landing-system:lando
+files extensions/spellcheck/hunspell/glue/RemoteSpellCheckEngineChild.cpp
+patch 306,350,

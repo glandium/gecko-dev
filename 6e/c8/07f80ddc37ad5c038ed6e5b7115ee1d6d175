@@ -1,0 +1,5 @@
+changeset ef3252b0ba216ffa6cd741d97d52eb108644c1ce
+manifest fe00f8723a8aa2a719c3c74379ad7a75e9bc53fc
+extra rebase_source:87f00b098a52207749ca0400a53d904520a0eb0a
+files dom/tests/mochitest/general/test_interfaces.js
+patch 358,432,

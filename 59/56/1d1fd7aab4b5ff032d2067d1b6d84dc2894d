@@ -1,0 +1,5 @@
+changeset 919fea1e53373e26dbb38e3d1bde923dac84db21
+manifest ba37b90866434985b5f5848d0ad7183e17efa5cb
+extra moz-landing-system:lando
+files testing/marionette/puppeteer/firefox/firefox_puppeteer/api/places.py
+patch 313,357,

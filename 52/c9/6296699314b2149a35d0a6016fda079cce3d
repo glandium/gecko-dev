@@ -1,0 +1,5 @@
+changeset b79df840493dd710dcaca2f15e0991ba1be6809b
+manifest 16822a08e19ce67860c2daba8c3e0cab1f799661
+extra rebase_source:d87fd737d3a15067d7106b4fe4ae1f937d799e10
+files media/libstagefright/frameworks/av/media/libstagefright/include/SampleTable.h
+patch 431,505,

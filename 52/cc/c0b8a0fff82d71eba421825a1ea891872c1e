@@ -1,0 +1,5 @@
+changeset 8e71dda1db8298d36c7ed73cf679a532c7fbf3af
+manifest 55811852304de9d96b33b46a55937d412d2688d1
+extra moz-landing-system:lando
+files browser/components/search/test/browser_aboutSearchReset.js
+patch 336,380,

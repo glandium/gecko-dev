@@ -1,0 +1,5 @@
+changeset c0decd9037fed5ae0afa80dd10702467d7e8379e
+manifest 235695f9d2539b541faa3a2281b15a1cf71cec39
+extra rebase_source:a3787ad99b167c4ff38e82540e3e36d7d8d28734
+files toolkit/modules/JSONFile.jsm
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset b2c6734e843ec03e189438e5b44eae2de7d5db1c
+manifest 02b7d34bd26a93b511f60e081f2d09d57ef7d318
+extra rebase_source:238054d17ff624eb203f8352493cd2ce99e11402
+files media/webrtc/signaling/src/peerconnection/PeerConnectionImpl.cpp
+patch 316,390,

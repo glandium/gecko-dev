@@ -1,0 +1,5 @@
+changeset 813d0169cc67b0bcc0d9469b6581f43aa491c9c7
+manifest d0a21018e622be3ab55e0b15bc0d61a5d1c76aa9
+extra rebase_source:1963f759c6841adc566cc84e04400ae2612a351a
+files devtools/client/webconsole/test/mochitest/browser_webconsole_optimized_out_vars.js
+patch 309,383,

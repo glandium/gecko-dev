@@ -1,0 +1,5 @@
+changeset 4f71d73f7fd07709a94fba917fbfa20f777985da
+manifest 556e4ac6c5b0b326ebbee53eedcff7bfbadf8741
+extra rebase_source:774360db3b03d8e57f5563cce2eb79421e17cd14
+files gfx/layers/BufferTexture.cpp
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 16710b8f5b70af0c3a4543d937222c58e7b3c2e6
+manifest b6ff5622ad857b67d6943d85d682ea6271102aac
+extra moz-landing-system:lando
+files gfx/layers/ipc/ShadowLayerUtilsX11.cpp
+patch 303,347,

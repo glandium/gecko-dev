@@ -1,0 +1,5 @@
+changeset 6102219fb8f84277ba8366dbe6e4fa9f4e75786b
+manifest ecaf0c9897a19f9ab24a4ef714afdffd569efceb
+extra moz-landing-system:lando
+files devtools/client/framework/connect/connect.js
+patch 319,363,

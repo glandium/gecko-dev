@@ -1,0 +1,5 @@
+changeset 644d4b1846b0b0b8a4c8b31742f66c6d8f510079
+manifest d8b92a96efa0c610837519ef8d9aba337fd42ae4
+extra moz-landing-system:lando
+files js/xpconnect/src/XPCWrappedNativeJSOps.cpp
+patch 326,370,

@@ -1,0 +1,5 @@
+changeset 6c39cc812c87cf6ac71f6af96b60b3754a636eee
+manifest a232c259862bcdf6398601e0b8a620d2a051cb2c
+extra moz-landing-system:lando
+files browser/components/extensions/parent/ext-chrome-settings-overrides.js
+patch 332,376,

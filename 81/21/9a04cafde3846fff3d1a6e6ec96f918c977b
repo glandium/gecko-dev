@@ -1,0 +1,5 @@
+changeset 135c148a2aadf00d19d3403aecd90cf4329329ea
+manifest c6bf683327b00be6c67621dc0455ead7de0a78ab
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/sync.xul
+patch 357,401,

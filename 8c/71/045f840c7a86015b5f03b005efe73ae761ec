@@ -1,0 +1,5 @@
+changeset 8c5a1943d169227e68598870bbe2fd3ee1d6dbea
+manifest 42b3f02e5eacb8a9d99dd15e85b8018a000cfca7
+extra moz-landing-system:lando
+files devtools/client/shared/test/browser_dbg_navigation.js
+patch 351,395,

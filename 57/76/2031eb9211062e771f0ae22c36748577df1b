@@ -1,0 +1,5 @@
+changeset d8b95060ff1a6017bd08137547d5c148a53990c9
+manifest 6591688c69747dd439a872ed90c381c62f34373c
+extra rebase_source:41bcdc6cc4933595f17ddcaaebcd6bf95a16076e
+files browser/extensions/onboarding/test/browser/browser_onboarding_hide_all.js
+patch 340,414,

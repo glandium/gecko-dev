@@ -1,0 +1,5 @@
+changeset 84a794ceb84b75cdbe365a7c7c6c430a7927a7b9
+manifest c7edcfa3b21cf4b0a569be300d398ce97dace2a2
+extra rebase_source:b94a4855d335ff6d36c24dc61288b7fb65a0aca0
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/icons/processing/TestMinimumSizeProcessor.java
+patch 364,438,

@@ -1,0 +1,5 @@
+changeset 6e4f767bfa02892dc29c4eb2ddaf1d64a28125ff
+manifest 3b350d2cea3f644f745b75c457e8ab3a0c04a01e
+extra rebase_source:1ee628b14ef01b5ab02f86073a18a10a671b1d04
+files taskcluster/taskgraph/try_option_syntax.py
+patch 270,344,

@@ -1,0 +1,5 @@
+changeset 26ded4c81f0360ea672ca8f493e5b6687caac37b
+manifest 06e44e09c915449c951b29600bf60ec5f0a9c5c9
+extra rebase_source:1785ef9bd3f6ea6e281fc7fa9dead9552913c317
+files toolkit/components/extensions/test/xpcshell/test_ext_contexts_gc.js
+patch 320,394,

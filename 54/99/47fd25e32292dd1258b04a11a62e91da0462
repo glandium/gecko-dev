@@ -1,0 +1,4 @@
+changeset e7414bbec32d3e075551485eb83580021aea70d8
+manifest 59562211faaade322f4f14862f5e990ea72363d0
+files js/src/vm/TypedArrayObject.cpp
+patch 242,243,

@@ -1,0 +1,5 @@
+changeset 678d356720c483dbf1c703f989ed1a106f68a0d0
+manifest ac68f17a2c157646d4e2a450c1a2f6c78b8b7b6b
+extra moz-landing-system:lando
+files toolkit/crashreporter/tools/symbolstore.py
+patch 550,594,

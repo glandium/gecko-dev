@@ -1,0 +1,5 @@
+changeset 2e26f9f0051dccb6cb520dc776c6bbd9f1e98417
+manifest 843f8c9b9da794a63910676490dd17ba49a5c478
+extra rebase_source:85420290d283b62af5d8e7a0bb0500f68873ac4f
+files xpcom/io/nsDirectoryService.cpp
+patch 284,358,

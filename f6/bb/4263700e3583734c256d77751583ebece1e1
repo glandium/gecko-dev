@@ -1,0 +1,5 @@
+changeset 7606556a04bda972292aa0379a26b4b9e3c198f7
+manifest 8af8248dee51928c30a1cd08df89435137e6fe8d
+extra rebase_source:025b9f4f75622352c2e6fc47cee9df05e14a2a39
+files toolkit/mozapps/extensions/test/xpcshell/test_badschema.js
+patch 319,393,

@@ -1,0 +1,5 @@
+changeset b465484b85ab8a071a51d7d4a7129d0437964ac3
+manifest 9b852f02f9a8d58d7d62b44bdad727a6d3d63a68
+extra rebase_source:b5009f527bc0cd026e06c8b5da9f3d44fc4ea700
+files tools/profiler/core/ProfileBufferEntry.h
+patch 274,348,

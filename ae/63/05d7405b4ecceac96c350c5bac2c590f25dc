@@ -1,0 +1,4 @@
+changeset 61493f82b7a1f1f46515b139dce8483330830db7
+manifest 28cf8eb53577b300460d9de99435a1685cdcf1b5
+files dom/xhr/tests/browser_blobFromFile.js
+patch 276,277,

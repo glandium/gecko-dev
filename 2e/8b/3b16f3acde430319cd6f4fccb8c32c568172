@@ -1,0 +1,5 @@
+changeset 23205c4744f095d4f4c87a6f6238c98f87ae3ae5
+manifest 4d6bb5030b0c749e91860055efb46edf4173b26e
+extra moz-landing-system:lando
+files build/clang-plugin/mozsearch-plugin/MozsearchIndexer.cpp
+patch 320,364,

@@ -1,0 +1,5 @@
+changeset 09f5387e2002f4efa33043895decc4c05dcf5d18
+manifest f597bd2aff5782ec143a366bb431c7f685098e19
+extra moz-landing-system:lando
+files dom/base/nsViewportInfo.cpp
+patch 531,575,

@@ -1,0 +1,5 @@
+changeset 99fe8edb8296f2cd4f704e7dcad482a4926ca1ac
+manifest 904a69cb998fef3340cbf3e828603049d88eda47
+extra rebase_source:01f575b3cf4b778839b3791a35eaa07f8ab758d9
+files browser/components/migration/360seProfileMigrator.js
+patch 313,387,

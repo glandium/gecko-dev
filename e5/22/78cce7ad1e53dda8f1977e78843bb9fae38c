@@ -1,0 +1,5 @@
+changeset 284002382c21842a7ebb39dcf53d5d34fd3f7692
+manifest 0257e8f2b1667a87f0a7303cfe1b0f53282ec838
+extra rebase_source:6ba43fbb94430f8c33a01f1f5797c03163a04652
+files js/src/jit/x86-shared/AtomicOperations-x86-shared-gcc.h
+patch 306,380,

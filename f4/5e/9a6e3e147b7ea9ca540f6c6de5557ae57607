@@ -1,0 +1,5 @@
+changeset aba681af8e2716073606220cc45489ae45310652
+manifest f3716373ee3ff5fe97341f6c1c5636e9e73b2920
+extra rebase_source:e0c2c7934278dcd8cbbcf3c82ceb405f11de31d5
+files extensions/auth/nsAuthSSPI.h
+patch 309,383,

@@ -1,0 +1,5 @@
+changeset 5edbd3619c978b1dc78709685a89536c61df1263
+manifest d8e269702765b87c89c3aab653953f4b6a36bc36
+extra moz-landing-system:lando
+files toolkit/content/widgets/tabbox.js
+patch 281,325,

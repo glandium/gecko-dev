@@ -1,0 +1,5 @@
+changeset baa0f84b80b206c3ccdcbc36950ddd1a949f1c6a
+manifest d458e0a4e769a08efed76875a5415f0b42cabd45
+extra moz-landing-system:lando
+files widget/windows/WinHeaderOnlyUtils.h
+patch 325,369,

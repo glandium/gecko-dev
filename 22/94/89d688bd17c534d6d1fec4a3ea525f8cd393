@@ -1,0 +1,4 @@
+changeset b6f7a0b4345849cc9cf9a40abe1ff16cf1a6d905
+manifest 35981e0ee7f20f02f0e9e423e9476b32dbb24e05
+files security/sandbox/chromium-shim/patches/with_update/mingw_msvc_requirement_error.patch
+patch 231,232,

@@ -1,0 +1,4 @@
+changeset d38486cbad8d8388fa3596139473b89ef35b9821
+manifest 1ccbe7dc8eb68b9f868cdfccae2f514c229ce7ef
+files devtools/client/aboutdebugging-new/src/components/debugtarget/WorkerDetail.js
+patch 331,332,

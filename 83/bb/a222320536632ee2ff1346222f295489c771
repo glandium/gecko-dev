@@ -1,0 +1,5 @@
+changeset a7af41a11ae3aaa6a7dfe442fb6daec3a1234ac9
+manifest 7683228eacb958af435cdd102ea563c35307aac0
+extra moz-landing-system:lando
+files toolkit/themes/shared/global.inc.css
+patch 287,331,

@@ -1,0 +1,5 @@
+changeset 757e7b60b9ff93a0bd35f7fc145fd941420198c1
+manifest 5f030af5e514e575b3987377284b85ec1557e056
+extra moz-landing-system:lando
+files browser/components/extensions/ExtensionControlledPopup.jsm
+patch 365,409,

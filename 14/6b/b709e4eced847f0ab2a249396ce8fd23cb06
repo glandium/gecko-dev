@@ -1,0 +1,4 @@
+changeset 3b66a441d832b077dde52a5a2692d1b07fde3f0e
+manifest a0fc35c445ae0c8d83a77900ed74349894ab6b74
+files python/mozbuild/mozbuild/backend/cargo_build_defs.py
+patch 269,270,

@@ -1,0 +1,5 @@
+changeset ce6d10ff76ab44d362fc527d627cce614dfbf37e
+manifest a6244620a4e30667a8296649f0df1b43202c4926
+extra rebase_source:e56dda52a5bcc72abd150c6488a2d4aba5a71bec
+files toolkit/components/extensions/test/xpcshell/test_MatchPattern.js
+patch 305,379,

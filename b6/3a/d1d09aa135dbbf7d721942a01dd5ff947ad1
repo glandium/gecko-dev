@@ -1,0 +1,5 @@
+changeset 6038fb7b458cad07fcae96cec1c478c189acfde6
+manifest 5f12e40bda46fccabffbb51b55bbe96804b38fe7
+extra rebase_source:e952bfb6c78cba203a98e07e1b5434a0e3a0d9fe
+files toolkit/crashreporter/tools/upload_symbols.py
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 5376560d4a73e0ca15bb05999f485c810f66e6b5
+manifest 1ee42909698e437f1b68234e4ecfcce4cb89adcf
+extra rebase_source:608e7c2e5d21394c2ca7110bb4f4c61e649a23e1
+files js/src/jit/StupidAllocator.cpp
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset 452e577be2f4e4ffc7e7415572187e1d4c5f60af
+manifest 7ad90ea95c6bcd8b33e357584abe2ce849eefc2f
+extra rebase_source:c20d830d2ae5d58201a6f23be53e41c225d4332b
+files devtools/client/inspector/animation/components/graph/SummaryGraphPath.js
+patch 421,495,

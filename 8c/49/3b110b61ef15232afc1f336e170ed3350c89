@@ -1,0 +1,4 @@
+changeset c5fa6b68042d72da88b834f979b1c795eabbbf2c
+manifest fdfbf5157f2cd4e3f9753c7ef975293d988fe564
+files taskcluster/scripts/misc/build-cbindgen.sh
+patch 343,344,

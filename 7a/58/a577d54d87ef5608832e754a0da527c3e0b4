@@ -1,0 +1,5 @@
+changeset 23f078580a973ca3e6ee2a7b9c639cc08ecc1398
+manifest d4e09ceef5bf7a3ac30230e4b607b4863b43f42b
+extra rebase_source:f84421e27c6029dd3733f3c5a5d329b1755a0ee3
+files dom/media/AutoplayPolicy.cpp
+patch 401,475,

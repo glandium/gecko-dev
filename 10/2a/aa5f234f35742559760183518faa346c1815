@@ -1,0 +1,5 @@
+changeset d697cd9de8d38e38292b79834c8889c0eb05a3cb
+manifest aabd3d273dfe6156a4aac1011a08f0f8da5f27eb
+extra rebase_source:dc7b30343246a7466cc23c58ba6b32734c657056
+files browser/themes/shared/urlbarSearchSuggestionsNotification.inc.css
+patch 336,410,

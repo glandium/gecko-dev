@@ -1,0 +1,5 @@
+changeset dd2a9ecb09d8527bc7ab54733b3ec453198e8246
+manifest 1350f9c41521c9b84a14817a92a44071936e4a27
+extra rebase_source:3445cf47576c69864c7d385bf594099337e39f54
+files browser/base/content/tabbrowser.js
+patch 279,353,

@@ -1,0 +1,5 @@
+changeset 88d7a7d93abf2d02ab0167f1bff9a417e4266906
+manifest 7be9b062aebe5863e10a039b699e50363dd10605
+extra rebase_source:745ab61678772acdc7794719ae1c3d85ee1475c4
+files devtools/client/shared/components/Frame.js
+patch 520,594,

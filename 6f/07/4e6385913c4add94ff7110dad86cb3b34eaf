@@ -1,0 +1,5 @@
+changeset 9c768db45a35b59f90d8ae1b8062af2e98539b28
+manifest d0f1c4a644da9d508857a10898c43d9ba8b7134d
+extra moz-landing-system:lando
+files testing/talos/talos/pageloader/chrome/pageloader.js
+patch 349,393,

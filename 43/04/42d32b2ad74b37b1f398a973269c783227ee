@@ -1,0 +1,5 @@
+changeset 67ac015ae0802854815cc136baf520791588e754
+manifest 3a9eaff1df04eea31e74a9ecadee93c67ace582d
+extra moz-landing-system:lando
+files services/settings/RemoteSettingsClient.jsm
+patch 393,437,

@@ -1,0 +1,5 @@
+changeset 022f4e59d3badbf29d429bc3ad3c7975f5aaf8c8
+manifest 8b0d423902340c20a94f0a6719211ed7e47e03e2
+extra moz-landing-system:lando
+files mobile/android/app/build.gradle
+patch 539,583,

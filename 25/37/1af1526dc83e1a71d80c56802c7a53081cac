@@ -1,0 +1,5 @@
+changeset f340a2489f7366a1383ac842ac3191a19e26b500
+manifest e23aa4cff5afe32eb68100c7590e74e53adc65d6
+extra moz-landing-system:lando
+files dom/base/nsContentPermissionHelper.cpp
+patch 543,587,

@@ -1,0 +1,4 @@
+changeset 7a4f627e88ea22e46da8b94f445069317d8784cf
+manifest 842bd77ab847733ae1c448a598cf383e8d77c4fd
+files security/sandbox/chromium/base/win/scoped_handle.cc
+patch 394,395,

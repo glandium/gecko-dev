@@ -1,0 +1,5 @@
+changeset 64bd4d75004d2af2256ad76f4f23c50e2d7ffe8c
+manifest bbe4eda7f0ba9155834485a9afa1522811561e2a
+extra rebase_source:03e4cd1e3a9042fa565373487c5cbb1118530917
+files devtools/client/netmonitor/test/browser_net_cyrillic-02.js
+patch 2097,2171,

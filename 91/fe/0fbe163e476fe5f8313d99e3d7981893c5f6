@@ -1,0 +1,5 @@
+changeset c5fd8b5bef1e00bcf5d7c3e47aaadd044efdfbe1
+manifest edaeba0393b51cbc21e196ac7bb0ed14472ca773
+extra moz-landing-system:lando
+files toolkit/components/antitracking/AntiTrackingCommon.cpp
+patch 336,380,

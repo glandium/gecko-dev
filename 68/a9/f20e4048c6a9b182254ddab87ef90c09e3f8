@@ -1,0 +1,5 @@
+changeset 0ef8a1d7e4d607c09a2ab0935f815841d9800247
+manifest 4de92f28b4b37f47882a4af143ebec1ee0b982d1
+extra rebase_source:633cf7e68c67253dda6f55339447e62add1d5f3f
+files widget/windows/LSPAnnotator.cpp
+patch 294,368,

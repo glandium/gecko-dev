@@ -1,0 +1,5 @@
+changeset 3867d0df5cafe68058139c4de8e47c4d6e79e567
+manifest 3d4165e3169f17681f22be0a08944a5bc11ee0ea
+extra rebase_source:9b368b110c66880730a28d4a5c07f14e52d92e4e
+files devtools/server/actors/highlighters/auto-refresh.js
+patch 553,627,

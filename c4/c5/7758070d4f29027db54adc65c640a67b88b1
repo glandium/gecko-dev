@@ -1,0 +1,5 @@
+changeset 0e6465e2cdf40c3b1f18e18c52e3285d49872c25
+manifest 8e4c47b56e00209c1dec63dac40f252bc6a4ac43
+extra moz-landing-system:lando
+files dom/xml/nsXMLPrettyPrinter.cpp
+patch 1103,1147,

@@ -1,0 +1,5 @@
+changeset 37ee1d28489512a040d766b9232cdca5ccc86b7a
+manifest 1900b0cb1ff6ab3c1bc1ee698a416ebb8d7f6373
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/connect/ConnectSection.js
+patch 328,372,

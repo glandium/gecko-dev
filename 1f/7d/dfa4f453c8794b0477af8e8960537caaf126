@@ -1,0 +1,5 @@
+changeset 8e500058bdd04cb492ee200fe5858bf7bdfcf53b
+manifest dbad86e311dbbc0ad98c239375d1a59370c71876
+extra rebase_source:b3f1de0122d83631fda8d66fc176f07d7dcc3586
+files taskcluster/scripts/tester/test-ubuntu.sh
+patch 329,403,

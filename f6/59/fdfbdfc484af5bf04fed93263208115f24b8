@@ -1,0 +1,5 @@
+changeset 9eb9e58dc4bc3840d7b6b0a414ea4888822356b6
+manifest 98d9711f96dd5585623bfb29d7e9702b4d690e8e
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/rule/GeckoSessionTestRule.java
+patch 371,415,

@@ -1,0 +1,5 @@
+changeset 4828ebf3834b76ebc27a8f848adfade8b5b1b31b
+manifest 09b1e927bc7b2011da2d3fedfe91d295539df543
+extra rebase_source:ba496d6f262d3679031f0b933a80ce3e2a2236a5
+files media/webrtc/trunk/third_party/gflags/gflags.gyp
+patch 537,611,

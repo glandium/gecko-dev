@@ -1,0 +1,5 @@
+changeset 1380819f4aa5161236678f5df54a63c0c5442b78
+manifest 39a9248e0b7bf45f44c0d9fd1db86abc2a4aec4a
+extra rebase_source:ded7c0ef92170f12874359a5b5a20701ab93dbdf
+files testing/web-platform/tests/tools/wptrunner/wptrunner/formatters.py
+patch 466,540,

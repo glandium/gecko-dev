@@ -1,0 +1,5 @@
+changeset b3946f6cb5f2a639101e405358bfb4049ca574a9
+manifest 1624a008b67f3f5b5c34f591e9c3173cafff127e
+extra rebase_source:ff3bbbbf32ff472ecec0c0c34a1b8427359baa17
+files browser/extensions/shield-recipe-client/lib/ShieldPreferences.jsm
+patch 380,454,

@@ -1,0 +1,5 @@
+changeset 922dd9f3b12d9d0a35336d383dfc02a6e504bd1a
+manifest dfe87d37a88e09248c0c953fe1e6e742a3fcc892
+extra moz-landing-system:lando
+files editor/libeditor/tests/test_bug1497480.html
+patch 548,592,

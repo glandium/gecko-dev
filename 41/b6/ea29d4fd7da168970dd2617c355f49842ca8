@@ -1,0 +1,5 @@
+changeset e2da10ec6bddccfcc126de32db870bd40f4080f8
+manifest 0dbd27cdec718a35c177f03ebf2d75f2912760e5
+extra rebase_source:d764bda2690e06a5be63a1143f46ea99756f4225
+files dom/base/EventSource.cpp
+patch 296,370,

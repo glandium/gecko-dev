@@ -1,0 +1,5 @@
+changeset 55515c0020e19a07152c84692a12adfd4bb40fc9
+manifest afff28205d0eec76aa95399fb845545306510d9d
+extra moz-landing-system:lando
+files devtools/client/shared/telemetry.js
+patch 312,356,

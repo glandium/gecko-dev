@@ -1,0 +1,5 @@
+changeset a41a7e9cdf4e84446a85f3d0fa5c8c06a4e1a92a
+manifest de13e11d2539ce594f3e719feb3179d8268e85fd
+extra moz-landing-system:lando
+files browser/base/content/test/performance/browser_tabstrip_overflow_underflow.js
+patch 375,419,

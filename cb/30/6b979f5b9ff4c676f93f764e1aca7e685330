@@ -1,0 +1,5 @@
+changeset 08f906f3a0c836d333699f528f70a6b86a69f5eb
+manifest fa697e4ce75dc8fd280e965494217462af7f3c29
+extra rebase_source:a6544e9418272699530ad3264ab8a2f2b8c3b196
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoThread.java
+patch 542,616,

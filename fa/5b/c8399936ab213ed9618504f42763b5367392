@@ -1,0 +1,5 @@
+changeset bbbd75cd12a945396d21f2000f5a9d4bc09602bb
+manifest 303eee9ca4f8ed52c2c826d56779700203d9adeb
+extra rebase_source:2550b1fca77c517093e430bb4c3e81bcfa0c3f5c
+files toolkit/mozapps/handling/content/dialog.js
+patch 282,356,

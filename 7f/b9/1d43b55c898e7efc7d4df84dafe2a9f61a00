@@ -1,0 +1,5 @@
+changeset 259bfd81d8581bd0f1c599d71fa98fb2b02da5e4
+manifest 3c0795f7b1c08b9e45170df206ac04b753dd1dd6
+extra rebase_source:ed29488cfd1434fb200387706ca5a96cb2185090
+files editor/libeditor/EditorBase.h
+patch 713,787,

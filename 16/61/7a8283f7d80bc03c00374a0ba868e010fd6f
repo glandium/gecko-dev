@@ -1,0 +1,5 @@
+changeset 6d9344794eb47976a0827984d76aefc2f899cdd7
+manifest b41c3f50370773078bfbdd317702e672e82ce964
+extra rebase_source:719e2a9a0ec9e3284495f7d460e6762b15af0634
+files media/libcubeb/cubeb-pulse-rs/update.sh
+patch 293,367,

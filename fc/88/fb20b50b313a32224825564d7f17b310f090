@@ -1,0 +1,5 @@
+changeset 8641f3fc2eecab0503f5b0440d5da1473aef58a8
+manifest 660baafcac4f66dbc570cffacb182bafd54edcf9
+extra histedit_source:7b5e1011ebf8eebb03e64d5a0042b437534d009d
+files taskcluster/taskgraph/util/docker.py
+patch 561,637,

@@ -1,0 +1,5 @@
+changeset ec9f62910277ae252c3fb32166358419afb96b34
+manifest fc03ce3947d079019378d558131a9d63c34441aa
+extra rebase_source:c61e1736cedfbeaa96951ba40cdc954bbc0094d5
+files xpcom/base/Logging.cpp
+patch 334,408,

@@ -1,0 +1,5 @@
+changeset 6d78d6d31e09e4aba6bb49fecbe064c38067b38b
+manifest c3932388cb803db976607440baa33d21a857db8d
+extra rebase_source:12bd42796483edd32ab6b45c27f709fcb3df21dd
+files browser/components/preferences/in-content/tests/browser_search_within_preferences_2.js
+patch 347,421,

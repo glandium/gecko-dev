@@ -1,0 +1,5 @@
+changeset a52b66841df98457965924c2810e2a6396df896d
+manifest a4501e81d3df9e9703fe7b3dc2c8bc8939ff649f
+extra moz-landing-system:lando
+files toolkit/components/aboutmemory/content/aboutMemory.js
+patch 320,364,

@@ -1,0 +1,5 @@
+changeset 9266e46fa0d9944c6cf9bafefd29461d60366ce1
+manifest fd44ba7d85b0155b431565922b80e14ccaf80707
+extra rebase_source:861662ebce7559774666315be2a20ed962295953
+files browser/base/content/browser-sidebar.js
+patch 336,410,

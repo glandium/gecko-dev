@@ -1,0 +1,5 @@
+changeset d53abfceeac28fda1c212383b9b9965f39ba80a9
+manifest 2d8ca8f413efd6fd01b35536806d91d7495a4103
+extra rebase_source:029eeaad0a1eea60a9dce56756160a827b522d30
+files netwerk/base/NetworkInfoServiceLinux.cpp
+patch 304,378,

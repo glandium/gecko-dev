@@ -1,0 +1,5 @@
+changeset 7c0760b4c3a47282e421925d182b4f49d6e9bd6d
+manifest 4561effd046a0b6817f4a31a7e2732aa99f2b0f2
+extra moz-landing-system:lando
+files toolkit/themes/osx/global/notification.css
+patch 298,342,

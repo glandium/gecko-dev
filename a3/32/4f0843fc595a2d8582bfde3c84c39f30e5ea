@@ -1,0 +1,5 @@
+changeset 7d3a7c5c694253c8d0382f368067b2c26a6ec192
+manifest 48023618d3272e6be182baac478e5687510c1e22
+extra rebase_source:c0629a31c28e8f4d543b62fd17b51dfea634a938
+files browser/base/content/test/performance/browser_tabstrip_overflow_underflow_reflows.js
+patch 390,464,

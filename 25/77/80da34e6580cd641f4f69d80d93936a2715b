@@ -1,0 +1,5 @@
+changeset e1dbcf0b70199a5451588cca6d2a1afdd699a246
+manifest 5ae2ad5effa2236938a0d73d8c59a164f506ce76
+extra rebase_source:e491481428f69722145ad63f70d1876272b0966e
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/stream/HighlightItem.java
+patch 345,419,

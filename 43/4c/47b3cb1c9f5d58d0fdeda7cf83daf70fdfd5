@@ -1,0 +1,5 @@
+changeset 3dbc855f18d5ea8cee4af7fccca14f891b8b3816
+manifest 3e75e89fc1ea1005e1194e1646f62aba32e03645
+extra moz-landing-system:lando
+files gfx/vr/gfxVROculus.cpp
+patch 612,656,

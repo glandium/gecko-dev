@@ -1,0 +1,5 @@
+changeset 9c69d0681cd6eebb84ede09b15f9866b0397cad0
+manifest 065f2161893eaf15a5b7847841ead6d44dae88bb
+extra rebase_source:e8b25f7c9bc373ad8104500ee902ed2847ea19eb
+files browser/base/content/browser-sync.js
+patch 285,359,

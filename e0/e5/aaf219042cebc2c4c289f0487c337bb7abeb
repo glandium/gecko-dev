@@ -1,0 +1,5 @@
+changeset 10ca5b14dbdb6be329e3d47f4dcbc27b43ae1823
+manifest 03dfed0ea9fdf2b82ea37e6478653f3759130c3a
+extra rebase_source:b40fe3e8cd827f15a947a889b154fd1ba0ffca75
+files toolkit/components/remote/nsXRemoteService.cpp
+patch 295,369,

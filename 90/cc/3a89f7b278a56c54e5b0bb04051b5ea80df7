@@ -1,0 +1,6 @@
+changeset 6563cbe90004deb454f7519835cf425334f3b4e2
+manifest e86ab78ef9002bd0601b81dfcd3ba267c1426ecb
+author Marco Bonardo <mbonardo@mozilla.com> <mbonardo@mozilla.com>
+extra rebase_source:5f290c1620fcf2e4bff789be135ce49cf2d9ec7a
+files toolkit/components/places/PlacesTransactions.jsm
+patch 329,403,

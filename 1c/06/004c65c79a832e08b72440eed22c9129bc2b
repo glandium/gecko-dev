@@ -1,0 +1,5 @@
+changeset c549d5f5fe6d172db7a7fb8fd524ccf77b6730f3
+manifest 11064c22fb933be8ad219f3d8cb40ca6595134bb
+extra rebase_source:32102bcb54d9e8becf77d642b97a2288f5402256
+files devtools/client/inspector/rules/test/browser.ini
+patch 303,377,

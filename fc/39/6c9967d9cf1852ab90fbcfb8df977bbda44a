@@ -1,0 +1,5 @@
+changeset f410e48228a944f16d9d17b5a1bbdadccb5f78d9
+manifest d28c43a0eb681a33224325136fbd2f0428573982
+extra moz-landing-system:lando
+files browser/components/payments/test/mochitest/test_payment_dialog_required_top_level_items.html
+patch 794,838,

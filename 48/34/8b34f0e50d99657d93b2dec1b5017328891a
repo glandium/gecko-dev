@@ -1,0 +1,5 @@
+changeset 8f496e855383001c787bc218281594abafb7bf2b
+manifest 44c1291e3417147532f848065e4e66a5b3fe150d
+extra rebase_source:6fcc66389037484d619ef38cbfce6b70cbb544b1
+files docshell/shistory/nsSHEntryShared.h
+patch 276,350,

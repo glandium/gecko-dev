@@ -1,0 +1,5 @@
+changeset b7b6a2978011a99cb8b65deb73b293a52fd13874
+manifest 9ac9b01138427e0451e480d905fb95fa1312bb82
+extra moz-landing-system:lando
+files testing/web-platform/tests/mediacapture-record/MediaRecorder-stop.html
+patch 327,371,

@@ -1,0 +1,5 @@
+changeset 3ffe4318af3ad3033e22c80f1d4c8d1e8222a5f7
+manifest 789e9e90c09eb67447dadcfa0c5c3061ae979577
+extra moz-landing-system:lando
+files taskcluster/scripts/misc/build-clang-7-mingw.sh
+patch 302,346,

@@ -1,0 +1,5 @@
+changeset 513dfaefa408b2ffbb6d830e6274ba679831caa0
+manifest 99530494ecde6b04ab9cad405959d95cd3cde569
+extra rebase_source:cf6b8591121cace64353f3bdfdca9de193e74e6f
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/repositories/android/ClientsDatabase.java
+patch 359,433,

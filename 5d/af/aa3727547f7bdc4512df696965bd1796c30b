@@ -1,0 +1,5 @@
+changeset c2cfe47683176e0b33b3fec67c90143f63d56424
+manifest 7d4bc2698b441a0510aa6711bc29164f5e4a00c8
+extra moz-landing-system:lando
+files toolkit/components/telemetry/app/TelemetryStopwatch.jsm
+patch 352,396,

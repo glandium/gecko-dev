@@ -1,0 +1,5 @@
+changeset 383e9b30083441f9094fba161e62fcaec80bdcb1
+manifest b67f8d405f5edcf6dc96e82fc1efac4c3a82a0d5
+extra rebase_source:c32eb7f63d132803bf5332320b3f7917159804f8
+files dom/base/nsContentSink.cpp
+patch 298,372,

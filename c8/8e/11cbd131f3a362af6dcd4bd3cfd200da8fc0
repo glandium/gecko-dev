@@ -1,0 +1,5 @@
+changeset 18725d7ee61dcefa5ccd3814b05e3e75c1bd921c
+manifest 17ccbc487abaaa668a2d9078c0c5849bd62c0fbc
+extra moz-landing-system:lando
+files media/webrtc/signaling/src/jsep/JsepSession.h
+patch 301,345,

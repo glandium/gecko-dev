@@ -1,0 +1,5 @@
+changeset 2d4a86ef46e9b45b516165ff624068fbcc4493ce
+manifest b669c744d78d159422bd68e5998209347c473576
+extra rebase_source:4bf61a8a6f6bc57523dfbb7e5b0b40b7ce77a57a
+files toolkit/components/url-classifier/nsUrlClassifierStreamUpdater.cpp
+patch 1023,1097,

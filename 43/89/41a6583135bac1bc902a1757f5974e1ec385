@@ -1,0 +1,5 @@
+changeset 503622a2654acd8be65873591468eafced59386c
+manifest 1fcad88917249942446b0210592ce81be23962c4
+extra rebase_source:9476a0ec6ed3f5ea96aa693fe19a6e356e65729a
+files devtools/client/framework/toolbox-tabs-order-manager.js
+patch 367,441,

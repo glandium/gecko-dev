@@ -1,0 +1,5 @@
+changeset 2930c95c8a43897fa703471f8e6a706e239035c7
+manifest 6c504d16b2b18f4eedb6925563418f0fd9f565f0
+extra rebase_source:aaba4d19c433485a711bdabb2907984163bb4ed0
+files netwerk/protocol/http/HttpChannelChild.h
+patch 268,342,

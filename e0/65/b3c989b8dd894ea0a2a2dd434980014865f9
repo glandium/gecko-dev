@@ -1,0 +1,5 @@
+changeset 101c4902811dd3ac390c28b810824f438e159632
+manifest 43be3fb4af93f6e6925a8a6c259cb89166086fe4
+extra rebase_source:a4e9be8d4b08ca4699f76da3663532ecf446e9b0
+files mobile/android/base/resources/layout/tabs_list_item_view.xml
+patch 317,391,

@@ -1,0 +1,5 @@
+changeset 5433c0e8872049c7e13ab79a2186453546f06f0d
+manifest 4c609f2d22a00a86f55099fc7bb1ffec5538482c
+extra rebase_source:f3f1971f33d8fe6b560c1a9aca307219725713c6
+files netwerk/base/nsSimpleURI.cpp
+patch 274,348,

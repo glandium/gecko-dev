@@ -1,0 +1,5 @@
+changeset 1a0c1f962ae46cb9669622d0ed5321398bb0de99
+manifest c34ffa6014aaf7f7efa8504c6be1fba9c43b709e
+extra moz-landing-system:lando
+files testing/web-platform/manifestupdate.py
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset d664b4b10f23c2f816e86f1e107eca85b7a4e76b
+manifest 95e6871cde8fe1b9f548c7599d487dfec4c11e5b
+extra moz-landing-system:lando
+files browser/extensions/screenshots/webextension/manifest.json
+patch 397,441,

@@ -1,0 +1,5 @@
+changeset 5d89d5261d400a48b74c73facd213e87553a2bba
+manifest 206539bb4d550d169bfcbafa15ac96eb698c30b8
+extra source:bff4d1e4243f2c1472d9339aa7060be4c819b637
+files browser/components/customizableui/test/browser_947914_button_history.js
+patch 332,399,

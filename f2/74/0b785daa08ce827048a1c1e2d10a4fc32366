@@ -1,0 +1,5 @@
+changeset 4a23e67e1d2a863f1465c6eb94d0f7c52a6eebbc
+manifest 3172a08c35b08011af199014a9c88abbfcd7d610
+extra rebase_source:b588e8f04d44d07c348120efc6008e6c24b8949e
+files js/xpconnect/src/nsXPConnect.cpp
+patch 876,950,

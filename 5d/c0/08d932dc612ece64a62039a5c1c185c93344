@@ -1,0 +1,5 @@
+changeset 6f460693502554963f7401374019d3545d71c502
+manifest c991626519093173f1135ee6eb0fd6a7b4b269d0
+extra moz-landing-system:lando
+files browser/modules/WindowsPreviewPerTab.jsm
+patch 299,343,

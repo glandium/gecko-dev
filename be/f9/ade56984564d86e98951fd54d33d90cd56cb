@@ -1,0 +1,5 @@
+changeset aeea4bb2f0f7b78efadec21a2c916d8e54b844e4
+manifest 78e9a1c977bc8a7ee962619311f2a59da9d76a82
+extra moz-landing-system:lando
+files security/sandbox/mac/SandboxPolicies.h
+patch 316,360,

@@ -1,0 +1,4 @@
+changeset 80ead1c76fb50991b65da20df24b4e7a30154f36
+manifest 7e3f71eb5b35b6e502bcf0143105a11da1e34171
+files servo/src/components/compositing/compositor_data.rs
+patch 343,344,

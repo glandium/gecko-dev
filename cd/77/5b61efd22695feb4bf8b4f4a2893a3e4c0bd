@@ -1,0 +1,5 @@
+changeset e63716f398bde7be62fda0667d261cd3eeeac268
+manifest 73188d440a0fc6593f8f2143a870d2852a47e213
+extra rebase_source:c03567f778bc0d339f7de4c245a0624294562017
+files toolkit/components/telemetry/tests/browser/browser_TelemetryGC.js
+patch 267,341,

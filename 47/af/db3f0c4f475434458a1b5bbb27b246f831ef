@@ -1,0 +1,5 @@
+changeset a177f6b289fb205d8bec7ce3b7c259c73599e19b
+manifest 711954e91da20d9e1baa3219b15a9954518161dc
+extra rebase_source:6077893a7edc62c5842c3a1c9f5be9386a6e7e7c
+files dom/security/nsCSPParser.cpp
+patch 253,327,

@@ -1,0 +1,5 @@
+changeset d256e50b2bf8c3d51142970aa55f65aef914f4c7
+manifest 0bb5bed4d82f79ab594b820de7f00b3e1f2ef5ce
+extra rebase_source:8f1a4c3c98ef8a2b2ce8038328994c6ad41fc336
+files devtools/client/netmonitor/src/assets/styles/Toolbar.css
+patch 290,364,

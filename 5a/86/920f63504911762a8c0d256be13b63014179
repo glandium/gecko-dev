@@ -1,0 +1,5 @@
+changeset c98344b84b2004021a883f43a1adf66d203a128e
+manifest cc5afb74dfecd6e97d8862c4fec215f391b5837b
+extra moz-landing-system:lando
+files toolkit/content/widgets/datetimebox.css
+patch 482,526,

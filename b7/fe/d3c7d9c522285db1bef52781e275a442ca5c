@@ -1,0 +1,5 @@
+changeset 4bbd4f39f28fa4be63f06277d4b014c08200ab92
+manifest 3b0a19600f7955814377e78ce9b75fab19365554
+extra rebase_source:a9236c910f5c60b4c11d9c9ff7491b42b4d6b98b
+files taskcluster/taskgraph/transforms/nightly_l10n_signing.py
+patch 479,553,

@@ -1,0 +1,5 @@
+changeset 2f10c62f513ea136b226a2ca005b0e9a96f90736
+manifest 05748757dec1c8427dabebbae0ab1d607da15c0d
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/analyze/hg.py
+patch 380,424,

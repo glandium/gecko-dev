@@ -1,0 +1,5 @@
+changeset e412b3da631e2b68ec68e86e7cbd2b5005de0dc0
+manifest ba28a59ca7b7e63bdf0e6fa50ad142e95a84d4f8
+extra rebase_source:6cc048536544b24bd6e191b60848a672713a5fe4
+files devtools/client/themes/toolbox.css
+patch 316,390,

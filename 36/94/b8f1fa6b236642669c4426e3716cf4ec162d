@@ -1,0 +1,5 @@
+changeset e9d182c93bc1702c72dd4cac369044da2e30a280
+manifest 6c2ee11a5b67926484b70d7bfa3dfce55f8e9d50
+extra rebase_source:0ff553a1d30822e9986872df6f45e3150bd28905
+files devtools/client/netmonitor/src/assets/styles/RequestList.css
+patch 302,376,

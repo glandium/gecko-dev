@@ -1,0 +1,5 @@
+changeset 5ab5c2dde566e2d97120bb102afa2d8bbd2a1dd7
+manifest d6a56e37daea77ec3fd3fd9757d5a4b6aad70d8c
+extra moz-landing-system:lando
+files browser/locales/l10n-onchange-changesets.json
+patch 458,502,

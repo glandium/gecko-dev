@@ -1,0 +1,5 @@
+changeset d88c174c2d20fe3f20b2c7bc5ffe73a154c5079f
+manifest ac07fbafb3f2fc41eafb10bba0f6c26a9e11901d
+extra amend_source:ef8d05cd84882961e6bbd4dcb801ecd8b148434a
+files widget/cocoa/nsDeviceContextSpecX.mm
+patch 279,352,

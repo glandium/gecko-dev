@@ -1,0 +1,5 @@
+changeset a52d8db889321df1f9e0576801bc6629b85b0260
+manifest b5db8d2252492979bd6048e96ebc93e06e014bfe
+extra rebase_source:a64786b0a44ba70f500c7e3686c89023d643eb76
+files toolkit/mozapps/extensions/DeferredSave.jsm
+patch 313,387,

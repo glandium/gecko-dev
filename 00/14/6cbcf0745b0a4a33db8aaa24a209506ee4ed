@@ -1,0 +1,5 @@
+changeset 355d6145c3976a9371a45c0e7c1258efcebec0f8
+manifest 315b26d309acbf25ae449d8439c1c2ed43d2743e
+extra rebase_source:8647f8bd01ba774b3c57cab93af1733a069067b2
+files widget/gtk/mozgtk/mozgtk.c
+patch 289,363,

@@ -1,0 +1,5 @@
+changeset 3a74539389613df82b090ef6c098134c89432caa
+manifest ef03b60370e28aa00b51d325ba2bbcf3091175ac
+extra rebase_source:a2bd306c4c142432bd64ca4f63f858cdf45d1bbe
+files js/src/vm/OffThreadScriptCompilation.cpp
+patch 259,333,

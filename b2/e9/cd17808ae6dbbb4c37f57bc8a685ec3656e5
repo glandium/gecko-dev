@@ -1,0 +1,5 @@
+changeset 175c99472cfdcd84374badf980b6e05b1a6c28f0
+manifest 03e65fbe43565e4ed3a03713605b7421c1289061
+extra rebase_source:9ebb454bc9ad11b3eba334e412685e529573a0a1
+files python/mozbuild/mozpack/files.py
+patch 382,456,

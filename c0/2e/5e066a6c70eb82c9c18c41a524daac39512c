@@ -1,0 +1,5 @@
+changeset 60b9a18aabbf97110151f3aeb58586cc67ef5309
+manifest 25d5de9f345e64387b53418a80ac54caa4937953
+extra rebase_source:56f1a83725827653f21d6e1a4053dcf3b2411312
+files browser/themes/shared/toolbarbuttons.inc.css
+patch 317,391,

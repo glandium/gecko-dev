@@ -1,0 +1,5 @@
+changeset dadfe9ba6b93128b1de15a23b9954eb4405ad443
+manifest b89c4fc993894ce1c7a7330957cddf509e5fefd2
+extra amend_source:99d4543109bb40096f3978c26f7d215825d9bbe5
+files toolkit/components/extensions/test/xpcshell/head.js
+patch 306,379,

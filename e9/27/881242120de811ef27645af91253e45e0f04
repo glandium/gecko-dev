@@ -1,0 +1,5 @@
+changeset 17c74c7634a26611e384c82f355c02b4349dfe52
+manifest 505314d07ecc0ee73be7353bf6ad15e29dcf7fce
+extra rebase_source:5b6e2bf5962d5b21314d33fd5433850ffa2c4ac7
+files devtools/server/tests/mochitest/test_webextension-addon-debugging-reload.html
+patch 352,426,

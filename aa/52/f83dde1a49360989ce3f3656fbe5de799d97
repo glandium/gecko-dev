@@ -1,0 +1,5 @@
+changeset ee5949ea949680a634a23445c97febc75302148e
+manifest 1c1bc75707ccf66142f2bb944b1e9f859f925426
+extra rebase_source:3bdd0e5c1f5bd08f944286ceedece241744e97f9
+files devtools/server/actors/object.js
+patch 287,361,

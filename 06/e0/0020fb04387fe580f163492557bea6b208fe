@@ -1,0 +1,5 @@
+changeset a13e4aa506889920d674306c95eda760a2a29ffa
+manifest 1c2a912fa0ef8299f242a01524b09e3be64ed50a
+extra rebase_source:47f1df96910a92961fc739582ffb49956735fdb3
+files devtools/client/webconsole/new-console-output/components/MessageIcon.js
+patch 593,667,

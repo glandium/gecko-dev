@@ -1,0 +1,5 @@
+changeset e0155c8c93a99553f38c3602a5ed59da1f3000ea
+manifest 3573268f2f1f86caf263de21143724bf6697930b
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/firstrun/FirstrunPanel.java
+patch 388,432,

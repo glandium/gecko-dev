@@ -1,0 +1,5 @@
+changeset 38a320903a63fe2b226889e4d2c1bb2bab89aca7
+manifest 0b05ff4fb7fecd4c1da02d8b65d9c9cd2db1eebf
+extra rebase_source:7cbea47a3448956cb672bd530653d065f6b7fe7f
+files browser/themes/shared/searchbar.inc.css
+patch 312,386,

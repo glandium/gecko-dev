@@ -1,0 +1,5 @@
+changeset 5da2166fd301cdfe782fa8a778454def0dc03c17
+manifest 431024b8e7b7db6a86044aa2a952b98b44059726
+extra rebase_source:4bfdee68ba40a0cdd5396964d1647a70fb10736a
+files xpcom/ds/PLDHashTable.cpp
+patch 1415,1489,

@@ -1,0 +1,4 @@
+changeset f2bfc5069177d6cb6b2b1f60c3ad5a60ba32a6c9
+manifest 60b63aedd8c57a8116b9bce349a4b6e2b5e929e2
+files servo/tests/unit/net/http_loader.rs
+patch 321,322,

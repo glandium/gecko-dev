@@ -1,0 +1,5 @@
+changeset c1cc89fcaa05b414c2e6174a0a311da2d93148b2
+manifest d2e06c04937708ae0b390f56cbc9335d688d9c4c
+extra rebase_source:0d94ae86011ac100f57dad1e03f9496913b8cc26
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabStripView.java
+patch 462,536,

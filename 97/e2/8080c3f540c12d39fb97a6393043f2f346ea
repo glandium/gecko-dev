@@ -1,0 +1,5 @@
+changeset 2c9fc232f3cae5a3c9f6cddac1848eb551167a19
+manifest 239153efe69159301d75cd61e380fd4fc4202cc5
+extra rebase_source:08c0b598e9a71a07ad29975ef946a649f08a84a6
+files devtools/server/actors/highlighters/measuring-tool.js
+patch 313,387,

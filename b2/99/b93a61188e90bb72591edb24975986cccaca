@@ -1,0 +1,5 @@
+changeset 599d7bc3e5662a45724388607eb10ce05f8acf39
+manifest 1c4701bd924d6b105ac25c74c614743d52a03736
+extra rebase_source:2ff412e5b44fcf29ac794fc889a37158ab14bc61
+files third_party/aom/aom_dsp/x86/masked_variance_intrin_ssse3.c
+patch 681,755,

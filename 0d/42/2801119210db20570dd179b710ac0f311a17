@@ -1,0 +1,5 @@
+changeset cf5af792699e4ca3fe33ea51b664d1d2ccde2735
+manifest 3f3f5dc564ddcaf9254459847c6ca2014c6827d1
+extra moz-landing-system:lando
+files devtools/client/themes/fonts.css
+patch 283,327,

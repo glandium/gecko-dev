@@ -1,0 +1,5 @@
+changeset 3a5b866d240e67287d5cb1be626287c233dff044
+manifest fcbbd61fb2dd62abc60f71d1756b27abacf822b8
+extra rebase_source:7f5821815ffe16b8f8478bf1e759252ef543054a
+files toolkit/mozapps/extensions/test/browser/head.js
+patch 322,396,

@@ -1,0 +1,5 @@
+changeset 318b1252e9ba83cf071f2ae1b8729158be346760
+manifest 443cb3c404c08316cf340e33e362fa5b0db50922
+extra amend_source:7a8cf1806e7b6a9f9b64e463882ea6136ff1f54d
+files toolkit/components/extensions/test/mochitest/test_ext_subframes_privileges.html
+patch 283,356,

@@ -1,0 +1,5 @@
+changeset a9b041089fc6748a24768ae4816469b0b40bdd24
+manifest 7bcf93dfa056d0962eba5c98646e368d4fa63f99
+extra rebase_source:6091d24d1c86aff9ccaaffcb004f06d9a0f758eb
+files toolkit/xre/test/browser.ini
+patch 266,340,

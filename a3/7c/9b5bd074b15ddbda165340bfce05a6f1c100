@@ -1,0 +1,5 @@
+changeset 2c87990aee062f3008c9e0ab792d8b6ef9c9215e
+manifest aead8b4a5011a7ad3cb0da12b71b9c7d07f599c3
+extra moz-landing-system:lando
+files browser/base/content/test/webrtc/browser_devices_get_user_media_screen.js
+patch 345,389,

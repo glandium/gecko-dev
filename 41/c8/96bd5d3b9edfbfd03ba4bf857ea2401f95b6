@@ -1,0 +1,5 @@
+changeset 51f67d98f39c653a5dfd482f341e3447e47e6bf9
+manifest be03d9e5f29020cbe8213dcd69c4d4c5196f4a99
+extra rebase_source:5f10746a8384f89ce9fffc28db49b764f6e279ff
+files testing/mozbase/mozlog/mozlog/structuredlog.py
+patch 445,519,

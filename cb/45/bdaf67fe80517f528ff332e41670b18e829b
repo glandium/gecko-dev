@@ -1,0 +1,5 @@
+changeset c18adbadea5ad6cb176a3b4c2d2d113e56e6c796
+manifest f572340c50c5c614c21f89b30c00e6abb5e4d345
+extra rebase_source:856ef20ef3c662f26edc7f3b255a2db7175de11a
+files servo/components/style/properties/properties.mako.rs
+patch 380,454,

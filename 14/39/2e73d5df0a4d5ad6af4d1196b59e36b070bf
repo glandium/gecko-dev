@@ -1,0 +1,5 @@
+changeset 05a8206ba5840fa253540f97dc6e3f9a37f27a95
+manifest cd2c16a53f29d3e7bc3759d0294267f235c58f9b
+extra rebase_source:07140c9189c8f278f9526d4b12ea27a5afff6088
+files browser/components/preferences/in-content/tests/browser_extension_controlled.js
+patch 357,431,

@@ -1,0 +1,5 @@
+changeset b1a6f693269b62bb57e1279e480bc50eac91ae0f
+manifest 1379baa74e0c5fe4f3803bb8b9015a073bdafb61
+extra rebase_source:ce0bceb9774ce46b79bfd3b173479e6b9458a949
+files browser/extensions/webcompat-reporter/test/browser/browser_button_state.js
+patch 334,408,

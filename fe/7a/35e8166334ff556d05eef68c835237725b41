@@ -1,0 +1,5 @@
+changeset 5997563964e15a5e6638c8b2ebf3081083bc01e0
+manifest 813b431be74bb75657afd78b1b1c4ce28cf2d599
+extra rebase_source:84813ef181b626cbe2bae2d8d9801c9450418bba
+files devtools/client/webconsole/new-console-output/new-console-output-wrapper.js
+patch 403,477,

@@ -1,0 +1,5 @@
+changeset 9cedc276ac39eb6d3e980fd108db62a82fe05319
+manifest 9040b9badbd23ef2b96b9e32871b2198f47859a4
+extra moz-landing-system:lando
+files browser/base/content/test/siteIdentity/browser_bug906190.js
+patch 332,376,

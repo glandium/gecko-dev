@@ -1,0 +1,5 @@
+changeset 922fc047c24de31b12e634eace55b4d76fe1b7f6
+manifest 9f2340976d05fda870c99aee68f10dd876cfb179
+extra rebase_source:eac98ee16b4dd94b32bed7d87f640cafeec3e7fc
+files netwerk/protocol/http/AltDataOutputStreamParent.cpp
+patch 302,376,

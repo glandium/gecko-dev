@@ -1,0 +1,5 @@
+changeset ce0fb0e12f0be66a627b09bd797f94b5ff4e5b46
+manifest ad4c468804d8016c7721575af8168e5cbe0ffb96
+extra rebase_source:f4faa1e406b36e5d3dba5b6fb92dd67ba0fc7abd
+files testing/web-platform/meta/fullscreen/api/__dir__.ini
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset b0febafcec421eb8c8fc2e067303882f5c72750c
+manifest 3472fe0e7804813b07ab955c44ce8cb49596f99c
+extra rebase_source:74248e33d91342a3bc425086adb1029c1d462040
+files devtools/client/jsonview/test/browser_jsonview_slash.js
+patch 347,421,

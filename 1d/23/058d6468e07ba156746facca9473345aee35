@@ -1,0 +1,5 @@
+changeset 8e2a1751a0f5ec864d50f335555d08216b6c648e
+manifest dde18df48642008e57fc529fbf79a01aabe27777
+extra moz-landing-system:lando
+files dom/security/test/unit/test_csp_upgrade_insecure_request_header.js
+patch 392,436,

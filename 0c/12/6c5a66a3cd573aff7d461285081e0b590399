@@ -1,0 +1,5 @@
+changeset bb0c71d42196c92af8a7d018dc1f53265c08ab25
+manifest c41a9113dba22d0b0c689145edd1a18ecb44cb6b
+extra rebase_source:e8621a653e948af51f101a6731e64e01e66429e5
+files devtools/client/webconsole/new-console-output/store.js
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset e68884b52cc043971677be26caa74563b7f13be7
+manifest 721fdfaa09ff3b23337eda89b840b23a0887c5a1
+extra rebase_source:588eab64df3235fe66641c5ba398ac95c3abfe3b
+files browser/base/content/test/touch/browser_menu_touch.js
+patch 478,552,

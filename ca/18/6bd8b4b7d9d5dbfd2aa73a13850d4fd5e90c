@@ -1,0 +1,5 @@
+changeset fa47001b590c60d49543e1a4cbe9dc793d82f565
+manifest 4c83a70cfaf0e00f71b4e8a47cf219f8a5e38203
+extra moz-landing-system:lando
+files browser/base/content/browser-places.js
+patch 320,364,

@@ -1,0 +1,5 @@
+changeset 3720b94d5bf42a752b5840ab673ccc7cbe9d954f
+manifest 21a6fb4703f57c4ec80c6c27dbc50ea0d289b934
+extra rebase_source:4728723b29698fee5cdfaff41033ab3e430a86ee
+files layout/style/nsCSSAnonBoxList.h
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset e0b837323b48d8e152987dcb1539dd800c815a6b
+manifest f28f628be519cb7c66c37fb1dba4ae2258e8ce76
+extra rebase_source:9bf580435d78a5048d05f7a37d8eff76b16f6ac9
+files python/mozbuild/mozbuild/controller/building.py
+patch 330,404,

@@ -1,0 +1,5 @@
+changeset 3aee5a63d5449ccdbeeb8a4df5b4de1bdd5c7bf5
+manifest a6641b7db0d3901ffcf7b596b939546e36911883
+extra moz-landing-system:lando
+files testing/web-platform/tests/2dcontext/shadows/shadowBlur_gaussian_tolerance.1.html
+patch 453,497,

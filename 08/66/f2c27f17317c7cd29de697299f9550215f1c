@@ -1,0 +1,5 @@
+changeset 416b3f8e0883e13dbb54760fa91d1391e38ee384
+manifest 7c30ea57c4cf95d91bd93d4df51b3758486ffc53
+extra moz-landing-system:lando
+files devtools/client/webconsole/components/JSTerm.js
+patch 317,361,

@@ -1,0 +1,5 @@
+changeset b52932a0811b2fc49decad407729cb61c8431272
+manifest 6b44cbfe80270a99fe4b70b28c80d1ce1d2a03da
+extra rebase_source:db0cbeb351716c6dea612f272ddb1cec045b99d0
+files browser/base/content/test/urlbar/browser_dragdropURL.js
+patch 302,376,

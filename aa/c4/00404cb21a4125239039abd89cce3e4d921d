@@ -1,0 +1,5 @@
+changeset 492d66a0a98a1fed4b30ceecd8e0d2ae54dbe7be
+manifest 9abc939d548d87d541e6e2094bccc0518aae6ef2
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/privacy.js
+patch 349,393,

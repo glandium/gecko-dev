@@ -1,0 +1,5 @@
+changeset fdd8115f07f5b327183a9d78c7a69d59dfa10dec
+manifest ea45fdbd556190701f4b7cee75e9353e1e8027bf
+extra rebase_source:22ce8dd77b1d9f22c82fe58e6b8a515828cbb840
+files python/mozbuild/mozbuild/action/generate_builtin_addons.py
+patch 306,380,

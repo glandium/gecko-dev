@@ -1,0 +1,5 @@
+changeset 2c1b00a6a97f90dea740c046759698bed3a4c6fe
+manifest 48751a67a09c72e7d408b8b92f31c31a5b7d8b1e
+extra moz-landing-system:lando
+files testing/marionette/sync.js
+patch 607,651,

@@ -1,0 +1,5 @@
+changeset 824fafc39762398f102ee7f17cac42c3fd04ed89
+manifest 05d37c71c8297b48ed9c62520a51afb665ccbb57
+extra moz-landing-system:lando
+files mobile/android/modules/dbg-browser-actors.js
+patch 488,532,

@@ -1,0 +1,5 @@
+changeset 34fa5d45bc114d7310c78de366f05ed7fbd92410
+manifest a9aae361a06ff8e1623f0a906813df92ba8d9068
+extra rebase_source:7140cd63ede88aa33dfef255689ee43ed98edefa
+files dom/plugins/base/nsNPAPIPlugin.cpp
+patch 266,340,

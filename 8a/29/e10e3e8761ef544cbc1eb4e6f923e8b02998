@@ -1,0 +1,5 @@
+changeset c0b2977cab3c429d5bcf7aa9ac8ccc31959e4d90
+manifest e2856d9395639ffe7990352a3a8fdf69760f83f4
+extra amend_source:6ee4f511008c60fe1f52f7a260ef7d5b5e3c0c92
+files gfx/layers/client/ClientLayerManager.cpp
+patch 494,567,

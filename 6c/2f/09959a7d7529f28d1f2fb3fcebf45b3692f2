@@ -1,0 +1,5 @@
+changeset 5dfa3982d405b794b8e665cc2b1f3dd5ecdbf3a5
+manifest a3622eeff004a6968792a6903a50e62bedc6aea1
+extra rebase_source:02dcf490fdb49725c6bdb4ceae76f3844ee34ef1
+files browser/components/syncedtabs/SyncedTabsDeckComponent.js
+patch 321,395,

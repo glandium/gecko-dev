@@ -1,0 +1,5 @@
+changeset 101ece463c391d242fa6ec051b5424ed16d5f20d
+manifest dccfc4d36281974fbf9eef5f008ed3931b58a7b9
+extra rebase_source:403c62ab7d6595a2a2621dfe595925edbde9eb77
+files toolkit/mozapps/extensions/content/pluginPrefs.xul
+patch 327,401,

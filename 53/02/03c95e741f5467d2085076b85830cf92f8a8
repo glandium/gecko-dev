@@ -1,0 +1,5 @@
+changeset b2de74e80df2c095c346bb058ecd4f439248c56f
+manifest ce52f1b387c25023c229160c718548a639edb5db
+extra rebase_source:cc9d339008e7024b5406153bad37e4d717c7ae59
+files mfbt/tests/TestTypeTraits.cpp
+patch 306,380,

@@ -1,0 +1,5 @@
+changeset 9e1a17f94c939e8344ec057dc49aaaa87c236209
+manifest 4a76dafa5c01035ca3766d5a25fd68cc7dbbe17c
+extra rebase_source:7ceb0d2de780188e5f8efbc281bc512436aa1fd8
+files toolkit/crashreporter/crashreporter.mozbuild
+patch 334,408,

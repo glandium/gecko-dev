@@ -1,0 +1,5 @@
+changeset b1216f1952e290ca40982e83dd29128dbe79ce88
+manifest e37e3422a885c4286072b4e5f9125bde2188478e
+extra rebase_source:3b1bc098aaed2481a1cc06fc86d0865e654a1b6e
+files python/mozbuild/mozpack/packager/l10n.py
+patch 574,648,

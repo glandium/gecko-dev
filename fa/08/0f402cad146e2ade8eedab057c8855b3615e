@@ -1,0 +1,5 @@
+changeset 8053ce4e6ab8131f8dbe9ecde24c13426050f10d
+manifest 926d1bcfc0b73ba326672e5239e8cc8a0702a280
+extra rebase_source:c68ac4f61a687fd981363efa924fdbb2e0804b10
+files layout/generic/nsFrameSelection.h
+patch 505,579,

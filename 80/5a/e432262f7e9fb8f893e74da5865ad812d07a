@@ -1,0 +1,5 @@
+changeset 8d1a13fa5847c774625e9936d1238dee7138b01c
+manifest 25bfb3b2aee34bed6a5dd6e5dc5f144b02a12a34
+extra rebase_source:dd2e92b7179ac35baf5c39ecfb70952a21b87141
+files build/clang-plugin/mozsearch-plugin/FileOperations.cpp
+patch 305,379,

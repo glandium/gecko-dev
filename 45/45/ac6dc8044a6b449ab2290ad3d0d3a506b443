@@ -1,0 +1,5 @@
+changeset ec1b3f950848608328c18c0102c55305538abe36
+manifest 69c1788d58187229a1a847fbd70752d223e70e16
+extra rebase_source:387a597710a90dcbf3bb54ca39fb3704e7b9457c
+files toolkit/components/typeaheadfind/nsTypeAheadFind.cpp
+patch 903,977,

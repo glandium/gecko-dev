@@ -1,0 +1,5 @@
+changeset 7e505b1a27ad28dcba4b83f7db51b35406be17fc
+manifest 8f121797dfc06668d1644fb5cf71c9aa2a7e27e3
+extra rebase_source:8f4b13154f74ac358fea2c2693f546a95b7f46ca
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/publicsuffix/PublicSuffixPatterns.java
+patch 365,439,

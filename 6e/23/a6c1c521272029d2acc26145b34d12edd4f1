@@ -1,0 +1,5 @@
+changeset 9ebf0b05b44abcdfeebf98ffcc6db352261d9f5e
+manifest 2623baaf896a5296a04b4247a72c5941356a0b5c
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/MediaManager.java
+patch 351,395,

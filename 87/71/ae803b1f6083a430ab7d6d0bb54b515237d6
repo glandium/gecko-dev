@@ -1,0 +1,5 @@
+changeset d80b5c4e1dd09776fdc85df09693ca76a0dc408b
+manifest a668ef71add0a8a18ff997c7d5f631d12292c783
+extra rebase_source:29ea08d41f54da7f99120f9fe9af4017f61d8a4b
+files memory/replace/logalloc/logalloc.mozbuild
+patch 402,476,

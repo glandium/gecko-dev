@@ -1,0 +1,5 @@
+changeset 8f52497c3d96f9f193a82ab2e715230ea77528db
+manifest c78108593ece1cf77fcc20fe185cf53e7d981580
+extra moz-landing-system:lando
+files toolkit/content/widgets/textbox.js
+patch 514,558,

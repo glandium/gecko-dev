@@ -1,0 +1,5 @@
+changeset 3adff617b271be5b33abcbd1d3381dbc3403f64a
+manifest 2ae1317ed4098aa650b474d4f6cc772839db2000
+extra rebase_source:dcacbfa86ce8cb07ec05c882e7b13689c72c794e
+files browser/components/extensions/schemas/windows.json
+patch 352,426,

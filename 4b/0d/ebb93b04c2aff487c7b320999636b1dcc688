@@ -1,0 +1,5 @@
+changeset e5db40a036fef8a575630d94c0fcb0d436ca957c
+manifest 38dad02c571f13e3bb786ee420fec75dee4f630c
+extra rebase_source:eeaf09ac6bc08b29586fa28c136045bdda164788
+files dom/base/test/chrome/test_range_getClientRectsAndTexts.html
+patch 367,441,

@@ -1,0 +1,5 @@
+changeset 6c9ee8ca6b32d9e378bd256efb16bf9ecbad003b
+manifest 83a15e51281f2f3c8537172fcc5b96e678ec72de
+extra rebase_source:34398e433088ee1e76c72313869dddbdfd5ff8a7
+files devtools/client/preferences/devtools.js
+patch 296,370,

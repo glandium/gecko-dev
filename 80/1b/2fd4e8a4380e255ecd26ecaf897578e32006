@@ -1,0 +1,5 @@
+changeset 58305b0665c963cb5a38a77da062ed83f5f40c15
+manifest 69142cc0cd6c9fee25ea8b363e18d27908977b00
+extra moz-landing-system:lando
+files mobile/android/base/Makefile.in
+patch 605,649,

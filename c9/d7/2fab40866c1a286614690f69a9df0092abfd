@@ -1,0 +1,5 @@
+changeset 73e6728b22c5bc2a79c650907c4e30fcd84f55a0
+manifest c58c707ffb5cd798de46a93129080c732c9430db
+extra rebase_source:9ddc864f86582410597c82b36190827341c146a3
+files gfx/webrender_bindings/Moz2DImageRenderer.cpp
+patch 308,382,

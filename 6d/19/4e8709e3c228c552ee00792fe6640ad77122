@@ -1,0 +1,5 @@
+changeset 99e579176288e2641f0f0fa6fc3f87ad95f5f21a
+manifest c8d9fd70555e15dae06221816449ccee575052ad
+extra rebase_source:c33807fa2b972b5d4d4f44e8e321883b8880f480
+files mobile/android/base/java/org/mozilla/gecko/icons/processing/ColorProcessor.java
+patch 626,700,

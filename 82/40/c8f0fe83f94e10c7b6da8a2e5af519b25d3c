@@ -1,0 +1,5 @@
+changeset 21ea46a299d520aa733c71432d2fe0fd4e33d04e
+manifest 8c1c18c3ae73dc4ab2691c9175143ebf5bded02c
+extra rebase_source:8378c5bdc26eb72d064224537c062b1de8c46e0d
+files devtools/client/inspector/markup/views/read-only-editor.js
+patch 343,417,

@@ -1,0 +1,5 @@
+changeset fe0444b43773290c07c42ff9d648db66d28f0abd
+manifest d59cd8e4df0f3f2f5e16f4865815b76e3f743cbf
+extra moz-landing-system:lando
+files browser/themes/shared/blockedSite.css
+patch 287,331,

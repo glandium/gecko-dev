@@ -1,0 +1,5 @@
+changeset c770f0740d0d75ce50cdcfe0bd85078f4a9921b9
+manifest f8ff8780c63556280ab73c63eb3be1a7fcefcec2
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/Classifier.cpp
+patch 560,604,

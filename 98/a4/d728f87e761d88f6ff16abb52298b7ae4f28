@@ -1,0 +1,5 @@
+changeset d419e0c3d798d8df9bb07640e28546109cde4fe5
+manifest 5ed8a8a06d08d9599953c98192a87cc85d8e48c1
+extra rebase_source:a0787be343b55466135c02d944f3c199310b8d51
+files security/manager/pki/resources/content/certViewer.js
+patch 330,404,

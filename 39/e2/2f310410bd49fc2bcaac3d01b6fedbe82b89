@@ -1,0 +1,5 @@
+changeset 00a7aef6d3b22aa15582ffc3e81c0f47c9ada566
+manifest ecd3e7a1c18321331d84150e43c49d0345ed8473
+extra rebase_source:a07772569667e0a08870f0b980559f6d2a8113e9
+files js/src/jit-test/tests/parser/bug-1298809.js
+patch 274,348,

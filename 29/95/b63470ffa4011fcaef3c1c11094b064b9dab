@@ -1,0 +1,5 @@
+changeset c25d430da5b7a4b4eff34c8140f4d6279a02b97a
+manifest 733bf5e496c43a4cf7b4ccaedc5b6e69130cfebc
+extra moz-landing-system:lando
+files browser/base/content/test/pageinfo/browser_pageinfo_image_info.js
+patch 346,390,

@@ -1,0 +1,5 @@
+changeset e93cc0185c24c792da94717583a37b28ebcd24be
+manifest 08abf21eaf0aabab5fd56c8b42ea5ccdec5e8f79
+extra moz-landing-system:lando
+files dom/html/HTMLMediaElement.cpp
+patch 433,477,

@@ -1,0 +1,4 @@
+changeset 147066d870a2457ca7bc1bb870e99783290526db
+manifest 8efc5df7597b0c3c3c2a72a1544af806ee6ccf6b
+files devtools/shared/adb/test/adb.py
+patch 560,561,

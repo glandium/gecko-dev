@@ -1,0 +1,5 @@
+changeset 1330a9eb3da56d783aefabe063764eb55e9adadc
+manifest 6be66d896cdb1d158fd93f80be4e6b88c47675f5
+extra amend_source:d4cb9eddf48e08446469d2e1891f0e9ed3bb85d0
+files gfx/layers/client/ContentClient.cpp
+patch 516,589,

@@ -1,0 +1,5 @@
+changeset d5ea1a53fa039c2a8f38c65b662c1560fa10d53a
+manifest 53aefe8bb6af696944edc41b000610dd1769a9a6
+extra rebase_source:f833f93d2e18a220f44d663c9feb37fb0a7ed0f1
+files devtools/client/aboutdebugging-new/src/middleware/debug-target-listener.js
+patch 400,474,

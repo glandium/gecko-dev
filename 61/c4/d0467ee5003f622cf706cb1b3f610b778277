@@ -1,0 +1,5 @@
+changeset b4f40953330c32511cd455f2c204c7a348486919
+manifest 99b87aeadbe965153312fd7abdc79b8f57e39e04
+extra rebase_source:8b7684046fbab5ad29dd76210bdd3c28c22bc5f8
+files layout/reftests/svg/svg-integration/reftest-stylo.list
+patch 241,315,

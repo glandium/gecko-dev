@@ -1,0 +1,5 @@
+changeset 972714aa03b210476c57991c58e30ea9f98745e2
+manifest f3e9b575d7154a71055b2e31b0ef8996442a3d04
+extra rebase_source:e3be1bd1c930d32d3c7a9e2d707ed3fe6bc0936f
+files memory/mozjemalloc/moz.build
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 3e71248ff09359358775333643582de7fa62be39
+manifest dd742b9e9f2a1e71cb40d5a00ea9ecb59d79ee64
+extra rebase_source:b1a197ac1eb452e3ce55c998ae7dc6075761767f
+files browser/base/content/browser-trackingprotection.js
+patch 320,394,

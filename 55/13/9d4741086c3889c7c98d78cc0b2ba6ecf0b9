@@ -1,0 +1,5 @@
+changeset 555710da7b9a13e20c927c8bb6adad118c79b932
+manifest e4fb090d278c6cb071482dfe32361f9692c63fef
+extra rebase_source:095920a40b4310adfa3e61e8b4193cb136b2d76a
+files browser/components/extensions/test/browser/browser_ext_legacy_extension_context_contentscript.js
+patch 321,395,

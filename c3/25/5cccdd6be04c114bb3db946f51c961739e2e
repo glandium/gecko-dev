@@ -1,0 +1,5 @@
+changeset 383136208ab07ab9de94f8fd8c5bd6ed0f41aacf
+manifest 01fb7a77819578ac908e27f6d300ce7da937304d
+extra rebase_source:9f1fc09f5e814360d3a6154eea7860b15ffdd51d
+files browser/app/nsBrowserApp.cpp
+patch 277,351,

@@ -1,0 +1,4 @@
+changeset 7cf0a164b0820b319ada00dadc511e386748ccba
+manifest 7e19f208c95c47e14fa4cc7b28e49ba3ea5fe06f
+files js/src/jit-test/tests/auto-regress/bug1334573.js
+patch 260,261,

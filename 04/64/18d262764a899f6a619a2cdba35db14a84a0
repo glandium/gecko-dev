@@ -1,0 +1,5 @@
+changeset 0a43224df4691815d432718813a0e84bf5b7aa21
+manifest ddad62baae454771578a5f22f739b7128f391adb
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/GeckoSurfaceTexture.java
+patch 565,609,

@@ -1,0 +1,5 @@
+changeset 7c3423f706f79e09da412dd8be1ea4a58a5265aa
+manifest 6028b0a85f58881a891116fdf21cb917471cf16a
+extra source:73f53d38cf61a2e3c6dee857894b82d0a279df47
+files toolkit/mozapps/update/common/updatecommon.cpp
+patch 250,317,

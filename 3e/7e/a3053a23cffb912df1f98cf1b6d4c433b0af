@@ -1,0 +1,5 @@
+changeset f3c445024b97de5b757c9c58835bad9ff1a346d5
+manifest 002bc52dcd2f3154e3cf8a65077f793c0558dd00
+extra moz-landing-system:lando
+files xpcom/glue/standalone/moz.build
+patch 445,489,

@@ -1,0 +1,5 @@
+changeset 1b7da7fee8e4e97c2841a11ed02004a8784118bb
+manifest 9be4932f0dbe858fa39987d73a54059efbc8689f
+extra rebase_source:370f499b45da8884cf654f72dd25f344b44dbd7c
+files tools/code-coverage/CodeCoverageHandler.cpp
+patch 310,384,

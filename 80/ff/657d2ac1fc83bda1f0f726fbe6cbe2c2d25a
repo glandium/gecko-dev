@@ -1,0 +1,5 @@
+changeset 4bc6509e7f444a71e40203f864a4ec2ec9db2658
+manifest 76bcff52ba4c47465db832a15854883ff8328489
+extra rebase_source:e581607d4a2e997e7d79c7c4496d13b8e9b10e50
+files python/mozboot/mozboot/gentoo.py
+patch 456,530,

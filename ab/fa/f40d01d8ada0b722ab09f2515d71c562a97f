@@ -1,0 +1,5 @@
+changeset 2ec1e071c802768d076e4b8ed58a2241166d4fc6
+manifest 834e23f06e803c37d8452aa73b83eae809ce871e
+extra rebase_source:20593c80fca6ceba969f7a789c04b026bf3748ca
+files layout/generic/nsSimplePageSequenceFrame.cpp
+patch 349,423,

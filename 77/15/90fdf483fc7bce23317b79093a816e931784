@@ -1,0 +1,5 @@
+changeset 25b58eff68a8b7c75112edc732d28e9657835eb0
+manifest 96fe9aab4aa49e49fdaa31bba9bad3c7d04cc520
+extra moz-landing-system:lando
+files taskcluster/ci/pipfile-update/kind.yml
+patch 321,365,

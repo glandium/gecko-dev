@@ -1,0 +1,5 @@
+changeset 776a7eb4c87aee4482e72eea00047de58dc68228
+manifest cb3df21e599a1f74d4ca4be4268c85370471a9af
+extra rebase_source:4bc8708dd3b2e386c19bd6b952ca2587a2284a19
+files media/libaom/generate_sources_mozbuild.sh
+patch 592,666,

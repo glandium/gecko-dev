@@ -1,0 +1,5 @@
+changeset 4635d0d49b7fafd0dfb1dfdc1ddcee26781a9a23
+manifest a51ae76756599003dd6e3dc0b1d550e6bf975abc
+extra moz-landing-system:lando
+files browser/base/content/test/general/browser_tabfocus.js
+patch 476,520,

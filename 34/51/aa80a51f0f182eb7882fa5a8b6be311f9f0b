@@ -1,0 +1,4 @@
+changeset 5989424834d2030fecfc43eb6536e5132fb30536
+manifest b382ef96fa9989399826d61f3fbe1a970012a4cb
+files taskcluster/ci/test/xpcshell.yml
+patch 489,490,

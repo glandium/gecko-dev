@@ -1,0 +1,5 @@
+changeset d48ee9ed681900a565e85d5ada6a5630bdebc923
+manifest 43a5c07d213ea479ce77a1018dcf744e618413bf
+extra moz-landing-system:lando
+files browser/components/resistfingerprinting/test/mochitest/test_pointer_event.html
+patch 865,909,

@@ -1,0 +1,4 @@
+changeset aa307699d85b9ef29cc23845f1ee968c1f73a15f
+manifest b1cb409be89fdbf79d10e3b838ac0af1b9a8ca88
+files testing/web-platform/tests/tools/wptrunner/wptrunner/executors/pytestrunner/runner.py
+patch 565,566,

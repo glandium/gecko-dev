@@ -1,0 +1,5 @@
+changeset 77a524d860a0c2acddbcfe823bf60b6249d42c99
+manifest dbe74b9ec0e46109d41e18f6a9b197fb27b7ef0b
+extra rebase_source:03840fc19897f0c09f05ea46c8d2bfd404e3180e
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/icons/processing/TestResizingProcessor.java
+patch 380,454,

@@ -1,0 +1,5 @@
+changeset 99444f1ed75a990c746ac40ffe6371258f3eb01d
+manifest def0fc3b24badbec0b5ab1dd8013dd5f3fdd71c3
+extra histedit_source:9069af86efc67232e059176f99a877c513644ce2
+files testing/mozbase/mozlog/mozlog/commandline.py
+patch 854,930,

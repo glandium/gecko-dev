@@ -1,0 +1,5 @@
+changeset 4ad8241eb92a80771580ac497e4e4c2468f861da
+manifest d2c0e4117f5eeaa45dcca15bd14b883c64eacabd
+extra moz-landing-system:lando
+files accessible/android/SessionAccessibility.cpp
+patch 344,388,

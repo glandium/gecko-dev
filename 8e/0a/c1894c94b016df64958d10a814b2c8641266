@@ -1,0 +1,5 @@
+changeset 607d5fdcc92ec0f76b9f614849807921ce9c6bb7
+manifest 3ccb2e7300b62e451b11bfa6be4c9392ab410e5f
+extra rebase_source:df89c67ba760ab48b3e5e9e38378314e06dfc0fb
+files devtools/client/webconsole/new-console-output/test/fixtures/stub-generators/head.js
+patch 494,568,

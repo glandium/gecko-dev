@@ -1,0 +1,5 @@
+changeset a36388b88fcc72e534ba79d282ca1741744602d9
+manifest 1edf5acf307032433b33c0681bfd1da5f0ed2043
+extra moz-landing-system:lando
+files dom/media/webaudio/PannerNode.h
+patch 383,427,

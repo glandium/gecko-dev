@@ -1,0 +1,5 @@
+changeset 7870fcd62ddeea67508a4409657aa9d127f76afc
+manifest b47f17dad548dc9a01e6179d8ebc454a2407e2d0
+extra rebase_source:7147024378b6dfedcc7edd64be061d9d82b2d915
+files toolkit/components/telemetry/Events.yaml
+patch 291,365,

@@ -1,0 +1,4 @@
+changeset 525fc9bb16c79203da9ecd65db36024af47cdb32
+manifest b0f999ccc2b58ab2d59bd5a76269e414219bcde1
+files js/src/jit-test/tests/wasm/regress/shell-promise-error.js
+patch 216,217,

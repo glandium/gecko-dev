@@ -1,0 +1,5 @@
+changeset 55602e9462ae04c0023339cda4b10ffa40d481c3
+manifest 92b50d8e384733dfbd03f9a6a815565634e15935
+extra rebase_source:1f6db9a82fdf14c6ff9307db264aaae992f196b7
+files devtools/client/inspector/boxmodel/test/browser_boxmodel_pseudo-element.js
+patch 368,442,

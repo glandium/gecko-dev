@@ -1,0 +1,5 @@
+changeset 3e1d1b6a529eb202af9a579f08e6bc293d1e4b12
+manifest 40905d4d1bec6d39d0693207af794f0ca027ffcf
+extra moz-landing-system:lando
+files toolkit/components/telemetry/pings/TelemetrySession.jsm
+patch 321,365,

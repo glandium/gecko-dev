@@ -1,0 +1,5 @@
+changeset 868da3a1b94a2606ba5337d011554c91d5b5e68d
+manifest d3268d3f23f6bb548e621bcd99313db1ef094f9d
+extra rebase_source:322440d316b51a88e2b344bcee5239329af5510c
+files testing/talos/talos/talos-powers/bootstrap.js
+patch 553,627,

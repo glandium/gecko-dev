@@ -1,0 +1,5 @@
+changeset 6ae7497c1b5585c1a0494ce979444b20261b03f1
+manifest cd2330b847f4869a9d47b98449407ac74339e362
+extra rebase_source:3e5ffeb1ce2329b3bbd68ac4612a4ded4dd49730
+files gfx/layers/apz/src/FocusTarget.cpp
+patch 303,377,

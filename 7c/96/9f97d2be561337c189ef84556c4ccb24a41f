@@ -1,0 +1,5 @@
+changeset a3c51e77dccb7f0ffabb1db88729c1f96f0d0824
+manifest 53881ff75f8604a9680e32a5deeee0988daa3b56
+extra rebase_source:e247b49b646f714e38dedb6a93d1b499e01b0c5a
+files xpcom/threads/ThreadEventQueue.cpp
+patch 373,447,

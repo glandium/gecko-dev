@@ -1,0 +1,5 @@
+changeset 5f1e7e8de03f00a3f6c57f58f15acf24d721e6c1
+manifest 234ac4f6bae2c633b24011f8b6564d454e009841
+extra rebase_source:1b691d2b1999ae9e631688be45ec44a8124c7b26
+files browser/base/content/test/performance/browser_windowopen_reflows.js
+patch 314,388,

@@ -1,0 +1,4 @@
+changeset af6635d0a52aa0256c4d049b387dd6d6e1376ceb
+manifest 1188dc0e0d9b16629e95ef771dd7bcbe1322a04a
+files js/src/jit-test/tests/self-test/assertRecoveredOnBailout-1.js
+patch 261,262,

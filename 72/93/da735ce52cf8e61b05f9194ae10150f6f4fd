@@ -1,0 +1,5 @@
+changeset 10c052ccf90c8d271015b392dc0d81c763516e33
+manifest 66f953b62d9275d0c22ef654105f43255f72be4b
+extra rebase_source:73e404448030472396b0d5dfb161980e8d1a0aa0
+files devtools/client/webconsole/new-console-output/components/filter-bar.js
+patch 328,402,

@@ -1,0 +1,5 @@
+changeset 891a073b9869c4762b70dcd2896ab6f69528e07a
+manifest d991ad41cbb2816fa29acdb84f84c8e66dcefbec
+extra rebase_source:f3b8493ad943cf2a58be8e2c76d5c73c0d59132e
+files browser/components/places/PlacesUIUtils.jsm
+patch 308,382,

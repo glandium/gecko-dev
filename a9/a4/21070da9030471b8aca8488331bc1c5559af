@@ -1,0 +1,5 @@
+changeset 0e1e91d221373947551b268ad3dde6d90ff0465e
+manifest 4d836202110dfa55e44d990f08e485c535c08a43
+extra rebase_source:147509b8aa68cf4c1afd907cfca61a14155e9f7b
+files browser/components/extensions/ext-c-omnibox.js
+patch 303,377,

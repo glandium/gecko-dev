@@ -1,0 +1,5 @@
+changeset 4a2c6e288944cd05bd494c9da0501488d9a68077
+manifest 2bb5ee6e4c06c83f4b5f3a403da838fe12c3e3de
+extra moz-landing-system:lando
+files dom/base/CustomElementRegistry.cpp
+patch 327,371,

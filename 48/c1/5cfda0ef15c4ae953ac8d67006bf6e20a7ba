@@ -1,0 +1,5 @@
+changeset 20c446dff6ab8389bea9e474644951910fcc9909
+manifest 47a112dd7cb772e69b8668e2db10c184f6905c89
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/home/BrowserSearch.java
+patch 363,407,

@@ -1,0 +1,5 @@
+changeset 43f6ae2d0847b15fd9e37752926c5663119c293b
+manifest 4a76ecc27586d648d13fedf6b7ccb478da394b08
+extra histedit_source:7222176e27243fa562cc5bc1caecce736fdecd8e
+files devtools/client/preferences/devtools.js
+patch 292,368,

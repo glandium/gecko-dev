@@ -1,0 +1,5 @@
+changeset 4b14023b1a14b91260f62ff2ebbd76056bf91bd7
+manifest bdcfd4a5a3a3c2fe671c1248e107667686f40ff8
+extra rebase_source:a592499dcb0fbca7b28ba1f899171d6c2ee13a98
+files services/sync/tests/tps/test_creditcards.js
+patch 292,366,

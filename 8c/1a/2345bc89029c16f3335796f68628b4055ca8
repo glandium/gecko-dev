@@ -1,0 +1,5 @@
+changeset 4d8ba2d6bd3567eb334c1321761c9217108b6fad
+manifest 2370ee831de13dde41a897bb275297b8d7883bdd
+extra rebase_source:9181928dccf0cfcd0f70c1c3840d43c378f38ca4
+files modules/libpref/init/StaticPrefList.h
+patch 385,459,

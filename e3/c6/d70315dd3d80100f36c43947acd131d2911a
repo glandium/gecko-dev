@@ -1,0 +1,5 @@
+changeset b551becf88cfa065b2394e2262836b3207464898
+manifest 100a515d3a00883f1185a8966a989b69c5714266
+extra moz-landing-system:lando
+files browser/base/content/test/favicons/browser_oversized.js
+patch 599,643,

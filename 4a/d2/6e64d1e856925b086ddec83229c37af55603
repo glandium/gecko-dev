@@ -1,0 +1,5 @@
+changeset 7d1cfd0b8914b5bf376438251e7f23d7b1a282eb
+manifest 0bf238aba0f353726031c0fa0b2746bb23c9c149
+extra rebase_source:3ba88652c62990226e5a8e9f382cd0904a5dbe50
+files devtools/client/themes/images/firebug/command-noautohide.svg
+patch 335,409,

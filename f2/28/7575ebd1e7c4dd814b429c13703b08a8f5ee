@@ -1,0 +1,5 @@
+changeset 4bf59f00f700b25a3c6d983ed01af60b9ff6d9cc
+manifest f2490d38a00b78ada49a04fafd0c346c1599e671
+extra moz-landing-system:lando
+files browser/base/content/contentSearchUI.js
+patch 338,382,

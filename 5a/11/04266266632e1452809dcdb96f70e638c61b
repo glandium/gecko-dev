@@ -1,0 +1,5 @@
+changeset 911f62d371e7458131e1ca09e8b7653a8047ad5c
+manifest f3a374967482484989119af1214343e9f8e31b70
+extra rebase_source:09e46abc9d7142c907637c8f1d132ff653945fc9
+files devtools/client/responsive.html/app.js
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 0f669b70d35963ed8e2f7e22beef23b84770fc65
+manifest f65e9edb36e4f223e3f98bdecf2038acc10cfc71
+extra rebase_source:66d4452809e8b66383bf8cfb02cfc695b9ade37a
+files browser/components/customizableui/test/browser_940307_panel_click_closure_handling.js
+patch 448,522,

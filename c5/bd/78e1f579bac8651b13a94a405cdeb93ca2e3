@@ -1,0 +1,5 @@
+changeset 7aa3a17103b6a4b504e448b0908bd60cb1f5705b
+manifest b9ff3b6b4683e38ac442238af888d5b59c0f4ede
+extra rebase_source:9cd4b75f8077fd727c689cdbcb34baa265795fd2
+files xpcom/base/nsMemory.h
+patch 271,345,

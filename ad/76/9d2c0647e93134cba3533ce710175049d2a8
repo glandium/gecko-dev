@@ -1,0 +1,5 @@
+changeset 8480552d03bca3f7024cfb2051677920d7a9191d
+manifest f4e86c9a0af8d3498528533a271a05bef0d3d735
+extra rebase_source:0192a4d6cce3490e2cc438ede1a299910a712031
+files devtools/client/animationinspector/test/browser_animation_timeline_scrubber_movable.js
+patch 330,404,

@@ -1,0 +1,5 @@
+changeset 62d0c9083f4b67c7172fb39078d8b551d3f45228
+manifest e6203650ea701a9880e4cce35278bd37ae665aab
+extra rebase_source:b05023ea77c852dd673693a33aa8721975157271
+files js/src/jscntxtinlines.h
+patch 270,344,

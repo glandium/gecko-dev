@@ -1,0 +1,5 @@
+changeset 4383166b5e24910077a19ee496c8ce44fbd35a85
+manifest 6a83397496d081adaaae5ddb0afd332e94b52fb7
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/VsyncSource.java
+patch 526,570,

@@ -1,0 +1,5 @@
+changeset 79ff858fea6bdff2ae0d7d1fa8c7fd98c0895f0f
+manifest 6e64c982c21a93cbe1892237b596025b18e1230b
+extra moz-landing-system:lando
+files netwerk/protocol/http/AlternateServices.cpp
+patch 365,409,

@@ -1,0 +1,5 @@
+changeset 37cd7bbec974385d50266e8e2a68f581eb0fbe63
+manifest 66a7e553094158c359b4e8d87656d129773065fb
+extra moz-landing-system:lando
+files browser/app/winlauncher/LauncherProcessWin.cpp
+patch 351,395,

@@ -1,0 +1,5 @@
+changeset d171efe2eba55bbcbdf9cded16249c8ed491bafe
+manifest d3e78b9a1bead94e198974dcf9fc6675611c964c
+extra rebase_source:a9464b91bf565e2fe46062b4ce3b591b10e38f25
+files dom/base/nsWindowMemoryReporter.cpp
+patch 881,955,

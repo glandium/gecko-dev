@@ -1,0 +1,5 @@
+changeset 6480e870dd73969336b30fb2c0ecfc20c91b3d71
+manifest 7d6dca30316d426e231bf449dad014305237bf63
+extra rebase_source:6a5d213620ae497e3d073e70a3d5da4f2bb3b702
+files toolkit/components/contentprefs/ContentPrefServiceChild.jsm
+patch 614,688,

@@ -1,0 +1,5 @@
+changeset a83f3f831cabb7bacd03baadb2244f6bf34d242f
+manifest c67bac15d548aa2146c3726d3b71b6ba727e7b3f
+extra rebase_source:f37b666d84c6710ac0d5c56002b82c707635f49b
+files media/webrtc/trunk/webrtc/modules/video_capture/android/video_capture_android.cc
+patch 441,515,

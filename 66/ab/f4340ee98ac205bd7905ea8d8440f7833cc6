@@ -1,0 +1,5 @@
+changeset b7b8cacf509d7c47d10f3175c25c5eea50c9f058
+manifest 5e472cd03663d4879870285caca05ddfcfcd972a
+extra rebase_source:6f8ead44feb750f759e847a422ecc09f4cbecf65
+files accessible/base/nsAccessibilityService.cpp
+patch 340,414,

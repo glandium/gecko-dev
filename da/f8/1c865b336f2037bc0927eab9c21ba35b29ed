@@ -1,0 +1,5 @@
+changeset 66cbdf9b1df0cc4d3b51b41220c563c9fc2392e5
+manifest df52911f14f3bbb8d6783535a75dc47280221662
+extra rebase_source:52b5381319fc6626e7f1ec4111dad70482a092cd
+files widget/windows/PDFViaEMFPrintHelper.cpp
+patch 396,470,

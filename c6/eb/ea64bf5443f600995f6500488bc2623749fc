@@ -1,0 +1,5 @@
+changeset 5d2059dd4120257667729f90e89613a8972f0ae1
+manifest a5fa925c9ed9c2dbf46eabbf0cc20671de096fb7
+extra moz-landing-system:lando
+files gfx/webrender_bindings/RenderCompositorANGLE.cpp
+patch 336,380,

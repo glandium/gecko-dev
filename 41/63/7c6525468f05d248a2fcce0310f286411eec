@@ -1,0 +1,5 @@
+changeset f4958a88bd863f9805cbf393801289df97c7afa6
+manifest 4fef6066bddc10e24e338dd27021f68bc7496dd3
+extra rebase_source:3a4be6a28e142f725cb750c1c2138b66ac0c7185
+files browser/components/extensions/schemas/tabs.json
+patch 305,379,

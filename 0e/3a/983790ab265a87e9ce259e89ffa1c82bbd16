@@ -1,0 +1,4 @@
+changeset 63e5313bfc6d65759185af640c128183f08ae170
+manifest 8784e6d71f47e65b07d626f0be7b390bedbe8eb1
+files devtools/client/shared/redux/create-store.js
+patch 222,223,

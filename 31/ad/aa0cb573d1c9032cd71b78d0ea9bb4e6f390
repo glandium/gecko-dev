@@ -1,0 +1,5 @@
+changeset 56381f46d1d93f0f0f72a5dafdefc8e00a23c5bd
+manifest 2bdadd514b4003ad0c22c8d04b904cd1aade4596
+extra histedit_source:17acc6631f5be7e821ad59f85cde5a29d58fdb22
+files browser/components/sessionstore/SessionStore.jsm
+patch 281,357,

@@ -1,0 +1,5 @@
+changeset ca86b5f0a30a71d0e57e829176bd1eb611d8c2a1
+manifest e3e885facd969b3bdbf1cfb3a7794266736af8d3
+extra rebase_source:444f72316f047004cddfc2eef947b122db1cb87d
+files xpcom/ds/nsAtom.h
+patch 275,349,

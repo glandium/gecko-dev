@@ -1,0 +1,5 @@
+changeset be64b571b600b15ab290ab162b66318048b5b3df
+manifest f2977bb6418109f1335799d6aa567db1b6a3085c
+extra moz-landing-system:lando
+files browser/base/content/nsContextMenu.js
+patch 512,556,

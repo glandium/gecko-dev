@@ -1,0 +1,5 @@
+changeset 188f7a851811d58a97cffe44ec52df4ef5b2993b
+manifest c1dd27bc2d03b9fbb886fe107e75b28b6e9db1a5
+extra moz-landing-system:lando
+files security/manager/pki/resources/content/exceptionDialog.js
+patch 384,428,

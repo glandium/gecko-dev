@@ -1,0 +1,5 @@
+changeset 6282e18a63f6161198bc5f1c0c4a450aea132f9d
+manifest 51ae84f9bc0917c3eb8fee880c95566b9deb102f
+extra rebase_source:9189f3ab940d50702f82365824feff441faeef5a
+files mobile/android/base/java/org/mozilla/gecko/home/HomeFragment.java
+patch 505,579,

@@ -1,0 +1,5 @@
+changeset 7a2f29bbe2a8b484893efffb8f032b53f1794766
+manifest 5d5de474e2d60ebbbb848b5861d635b34df8c9b6
+extra moz-landing-system:lando
+files devtools/client/framework/test/browser_toolbox_tool_remote_reopen.js
+patch 361,405,

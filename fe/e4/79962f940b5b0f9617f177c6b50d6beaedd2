@@ -1,0 +1,5 @@
+changeset 68f271f79ce6630fc2c75c0d8f291a20e004b83e
+manifest f192d71552c53a3fe8a86c9e7edf98383b7a15fa
+extra rebase_source:0b87ba4308486a819807b6b0dc6d9d322f71ab99
+files browser/base/content/test/siteIdentity/browser_bug822367.js
+patch 328,402,

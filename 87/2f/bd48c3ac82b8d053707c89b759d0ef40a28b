@@ -1,0 +1,5 @@
+changeset d0aec70092eb65902a056378a53a45027424ba26
+manifest a700d4006c3bed0175f2700423a01a41ef690e5a
+extra rebase_source:310352d6d9a82f748250fa0c45f4e2f53859e6ea
+files layout/forms/nsFieldSetFrame.cpp
+patch 381,455,

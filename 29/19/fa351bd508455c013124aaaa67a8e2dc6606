@@ -1,0 +1,5 @@
+changeset c5b9d0ee244d78c70f49ddeb526b0e0023a99326
+manifest 706f95e733eae416815c864ba011bbcfdedafd4b
+extra rebase_source:48624699ae83791bf35d17316e53d6f7030683ce
+files devtools/client/aboutdebugging-new/src/components/ConnectPage.css
+patch 361,435,

@@ -1,0 +1,5 @@
+changeset 0be55928fcb7ed372ee3f6aca33e5c7516593a2d
+manifest 4cd1920cb197888e2fe5c4f99fb1f2785b0cad93
+extra moz-landing-system:lando
+files dom/media/hls/HLSDemuxer.cpp
+patch 278,322,

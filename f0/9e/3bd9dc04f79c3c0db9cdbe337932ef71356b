@@ -1,0 +1,5 @@
+changeset 2995e423a7b2508fcf7a3580502748903327b499
+manifest e13b8ccc5b8c1bbfd0d5fa92d1638d46bb12a682
+extra rebase_source:06a0a4ba5312125e7d15378c253f7278a39a69f9
+files devtools/client/framework/components/ToolboxTabs.js
+patch 742,816,

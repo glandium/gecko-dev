@@ -1,0 +1,5 @@
+changeset d11632d4bde430996964c3599d4d878832ed6aaa
+manifest 27624c93fb07ad19ed93486b32d89d9f01b34b48
+extra moz-landing-system:lando
+files toolkit/modules/Sqlite.jsm
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset a14f9ec04145cc4d4cceeec942c44db12024c323
+manifest 6c8c6c2390c0726765b159f8abf47584243d9805
+extra moz-landing-system:lando
+files devtools/client/performance-new/components/Settings.js
+patch 325,369,

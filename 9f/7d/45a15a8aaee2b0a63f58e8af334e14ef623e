@@ -1,0 +1,5 @@
+changeset e35c67de74b1eec697be6db697bde8d790b92594
+manifest b87764bb9afd1eedf3e3bf532451f0b1046cce69
+extra moz-landing-system:lando
+files servo/support/gecko/nsstring/src/conversions.rs
+patch 393,437,

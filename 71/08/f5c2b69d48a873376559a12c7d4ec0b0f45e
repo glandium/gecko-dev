@@ -1,0 +1,5 @@
+changeset 96386cdfaf65bdb9d33435509ead8932e4ef6e2f
+manifest ad107cd617206732dbe74b5b8e17c293179dc498
+extra moz-landing-system:lando
+files toolkit/components/telemetry/Scalars.yaml
+patch 538,582,

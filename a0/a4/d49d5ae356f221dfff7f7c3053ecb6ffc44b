@@ -1,0 +1,5 @@
+changeset a37ada12bcf738b3102d27077af1d56777bd7f58
+manifest 7e4e2535ac764d1b9541a2949e2dd3625dd12d6c
+extra rebase_source:ccd0cb99ac9f1114d28cd749ec439c907d13836f
+files devtools/client/styleeditor/styleeditor.xul
+patch 377,451,

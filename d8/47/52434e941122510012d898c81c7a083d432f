@@ -1,0 +1,5 @@
+changeset 9ca2bd7afa39f50d2dc63a86ddc755593ec2bdb2
+manifest 7387b8c830d117e1a69126f18795f6aa2302eda0
+extra rebase_source:ce083a49db7310d9553eabb87fc6b7c8d7f35ccb
+files layout/reftests/xul/reftest.list
+patch 290,364,

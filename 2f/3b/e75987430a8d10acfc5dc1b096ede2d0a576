@@ -1,0 +1,4 @@
+changeset cafd9cdafeb71fe486fc078cc1ae16e8c2c75e01
+manifest 4e7a42f812473971951516a2fc9c8aef78792049
+files toolkit/crashreporter/breakpad-client/mac/crash_generation/crash_generation_client.cc
+patch 298,299,

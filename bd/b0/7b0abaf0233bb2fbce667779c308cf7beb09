@@ -1,0 +1,5 @@
+changeset 51901165b259a99aafe7d96edfb297fa7f333edd
+manifest 4006abc37eac9d5c41817dedf5bd760312c73662
+extra rebase_source:fb8936ce4035fb5aac2894b084e6dd34e0a18085
+files js/src/ds/PageProtectingVector.h
+patch 278,352,

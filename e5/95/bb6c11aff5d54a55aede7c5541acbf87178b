@@ -1,0 +1,5 @@
+changeset 163de8db41e8e1057f11816f5586bed29e837d76
+manifest 6791346d71722850e7e26c89ed8f9a6f2af6b65e
+extra rebase_source:969a52795a996d556312619ad2975829992ab9d6
+files mobile/android/base/java/org/mozilla/gecko/icons/preparation/SuggestedSitePreparer.java
+patch 369,443,

@@ -1,0 +1,6 @@
+changeset 50e15da285b2f6fc87b3c8039b3687998346f5a6
+manifest 562bc78db1179253fe883de6b8d4de021e15eca5
+author Ursula Sarracini
+extra rebase_source:82ad4ae275000f1f14c874a8e018ecfa472c1ea9
+files browser/base/content/test/static/browser_all_files_referenced.js
+patch 322,396,

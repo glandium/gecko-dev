@@ -1,0 +1,5 @@
+changeset 44ae071a453f285f841d4c3cc13e0b21427ace92
+manifest d70b8edb50e95295e0c5d075a24ba7cb382131d3
+extra histedit_source:f18e4e92f3cdb17b80d092b13dc370386119d437,06a923f89cefae172e29d0af18800c401394f940
+files media/webrtc/trunk/webrtc/modules/video_coding/rtp_frame_reference_finder.cc
+patch 366,485,

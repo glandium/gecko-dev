@@ -1,0 +1,5 @@
+changeset 2fda413940852bfad0704aee104eaa66696cc63f
+manifest 06ce76ea9f2ebe67009365537d3045fc6e0d8962
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/new_session/support/create.py
+patch 336,380,

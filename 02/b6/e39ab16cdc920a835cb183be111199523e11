@@ -1,0 +1,5 @@
+changeset 6c17ac872bdfa23edf836b45246eca9201430d6f
+manifest 7fb993213fb5998d29124eda849568c5f2c939d9
+extra rebase_source:66b7a76d979bd2aa8c8b228cba39db9310287944
+files js/src/jit/arm64/vixl/MacroAssembler-vixl.h
+patch 267,341,

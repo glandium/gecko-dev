@@ -1,0 +1,5 @@
+changeset 66fb08227855c12a5362dc9027a3bddf125b6c39
+manifest bbda4d36dc20ad81dd9fe92ead2050cb48a42f78
+extra moz-landing-system:lando
+files services/sync/modules/SyncDisconnect.jsm
+patch 336,380,

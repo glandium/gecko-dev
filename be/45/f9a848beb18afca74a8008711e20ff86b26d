@@ -1,0 +1,5 @@
+changeset 7452f4215289220aed57f40e6ee7ed07c62d3fea
+manifest d41c12268530e004a30afc618250b9c26290e7e5
+extra rebase_source:cf7df31bc09f106a4dab56766891a2a1830d2c9b
+files browser/components/extensions/test/browser/browser_ext_getViews.js
+patch 463,537,

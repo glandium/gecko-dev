@@ -1,0 +1,5 @@
+changeset 6d040b09b48dc9124bb2e1e885267556e5a4ae05
+manifest 46d29a5bece933fe8b05c8f72b0c6a3c2edfaf9c
+extra rebase_source:25942242d9e2cb1ccc1e18f06635218dfc894637
+files mozglue/linker/XZStream.cpp
+patch 261,335,

@@ -1,0 +1,5 @@
+changeset 2df61d7610d6d819b666e118dd019bbeffb1410f
+manifest 59a3de2d4d020687d612d961a035c6e143647c6d
+extra moz-landing-system:lando
+files widget/cocoa/nsClipboard.mm
+patch 481,525,

@@ -1,0 +1,5 @@
+changeset a2a823a4e70774370332e612a7d12f9aa5456673
+manifest e9137609e58f8fec82af27eef1c64c5bb012a2d1
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/python/test_parse_scalars.py
+patch 331,375,

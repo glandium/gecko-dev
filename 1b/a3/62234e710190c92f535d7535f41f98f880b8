@@ -1,0 +1,5 @@
+changeset b3eb58b5214a01e33a8584b5216f3c06c5d8a39e
+manifest 2abd6b4dfecbaff4fd85e1b93da9ad5c35585e5e
+extra rebase_source:564b7d22deadfcaa6357a7c9ec7514daf5978127
+files build/moz.configure/tup.configure
+patch 301,375,

@@ -1,0 +1,5 @@
+changeset ebf726d7d48ddc01f847a43baf3a606ce6ad2429
+manifest 989b10f582e8cf50071d9c1c5e02d5a0514b8a8e
+extra moz-landing-system:lando
+files gfx/layers/LayerAttributes.h
+patch 338,382,

@@ -1,0 +1,5 @@
+changeset 890bae053e53ac163c811aa8af12129b05ee49f3
+manifest 8b419656d1276ed6cf112a22fef0ad292cbe796f
+extra rebase_source:0985a6721eecbefa4f1e741030bbd7ba5991d21b
+files layout/style/nsTransitionManager.h
+patch 319,393,

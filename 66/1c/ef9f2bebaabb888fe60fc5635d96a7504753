@@ -1,0 +1,5 @@
+changeset d0b6c1fc149d58e8f3b177b28a3670046089f097
+manifest 9983345aaa191dc17560152feae09bf87492624f
+extra moz-landing-system:lando
+files mfbt/Assertions.cpp
+patch 340,384,

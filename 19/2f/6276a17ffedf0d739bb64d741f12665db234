@@ -1,0 +1,5 @@
+changeset 07448700dd6517ed1c5a5311e898daef97718186
+manifest 80c65626333a07090bb36d6dc6ac935a4836507e
+extra rebase_source:562698af70402aee79f1cf17b796a951f21de6f3
+files devtools/client/shared/curl.js
+patch 224,298,

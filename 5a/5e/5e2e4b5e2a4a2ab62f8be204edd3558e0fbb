@@ -1,0 +1,5 @@
+changeset 7876d86b9fe401df7c640ea17aa034b6cdb6181a
+manifest 7a657d2e8aa03fc246fc591b2578f0b9751bbfec
+extra moz-landing-system:lando
+files browser/components/about/AboutRedirector.cpp
+patch 296,340,

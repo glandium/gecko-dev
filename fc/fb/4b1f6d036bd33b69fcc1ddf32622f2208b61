@@ -1,0 +1,5 @@
+changeset 3eb67a3d22b3030aa1280972c23dc76a57a8ec95
+manifest 3d6c28214b7980747933a9933eb316332e1b9c55
+extra rebase_source:555b44b0493b65713a7728e2bb3b1749428e0bcd
+files mobile/android/app/src/main/res/drawable/firefox_logo_svg.xml
+patch 291,365,

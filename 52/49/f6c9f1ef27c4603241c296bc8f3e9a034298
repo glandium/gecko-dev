@@ -1,0 +1,5 @@
+changeset aee5e05a7e0cee7c42e0f3d2a33d9499dcc7a837
+manifest db645f4ae217ff3f17d6c7301c681f9dc7e9eaac
+extra rebase_source:c856b84396557137b5df360808308d30d846db81
+files toolkit/components/telemetry/GCTelemetry.jsm
+patch 401,475,

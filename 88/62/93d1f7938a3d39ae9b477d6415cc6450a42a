@@ -1,0 +1,5 @@
+changeset b1be8a677b2229504f4e08a50aea60e4282e41cd
+manifest fa744755f120035bcf0b8f639c517b52d9ca0f6f
+extra rebase_source:5b0a05a17c6164caecb47c890a2288048eb3c5fa
+files devtools/client/inspector/animation/components/KeyframesProgressBar.js
+patch 338,412,

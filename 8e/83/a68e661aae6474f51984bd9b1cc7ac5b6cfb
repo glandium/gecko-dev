@@ -1,0 +1,5 @@
+changeset 6f37c64ae423329d0f4d41306e7481ebbbf34ade
+manifest 2df84025accf0063ab69be6be1503f34e5e34d0f
+extra moz-landing-system:lando
+files mobile/android/stumbler/java/org/mozilla/mozstumbler/service/stumblerthread/scanners/WifiScanner.java
+patch 432,476,

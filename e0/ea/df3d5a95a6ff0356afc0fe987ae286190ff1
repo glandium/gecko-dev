@@ -1,0 +1,5 @@
+changeset af2f85201ec26b3a639e9e2ba94e805c5f5890a1
+manifest 761aad3ce50f961f2f81334afc12dceb3ff1e62f
+extra rebase_source:71b8016466129071440a81466b90ae3ad0b2cb1e
+files python/l10n/fluent_migrations/bug_1457021_js_subdialogs.py
+patch 340,414,

@@ -1,0 +1,5 @@
+changeset 9135ee87f8d9cc7b6257ca3d84976d433200f600
+manifest 578b60ee5aa3bf0f769ff0bacbb19ec90dcfed38
+extra moz-landing-system:lando
+files xpcom/ds/StaticAtoms.py
+patch 277,321,

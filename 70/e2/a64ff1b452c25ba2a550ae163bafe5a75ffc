@@ -1,0 +1,5 @@
+changeset 2f98a1c651b314896f199db5083f01284d89889a
+manifest b9f7cd825306e58d2d197d518fe2622a209f9623
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/SpeechSynthesisService.java
+patch 344,388,

@@ -1,0 +1,5 @@
+changeset 1e4f10cea5e70218143191e3d85a94f79d0e6305
+manifest 2b8cb7dcc7646b6109c18ed72ba81e029191af17
+extra rebase_source:2bea8a6590cadaeec3bfd807474f41535167b11f
+files build/moz.configure/android-ndk.configure
+patch 284,358,

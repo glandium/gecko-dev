@@ -1,0 +1,5 @@
+changeset ecb2dfe369e815b0f6c7522c7b68eabe653c98bc
+manifest 6794cd61f85152ae2df9d91ebce4c53cc28180a7
+extra rebase_source:c2cd25ee412748d47ed0953e2766fa8f40505d59
+files xpcom/threads/nsProxyRelease.h
+patch 317,391,

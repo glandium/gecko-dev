@@ -1,0 +1,5 @@
+changeset 4aa128f4b262917b813d35088ef9fd9621f5cfdf
+manifest c48f3fc98b855f8ef28806dee6aac999aa968f71
+extra rebase_source:c22ddafaee9c4bf6142643782b53f3d4313531d8
+files toolkit/components/search/tests/xpcshell/head_search.js
+patch 473,547,

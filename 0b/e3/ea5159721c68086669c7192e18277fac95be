@@ -1,0 +1,5 @@
+changeset 3511b66ee3355f9ffa6ae263f9b85e8e64a208ac
+manifest 9ae050c1e5434947f04b7e049d13644889914251
+extra rebase_source:b731a0b5dd7cad68afcd6caf944e62fbf02a0b01
+files layout/style/ServoStyleSetInlines.h
+patch 304,378,

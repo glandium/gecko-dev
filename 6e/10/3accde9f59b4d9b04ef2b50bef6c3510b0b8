@@ -1,0 +1,5 @@
+changeset 25f4fa1de401686bf21e33ca2bf6c970fce7c729
+manifest 24c338e6592d0b43154534adfe35d3ff29a54dd2
+extra rebase_source:1c47a137730cbc3ebf0d2ba12f9947611922021c
+files mobile/android/components/extensions/ext-tabs.js
+patch 456,530,

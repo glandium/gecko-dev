@@ -1,0 +1,5 @@
+changeset 7e4a87170569ece8bec68b8163e430ca43937a44
+manifest 0d2aa85c6cc2fd144e1525c752b9eebe1d4fe546
+extra rebase_source:07be98bce61af38cbb0932c51bf3e622365f6329
+files toolkit/components/contentprefs/ContentPrefService2.js
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset 741225b427a8d15abc4bd8d7ce70dd2666b25cc6
+manifest 5edc84bff5fba95db2c9f0d60bbd22e895a2bd78
+extra rebase_source:138dda7c61aa6327eb9bf6471a9aff0b583e65ce
+files js/src/jit-test/tests/basic/testTypedArrayInit.js
+patch 917,991,

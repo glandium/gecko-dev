@@ -1,0 +1,5 @@
+changeset dd760c2491227a402bccad9c6e25b3313ae52df5
+manifest 42f39272e34d364176c1172df005edb58919b589
+extra rebase_source:3c363b6c531f278d7c5b3ddf41fb0f16e79966dc
+files tools/lint/hooks.py
+patch 572,646,

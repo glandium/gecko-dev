@@ -1,0 +1,5 @@
+changeset 79010785539c7ec201569142efd4fc0e4eab0f53
+manifest 114d17fad192554ecabe36b8f7ecf2fabb19008e
+extra rebase_source:bbe2231e9abe9ce81dfa09197f6ae0f839f6ba17
+files media/webrtc/signaling/src/media-conduit/AudioConduit.cpp
+patch 440,514,

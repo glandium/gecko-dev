@@ -1,0 +1,5 @@
+changeset 4ec64c93ac17d3aeae1b53b39e13a982f572cb70
+manifest 20852081cc91caa51c1ab5b36f708cf3929edf8f
+extra rebase_source:69b788761ee332cc94acc4be6ae6ce0bb50f0e98
+files widget/windows/nsDragService.cpp
+patch 418,492,

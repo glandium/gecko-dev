@@ -1,0 +1,5 @@
+changeset f541c03beb5f21a380ec2146f37c609b708b5661
+manifest d50e08b89e0658b2ffca7dbaaa5f2aebd3a38c60
+extra rebase_source:d2c6b592fb096a4f65a4e4f7574816e4dd70f6e5
+files devtools/templates.mozbuild
+patch 282,356,

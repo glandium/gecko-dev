@@ -1,0 +1,5 @@
+changeset 239271d26c0c10091850c565f45bd9ac0c4139b6
+manifest e30f83d4bc829e7fcf3baccf098a39d43cdf603c
+extra moz-landing-system:lando
+files browser/modules/FaviconLoader.jsm
+patch 924,968,

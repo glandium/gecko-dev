@@ -1,0 +1,5 @@
+changeset d8fb6bb3c1c2f9fdac45858d9d45a8abf98b4910
+manifest 9b65ac9435a2e48d90d9c554b11e6245bbd854e8
+extra rebase_source:609c17c72942c71df965815ba4c46f1e2e3497d1
+files taskcluster/ci/build/android-stuff.yml
+patch 353,427,

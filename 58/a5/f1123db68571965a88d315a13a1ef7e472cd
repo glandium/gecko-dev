@@ -1,0 +1,5 @@
+changeset 32713b1df8ae59b9302fdb4e9b246854261db627
+manifest 5d55d367353759f67f39455b06b3e4b1906f5821
+extra rebase_source:3f142822da1505ed4c2893354bfb9bb9faf067db
+files browser/base/content/test/general/browser_favicon_change.js
+patch 273,347,

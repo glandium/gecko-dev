@@ -1,0 +1,6 @@
+changeset 32bf1cf6c7a8e96c662c5fac490212071fdef6e6
+manifest 012a358ba514973836bb065bfb40dc0e00dda0ba
+author Simon Fraser sfraser@mozilla.com
+extra amend_source:9db35da07a82f69c986397ace2e73c050c309b62
+files taskcluster/docker/funsize-balrog-submitter/scripts/funsize-balrog-submitter.py
+patch 341,414,

@@ -1,0 +1,5 @@
+changeset 8157341588cca193744e3bd23e5d16e448e7e715
+manifest ac76c5035c8ec73c16d1205dc6f1887fdb27dfa4
+extra rebase_source:39ffa3de812c0cfc51a5505331acbf767a484821
+files build/moz.configure/compile-checks.configure
+patch 294,368,

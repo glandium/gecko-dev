@@ -1,0 +1,5 @@
+changeset 500836846f62a16ad39523efe44c48c7f8356070
+manifest 0cfaa8a8d4f1f71d8fa76c40f9182e7e218d8145
+extra rebase_source:a6f6b6881265cd7592cb2ed0acfa342e944cb7b3
+files devtools/client/netmonitor/test/browser_net_autoscroll.js
+patch 319,393,

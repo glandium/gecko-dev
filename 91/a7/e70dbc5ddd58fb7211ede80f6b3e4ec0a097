@@ -1,0 +1,5 @@
+changeset 1ecb6fcbdb2ad7cff1d4c3749973947d4c113282
+manifest 396f2b329bc301e15b954c18689d2f2fde18e2df
+extra rebase_source:80e2bb3e23da94a74cfccd3f2fffac267fbefdd8
+files browser/extensions/formautofill/content/formautofill.xml
+patch 323,397,

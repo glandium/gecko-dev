@@ -1,0 +1,5 @@
+changeset ef6982a01446250a4fff13d85a6c96e2e69964dc
+manifest 4b3f61b7d892d55ea65ecd01a0e64317432c004b
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/backend/visualstudio.py
+patch 376,420,

@@ -1,0 +1,5 @@
+changeset 0acdb2ad7e97dac72b4b2c096a1027de2dbc063e
+manifest 4497fde94055024cc694f06a0a851d45a2b28328
+extra rebase_source:7c5c37342e8478f783104f7222b006390dc390b7
+files testing/mozharness/mozharness/mozilla/proxxy.py
+patch 289,363,

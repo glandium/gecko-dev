@@ -1,0 +1,5 @@
+changeset 038a3a9da10fb8f1f0721dd57adc91dfb6b01283
+manifest fbcd00378bfef6f3f7e1ec827a7b165b02ff0821
+extra amend_source:7d2a007b532ccd305852529ff23ffdbaffa3b621
+files dom/tests/mochitest/general/test_datatransfer_disallowed.html
+patch 444,517,

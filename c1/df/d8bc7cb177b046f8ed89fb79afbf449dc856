@@ -1,0 +1,5 @@
+changeset 5b1abdb8b2fbcc5c119d2d72fff68dd5029b30bd
+manifest 560d365d98922f7523db65a4c4a424b8e5cc07e5
+extra rebase_source:f8dfad1514956a2b8fbd32a10a7bc46445e4a3c8
+files browser/installer/windows/Makefile.in
+patch 546,620,

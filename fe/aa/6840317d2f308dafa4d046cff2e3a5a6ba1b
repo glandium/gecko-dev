@@ -1,0 +1,5 @@
+changeset 3478356d49534d5251842d9f934e7312f3631ab3
+manifest 09d1a919d31982898d2f282a1662124741b9df91
+extra rebase_source:457a6aedde4c45e2d7f168994c2a75d0336187c5
+files toolkit/components/remote/nsDBusRemoteService.cpp
+patch 717,791,

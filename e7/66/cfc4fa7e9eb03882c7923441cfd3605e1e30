@@ -1,0 +1,5 @@
+changeset 26101dcb2ecee47b91637fb053f63c2412c59ad3
+manifest 1ae0f425739f64afb56edb9b0118f60912ff624a
+extra rebase_source:166327b09ea1a761c4cf81d3e58458f7879a92aa
+files devtools/client/webconsole/browserconsole.xul
+patch 321,395,

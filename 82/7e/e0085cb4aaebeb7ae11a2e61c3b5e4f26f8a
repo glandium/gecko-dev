@@ -1,0 +1,5 @@
+changeset b994e5f56361c407feabf5f336bc34fbb8bface2
+manifest b9ed81c8ab93b45708e825ceddb295bbabf72fdd
+extra rebase_source:1f5889febada06940357e847d2f0459b88a6ec14
+files devtools/client/inspector/rules/models/user-properties.js
+patch 237,437,

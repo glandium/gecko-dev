@@ -1,0 +1,5 @@
+changeset fc7d1d5fd6f63737b7f2f4e836ce04dd1e74e9ee
+manifest a2cab253169ca81da036b722ce293dd0bf32dfd4
+extra moz-landing-system:lando
+files testing/webdriver/src/capabilities.rs
+patch 482,526,

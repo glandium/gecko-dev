@@ -1,0 +1,5 @@
+changeset fdf2be0e543b7a751d8f50488de1608aa0f6cf1e
+manifest 7f928d06a388d014a0a374a4e87acc3daaa1c68e
+extra rebase_source:d2d29b9605b7c7b69c54ec8b70b8adebffe402d1
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/UITest.java
+patch 463,537,

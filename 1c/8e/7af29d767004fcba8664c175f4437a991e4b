@@ -1,0 +1,5 @@
+changeset 361c06422c19ac2b90748c54b76ec6e8d7053960
+manifest 0a1273c3304bb7e50976c1c5e1c398bbe6f0eefb
+extra moz-landing-system:lando
+files netwerk/build/nsNetCID.h
+patch 314,358,

@@ -1,0 +1,5 @@
+changeset 76dfca6d5a333c2594f011e988c8433c6e494a50
+manifest e9afdf94c845dae84596ac14248e25f75c2f3850
+extra rebase_source:eaaa62e80eb570278ba7cba18644562928a3d369
+files browser/base/content/test/alerts/browser_notification_open_settings.js
+patch 372,446,

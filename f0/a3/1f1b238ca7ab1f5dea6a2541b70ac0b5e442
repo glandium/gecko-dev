@@ -1,0 +1,5 @@
+changeset 23b8e3ed86a8e83b5f912781788b89990e65ae40
+manifest 892e78d24a30ef2b18f79a00e02bb95f8ccd2793
+extra rebase_source:2a4937ec1816cdd943c6d15de2b34a73e8890693
+files mobile/android/components/extensions/test/mochitest/test_ext_activeTab_permission.html
+patch 298,372,

@@ -1,0 +1,4 @@
+changeset 698a25fb6e01ad04411f8b9d9c5a67cd87e423e5
+manifest a0b820cbc9334bf4524810779d6f9c7a617d6132
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/SurfaceAllocator.java
+patch 309,310,

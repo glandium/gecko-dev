@@ -1,0 +1,5 @@
+changeset 93b5503a50b095601e4160c4ed93b1fd362fd821
+manifest 9257152b865884f37a8357e434583b811acc99b9
+extra moz-landing-system:lando
+files taskcluster/taskgraph/transforms/bouncer_aliases.py
+patch 318,362,

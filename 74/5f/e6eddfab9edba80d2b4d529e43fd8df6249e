@@ -1,0 +1,5 @@
+changeset dac61b3288af2f3146a209e52d67b63383c8e972
+manifest 2369f0d28cdec775a4ef0decc78f22e3f427ddad
+extra rebase_source:6c80534e6bf28c66faa8e46efd94bf9fd4b068b6
+files taskcluster/taskgraph/transforms/partials_signing.py
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset 3ad859c41412782149f3713e282e320653bb15b5
+manifest f4779120e4d1c4f259fa92f29e49c7054e978b44
+extra rebase_source:a9db74ce94dd4012b13e846e7876408985b9fb40
+files js/src/jit/BaselineInspector.cpp
+patch 274,348,

@@ -1,0 +1,5 @@
+changeset c6176b21937b0ab446ffde1dcadff6e6aaa0e7af
+manifest ffbeb4c9b2cc20384fdf8585e5094e0029c280b0
+extra moz-landing-system:lando
+files toolkit/components/telemetry/core/TelemetryScalar.cpp
+patch 336,380,

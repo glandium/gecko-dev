@@ -1,0 +1,5 @@
+changeset b2bf42743febfe4d3d29753b9ff8f72aaca5b237
+manifest 66bbcb69bd3bdb9e2cb4a7d67cf49b828db1bdab
+extra rebase_source:1d2cb2513fd6dd8f022b7cd8ca68ea6be40da6ce
+files browser/base/content/test/static/browser_parsable_css.js
+patch 317,391,

@@ -1,0 +1,6 @@
+changeset 5999113009c35768c32afa8dd64f6411c448b05f
+manifest 7100d87384d9282ea5944be3d20bcc31c279c76b
+author dhouse@mozilla.com
+extra rebase_source:9e5f176e84eb0bdb91d4b6cf0e2a4e9f7d91e572
+files browser/extensions/pdfjs/test/browser_pdfjs_zoom.js
+patch 301,375,

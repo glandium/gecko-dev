@@ -1,0 +1,5 @@
+changeset 59639cc071fd180c3e1c8b0140d12949076c1ec3
+manifest 2b98635b025728c0c8bed144b17d0d96cce6fbec
+extra rebase_source:ff3bf2cccf2ec21bdbaf61c8112ee97bc3306bfe
+files layout/style/nsRuleNode.h
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset f5873bdd1241fc05a1839e78ac1b24774eb7c58a
+manifest 7ac6b2b6959f728c65727b809a478ac69fcb4f29
+extra moz-landing-system:lando
+files testing/web-platform/meta/payment-request/idlharness.https.window.js.ini
+patch 330,374,

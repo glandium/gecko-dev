@@ -1,0 +1,5 @@
+changeset f152ee69120c1b6fcdb1c238518b77f549ad6968
+manifest e2d585ed7e46ab444945c8200221a19aff94b615
+extra rebase_source:80d00d5165aa9c70ce71db7cb88d53c4ff06870d
+files toolkit/crashreporter/breakpad-client/mac/handler/dynamic_images.cc
+patch 365,439,

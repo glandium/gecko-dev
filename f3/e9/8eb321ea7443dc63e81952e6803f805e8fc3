@@ -1,0 +1,4 @@
+changeset 9869fefc342c4f82ac9f0341acba49d7bd0c912e
+manifest 2724b3d077ec75021a9f2fe84b515e73e459834e
+files testing/web-platform/meta/webvtt/rendering/cues-with-video/processing-model/dom_override_cue_text_while_paused.html.ini
+patch 344,345,

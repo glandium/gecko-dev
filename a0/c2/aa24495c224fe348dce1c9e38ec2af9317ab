@@ -1,0 +1,5 @@
+changeset 08451ab1cd25dc7dfac374893b043c788f76e8d5
+manifest 05d98957d1345d3b33f261769642bf645ff8171e
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/NavigationDelegateTest.kt
+patch 361,405,

@@ -1,0 +1,5 @@
+changeset aa640b891abd0109df4552663e20318c48877d88
+manifest 022a6721922f697bed47c53549f63105d0175584
+extra moz-landing-system:lando
+files netwerk/base/nsChannelClassifier.cpp
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset 41a83fd7b7b81ff985fd989df767487a08b1d0ee
+manifest 3af5b9897a524ecd1f2394c35fbbf3a5d18a0cbe
+extra rebase_source:91fe468c197e4ece06dda1589bf0b28c19e612b2
+files browser/extensions/webcompat-reporter/moz.build
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset 518beb4c199b02e71cd39d6d11e203436799a3b8
+manifest 98a70f3e2976ca268891c1743846c8de9a9ea1d3
+extra rebase_source:60c4a3f18ef656378dd6284071ca702d2c6aec79
+files testing/geckodriver/CHANGES.md
+patch 329,403,

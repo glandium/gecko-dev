@@ -1,0 +1,5 @@
+changeset 9fc0c79890cb95ea48d83cd358b19e8f90e030cc
+manifest d4529fff57ac7237291b59e78596119874d155a7
+extra rebase_source:332b48fde97adacfefd7771185df35c217dfbe84
+files js/xpconnect/loader/mozJSComponentLoader.cpp
+patch 697,771,

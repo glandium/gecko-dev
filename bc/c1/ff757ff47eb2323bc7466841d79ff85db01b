@@ -1,0 +1,5 @@
+changeset 24bb83f24599fc3ec45b0667e1d208556639e07e
+manifest 952444a2a2ea29a80c8aeedcfa9356e88a9fb2d7
+extra moz-landing-system:lando
+files taskcluster/taskgraph/actions/registry.py
+patch 292,336,

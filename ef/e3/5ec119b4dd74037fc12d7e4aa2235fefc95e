@@ -1,0 +1,5 @@
+changeset 10e47c8ec77929bddf65dfb657e82d9d486950bc
+manifest b879a17ddf6f91acd6801fe883818ce6a20c0fc0
+extra rebase_source:a6f20cefa04c37bf73574f9065a63e375891bd03
+files intl/locale/gtk/OSPreferences_gtk.cpp
+patch 316,390,

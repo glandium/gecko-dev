@@ -1,0 +1,5 @@
+changeset f787be169098ff06ff653620cc19196082eff05b
+manifest e7b1cbe50e8d12bd04e935de6fc3518bf982e7db
+extra rebase_source:05dbf742089e857eb697736ee6a6619192c07365
+files tools/tryselect/tasks.py
+patch 297,371,

@@ -1,0 +1,5 @@
+changeset 6b64847df21632cb07da14fa4eab6de0851b14c8
+manifest 9d34fe01164bcb8a5afd3801b84cf26cb8efac13
+extra rebase_source:3a317f98569438c96fedbe7c95361c4385cef7fe
+files toolkit/content/tests/chrome/bug263683_window.xul
+patch 350,424,

@@ -1,0 +1,5 @@
+changeset f9c5cbd49b985bb3e4f6eb937ee5fba6ed9dc679
+manifest 2c551c3984128c436dfe7924d9a9a38b552a430f
+extra rebase_source:702efbd6dff9615ff827f8c7f05dd8cce2cbd419
+files netwerk/dns/nsHostResolver.cpp
+patch 270,344,

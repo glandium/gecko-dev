@@ -1,0 +1,5 @@
+changeset 9fee9ccec3c996cfbb4bea5f7645dc72425f5acf
+manifest 9926197d064e633e3749306da68781271975250f
+extra rebase_source:2edd7a7c75e35bbe5909371ac851e907861d6644
+files layout/painting/nsImageRenderer.cpp
+patch 285,359,

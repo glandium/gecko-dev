@@ -1,0 +1,5 @@
+changeset 27841347525c5e83a67e086d6fd15758c625a9e3
+manifest 7a115ced1408ff2db533abd2388249b48a95e0fe
+extra rebase_source:2e1c45582ce04cfd4afb01813be5908bff13ee91
+files browser/components/preferences/in-content/tests/browser_permissions_dialog.js
+patch 335,409,

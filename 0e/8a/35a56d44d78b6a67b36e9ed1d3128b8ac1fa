@@ -1,0 +1,5 @@
+changeset f0bd0f0e2b5328f000c86675ad281d82b6b7a78d
+manifest bfb092adecf62e5854b3601dd0b711ce9389c546
+extra histedit_source:98c0f5cf8f3f00afc581b746aca93e16c5997795
+files security/certverifier/ExtendedValidation.cpp
+patch 322,398,

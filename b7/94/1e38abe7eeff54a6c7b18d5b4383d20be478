@@ -1,0 +1,5 @@
+changeset 40da036eabf681a97837c4bf68d3ce4c8f5a6bec
+manifest 07e851963b36953dd700311797f714af6de20b31
+extra rebase_source:0845ba330509dd42ad9e34279e5af33b8b639c24
+files devtools/client/shared/widgets/tooltip/ImageTooltipHelper.js
+patch 354,428,

@@ -1,0 +1,5 @@
+changeset b0f8ad9a4c3c36f0be92d46081145e16e80dda04
+manifest 6e14594f299f4b241b730d12669ad6f366df261b
+extra rebase_source:205e3dbd724c5c81672a2c424a89a49040323a7c
+files toolkit/locales/en-US/chrome/global/aboutTelemetry.dtd
+patch 562,636,

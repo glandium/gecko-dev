@@ -1,0 +1,5 @@
+changeset 2e84c446ce7f2de8bb8e0e68895434274b1f6b0d
+manifest 46e88ee15299dffdf349c86777c7363ef51062c7
+extra rebase_source:32edf326037b10552f321596533be8f38edcf529
+files layout/base/PresShell.cpp
+patch 304,378,

@@ -1,0 +1,4 @@
+changeset ed0bd15e1d5d4e52edace3c94edf662e2958725e
+manifest cad921329c04510b2ee13884ed5377060e50344c
+files python/mozbuild/mozbuild/backend/common.py
+patch 405,406,

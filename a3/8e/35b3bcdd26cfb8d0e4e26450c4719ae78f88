@@ -1,0 +1,5 @@
+changeset a7505c96f597ff858bf81e13a8814938bb011d09
+manifest 5869ee72c308efc62f7ce5ade395556acfc99562
+extra rebase_source:2527b60e1bd23e9fd196296089ef9c0cea449d1b
+files devtools/shim/aboutdevtools/aboutdevtools.css
+patch 294,368,

@@ -1,0 +1,4 @@
+changeset d2f203f4ad525831a5aca55ffc764eed0f39c268
+manifest 661948228d85511775fabb439ed46c031bc482c3
+files testing/web-platform/meta/html/browsers/the-window-object/apis-for-creating-and-navigating-browsing-contexts-by-name/no_window_open_when_term_nesting_level_nonzero.window.js.ini
+patch 427,428,

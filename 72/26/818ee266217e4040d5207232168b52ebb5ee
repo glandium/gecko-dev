@@ -1,0 +1,5 @@
+changeset ed85f2ec9f2ae8649dd2406f75027a29d80ebff2
+manifest 357eaf121829735be3e6968da5748e2e008d9a03
+extra rebase_source:f99689b07b7520e97f01cb61565e719c668f6763
+files mobile/android/components/extensions/schemas/browser_action.json
+patch 358,432,

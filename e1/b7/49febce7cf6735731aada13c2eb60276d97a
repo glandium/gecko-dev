@@ -1,0 +1,5 @@
+changeset 042f4395119b5aac1c62bb7132ad1bd9ee212872
+manifest e3c1f205bb775d99412378ce571224f5b62ac6d2
+extra rebase_source:32c6425036196675322c6a5422a6edf8a8aa4498
+files devtools/client/framework/ToolboxProcess.jsm
+patch 529,603,

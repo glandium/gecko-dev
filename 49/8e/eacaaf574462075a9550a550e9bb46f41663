@@ -1,0 +1,4 @@
+changeset 79c7e34346304105ab56ff302a070c4a13329627
+manifest bc2c7dc3e806a5c232d1bb92155295a377f222af
+files addon-sdk/source/lib/sdk/indexed-db.js
+patch 223,224,

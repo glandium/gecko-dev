@@ -1,0 +1,5 @@
+changeset 53c350ccfd5b5b39fdef94f4ecf37f29c70aed60
+manifest 3f97ba62b1c9d96a376969a0f2d2eaf08a6cf481
+extra moz-landing-system:lando
+files docshell/base/BrowsingContext.cpp
+patch 357,401,

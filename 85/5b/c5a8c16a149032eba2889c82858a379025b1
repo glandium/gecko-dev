@@ -1,0 +1,5 @@
+changeset 400dfd6e6f04e2863c470c45e9689cafe9cd49e5
+manifest fa785c05a97e884e9fd561df8c31c6ed7eda1ed6
+extra rebase_source:a6c9f21aa8ef033d34f8ad18d54a803e25581760
+files testing/mozharness/configs/talos/windows_config.py
+patch 300,374,

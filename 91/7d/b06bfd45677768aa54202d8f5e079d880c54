@@ -1,0 +1,5 @@
+changeset a88b99cfec8cbd6b357ba913670b238a28aadbf1
+manifest 98f8c577cf88bd3d680463a6d50f88062289e2e8
+extra rebase_source:83aef91b75cda105f7d7dbba40947733776f1fa9
+files layout/style/test/chrome/bug418986-2.js
+patch 304,378,

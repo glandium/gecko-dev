@@ -1,0 +1,5 @@
+changeset a6e26c4c5704e3ed1969ff903d7396b946247786
+manifest f94c45ff830fd34046bff3a281d14c26725cfd23
+extra rebase_source:095b95a577b85efaaf2f3c0b7c3ac968ff711738
+files mfbt/ThreadLocal.h
+patch 673,747,

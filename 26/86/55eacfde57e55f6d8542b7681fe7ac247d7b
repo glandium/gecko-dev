@@ -1,0 +1,5 @@
+changeset 9d8d4e93d42024842bd40dc7ceb036acd7cf2bcf
+manifest d9549212e214d149739cf87e3f6a9c11cd9c41f8
+extra rebase_source:0350dc6276daf5f7a3a05a990b25993a13f4f0c0
+files devtools/client/netmonitor/test/browser_net_status-bar.js
+patch 289,363,

@@ -1,0 +1,5 @@
+changeset 32f7df107f85aa9db298a04ceec542a79cf3c951
+manifest b4152b113ff23a9522fd225c44ba2f6bf5f634cc
+extra rebase_source:a409db891bdcb5e3fbfb37938cc5d989b2d2247c
+files devtools/client/shared/test/browser_theme.js
+patch 371,445,

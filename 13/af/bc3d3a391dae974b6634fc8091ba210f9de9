@@ -1,0 +1,5 @@
+changeset 0192e7d232043ff3d67e17457f80521a53727daf
+manifest 9559dac65bd22ca4be087106cb33a6b3032b8b68
+extra moz-landing-system:lando
+files toolkit/components/normandy/docs/data-collection.rst
+patch 358,402,

@@ -1,0 +1,5 @@
+changeset 12f0f85e4ade15e87e533bc7f0f2549b89e02109
+manifest 1b70d834e3880930d4e0e79418185fbf79b3a23c
+extra rebase_source:7cb11b65b201cf289fbc5683f95643361fc194ab
+files mobile/android/base/java/org/mozilla/gecko/distribution/ReferrerReceiver.java
+patch 339,413,

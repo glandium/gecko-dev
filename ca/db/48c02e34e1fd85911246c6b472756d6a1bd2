@@ -1,0 +1,5 @@
+changeset bf63176221f0c8dff2f35f7ee2716c0ef4e6afc6
+manifest 10213e88087af932ea0a7e4803a0727f725ce35b
+extra rebase_source:98c59250b9514522dcf7ed9da2d12219108ebfd6
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_idb_data_migration.js
+patch 775,849,

@@ -1,0 +1,5 @@
+changeset 7d73206bcde2886a5be0f99e994ba54d331f32ea
+manifest cf808debc40e7a503d582e380d29e48943e4b514
+extra rebase_source:3447145df1c58819ac178f02cb7dbe9cc35c8604
+files layout/reftests/css-animations/opacity-animation-in-fixed-opacity-parent.html
+patch 473,547,

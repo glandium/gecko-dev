@@ -1,0 +1,5 @@
+changeset aafd06fa1990885aadd389c997a29c655719760b
+manifest c2999cab8c3a1554109bd3c135294e383590323b
+extra rebase_source:724b110fd55c5935df589f1cbcc0b3380028a1ed
+files dom/xbl/nsXBLWindowKeyHandler.cpp
+patch 672,746,

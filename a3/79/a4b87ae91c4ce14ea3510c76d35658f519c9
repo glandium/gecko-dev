@@ -1,0 +1,5 @@
+changeset cf2bc277cf0507d1083f7b75e692b5930c0bb175
+manifest 85bf7affce9d9ae6500949d3a0ab410a5e98bd29
+extra rebase_source:d269423c5d7197f0bd1d494aed67f16302caced2
+files dom/webidl/CSSStyleDeclaration.webidl
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset 312f5e3f6a7cc6875df354386271af42397dece5
+manifest 9ab2ad9ca5ee41cb2fe5d114861903dbc7448c2d
+extra rebase_source:a3b0341c9996c9480023c294a1383ace7b531532
+files browser/modules/ContentSearch.jsm
+patch 326,400,

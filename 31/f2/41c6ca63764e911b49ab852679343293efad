@@ -1,0 +1,5 @@
+changeset 67162d27979c8e8dbbc81461b5915e6ac15683d9
+manifest bf725fc66a00f522f46d376b39676f0a14c69e2c
+extra rebase_source:4987a60520941665b9fc6c0242d7f34ce43a060b
+files js/xpconnect/loader/ChromeScriptLoader.cpp
+patch 302,376,

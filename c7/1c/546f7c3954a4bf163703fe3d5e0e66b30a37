@@ -1,0 +1,4 @@
+changeset a049e86626d465013bb409180fee85d9c7154aa7
+manifest c70489e7f5432eeae50935d3a1995f4ffba88e26
+files browser/base/content/test/tabs/browser_bug_1387976_restore_lazy_tab_browser_muted_state.js
+patch 289,290,

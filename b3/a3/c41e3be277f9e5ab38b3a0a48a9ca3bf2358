@@ -1,0 +1,5 @@
+changeset b350b5b4781eeddb501a9ee48d439e9277e1997a
+manifest 653740a8002481f74812e09af1ee1c473e99360d
+extra moz-landing-system:lando
+files image/encoders/jpeg/nsJPEGEncoder.cpp
+patch 287,331,

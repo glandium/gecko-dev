@@ -1,0 +1,5 @@
+changeset 780ffc5018c43fa995a1aed1d723152e9ce0474b
+manifest e609784d944ec25aff32e5b5ec5d5f4ddd866821
+extra rebase_source:ab987310ca62b5587f7437d91f7be4345bc5cb16
+files docshell/shistory/nsISHistoryListener.idl
+patch 249,323,

@@ -1,0 +1,5 @@
+changeset 2013763dd2b670faa62eb02803bbbce98175458c
+manifest b44dd80133bfad4bad07008e3272a8a51151215d
+extra rebase_source:8c50baa517c61ec2d872c036abc989b4a07e8e36
+files widget/gtk/IMContextWrapper.cpp
+patch 592,666,

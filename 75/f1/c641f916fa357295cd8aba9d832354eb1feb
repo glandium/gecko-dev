@@ -1,0 +1,5 @@
+changeset 06dea9e0cd50794679bbefb51776c8e621e64a98
+manifest 083d15b20c812747911a9a7fc23d74c378c77f88
+extra moz-landing-system:lando
+files browser/base/content/test/plugins/browser_private_clicktoplay.js
+patch 388,432,

@@ -1,0 +1,6 @@
+changeset f4099f8d978012f0441ac0a198eec0387479a5f6
+manifest b418c3b4c9284b3b3058c675b9fd4b481e6ed031
+author Marco Bonardo <mbonardo@mozilla.com> <mbonardo@mozilla.com>
+extra rebase_source:6ff3a16cc530c630d2fd9733af419485d45fe80b
+files storage/mozStorageConnection.cpp
+patch 331,405,

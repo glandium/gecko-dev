@@ -1,0 +1,5 @@
+changeset 82cdda27190e1ea1921301a6e8dd9d8a550eaec7
+manifest 35c01875853ed527c06ff8c13d339db8be9605a9
+extra rebase_source:724f7a2c106769d5e993d871088a25a55a9f3a42
+files toolkit/components/places/tests/bookmarks/test_417228-other-roots.js
+patch 348,422,

@@ -1,0 +1,5 @@
+changeset 79754b9b89b744325ea773c83185a4520bdbd632
+manifest 57813e44f7cc885ec0387458bcdc50ebd0c65e0f
+extra rebase_source:8bdd5aeb7761d32c25e55966275d9a0804eb3948
+files mfbt/Maybe.h
+patch 247,321,

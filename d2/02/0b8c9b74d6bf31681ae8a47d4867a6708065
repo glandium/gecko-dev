@@ -1,0 +1,5 @@
+changeset c30bc5d5adbc17de3d4b6d883d2f04e7ee30a5ff
+manifest a3133f3286018e7d45e147feb1b9d75025df713c
+extra rebase_source:6c2fa14a5fe49c1cc5d42afc9f7d57be568f662b
+files js/src/irregexp/RegExpEngine.cpp
+patch 876,950,

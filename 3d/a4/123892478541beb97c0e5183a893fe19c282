@@ -1,0 +1,5 @@
+changeset 142e5073a1e799f56624a5ebeb9cd4ae7b9935b2
+manifest 060987297f1d8fa3b81b5aea1cd15e62016bc4b3
+extra moz-landing-system:lando
+files devtools/client/webconsole/test/mochitest/browser_jsterm_hide_when_devtools_chrome_enabled_false.js
+patch 398,442,

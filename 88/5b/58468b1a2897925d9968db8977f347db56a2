@@ -1,0 +1,5 @@
+changeset 4d777d5f3adcbb3b78b01860d3c6c5378473f067
+manifest a547f42029f49e2dc077b2952d0697be34ea6b77
+extra rebase_source:eec7a2c54638420b1a7adc27f25e1f0237eaa30e
+files devtools/client/responsive.html/components/Browser.js
+patch 496,570,

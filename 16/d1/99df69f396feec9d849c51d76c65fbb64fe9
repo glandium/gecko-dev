@@ -1,0 +1,5 @@
+changeset 43acb10b33c08fe20bc27ee0498bb2fcc35518a6
+manifest 68fbf02f21005b07cb2778c1f07ebb01ce39fd19
+extra rebase_source:baa5dd8adf7b6bebbfd0dad9ccfe576d857eef62
+files browser/components/extensions/test/browser/browser_ext_themes_icons.js
+patch 389,463,

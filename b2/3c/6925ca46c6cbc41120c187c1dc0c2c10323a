@@ -1,0 +1,5 @@
+changeset ad28397dfa43589ea5bd814391c26386c5bf751f
+manifest 944755dfeba082b2d3465c2a989b402882bf1366
+extra moz-landing-system:lando
+files devtools/shared/adb/adb-runtime.js
+patch 301,345,

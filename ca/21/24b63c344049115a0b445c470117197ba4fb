@@ -1,0 +1,5 @@
+changeset 39ca0cb416f9da20198b93a3214df1aa2683efcc
+manifest e0365a94af5b1bdd73f7a6a35adffd6ed59d9965
+extra moz-landing-system:lando
+files browser/components/extensions/parent/ext-geckoProfiler.js
+patch 358,402,

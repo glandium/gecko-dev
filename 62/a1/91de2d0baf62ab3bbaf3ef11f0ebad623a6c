@@ -1,0 +1,5 @@
+changeset 0b2ac40765b93f823d36fbdb7804594da6a81552
+manifest 41dcd91863a21611bdf95baf9ce1eb0218d31c7c
+extra moz-landing-system:lando
+files browser/installer/windows/nsis/uninstaller.nsi
+patch 325,369,

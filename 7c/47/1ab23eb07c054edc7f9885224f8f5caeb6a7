@@ -1,0 +1,4 @@
+changeset b392812e5cbfa0158c76291960abc1eb75b28a82
+manifest cbb434b7d308ecb97b4d62089df3466409dc7142
+files devtools/client/webconsole/test/browser_webconsole_bug_580454_timestamp_l10n.js
+patch 240,241,

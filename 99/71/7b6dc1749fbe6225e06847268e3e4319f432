@@ -1,0 +1,5 @@
+changeset 88351e371a8b8c21dc69555f53707a8fae6df40a
+manifest 150800e0cf996661d2673bc3669d84d9b9cb1519
+extra moz-landing-system:lando
+files browser/base/content/test/general/browser_visibleTabs_tabPreview.js
+patch 320,364,

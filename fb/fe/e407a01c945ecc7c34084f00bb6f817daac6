@@ -1,0 +1,5 @@
+changeset c29585c36177f6c1fa00049c519f89b12bd779e3
+manifest 3bd8507c71b63234f9cf2802ff65115372356d93
+extra moz-landing-system:lando
+files dom/canvas/WebGLTextureUpload.cpp
+patch 327,371,

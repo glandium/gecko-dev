@@ -1,0 +1,5 @@
+changeset 5250566855534d4afa64e6ad50878724365e8103
+manifest 30eac2c1347aa08cd20660e0f2c19959f5fe9e82
+extra moz-landing-system:lando
+files browser/themes/shared/aboutSessionRestore.css
+patch 323,367,

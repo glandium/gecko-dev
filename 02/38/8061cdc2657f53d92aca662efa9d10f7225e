@@ -1,0 +1,5 @@
+changeset dd85a2be4527c4dfaff44280d26bec7e8ffc7bd8
+manifest 192a2393882fdfca425278243621df4ed6815978
+extra rebase_source:993c3e97852894ddd64561d039fbf0e71d607066
+files dom/plugins/test/mochitest/browser_tabswitchbetweenplugins.js
+patch 631,705,

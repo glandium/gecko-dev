@@ -1,0 +1,5 @@
+changeset 09b1aee5ad9fb7c1e884036985576121b4a67766
+manifest f4360a75d44c2fac9ec7f4093daf3ce009f4a6a7
+extra rebase_source:25ba80a4e2947e727c055a35c47ce0275df41682
+files testing/mozbase/mozlog/mozlog/formatters/errorsummary.py
+patch 351,425,

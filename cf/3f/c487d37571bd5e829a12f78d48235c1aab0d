@@ -1,0 +1,5 @@
+changeset 1a09e6c3c0a3c0109c32e49b164c7170fc3cfbe5
+manifest d781ebc2f945d39d6ddbe5ae4f5726b0bffd77db
+extra rebase_source:db75d8db16aa4358d515f885cf0f54aff5ec28fe
+files devtools/client/styleeditor/test/browser_styleeditor_fetch-from-netmonitor.js
+patch 298,372,

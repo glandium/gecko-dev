@@ -1,0 +1,5 @@
+changeset 594afa97ff78d3f2814f3710719b32b25b1640e9
+manifest ab98d05c09208c06a30564c2c28c93d89f6ba865
+extra rebase_source:98f2be697c16d170d974ded868ad99dd1d2946c8
+files mobile/android/base/java/org/mozilla/gecko/widget/FadedMultiColorTextView.java
+patch 340,414,

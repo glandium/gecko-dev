@@ -1,0 +1,5 @@
+changeset 606aa2a9d0b28592538bbf77405ac10dda993df0
+manifest 44110fce641c6281dd2998451ab810f4c89c6248
+extra moz-landing-system:lando
+files browser/extensions/formautofill/FormAutofillParent.jsm
+patch 350,394,

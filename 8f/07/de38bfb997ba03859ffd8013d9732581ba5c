@@ -1,0 +1,5 @@
+changeset b017cc976119aa9ca812a83628698cf6feebfee0
+manifest 3a7a3bfa8c2c2ffbef99edf838c77dd18da0d962
+extra moz-landing-system:lando
+files testing/xpcshell/python.ini
+patch 306,350,

@@ -1,0 +1,5 @@
+changeset f6e8b57452bfb95e9428e407529dd38f635df071
+manifest df6277697796f2c99d0195e1e88de6cef12b2b0e
+extra rebase_source:dd53d1a665a5aba8ef094ee82dffe9c6c010d3d6
+files toolkit/content/widgets/autocomplete.xml
+patch 345,419,

@@ -1,0 +1,5 @@
+changeset cc290b5855ebbf80801a08f2d57ebefed1d7eeb7
+manifest b788a3512128e6b79fde8ad5c2bcdb1efe975e48
+extra moz-landing-system:lando
+files taskcluster/ci/webrender/kind.yml
+patch 306,350,

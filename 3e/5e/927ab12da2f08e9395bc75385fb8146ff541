@@ -1,0 +1,5 @@
+changeset e0a6c4e8624c4e565341b5d77181a7bfa4a42609
+manifest df70a4401f18a56b66854bc78c71b2bd67dcfc1e
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/connect/NetworkLocationsForm.js
+patch 337,381,

@@ -1,0 +1,5 @@
+changeset 0b8b09f59546922daee91f342fbe38abbfdff56c
+manifest 2f20cd451f4b8772520c7bebc60679ea1c477c77
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_navigate.js
+patch 380,424,

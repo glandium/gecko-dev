@@ -1,0 +1,5 @@
+changeset 49cf198748e0e4b378adf7b346c691d317bc40cd
+manifest 7d0fcdb43fcf6800cecadd1bf9c9ece47949e84c
+extra moz-landing-system:lando
+files servo/components/malloc_size_of/lib.rs
+patch 526,570,

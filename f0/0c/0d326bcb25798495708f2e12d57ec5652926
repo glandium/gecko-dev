@@ -1,0 +1,5 @@
+changeset 6d2cb22d85b0f1fb3325410ca7826c76ae56fc60
+manifest a68386ae2f18fee67ab8d3299a7928bce2cce6bf
+extra rebase_source:4757d2ccf82194dda566f26ccf432bb869f4edba
+files dom/base/nsDOMClassInfo.h
+patch 269,343,

@@ -1,0 +1,5 @@
+changeset adf4bd858ab4bb43cae99e5533bb7c248f1fcaff
+manifest 9d6941d68464da8822abcb443ee449cf47f54717
+extra moz-landing-system:lando
+files browser/themes/shared/tabs.inc.css
+patch 276,320,

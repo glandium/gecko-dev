@@ -1,0 +1,5 @@
+changeset 581cfae86457f40e2df8e4fbd111199214b88324
+manifest afa419ff0bdd2248b5b988473cbe8f09d7494cba
+extra rebase_source:c54a75d50e3130d1e3029565cd44ab1ae0fec1cd
+files layout/base/nsPresContext.cpp
+patch 294,368,

@@ -1,0 +1,5 @@
+changeset fa99ada38d28fbe9a9d2535d7353b6c8fc067273
+manifest 4f0133ecb63c7dc2e89c486987b42c1713c391e2
+extra rebase_source:3618723f3650185592b2db56deec9bd55df9b5a7
+files modules/libmar/sign/nss_secutil.c
+patch 269,343,

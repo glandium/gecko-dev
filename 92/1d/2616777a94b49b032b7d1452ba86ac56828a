@@ -1,0 +1,5 @@
+changeset f89af2a368fef5eeeed6f4ec57c65e01e1695e8c
+manifest bb5411078687e727c8f2251c1cf2c72865bea4c0
+extra moz-landing-system:lando
+files docshell/test/browser/browser_search_notification.js
+patch 427,471,

@@ -1,0 +1,5 @@
+changeset 12b055f129ad379e2f20a8b51e39345428a034c0
+manifest a2e2c42c847c96167e2de611aec853791d71087a
+extra moz-landing-system:lando
+files devtools/client/framework/test/metrics/browser_metrics_inspector.ini
+patch 323,367,

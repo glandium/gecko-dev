@@ -1,0 +1,5 @@
+changeset 8397dc953ce6f5d81d9fcef5cee99d372bf29a08
+manifest 442309312ffb8918e7f64ff48613c8b79b92dcb0
+extra rebase_source:a4fd4db28ccb9b210a547b328af72c6390a038d0
+files mobile/android/thirdparty/com/leanplum/messagetemplates/BaseMessageDialog.java
+patch 520,594,

@@ -1,0 +1,5 @@
+changeset 9c33fda84724146f1eea04fc2e16b9b047009170
+manifest 669d6b4df1bcccd8fc61e475a7fc5e48049a7421
+extra moz-landing-system:lando
+files python/mozboot/mozboot/android.py
+patch 338,382,

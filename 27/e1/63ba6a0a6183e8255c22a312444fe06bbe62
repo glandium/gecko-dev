@@ -1,0 +1,4 @@
+changeset c19205f65af76eca2160873f3438561d1888ac4a
+manifest cf2b3f80decb77b5bb047c2ae0eb50e309f4f4c1
+files testing/web-platform/tests/fetch/api/headers/headers-no-cors.window.js
+patch 504,505,

@@ -1,0 +1,4 @@
+changeset e60a2cfa757e153da4da06ec3ab6cdb9dd7988a7
+manifest 58781e4b4284b614acb5ee11535f04a6a874956f
+files servo/src/components/script/dom/xmlhttprequest.rs
+patch 354,355,

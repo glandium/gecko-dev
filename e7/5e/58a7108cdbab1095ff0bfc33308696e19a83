@@ -1,0 +1,6 @@
+changeset 64fe391550637145cda7c12f8dc3441d8af47503
+manifest adf15e05c25d292e05b6859a43d00d6c1caef05d
+author Nico Grunbaum
+extra rebase_source:847b001372e6aedf59fc8f3f38b57a2a51b0f4e1
+files media/webrtc/signaling/src/mediapipeline/MediaPipeline.cpp
+patch 393,467,

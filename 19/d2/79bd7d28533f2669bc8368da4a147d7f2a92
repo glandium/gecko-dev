@@ -1,0 +1,5 @@
+changeset 908749c3b8584dcbe7d4dcccf0f4c06921eee68d
+manifest bf13b7b76ee4214bd4c08909ff65c194e0450c00
+extra rebase_source:487ed4de272f514fe1f495ed1c2ddb9c8574d0a2
+files dom/base/nsRange.cpp
+patch 510,584,

@@ -1,0 +1,5 @@
+changeset bf8468e259dce509bfe0c4cc51874a0797932e36
+manifest 041b4c4c1a4b90906f7f30561597dcac92f66282
+extra rebase_source:8ba684655c23b178ca6a80189b77dd9029a9d689
+files addon-sdk/source/lib/sdk/loader/sandbox.js
+patch 273,347,

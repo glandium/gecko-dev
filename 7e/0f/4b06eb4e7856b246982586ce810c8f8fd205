@@ -1,0 +1,5 @@
+changeset acefb73b4d6031f612aa4a9989b3184c87ab770a
+manifest 63f4f18b0261a020153b28f16a30869723dab705
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/home/RecentTabsAdapter.java
+patch 907,951,

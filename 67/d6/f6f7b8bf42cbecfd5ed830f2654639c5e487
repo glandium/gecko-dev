@@ -1,0 +1,5 @@
+changeset 48ee194df638131e93c1c26bb21eaeadf47f9c86
+manifest d14e58bc03c71b82d73a46c513b9bf3a5732f0cf
+extra rebase_source:24cdff62dde36e9c9c982557d9c95967eee87d12
+files xpfe/appshell/nsAppShellService.cpp
+patch 326,400,

@@ -1,0 +1,5 @@
+changeset f618f65de81b2bfab5fa4256c1b08ad793fa5e48
+manifest d6ec59783a2c14004cd4c42171602ec4dea0a51b
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/backend/tup.py
+patch 391,435,

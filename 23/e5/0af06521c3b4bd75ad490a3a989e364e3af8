@@ -1,0 +1,5 @@
+changeset 6344fa18f0ce42e42bfb507827e032f6f146aaf5
+manifest 1edebd111861a411807c11ec42ee92598531d696
+extra moz-landing-system:lando
+files dom/media/BackgroundVideoDecodingPermissionObserver.cpp
+patch 475,519,

@@ -1,0 +1,5 @@
+changeset d97c0342dc0dee82622cb8de573ae1408c6cf36b
+manifest b0fd93c61fba8275d5580cdd2da327df07f9868e
+extra rebase_source:0e62299bca5136f1d7b9fd75d6c79da485d5f19d
+files browser/components/places/content/menu.xml
+patch 278,352,

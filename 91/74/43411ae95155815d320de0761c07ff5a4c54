@@ -1,0 +1,5 @@
+changeset 67ed51d9245cd4945580bf8ff40ba4a93bd30c6b
+manifest ecd5f2f0c3c3885e7239624f945f3886c6f73568
+extra rebase_source:b10272f2c43a26447dd41cc5feb57d7fe039559c
+files browser/locales/search/list.json
+patch 270,344,

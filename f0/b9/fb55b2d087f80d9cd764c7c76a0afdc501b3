@@ -1,0 +1,5 @@
+changeset cb06428d3b23a3943d08086cfd427387ea400bb3
+manifest 4cf98c582b9766daafe5e8c547f0b93befbb477e
+extra moz-landing-system:lando
+files js/src/jit/CacheIR.cpp
+patch 283,327,

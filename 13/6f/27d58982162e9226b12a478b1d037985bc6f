@@ -1,0 +1,5 @@
+changeset a01015ef95323421f34bdfdf4a216fb1b32ea0c0
+manifest 19ab4dc34bd6c9e096f4875e01f0a285433f8178
+extra amend_source:0836e7f40128ca94d3b8961ad1ef4d9f21221d24
+files browser/extensions/formautofill/test/browser/browser_editAddressDialog.js
+patch 309,382,

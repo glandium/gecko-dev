@@ -1,0 +1,5 @@
+changeset 8b29651a367a0ff830bc64800752a3a6caffa484
+manifest 738f7804e2b4d88daabe6c08b468cadc56133d08
+extra rebase_source:1ac0307ffdefe8f231a7b2af8efe5eeb59abecca
+files devtools/server/actors/tab.js
+patch 299,373,

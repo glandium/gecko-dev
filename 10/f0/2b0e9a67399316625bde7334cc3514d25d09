@@ -1,0 +1,5 @@
+changeset b555966eb1bbc72279295b50efb53ac8e3f1204a
+manifest 86f2fb4fb1b1673a721663edec08260585f7a9bb
+extra rebase_source:f8f61b43362b65ce8e6d40aab8be2b7987621bf0
+files toolkit/components/extensions/schemas/web_request.json
+patch 291,365,

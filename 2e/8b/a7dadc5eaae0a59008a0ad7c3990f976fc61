@@ -1,0 +1,5 @@
+changeset fb1e5ee5c0e45a8b9adea1c40e27cdd10653f158
+manifest a299456c2ec00d49ffe7447b4ee0e63fddea1990
+extra rebase_source:2838f0f7b4a90a5ff9626b75a050de95631a9081
+files layout/base/GeckoRestyleManager.cpp
+patch 316,390,

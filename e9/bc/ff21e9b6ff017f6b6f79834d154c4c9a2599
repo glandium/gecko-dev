@@ -1,0 +1,5 @@
+changeset 39b5cf816c131724eb42a4f1b3a46b1c1be9c964
+manifest 4587088edffc0b19c50c2a31378391b9a982252f
+extra rebase_source:c5a44859b33bcf3aa96df46be2422580b03d748b
+files browser/base/content/browser-social.js
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset aa6ffa5c5b2ccbfa9fcc73605345c7d33137591a
+manifest 5d643d4488000c0ebb004cf4201deb4505f3ed22
+extra rebase_source:83c336797afe5400c98c3697316a626a7fefc27c
+files mobile/android/base/java/org/mozilla/gecko/customtabs/ActionBarPresenter.java
+patch 359,433,

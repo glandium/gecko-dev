@@ -1,0 +1,5 @@
+changeset 7b085998b0f18f96fba0c69a76da19c8e982b05c
+manifest e9a3068e9592b587ef8b919b71a5e2dd7a626efe
+extra rebase_source:6d45b0fc40a90ca141a267ec7f152a8bd6d33932
+files layout/generic/nsFrame.cpp
+patch 484,558,

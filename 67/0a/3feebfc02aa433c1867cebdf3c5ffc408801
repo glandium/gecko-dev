@@ -1,0 +1,5 @@
+changeset bec19f67b06c4d04dff0635db62a442487db34bd
+manifest 8d9d2c3880621c0a145842334688312f6e32d999
+extra rebase_source:e51207efd574babd17b2089b7e86c7586a54cb93
+files gfx/vr/ipc/VRManagerParent.cpp
+patch 300,374,

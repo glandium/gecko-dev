@@ -1,0 +1,5 @@
+changeset 03db2b65e5a6f44d053a04c38f8470c07fef8a9c
+manifest 5cc8bd2ebdef1da40e752531a458c36a2d3b5972
+extra rebase_source:6b89ef1ec5f8f6312bc00740b171540dd2a111cf
+files dom/webauthn/tests/test_webauthn_sameorigin.html
+patch 441,515,

@@ -1,0 +1,5 @@
+changeset 7886e5d9f94a783220379cd43d212e01ee47bd59
+manifest 57f3d1c2d2e3867058e1597b3eacdff3dff8d880
+extra rebase_source:84a9dec7c95ad49f6b7d5b39b9330a201f6bef89
+files mobile/android/chrome/content/aboutLogins.js
+patch 307,381,

@@ -1,0 +1,5 @@
+changeset 5c060f21f0b3bc4122ff0ad684013fa640a24a27
+manifest 816ca1a35428400f6e4ae1b5b1dfb38bd1692fdc
+extra rebase_source:11f008ca571a367a0730d0bda4f6acbb833bf211
+files toolkit/components/resistfingerprinting/tests/test_reduceprecision.cpp
+patch 316,390,

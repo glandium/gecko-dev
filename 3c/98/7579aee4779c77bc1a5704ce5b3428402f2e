@@ -1,0 +1,5 @@
+changeset a73b480ecb965462ea616dec32f6c7dab8de6f69
+manifest a455d8424376a48eb4395196c5857d6cfa3ca2f5
+extra rebase_source:a57ae63ba8b40ffa5558016f52860057bc0aecb6
+files gfx/layers/RotatedBuffer.cpp
+patch 514,588,

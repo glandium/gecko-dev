@@ -1,0 +1,5 @@
+changeset 2d4783c5bf18027bd687213ad26f3f5160da606e
+manifest 11c5ba5ce2f6800c7ea23f9c7ef1fd4f849c50ba
+extra rebase_source:7708c1e3f5bf93edcfa528cd76d75a00ce3f9452
+files toolkit/components/passwordmgr/LoginRecipes.jsm
+patch 331,405,

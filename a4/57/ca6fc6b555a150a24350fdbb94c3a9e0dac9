@@ -1,0 +1,5 @@
+changeset 66016885b0e9205da43dbbd1029f2f9980bb3b97
+manifest c2f4669803b6634e60f98776ccb63f405af588c5
+extra rebase_source:c997153da3b2a5446c5b6cedf5ad108fde6f226d
+files browser/components/extensions/test/browser/browser_ext_tabs_insertCSS.js
+patch 362,436,

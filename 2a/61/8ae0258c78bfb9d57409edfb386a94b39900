@@ -1,0 +1,4 @@
+changeset 388902bd2dd5baa4ec86de7f6bcaa1a8396b863f
+manifest dcc971bd21275bdc65f8afe8b65d0366cfe6f322
+files servo/components/style/gecko_bindings/nsstring_vendor/src/lib.rs
+patch 252,378,

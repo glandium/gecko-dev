@@ -1,0 +1,5 @@
+changeset 518dbd08c0d75abd6ab5e194c719bcf3179d487b
+manifest d13465adb73cf371c97bdfc61a8b35715804c33a
+extra moz-landing-system:lando
+files gfx/vr/gfxVRExternal.cpp
+patch 274,318,

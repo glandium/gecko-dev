@@ -1,0 +1,5 @@
+changeset 293bc5e35a4fa69c6a68f9542d3e6daa624a5926
+manifest 6f3a9b7f55e325ce73582284bc296eeee61f9af6
+extra rebase_source:039af2cc615cd3d3ad990c77e42847f1189e4625
+files xpcom/string/nsTStringObsolete.cpp
+patch 253,327,

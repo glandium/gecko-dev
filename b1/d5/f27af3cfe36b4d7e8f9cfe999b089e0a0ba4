@@ -1,0 +1,5 @@
+changeset 9ad4b5d41d6276c7c599cd0b0961464e0fdef42e
+manifest 22a59ecd341fd1f85757ede49f87b1ca5f542a55
+extra rebase_source:3f0aae443fea300e2500490797c36fe2e2a5c788
+files js/src/vm/Debugger.h
+patch 288,362,

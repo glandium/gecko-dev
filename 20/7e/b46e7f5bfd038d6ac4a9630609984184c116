@@ -1,0 +1,5 @@
+changeset f976a1df50fbb569540d347dc0413f49a2aef120
+manifest 01ed5e4cd3ff97813593b8c1016d866674a17807
+extra moz-landing-system:lando
+files testing/mozharness/scripts/desktop_l10n.py
+patch 725,769,

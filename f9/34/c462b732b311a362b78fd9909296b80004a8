@@ -1,0 +1,5 @@
+changeset 043a52623b594840fe9a4059256a746cd5c98549
+manifest f1f1c31a02448984ae739b489bb94913e00e4a29
+extra rebase_source:5997fda8caa632221d5dc02feb2e01c2d72c558f
+files testing/mozharness/scripts/release/postrelease_version_bump.py
+patch 303,377,

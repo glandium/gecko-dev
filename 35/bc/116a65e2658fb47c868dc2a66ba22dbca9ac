@@ -1,0 +1,5 @@
+changeset 19699bdcdde24c24e60e0022ecf49e6731e9d90b
+manifest c7d8188887e7cfa1daaa43feab0494d38426e571
+extra rebase_source:2063f1560503989d0ae0d3f2609e031bd06851a9
+files tools/profiler/core/platform-linux-android.cpp
+patch 312,386,

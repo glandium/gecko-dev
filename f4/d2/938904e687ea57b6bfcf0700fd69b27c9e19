@@ -1,0 +1,5 @@
+changeset a955c99532c1c7eebe7318d9b775ae5835751898
+manifest cb3dc2111c92452a572c390520d50754b61d0f90
+extra rebase_source:0f43bfbc1b998617827becd39914c2ebbd17a5ed
+files js/src/vm/Runtime.cpp
+patch 255,329,

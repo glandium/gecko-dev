@@ -1,0 +1,5 @@
+changeset 4be445fb462f114413c6a63a87a22c359546ed57
+manifest b1f60056d731f818a0a55b172d6a4ebd0b9d2636
+extra rebase_source:784fe09fadff525affb81563deb3044b5d8ca859
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/fxa/devices/TestFxAccountDeviceListUpdater.java
+patch 383,457,

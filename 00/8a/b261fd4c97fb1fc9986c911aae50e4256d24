@@ -1,0 +1,5 @@
+changeset 33011122d2d517bdb61ca149e2f0ce20dae528a2
+manifest 8a2ed1b2b386c7ff2ca2d66c02e92dee5ebe1a75
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/SafeBrowsing.jsm
+patch 474,518,

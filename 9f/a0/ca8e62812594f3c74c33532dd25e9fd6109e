@@ -1,0 +1,5 @@
+changeset 85dce49068327a4357836f8001c3c6500f1addf6
+manifest 9a53d563bf8652bbf0ce2f0cfc4dbbeb46c5eefd
+extra rebase_source:ec86cbf12c5d8b398b8ee0a775ebbe183ea4f356
+files browser/base/content/test/general/browser_web_channel.js
+patch 323,397,

@@ -1,0 +1,5 @@
+changeset 7232652c03042c62967082e9e34b95e3f7263ba2
+manifest f8c8df156f7b6efd7db4bb3a90327a1e679aa3f0
+extra rebase_source:e200e7942782ad042a6bb703f137dac71a398a21
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/HighlightsLoader.java
+patch 450,524,

@@ -1,0 +1,5 @@
+changeset b42a4a801685e9aa379c96b8741a4f03bc200da1
+manifest 8da29f8c6e60a4eea27a4dd408d71c4e4b0da69e
+extra rebase_source:325bb7d66519376858c250626cfc0cffff98a88f
+files netwerk/cache2/CacheFileInputStream.cpp
+patch 296,370,

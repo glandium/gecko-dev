@@ -1,0 +1,5 @@
+changeset fe34ea100aa32465169745a6062040aec049e920
+manifest 993ab84ffbb768aea9722e2da52fea872cb02e00
+extra rebase_source:6dc47abd27d8f66886af4cbb458b6d00e8d5c7ee
+files browser/modules/ContentObservers.js
+patch 355,429,

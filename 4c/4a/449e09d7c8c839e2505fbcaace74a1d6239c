@@ -1,0 +1,5 @@
+changeset 02dba7c62c3e1075f1d64a6ce7bce0bde0a005c6
+manifest b0a17b21e712094c6f13680364f70dd6e273a9a9
+extra amend_source:f1cf41da000c84e831ad81b67a53feb481ac83f5
+files toolkit/mozapps/extensions/test/xpcshell/test_bug587088.js
+patch 316,389,

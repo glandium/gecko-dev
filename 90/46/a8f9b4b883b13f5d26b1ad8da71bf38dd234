@@ -1,0 +1,5 @@
+changeset 44089bdc00398d1ab45759c955b346242a0201a3
+manifest c6fc1ac55b2405270a973eed35560ec321f26ec1
+extra rebase_source:9d0ed3a15d8a6170ad2353cc0dafc2d1c5bf79c7
+files testing/geckodriver/src/capabilities.rs
+patch 464,538,

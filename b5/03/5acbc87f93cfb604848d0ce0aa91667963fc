@@ -1,0 +1,5 @@
+changeset 59507e1a1b966b45233998db7b9fa5dda2388f77
+manifest d794e39a014cc7753390997f3ea92f80999db355
+extra rebase_source:ceed957e5db98c13400a6195ad937f74e0b7d7a9
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/Codec.java
+patch 499,573,

@@ -1,0 +1,5 @@
+changeset 19e3352e9f6793a8cea2a6a1abd7c62886e97d72
+manifest 2b30f925237422cc3b844ad83f7de2103f467288
+extra moz-landing-system:lando
+files browser/modules/ContentLinkHandler.jsm
+patch 528,572,

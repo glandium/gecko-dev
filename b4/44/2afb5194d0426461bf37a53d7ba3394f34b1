@@ -1,0 +1,5 @@
+changeset 7d136665061434a9286c96b23891e53172d04d0f
+manifest 18b385a8d600619cc8061a49527de8221e10f9b4
+extra rebase_source:009e8de1961cfd3d0f9cd72061e2e8f254f03cad
+files dom/smil/nsSMILAnimationController.cpp
+patch 403,477,

@@ -1,0 +1,5 @@
+changeset 60f1310f5d25386398dd3e4dcb8acabf4a43abf2
+manifest 83f23ed6fb7e15501ecf083e51a6cdda206f4465
+extra moz-landing-system:lando
+files dom/media/systemservices/video_engine/desktop_capture_impl.cc
+patch 650,694,

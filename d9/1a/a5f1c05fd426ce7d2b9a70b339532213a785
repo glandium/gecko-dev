@@ -1,0 +1,5 @@
+changeset 364a31932fe3f0be6d7c8e68aefe05f225fcdad9
+manifest c13e61ec1270c418c0996365a8cdd50d412b5949
+extra rebase_source:10c6f7bdef36c75176489d4794ce75387cfa9384
+files devtools/client/framework/test/browser_keybindings_01.js
+patch 437,511,

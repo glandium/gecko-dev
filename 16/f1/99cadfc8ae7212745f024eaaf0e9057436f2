@@ -1,0 +1,5 @@
+changeset 44455b744ee8b02c20d2c07d4b4ee4d50f3c0e77
+manifest a9d88a07a01c5c411886ab145c4ae592e8ec7b70
+extra rebase_source:108e54985938b8b8852b93b5213701e19689ee4d
+files mobile/android/app/src/main/res/layout/bookmark_edit_with_full_page.xml
+patch 537,611,

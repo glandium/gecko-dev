@@ -1,0 +1,5 @@
+changeset a85aae712956be78f256c6c05473ac4db5f51714
+manifest 3315a127dd49e09a76d670c1dd4be8b03206ff06
+extra rebase_source:4b47074f40896c68826c71ead1dea9697537e1ee
+files browser/base/content/test/general/browser_contentSearchUI.js
+patch 355,429,

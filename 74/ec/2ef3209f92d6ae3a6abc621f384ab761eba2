@@ -1,0 +1,5 @@
+changeset ded030d641a2fd955e72236a39e8df127694193a
+manifest 3c6bb8f5245e21563ab1196e701c3f3d11d5d457
+extra moz-landing-system:lando
+files devtools/client/responsive.html/setting-onboarding-tooltip.js
+patch 632,676,

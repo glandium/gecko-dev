@@ -1,0 +1,4 @@
+changeset 162ce28a585f190e245501e04f1a3766da606b4a
+manifest 6779e68c44b9f3f451e2f4225bce07d60d76c9b0
+files testing/web-platform/tests/custom-elements/perform-microtask-checkpoint-before-construction.html
+patch 604,605,

@@ -1,0 +1,5 @@
+changeset 0c0bbead5d73c4ea3db4e5178a9b27883879d744
+manifest 6dfc0e8e57b6f8e947069e2a9eb24cdded95439c
+extra rebase_source:8c062673bdb20f2886aee40d08d184917d025086
+files python/mozbuild/mozpack/chrome/manifest.py
+patch 317,391,

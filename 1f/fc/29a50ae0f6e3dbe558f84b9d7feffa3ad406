@@ -1,0 +1,5 @@
+changeset 9710f861673f2dc0bd25db1f8fc6d092f06f0e66
+manifest 27f9f687555714931c0b3a1907be252e3ca360fb
+extra rebase_source:50781f672c452e97c47d4ae07aa7f8b67a96ec50
+files python/mozboot/mozboot/bootstrap.py
+patch 339,413,

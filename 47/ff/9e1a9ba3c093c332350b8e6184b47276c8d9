@@ -1,0 +1,5 @@
+changeset 82292893549a89675e58598a5cd6a2eecc6b375f
+manifest 7b272940b16a03fdc6a58581b25002aa7ab8f7a5
+extra rebase_source:a89140271900e71376c2d77531fa0c02ce4c4176
+files toolkit/components/jsdownloads/src/DownloadIntegration.jsm
+patch 326,400,

@@ -1,0 +1,5 @@
+changeset 0c3c2fc4646b61c4634f232ef193cc45a85dd22c
+manifest d8f8619c7554fb246724fba465dca09058c60db7
+extra rebase_source:10ef82c3690a80011d21ab49b7338b9acc36a29b
+files media/webrtc/trunk/webrtc/modules/audio_coding/codecs/opus/audio_encoder_opus.cc
+patch 347,421,

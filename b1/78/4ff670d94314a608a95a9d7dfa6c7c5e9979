@@ -1,0 +1,5 @@
+changeset aed771a7311207861d125de6d90c7783963778cc
+manifest ba65d4eb6a79f27b441e2fd1073e344c593ffcf8
+author Dragana Damjanovic dd.mozilla@gmail.com
+files uriloader/prefetch/nsPrefetchService.cpp
+patch 227,228,

@@ -1,0 +1,5 @@
+changeset 7e20ccab359d5c5d7eae66544e26b8e7cc16af8b
+manifest 31cd6bb7415d53927c3e232fd27101d1625ccd9a
+extra moz-landing-system:lando
+files devtools/client/themes/webconsole.css
+patch 411,455,

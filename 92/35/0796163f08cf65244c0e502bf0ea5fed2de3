@@ -1,0 +1,5 @@
+changeset 66e8d5fb19cb0e5bb00dda9bd6d9e361ae1d44a7
+manifest 182a95baa3c5fb2983020ffd6a926217e5719762
+extra moz-landing-system:lando
+files widget/android/GeckoEditableSupport.cpp
+patch 1069,1113,

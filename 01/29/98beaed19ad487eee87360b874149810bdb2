@@ -1,0 +1,5 @@
+changeset a865260c7f9741eb5c875c32ea16f59ac19db9cb
+manifest 87fc7dbb96ac90a2d2ceb15e20ce192ebb738e42
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/GeckoLoader.java
+patch 333,377,

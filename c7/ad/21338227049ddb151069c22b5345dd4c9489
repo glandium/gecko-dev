@@ -1,0 +1,5 @@
+changeset 2f78917dbcfdfab5ef0470557c8ca98003cb5f09
+manifest 1a2f7157ace9c88c2f11135ed2218502363da90d
+extra rebase_source:1c87e01c114e50fd54f8bf93fc835bd0e58a2d68
+files storage/mozStorageService.cpp
+patch 293,367,

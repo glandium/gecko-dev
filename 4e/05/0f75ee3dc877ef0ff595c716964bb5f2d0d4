@@ -1,0 +1,5 @@
+changeset 00e3fcb6763644069394e2c0f4941a6ef0d8430e
+manifest 968043108c8cb121dd843c4a0b129a7039f318fd
+extra rebase_source:cb4e8dd6c443b7c9ae9be24f06f76e25e0f43e1a
+files devtools/shared/client/root-client.js
+patch 540,614,

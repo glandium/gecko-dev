@@ -1,0 +1,5 @@
+changeset a8ec93d4b848fa03c678e79ac23f91b8501e3417
+manifest 1e8a125079f5225a1d08a7bfe9932de4fa1d1f64
+extra moz-landing-system:lando
+files browser/base/content/test/general/contextmenu_common.js
+patch 365,409,

@@ -1,0 +1,5 @@
+changeset 015f31e71d70ff2ffe14b14a0d8c07fc2f13b767
+manifest 0c023c8d7ee825f8cc494594cc9e860652bd672b
+extra rebase_source:9feff09ef0305e67b3580c6260740ccdbfa699c4
+files tools/lint/eslint/eslint-plugin-mozilla/tests/no-cpows-in-tests.js
+patch 341,415,

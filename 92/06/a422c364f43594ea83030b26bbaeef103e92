@@ -1,0 +1,4 @@
+changeset 44cb8693cb49517db91ab19621dd5fff234f64eb
+manifest 60b245a9e2ac1c08c9c6f9c046ea8c844e1c931c
+files python/mozbuild/mozbuild/action/xpidl-process.py
+patch 504,505,

@@ -1,0 +1,5 @@
+changeset 7a1ac5e2c00cb4dd4e3f6d54b859c7f49e15699a
+manifest f1ff4423f21686338c75811b426b02fa80ad9a97
+extra moz-landing-system:lando
+files toolkit/content/widgets/findbar.js
+patch 467,511,

@@ -1,0 +1,5 @@
+changeset 79e040625d0d9c2f74e97d3b75980072f7b6bb24
+manifest d3c53f56d2373c35d1d92b07642c3afcb6771bc6
+extra rebase_source:c7c7ad935358ad50d4fbb93b95ee824f5f8b5a5d
+files devtools/client/webaudioeditor/controller.js
+patch 338,412,

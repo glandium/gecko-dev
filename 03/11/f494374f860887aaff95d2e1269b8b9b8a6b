@@ -1,0 +1,5 @@
+changeset c027b2bb07344e664ba8c9f77e11740a246bebe6
+manifest da5881211a1738e0dbd44554ec93500e2b5bfb28
+extra rebase_source:da0d451422e4733e5a6ab8a4558150197f08c253
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/synchronizer/RecordsChannel.java
+patch 372,446,

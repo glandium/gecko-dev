@@ -1,0 +1,5 @@
+changeset 0833d96f563a736de407f4960643c367611f41b8
+manifest 3f39c2178df87fbd56359a764cdd77ac2eaa337f
+extra moz-landing-system:lando
+files js/src/vm/Interpreter.cpp
+patch 358,402,

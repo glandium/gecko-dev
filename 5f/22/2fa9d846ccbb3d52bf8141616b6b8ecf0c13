@@ -1,0 +1,5 @@
+changeset 814414676c2507f5adb6bd483a4f510a35977ad2
+manifest 08949bdeb559c6aa73f49a820359eeac9e862390
+extra moz-landing-system:lando
+files dom/base/test/test_warning_for_blocked_cross_site_request.html
+patch 372,416,

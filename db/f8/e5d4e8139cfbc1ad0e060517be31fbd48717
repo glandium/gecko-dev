@@ -1,0 +1,5 @@
+changeset ca5eb1d22bf62ac90724926f73308ecd7285ec1d
+manifest f66546fadeb8933ea682b6c745743b6f6d365d93
+extra rebase_source:cda2ab4305cb786cf78d9fc59c9076a0efe620a2
+files toolkit/components/telemetry/docs/collection/hybrid-content.rst
+patch 344,418,

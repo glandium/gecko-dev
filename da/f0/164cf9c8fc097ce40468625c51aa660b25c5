@@ -1,0 +1,5 @@
+changeset 4e7837d88d8b5621087ff8b8ccc5735e4baec16b
+manifest 13074eb307647b42dc572f3f3f23104b151b94d6
+extra rebase_source:080a1dec4678dbd243be7cc027b5d22e05af49f1
+files browser/components/places/tests/browser/browser_library_batch_delete.js
+patch 350,424,

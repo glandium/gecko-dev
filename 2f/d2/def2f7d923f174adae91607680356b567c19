@@ -1,0 +1,5 @@
+changeset ff2df6d75dd4ed98f6b29cb84f447c5abba63b68
+manifest df45276f0f25e056d41c159557b508efc47648c7
+extra moz-landing-system:lando
+files browser/components/payments/res/components/currency-amount.js
+patch 401,445,

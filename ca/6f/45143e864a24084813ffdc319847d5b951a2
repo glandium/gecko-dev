@@ -1,0 +1,5 @@
+changeset 8c7f77a84166365dfb913da945a01b037b0f93c7
+manifest 4b420a2c2dcf1122b488f6e82da79a459c95e02f
+extra rebase_source:0c1bff428225a78a30c83187c455277372efe7e5
+files browser/components/sessionstore/SessionCookies.jsm
+patch 727,801,

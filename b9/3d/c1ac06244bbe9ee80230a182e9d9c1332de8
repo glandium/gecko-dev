@@ -1,0 +1,5 @@
+changeset 98c37813cf5dd826ca4a4d194a3f4f3db7910c62
+manifest 84627ee0cb1c328186131213d55034b5c5213358
+extra rebase_source:ff8c80ce33b9c2afe39b396c067fc40d23530f5d
+files layout/mathml/nsMathMLFrame.cpp
+patch 228,302,

@@ -1,0 +1,5 @@
+changeset fee0a53015fbc579d68f621111cf9883e1d7b5b0
+manifest d0aac794853895a90d79234fb25e50a7fde2d456
+extra moz-landing-system:lando
+files browser/base/content/aboutNetError.js
+patch 340,384,

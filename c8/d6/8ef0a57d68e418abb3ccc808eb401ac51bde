@@ -1,0 +1,5 @@
+changeset cb68333457ad2448fbf1bc3fcb1abb30b4980fe2
+manifest fdcfa9279d8bd7fec68a4970e29c09d877f4cf9c
+extra rebase_source:dc560a8adc243018615473e301560997925256bd
+files browser/extensions/mortar/host/common/ppapi-runtime.jsm
+patch 275,349,

@@ -1,0 +1,5 @@
+changeset e7a8cd3a2eba6bdbbb054a1f6564c32f4e66054e
+manifest 7d2936411a8db2a40e782996870c69cd311ab0e3
+extra rebase_source:15f0edde92544a7849e97ad08fb1fce844a05cac
+files layout/style/nsAnimationManager.cpp
+patch 357,431,

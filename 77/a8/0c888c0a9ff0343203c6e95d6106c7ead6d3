@@ -1,0 +1,5 @@
+changeset 271eb6988c586ce2f460768be1680ce904fc1e26
+manifest 7e65e795f452f731ba8bb936910e7b3bace916d8
+extra moz-landing-system:lando
+files devtools/shared/adb/commands/track-devices.js
+patch 334,378,

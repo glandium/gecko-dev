@@ -1,0 +1,5 @@
+changeset cf6b85c31fd599ddc78592ff90d9a3569e713502
+manifest c33cc929f0b63a3f51152adc4ee0c2343e3e2d47
+extra rebase_source:6b63ad187df9f1591e30397e017c69277d014697
+files tools/profiler/core/GeckoSampler.cpp
+patch 238,312,

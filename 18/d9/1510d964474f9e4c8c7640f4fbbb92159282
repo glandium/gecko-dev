@@ -1,0 +1,5 @@
+changeset 73618b0b53b940cffdcce690e18c9c33dd0da562
+manifest 9f43fbf98a98cee238d3eebd448d5d77198e8308
+extra rebase_source:3768f50b20d208f5d9bb5724194fcdc2927a873c
+files devtools/client/shared/components/menu/MenuItem.js
+patch 353,427,

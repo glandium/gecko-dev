@@ -1,0 +1,5 @@
+changeset 69ef6d0839598d79e02398a745df0799022aae59
+manifest abb0ff6953ef2199fbfd295ea8600bcc4cdd7a29
+extra rebase_source:810e0c072c2effb6eb1f3e3c3baef5dde69eee86
+files xpcom/io/nsDirectoryServiceDefs.h
+patch 235,309,

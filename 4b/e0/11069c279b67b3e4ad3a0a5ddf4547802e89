@@ -1,0 +1,4 @@
+changeset 68e27d43311b158a4e44bd4a1eafc0a81bf6e77f
+manifest 0c328703e42039ebb97167bf721a7b8ebf472241
+files devtools/client/webconsole/test/mochitest/browser_jsterm_await_paused.js
+patch 308,309,

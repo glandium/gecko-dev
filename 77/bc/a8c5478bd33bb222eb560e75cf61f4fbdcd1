@@ -1,0 +1,5 @@
+changeset 6e63f290b631cc9883059f3896fa88386c95b246
+manifest ee4ab39b14a06eb7f8ff38c1e2d8c5efe17cb148
+extra rebase_source:5e884830eaf1004e98ec1f6bca923fc4c84d1068
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/stage/FetchInfoConfigurationStage.java
+patch 361,435,

@@ -1,0 +1,5 @@
+changeset 868bd92df11a52d4f6732f8fc6afeb2a36b6313c
+manifest 7f38c7deaf4c9801a672adf1109197bc24811cf2
+extra rebase_source:3d5ee4b5e528ad4c56f99815970aa2f915c6a397
+files layout/style/CSSVariableImageTable.h
+patch 267,341,

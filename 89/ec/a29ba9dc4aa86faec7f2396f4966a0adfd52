@@ -1,0 +1,5 @@
+changeset fbe6ee09264515f2274b85a77ae5851210e6ccdc
+manifest 3927957b558cf3434bc78d9aea2ca965d97ce226
+extra moz-landing-system:lando
+files devtools/client/webconsole/webconsole-connection-proxy.js
+patch 346,390,

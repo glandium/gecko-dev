@@ -1,0 +1,5 @@
+changeset 247936437060b0139fffbf827305c1e16c2df2cc
+manifest 490815a7243191c64452cea0e57ee5147c11ee6f
+extra moz-landing-system:lando
+files browser/components/migration/tests/marionette/test_refresh_firefox.py
+patch 463,507,

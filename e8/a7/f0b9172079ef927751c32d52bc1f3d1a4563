@@ -1,0 +1,5 @@
+changeset 6ffbddf32df55a99e7e7a4c0b137bd15f6713007
+manifest 57b5bb54cefdb8611494a911189a405faa0df079
+extra rebase_source:077684b197d23f9893048c977f1d3ca2e97b5136
+files netwerk/base/rust-helper/src/lib.rs
+patch 337,411,

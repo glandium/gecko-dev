@@ -1,0 +1,5 @@
+changeset 2885667acedbfaa2ce362128ca8fd2c45ea08ade
+manifest 600486c2b0055d236081d2154a04ddaf26b35d68
+extra amend_source:1fa43b15c46f36d99ffc17e750d25d6c937486ee
+files browser/components/preferences/in-content/extensionControlled.js
+patch 279,352,

@@ -1,0 +1,5 @@
+changeset 53abc33e3e38ea49862e20af8974bb5f8a17f439
+manifest 77b3f9157d0a74c45075df208e8b0659d138d40b
+extra moz-landing-system:lando
+files browser/base/content/test/urlbar/browser_urlbarSearchSuggestions_opt-out.js
+patch 381,425,

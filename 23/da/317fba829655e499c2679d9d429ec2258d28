@@ -1,0 +1,5 @@
+changeset b46dad596df40ddcaee8153e4501bb5649d819e7
+manifest 6866293273b824637a77ba7669ca997fde8f5a0c
+extra rebase_source:7c63a1f9eb94925ce9e6b924910876aa6ffab46b
+files devtools/client/framework/components/toolbox-toolbar.js
+patch 302,376,

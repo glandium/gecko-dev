@@ -1,0 +1,5 @@
+changeset c46606ac60c8ce5a07798aa63e4717f54cc14e5e
+manifest a93aeb0c12c4d30f42bb10d3f90add4d08bb2a6a
+extra rebase_source:dc7d162f2d56988a24393d53efed8b45323f0e02
+files testing/mozharness/configs/builds/releng_sub_android_configs/64_api_15_gradle_dependencies.py
+patch 489,563,

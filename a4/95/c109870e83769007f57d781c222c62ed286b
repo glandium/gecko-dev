@@ -1,0 +1,4 @@
+changeset a21fe3bd833d9bf2cb5bcdcd20235ce4739eb9f4
+manifest 88b2750ad8c6dbf910dfb0d84417d91484bcd45c
+files taskcluster/docker/funsize-update-generator/runme.sh
+patch 200,201,

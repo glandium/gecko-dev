@@ -1,0 +1,5 @@
+changeset 9219c67624a1081cb6b521dc2087a534f0a4e4a7
+manifest 7532c8bb575d6ec6dc449f29dad4ed4d494d0ab9
+extra rebase_source:22963e348ad9b937e8734b864aa2836ccd2cf6db
+files testing/talos/talos/tests/devtools/addon/content/damp.js
+patch 288,362,

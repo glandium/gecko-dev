@@ -1,0 +1,5 @@
+changeset 9697308cfe0008833329e2c20851854c0ff8a113
+manifest f82445224f3669f34502b4f6aaf83659745676ae
+extra moz-landing-system:lando
+files gfx/graphite2/src/moz.build
+patch 641,685,

@@ -1,0 +1,5 @@
+changeset 991e8f1b7a0a3ef1c6891ff96f840d30aa7f10bc
+manifest 3630b1608ec45c8c945732304b1af7a4556b7117
+extra rebase_source:d50a62faf8b600bb6017a1ae1cb528f27fd76aea
+files python/mozboot/mozboot/openbsd.py
+patch 297,371,

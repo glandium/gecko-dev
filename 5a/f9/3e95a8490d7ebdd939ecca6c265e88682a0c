@@ -1,0 +1,5 @@
+changeset 8351809213871b096cbaa82915c8568dccb56cbf
+manifest c38e956d06ba6bb325a4c4bf9610fbc8135ed363
+extra rebase_source:461066e576af87b27c82075a15d6b5772282b54c
+files media/webrtc/trunk/webrtc/base/platform_thread.cc
+patch 536,610,

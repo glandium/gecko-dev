@@ -1,0 +1,5 @@
+changeset c0c1dea29b1728bc69f13dd4cf0f2eb9756f29bf
+manifest ed5d03c910a02d3cb5ca90a6c5b7894a83e52216
+extra rebase_source:fb3df5208f1039ece071b500786a90b393f4365c
+files dom/base/test/test_intersectionobservers.html
+patch 420,494,

@@ -1,0 +1,5 @@
+changeset 7fb2a2562a8bf820f0969385477df99e19aceb8e
+manifest 6d21161f6335b13e724e437605ff7d492f10ce84
+extra rebase_source:501ff746ecfb3022a0fe89844e307153bfdb5164
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/synchronizer/SynchronizerSession.java
+patch 636,710,

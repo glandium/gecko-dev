@@ -1,0 +1,5 @@
+changeset 0ecff791a04f5277d8445e1876dcb6d43d314981
+manifest 2203470afcea04cd4ecbc088c9042160bf8cb7c4
+extra rebase_source:19bc7673818ac49ceb47958bcf7e654a02fabbdb
+files browser/components/sessionstore/test/browser_500328.js
+patch 294,368,

@@ -1,0 +1,5 @@
+changeset d94508124715f39a2e3f7a13aae12a12bf311855
+manifest 5f7970d2fe9b9f59922dc84adfdc08e68ab03f09
+extra rebase_source:4315164cc3f65269ac1d94061c416d5796adc0b5
+files browser/extensions/clicktoplay-rollout/bootstrap.js
+patch 374,448,

@@ -1,0 +1,5 @@
+changeset a13174ac2d9586ea4d7d0ea56d815c25e940f95a
+manifest 2ef9488a6000150ec39e97d6902927de4d576468
+extra rebase_source:27969faff9e8827e23ff570addfde5c06fb57c97
+files devtools/client/inspector/inspector.js
+patch 500,574,

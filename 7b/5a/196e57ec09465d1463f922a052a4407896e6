@@ -1,0 +1,5 @@
+changeset 027247e0a84da133497de7bde47b6c743efdf4d3
+manifest 7078681e1a7f0d0d540844cfdd0f47b89cc20d7f
+extra rebase_source:5ae34e2b116e3e1ec4588711caa3c091a10d4605
+files toolkit/mozapps/extensions/test/xpcshell/test_temporary.js
+patch 340,414,

@@ -1,0 +1,4 @@
+changeset 2edbc412d57046164b980185216795b586f80dd0
+manifest 6242fa086c0340295aa4b3252d42543620c10f23
+files servo/src/components/main/compositing/resize_rate_limiter.rs
+patch 432,433,

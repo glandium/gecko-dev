@@ -1,0 +1,5 @@
+changeset 74f5b6977fbe159d5d4ee7e4fd94a15d496ee325
+manifest 4efb62ef2303e1c01c0a0483e2dd34e759c7f623
+extra rebase_source:bef84833438aa425a154bdf89cfa61dda7d8651d
+files mobile/android/base/java/org/mozilla/gecko/webapps/WebAppActivity.java
+patch 506,580,

@@ -1,0 +1,5 @@
+changeset e44a152c9f9f2859751dd43dc6ac057f643b70d0
+manifest 9e52b03e6f7c77c2a881c8ff8f5e14830906926e
+extra moz-landing-system:lando
+files js/src/devtools/automation/variants/tsan
+patch 300,344,

@@ -1,0 +1,5 @@
+changeset 3859ee4382cf89c5ab354ce4e495fd19af9ffc58
+manifest 1554a2e8854a6feab7b35d78451e20fec7125cdc
+extra moz-landing-system:lando
+files browser/components/urlbar/tests/browser/browser.ini
+patch 314,358,

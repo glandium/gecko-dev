@@ -1,0 +1,5 @@
+changeset 9add1776dcaadb36560ba043adb5b77c9bab912b
+manifest 6a310cc1b086b3de0cb9939936e6b5f678bcc280
+extra histedit_source:776ac2b5517f3bbf79847d019abd16b6c53cf729
+files tools/tryselect/selectors/coverage.py
+patch 276,352,

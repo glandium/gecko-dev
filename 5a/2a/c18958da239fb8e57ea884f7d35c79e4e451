@@ -1,0 +1,5 @@
+changeset ac4865fb95b653beec535919cd16543bbdfbf61d
+manifest bae917e9c05a2fe57bb5c101cab7018288237757
+extra rebase_source:c3c96d9cc0d43b98142e5a3bb0f8b20312b33555
+files toolkit/components/extensions/ext-identity.js
+patch 323,397,

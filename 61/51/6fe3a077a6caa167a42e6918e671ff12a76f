@@ -1,0 +1,5 @@
+changeset dd7aafba79b287a27baa93be20dd688340967446
+manifest a98c54589ba64d35bbecfd196edbb933ab5f47b8
+extra rebase_source:4b7a4f70c3b38f38928bfa7d10b6362ac2cc3ed6
+files tools/profiler/core/platform.cpp
+patch 364,438,

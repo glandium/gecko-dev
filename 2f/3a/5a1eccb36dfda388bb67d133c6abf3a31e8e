@@ -1,0 +1,5 @@
+changeset bfb1e23872cc2b88bab9f929e0ecf7b102e15614
+manifest 323b943bdd25cde56315ee5a734e5ce551ea96c0
+extra moz-landing-system:lando
+files toolkit/components/cleardata/ServiceWorkerCleanUp.jsm
+patch 377,421,

@@ -1,0 +1,5 @@
+changeset e7214a50fe6cfc8c1341c99598ac7d50b875a713
+manifest 7c36d0981bbe123c19d887e82d8e164d19b2710b
+extra rebase_source:9e151ded3b2b72207bb0a2d0475f98ec77848f00
+files hal/windows/WindowsBattery.cpp
+patch 276,350,

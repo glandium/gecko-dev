@@ -1,0 +1,5 @@
+changeset e32b2ae55a320dceb9a0ad84a6052f1286c74e89
+manifest 341dea42dd388d942a7c84ba59efb33e442939c7
+extra rebase_source:b45a21b7c03436acb55d20a6609228922bc857af
+files dom/base/nsGkAtomList.h
+patch 258,332,

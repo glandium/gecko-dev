@@ -1,0 +1,5 @@
+changeset 17a1195583aadff908496e3a1448f4cd6e57089f
+manifest 0e923ec98c73d3e10a47b9f59c4a7a43ecc4fa91
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/AccessibilityTest.kt
+patch 411,455,

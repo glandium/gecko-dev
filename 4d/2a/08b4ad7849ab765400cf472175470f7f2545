@@ -1,0 +1,5 @@
+changeset de51994befaf203355ce845590ec899000be46dc
+manifest 66888e58df89e3160160a43aeeaabc9c07ca68e0
+extra rebase_source:a27f6230c4d2daaa547e6fede24ba0c9ef55bfc0
+files testing/mozbase/mozlog/mozlog/formatters/tbplformatter.py
+patch 505,579,

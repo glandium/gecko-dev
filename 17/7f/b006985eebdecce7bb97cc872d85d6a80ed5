@@ -1,0 +1,5 @@
+changeset b0d5f304e740f0dcd1516d78270f5d731cf4a054
+manifest 09ac77366f757bb4eb1727c0430e659fb05f51a6
+extra rebase_source:5cdaf6712d3b6a248b22c08e7db5530aeea67658
+files devtools/client/sourceeditor/codemirror/mozilla.css
+patch 342,416,

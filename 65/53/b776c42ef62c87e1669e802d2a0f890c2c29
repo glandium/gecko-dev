@@ -1,0 +1,5 @@
+changeset 35a6ec627a8dfe4d8106135a5607ffda86c4a3ce
+manifest 0fca856de70c6822b6a1e7ae62c77d10f89a25dd
+extra rebase_source:f2c3f628d035bc47536598a144e129304e484531
+files gfx/vr/gfxVROpenVR.cpp
+patch 283,357,

@@ -1,0 +1,5 @@
+changeset 60cafc046dec5a4aa1ad4ae4f7625b43a2d9fb7f
+manifest 16ed030af849e1c8ff294889d1505a36bbded3ed
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/updater/UpdateServiceHelper.java
+patch 337,381,

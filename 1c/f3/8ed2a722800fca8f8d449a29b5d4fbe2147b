@@ -1,0 +1,5 @@
+changeset debcd27d24765706f170374c4e5ab6f7f082537d
+manifest 68fcdf4e5106383e255b934d85c3a1d17d7cb724
+extra rebase_source:b92b9324c9987f60cbc9add7748feef858301985
+files mobile/android/modules/geckoview/GeckoViewUtils.jsm
+patch 451,525,

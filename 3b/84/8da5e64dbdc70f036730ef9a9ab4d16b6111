@@ -1,0 +1,5 @@
+changeset eeddd827762d17b290ffe65d17baf6196477f488
+manifest 2e4c23676945d1e290e35ebf1e787382384c812a
+extra moz-landing-system:lando
+files devtools/client/inspector/rules/test/browser_rules_cycle-color.js
+patch 376,420,

@@ -1,0 +1,5 @@
+changeset 4ad2150e73c0b19f1f6264a4b9ad6927986d43ce
+manifest 8af1b3317faa2ff387e95adc11a00503c4849876
+extra rebase_source:5ab46c85c58da785fe4ae31ed84da58698cc47fa
+files browser/components/customizableui/test/browser_panelUINotifications_fullscreen_noAutoHideToolbar.js
+patch 428,502,

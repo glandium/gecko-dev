@@ -1,0 +1,5 @@
+changeset 1ed80c7a5ce9a2c6e08abac699d09b52898e848b
+manifest df17b1ec2de7c08fee033f0ec1516266fd5455f2
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/mocks/head-client-wrapper-mock.js
+patch 348,392,

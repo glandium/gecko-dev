@@ -1,0 +1,4 @@
+changeset dc7caa85ff1da9d4308c9d77571fae9b5fc74b07
+manifest 6081541b59413d5aae8bddbe0a6caf3c76cab742
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/NavigationDelegateTest.kt
+patch 342,343,

@@ -1,0 +1,5 @@
+changeset c58e3a20c6f151a1f45c593bf0b342cd9262d98c
+manifest 767bfb6d1da2fc8341622edc074add2e2fe2e67a
+extra rebase_source:c168d684c5de603217b33d7685f7101da1a36604
+files toolkit/components/autocomplete/nsAutoCompleteController.cpp
+patch 340,414,

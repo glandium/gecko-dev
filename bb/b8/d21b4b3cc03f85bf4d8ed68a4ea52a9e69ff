@@ -1,0 +1,5 @@
+changeset 40332638e058ec65f8c1f71535988d5bb5dba1b5
+manifest aec8683a94ebef104972788818024d328769652b
+extra moz-landing-system:lando
+files browser/base/content/sanitizeDialog.js
+patch 330,374,

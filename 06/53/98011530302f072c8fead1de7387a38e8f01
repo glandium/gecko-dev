@@ -1,0 +1,5 @@
+changeset 50877116db1a8c610c77f77529178a0284d8fb47
+manifest 96264a0e1101134790268ad758676137f5ab8403
+extra rebase_source:23ec6f4a3fcfef987338d192577bd8cf3c0dbcba
+files dom/base/nsWindowSizes.h
+patch 304,378,

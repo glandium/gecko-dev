@@ -1,0 +1,5 @@
+changeset 2560a150250d769e02fa843d4f254e347dba11ff
+manifest 02d83199f427f62198a4e4e2d1bb98c7f4f3b6fa
+extra rebase_source:43d3459ecd71bc47208584c49ebb63f2ad84894d
+files layout/style/nsCSSCounterStyleRule.cpp
+patch 314,388,

@@ -1,0 +1,5 @@
+changeset 0bce1e5b252a300d14ee22b408f76574c01553cd
+manifest be8eb1c85898be14db21ab32f8de81880946d5b0
+extra rebase_source:43bcec23f460ab004073cea7e4891aea011674be
+files widget/windows/JumpListBuilder.cpp
+patch 288,362,

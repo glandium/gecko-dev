@@ -1,0 +1,5 @@
+changeset 37fb46976e18e8ef7f7aa96528f72eaf8bdd14c0
+manifest 67a1ea08a107d32e341884fa45f5cfa0fb549f0c
+extra rebase_source:23b3a45a9b2ed92bc01e828f5ea5e1e14a1503b0
+files testing/talos/talos/pageloader/chrome/lh_hero.js
+patch 285,359,

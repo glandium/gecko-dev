@@ -1,0 +1,5 @@
+changeset c09b561dd202506bce242bd74693415778427271
+manifest 8c94db8d68538191cbcd0c9f6c5bd6f5802cbf29
+extra rebase_source:a6722cd4add5d3a55f5da8f8f12ea779d8c2d628
+files dom/canvas/test/test_2d.fill.pattern.imageSmoothingEnabled.html
+patch 340,414,

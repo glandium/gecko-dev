@@ -1,0 +1,5 @@
+changeset 6a3dbb1faf0498a391635626cb44f9f3abafe3e0
+manifest 4d9b9893e8da553064e882fc33139c732deacb1f
+extra moz-landing-system:lando
+files xpcom/threads/MozPromise.h
+patch 287,331,

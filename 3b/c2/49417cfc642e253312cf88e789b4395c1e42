@@ -1,0 +1,5 @@
+changeset 62629d511c745ad7d88eea830e352d0c47fe576e
+manifest f183d12d16b6260b7e8fafbfd6b2270680f3a6d7
+extra rebase_source:ebd736ec7410f7c751eb80f797c832ce030dacc5
+files browser/themes/osx/places/places.css
+patch 317,391,

@@ -1,0 +1,5 @@
+changeset 86d2f7875bcc4eb809665bf2f921377f62149742
+manifest 9225c63fef4f5ffff19f8bde99aa6611cc887aec
+extra rebase_source:200ca7847a758e60d1b1de77ab0c5c4acfe886ab
+files layout/generic/nsImageFrame.cpp
+patch 318,392,

@@ -1,0 +1,5 @@
+changeset 0e06b22dfa60d6ccde74ea09293b60036094d294
+manifest 7c6b040654f7fb05455dfba50a0fc956a7e01a30
+extra rebase_source:8bd4f7784f9434ba168c3394cfd7610cb0f6c2fb
+files widget/cocoa/nsDragService.mm
+patch 297,371,

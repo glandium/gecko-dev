@@ -1,0 +1,5 @@
+changeset 6dea98f4fbc27f19c3ab909bf9976b566236df1e
+manifest 46f741593ab655a77cc69da9a81a9dea52553e3a
+extra rebase_source:92530c9efd7cdaaf50fba56d423532546059f37e
+files xpcom/threads/MozPromise.h
+patch 292,366,

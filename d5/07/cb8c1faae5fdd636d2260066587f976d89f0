@@ -1,0 +1,5 @@
+changeset 087715c3ea18040d86ca0545f3f64f215cc809a9
+manifest 0a1c11919d871f6c95ce9bcb47df04ed21c20b6e
+extra moz-landing-system:lando
+files js/src/builtin/Stream.cpp
+patch 311,355,

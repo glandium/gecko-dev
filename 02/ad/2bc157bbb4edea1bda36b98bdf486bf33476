@@ -1,0 +1,5 @@
+changeset fe85732c14da164231e9ae3889b0f5a5ba5dc3ff
+manifest a7360134c140c59b894391e1da02724546f1fb97
+extra rebase_source:dddb4757d753a8a9651f8230d2f14b07774543e0
+files testing/web-platform/tests/http/resources/securedimage.py
+patch 453,527,

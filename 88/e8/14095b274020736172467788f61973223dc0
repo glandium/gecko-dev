@@ -1,0 +1,5 @@
+changeset 373c9a71d9451498462594b302b4fe2648431fef
+manifest 9a1cf483f7bd02357a1b032bcf02c33557ce3b49
+extra rebase_source:3b26f65d455c049b6190a9c481f8a4bec4e06dfd
+files mobile/android/app/src/test/java/org/mozilla/gecko/icons/preparation/TestLookupIconUrl.java
+patch 562,636,

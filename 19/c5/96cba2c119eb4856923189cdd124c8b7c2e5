@@ -1,0 +1,5 @@
+changeset 58671e4ff465454f4998d3648cd04b7b1d7ede3e
+manifest 689f0d5bce1942a6f0744ea3ccab96631b5df0a1
+extra rebase_source:33a02db3d33f853f0680083a07fdeec55ce794a0
+files browser/base/content/browser-feeds.js
+patch 257,331,

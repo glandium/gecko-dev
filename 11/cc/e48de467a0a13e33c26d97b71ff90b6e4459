@@ -1,0 +1,5 @@
+changeset 01a46abce8fa48d11860f928e44b46d1e90eaae8
+manifest 29c1aeafadbf00a32608c13c6c3311bbd62ebb8b
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/mochitest/test_ext_async_clipboard.html
+patch 355,399,

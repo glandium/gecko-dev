@@ -1,0 +1,5 @@
+changeset a628b2125a1b860c6d8124387040ec9589c219ab
+manifest 43792bc96cbc17f9f9362d39b420834f942db2c9
+extra rebase_source:1afdf8a54ae5dab645e67bde62e219ee838dea84
+files media/libvpx/libvpx/vp9/encoder/x86/vp9_quantize_ssse3_x86_64.asm
+patch 292,366,

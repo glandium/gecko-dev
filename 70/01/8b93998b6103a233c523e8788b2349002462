@@ -1,0 +1,5 @@
+changeset de8d389998d33716e5c4a5f8a5a161f733373cfe
+manifest 83672283ba17635628b5083e85afe3fdecb8bab1
+extra rebase_source:b4a4b088dfe3a1d08cc1600c04da5dc65e484807
+files mfbt/double-conversion/update.sh
+patch 323,397,

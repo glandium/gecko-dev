@@ -1,0 +1,5 @@
+changeset ff4b9d0d9216094485af3be7e35c0443b2ee9d65
+manifest 83c9728b5d9fe86e831cd6f51e9e4935533dc769
+extra rebase_source:f3d8e38a7554780c3dc8224c78791e1d40a3011d
+files devtools/client/inspector/animation/test/browser_animation_summary-graph_compositor.js
+patch 340,414,

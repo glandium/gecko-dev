@@ -1,0 +1,5 @@
+changeset 18f2ea8c2a1978a36ed6b3124f9ce213da7726dc
+manifest f26556b8493f41c93a395687557b7d24e0feebf0
+extra rebase_source:aa979192a153c4d32f5da8fd1927591fb1cbc262
+files devtools/server/actors/targets/browsing-context.js
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset 9e6e2f78eabeeca21f60ad0058119975bd984e90
+manifest 4c5b19a0dc33109a0ec17f83d62e729d5ca3e198
+extra amend_source:2511cf172c7c871d6b97a7fc9abb8dd8562796ea
+files js/src/devtools/automation/cgc-jstests-slow.txt
+patch 586,659,

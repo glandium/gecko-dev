@@ -1,0 +1,5 @@
+changeset e88dc0afdbc92b0c92f67d4c78a6d2d04e568fcb
+manifest 08c65971f3c5ab4e671237effb180aa4b1595b0d
+extra rebase_source:1cf9fba47c5276c3606b886c63ff0a7d84ebb4c0
+files layout/xul/BoxObject.cpp
+patch 251,325,

@@ -1,0 +1,5 @@
+changeset 19f6e9eca436f476b0faded8e623e4eef490b2d3
+manifest c872f63425c7854d6ad84ed6c117cbf179cd53a2
+extra rebase_source:eef2ce3a964766a193e7c40bbea97ea078f0056a
+files mobile/android/app/src/photon/res/values/dimens.xml
+patch 374,448,

@@ -1,0 +1,5 @@
+changeset d31fed4e4997b4699b15ed62490f368ef8f32ce1
+manifest 059abab12bf64220fb9e7fb3d4626d3f3d12100e
+extra moz-landing-system:lando
+files toolkit/content/aboutTelemetry.js
+patch 314,358,

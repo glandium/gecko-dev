@@ -1,0 +1,5 @@
+changeset 610d28f29e34288cf1019673d49860f394a248d0
+manifest 1f105645a0b20faf06c800b01c990ed3d5057432
+extra rebase_source:69bc849a48db649bf4f4786456464d3556a903d7
+files devtools/shared/adb/test/adb.py
+patch 563,637,

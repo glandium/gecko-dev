@@ -1,0 +1,5 @@
+changeset 66ed28ca0a0616756dfe8f587d4bb1dfd84e845a
+manifest ed955520b78934fe91b9da568a8646373cbbaa6c
+extra moz-landing-system:lando
+files js/src/vm/BytecodeUtil.cpp
+patch 399,443,

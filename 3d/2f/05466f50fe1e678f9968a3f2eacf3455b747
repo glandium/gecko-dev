@@ -1,0 +1,5 @@
+changeset 12ce39084c542837a40aaddbc804cd171ce71a44
+manifest 1e4d1a5476824ed09364a75e703a44e4783e5048
+extra moz-landing-system:lando
+files dom/base/ContentBlockingLog.h
+patch 379,423,

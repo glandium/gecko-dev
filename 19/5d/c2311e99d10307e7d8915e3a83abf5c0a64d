@@ -1,0 +1,5 @@
+changeset 95a364ae6de16ba2ee8135d322fb0376ac76fb25
+manifest 788b352632f7718383ca8d3a92ed8ed6479b8d7f
+extra rebase_source:f70a9a69d8ddba3d60bd09300752d0f41a4c7cac
+files toolkit/toolkit.mozbuild
+patch 496,570,

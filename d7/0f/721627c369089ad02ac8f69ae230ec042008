@@ -1,0 +1,5 @@
+changeset 70996d85e8beb2a4053f0938da90b55354e2ef5a
+manifest a36ef3d5992a4480a2c5fb7727b132ed91354492
+extra moz-landing-system:lando
+files docshell/base/nsDocShell.cpp
+patch 363,407,

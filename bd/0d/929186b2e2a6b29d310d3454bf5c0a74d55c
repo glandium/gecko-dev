@@ -1,0 +1,5 @@
+changeset bd1c3d575c5380831412d314b61f88d366b9d135
+manifest 670ada49671a8296474d16cc5e4f153160405acf
+extra rebase_source:d1e15cb62707158f67c0106490a15512a2ca82bd
+files browser/base/content/browser-menubar.inc
+patch 281,355,

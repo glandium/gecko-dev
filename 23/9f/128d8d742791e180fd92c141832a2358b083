@@ -1,0 +1,5 @@
+changeset 54f29ffc8f71f66f765a1e44284db4e936e1e972
+manifest 416d0dd4df563de2c86e7b59e7a685473de0a74b
+extra moz-landing-system:lando
+files xpcom/rust/nserror/src/lib.rs
+patch 522,566,

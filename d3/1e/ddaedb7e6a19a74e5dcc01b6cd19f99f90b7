@@ -1,0 +1,4 @@
+changeset 93ad18bf892d7d26aceadab32db1b3ba06baa92d
+manifest 67d1e5c180334947580bfbbcac2f75f3535024ce
+files servo/src/components/script/dom/bindings/codegen/CodegenRust.py
+patch 567,568,

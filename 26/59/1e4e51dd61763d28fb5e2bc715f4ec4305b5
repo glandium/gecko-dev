@@ -1,0 +1,5 @@
+changeset 7fdaa201c7b3972f9f51af92d935436e6a77b936
+manifest 9b329fc1f5b03b020e805f237defac99f76b24b8
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/xpcshell/test_ext_userScripts.js
+patch 349,393,

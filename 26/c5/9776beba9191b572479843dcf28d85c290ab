@@ -1,0 +1,5 @@
+changeset 25c2eeca526e1248bdb3d5f88a5bfce86ab1d8c7
+manifest d8e3f9efdcaf2c6579d70b5ffcf689962f65d137
+extra source:d28d3a80e781ae10cbc97775415827ec93193c56
+files caps/BasePrincipal.cpp
+patch 282,349,

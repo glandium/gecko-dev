@@ -1,0 +1,5 @@
+changeset 3742a4b69ba20bdcc47ee8bfa7d56268be944ae1
+manifest 9fd47939132e63f347e0323be10343cb6be67fad
+extra rebase_source:96bf4d01b6fac5cbb4712f56c572791cc4972f77
+files memory/replace/dmd/DMD.cpp
+patch 501,575,

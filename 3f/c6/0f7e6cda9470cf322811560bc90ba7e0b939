@@ -1,0 +1,5 @@
+changeset 73ffc23ea21b0b78a5f85fac1f475164a8b2dd8c
+manifest 7e979102331c1461a58d67e15dfafa5eaf5b9f67
+extra moz-landing-system:lando
+files gfx/webrender_bindings/Moz2DImageRenderer.cpp
+patch 289,333,

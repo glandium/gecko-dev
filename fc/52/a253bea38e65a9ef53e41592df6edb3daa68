@@ -1,0 +1,5 @@
+changeset 3cbd82a01bc27518e21aae6668292c0b6f25802b
+manifest cc005a35c70645d93687f7257ebdd05bc57523ce
+extra moz-landing-system:lando
+files python/mozlint/mozlint/types.py
+patch 784,828,

@@ -1,0 +1,5 @@
+changeset 0e95533b40e12ec879aa6fcfd0c1c735c42f443a
+manifest 9bf68eba9d339e647990ecabbcf8ed35aab282e5
+extra moz-landing-system:lando
+files netwerk/test/unit/test_trackingProtection_annotateChannels.js
+patch 662,706,

@@ -1,0 +1,5 @@
+changeset d1484bf37d1ed02e27e264a75f61b70ef7a100bc
+manifest e839e05684db0d6212e2676ae5c8d6196a07f761
+extra rebase_source:499dcc0d141daf72320176fa0115073c9ed08686
+files toolkit/modules/Promise.jsm
+patch 381,455,

@@ -1,0 +1,5 @@
+changeset deed2d6f0eff09a3958a298ced41ecd03cedbe07
+manifest 0c205f52c900c27575893b7382a4026fb077a664
+extra rebase_source:689c8de0aaee267b02e5d79af840ecf969739648
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/IOUtils.java
+patch 298,372,

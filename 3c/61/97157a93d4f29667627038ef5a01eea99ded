@@ -1,0 +1,5 @@
+changeset 0a864923a1b47b2959a4ea949f14a8e7cb396cd1
+manifest cfbd113f537fb7205592f869cde0a2d7c9b53884
+extra rebase_source:634ef3cc92c7a0cd2800d423d1fee9cd1270e2b3
+files testing/firefox-ui/tests/functional/sessionstore/test_restore_windows_after_restart_and_quit.py
+patch 342,416,

@@ -1,0 +1,5 @@
+changeset 7f3d55afb48e0c00ec7a9c7d15b5dca290f57b50
+manifest 69cc7ffe40c3e8d8c4a4344c50399cef60926702
+extra rebase_source:ebe9d063e746cebbb0106d4c9137f9a4a12efb90
+files browser/components/extensions/test/browser/browser_ext_tabs_executeScript_bad.js
+patch 310,384,

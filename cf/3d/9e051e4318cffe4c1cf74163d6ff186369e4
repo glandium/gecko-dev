@@ -1,0 +1,4 @@
+changeset 55b99481fab156381335b6887fca26b6a8f0c0b3
+manifest 9cb6fa9a401ab26a1e08d4e8228e1fcdddbf1906
+files testing/web-platform/tests/tools/wptrunner/wptrunner/executors/executormarionette.py
+patch 354,355,

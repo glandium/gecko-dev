@@ -1,0 +1,5 @@
+changeset c225cb493c31ff5cbf69aa505fd64e3552d90517
+manifest 4cdb17576ad1bfb63b527bd2b70f01db7472614f
+extra rebase_source:a9a1932dd8174bde02d2eb880f21fb2b744f0785
+files taskcluster/ci/spidermonkey/kind.yml
+patch 234,308,

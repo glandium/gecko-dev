@@ -1,0 +1,5 @@
+changeset f0531bd87c9b2cfbfe4441b5d70c7f2dcf573693
+manifest 92198ea94934aafad1c398143aca48bae881856f
+extra rebase_source:39b4e1a746aa45da9f6e2381cb83a6b2f40db9c9
+files layout/xul/nsSprocketLayout.cpp
+patch 304,378,

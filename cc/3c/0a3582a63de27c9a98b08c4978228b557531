@@ -1,0 +1,5 @@
+changeset e5ec530fd95e85b8e67b991965e73c38373dbedc
+manifest ac017b45b193b088934c54de5335ead0fec9c6a0
+extra rebase_source:1b87badf8ed045368c7f3d003c3c4f4611ab6a4b
+files devtools/client/themes/images/dock-undock.svg
+patch 464,538,

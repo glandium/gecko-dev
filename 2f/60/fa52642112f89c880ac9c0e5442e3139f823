@@ -1,0 +1,5 @@
+changeset 4d88e13db33bf9c01a89475ab423192df94f4628
+manifest e0c63da56b2e88dcc483eff66e1afd927c3029a5
+extra rebase_source:388187ef92505a946d4e0a9392353373a9cfeced
+files gfx/2d/FilterNodeSoftware.cpp
+patch 507,581,

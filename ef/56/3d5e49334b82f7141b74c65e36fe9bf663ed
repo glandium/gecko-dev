@@ -1,0 +1,5 @@
+changeset 2d6c681af2c246a63f23d2ad9c656c59103aba5b
+manifest 6e8ae63dcbd298e9e33cd793801cc45b76c760bd
+extra rebase_source:883f230b90c27eb4dcfd1149ac7e4c1295b47d26
+files toolkit/components/url-classifier/nsUrlClassifierListManager.js
+patch 325,399,

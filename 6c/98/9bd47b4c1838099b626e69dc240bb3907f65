@@ -1,0 +1,5 @@
+changeset 6854ec0231cc3c1c487dc7eff0c8a2a7aa271915
+manifest de4afdae0f458862f4cf6a12a3d576eb39204ccd
+extra rebase_source:6ed2763285c1a32c60771d473c4a0613b542c142
+files devtools/client/debugger/test/mochitest/addon-source/browser_dbg_addon3/lib/main.js
+patch 345,419,

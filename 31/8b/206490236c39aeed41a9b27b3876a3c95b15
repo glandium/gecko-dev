@@ -1,0 +1,5 @@
+changeset f8970aa3b2d621c962cc9fbc29de2b1ae54f6bfb
+manifest 584aebaecc92c228d7913e5e080133da3bca1719
+extra rebase_source:eb102c6344a6b2fc5a8c904d3361ac3f6735dd43
+files mfbt/MaybeOneOf.h
+patch 280,354,

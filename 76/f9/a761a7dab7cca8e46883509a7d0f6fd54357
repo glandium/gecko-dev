@@ -1,0 +1,5 @@
+changeset 640a7914237719f196d8286410efa18bea33902e
+manifest b1741beda69d0863432d7d3a40c9ace6930f4e8c
+extra rebase_source:7ecd602f8fd3fb1c7b290e0ff88940eb9f774b42
+files tools/profiler/gecko/nsProfilerStartParams.h
+patch 303,377,

@@ -1,0 +1,5 @@
+changeset f3d518ac621ad7df195bd312042358584ea67f78
+manifest d97b59c4072ff1c30043f3a54e2410cc97b59ca4
+extra rebase_source:7068483f041ab1895ecc921f377da9bfd420ec23
+files testing/marionette/harness/marionette_harness/www/clicks.html
+patch 498,572,

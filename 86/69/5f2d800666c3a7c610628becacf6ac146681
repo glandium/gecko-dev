@@ -1,0 +1,5 @@
+changeset de11750ca8ed37fa8b9c50c7a86f8e84e9c81342
+manifest 6460f310f3782610196a84dbe2327598529d87e5
+extra rebase_source:ef97f84ba308df097097a9ef84e3c3378078d432
+files media/libstagefright/binding/Index.cpp
+patch 304,378,

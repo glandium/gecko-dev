@@ -1,0 +1,5 @@
+changeset 725ae58953d8790a667f45f6d4800efa720a7538
+manifest 11723fc3b8cfc1b75ccfb713e1d8fdc31fe13a82
+extra moz-landing-system:lando
+files mobile/android/thirdparty/com/leanplum/messagetemplates/OpenURL.java
+patch 524,568,

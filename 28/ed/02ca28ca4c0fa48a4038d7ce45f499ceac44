@@ -1,0 +1,5 @@
+changeset 8f1b2f872f0ea358a0412eb8b8687f08d47f6621
+manifest 2d03563706fe0fae9085f04fc64c4406d1c8c8b8
+extra rebase_source:b1257fd333c18627c200bd57b8b5f2e1da416742
+files toolkit/mozapps/update/updater/updater-common.build
+patch 334,408,

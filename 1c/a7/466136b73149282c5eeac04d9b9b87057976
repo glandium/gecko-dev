@@ -1,0 +1,5 @@
+changeset d98062d7d66b702919e9f6aa23094465169bc43e
+manifest b1e825d9f9e8369f5273ba9315b8fe321ed1e66b
+extra rebase_source:d62f7c2d5b98c4814c06be13aca49bd478d5b381
+files media/webrtc/trunk/webrtc/modules/audio_device/include/fake_audio_device.h
+patch 656,730,

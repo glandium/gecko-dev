@@ -1,0 +1,5 @@
+changeset 5a6db1121fcede3d0844ec1be195ab7858cd1e19
+manifest 3ba7a7ee80cb8d02ce2f5eef58ef7a20c32a9683
+extra rebase_source:c062393f4350cd9897358fe3ba142bb3e072f235
+files accessible/html/HTMLTableAccessible.cpp
+patch 293,367,

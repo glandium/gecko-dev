@@ -1,0 +1,5 @@
+changeset 081b471aa819c20892167f68e690f718c7e89604
+manifest 4b7e3bbaac6092629df66b3fdbc445de9300df82
+extra rebase_source:63cee1cccad96b9e33ee0b0ec699906fa5bda1a7
+files browser/base/content/test/permissions/browser_reservedkey.js
+patch 329,403,

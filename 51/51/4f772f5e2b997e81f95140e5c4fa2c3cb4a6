@@ -1,0 +1,5 @@
+changeset c5374cfa17a436020759404d942d15303a8345cf
+manifest 25866db6c2d3b704f2364a9d5f2cf9c0d5528cc8
+extra rebase_source:d508a156dd4709bfe8af473fe97b81950de81c3a
+files browser/modules/LightweightThemeChildHelper.jsm
+patch 300,374,

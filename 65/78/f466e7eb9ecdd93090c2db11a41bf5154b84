@@ -1,0 +1,5 @@
+changeset c3bb57a157aa91a41f45222bba7db46d90d501f2
+manifest 477411a9f8b7e6b1d64976ea1ba5999b948b1a82
+extra rebase_source:f3170cbeb0a5028af7a3ea6e88992beabcfa52e4
+files taskcluster/ci/release-generate-checksums/kind.yml
+patch 345,419,

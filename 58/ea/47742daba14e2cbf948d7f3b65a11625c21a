@@ -1,0 +1,5 @@
+changeset e594cf0fda6ded054726dd3bffb9733e75bbb690
+manifest 77d32e7d0f8851810c4eae1de8576cd9daf5a333
+extra rebase_source:154a23ff815b13aa80b2a641ab94127750dd9134
+files media/libstagefright/frameworks/av/media/libstagefright/MetaData.cpp
+patch 354,428,

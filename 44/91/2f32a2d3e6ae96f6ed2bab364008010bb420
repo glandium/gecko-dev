@@ -1,0 +1,5 @@
+changeset 9674bbefc68e2371b9c2041f346fe7269ec41d4c
+manifest d12faf0edf382f52e6820f33d9037dc70b2bea02
+extra rebase_source:604c8b2baa47a854a9a14a5f176b213bb0591483
+files media/webrtc/trunk/webrtc/typedefs.h
+patch 324,398,

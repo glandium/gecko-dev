@@ -1,0 +1,5 @@
+changeset c88a04f0291b81c7771735f25b52e72e544b726f
+manifest 4f2cbc437ea183d6891e553a06cebfdc6450422f
+extra rebase_source:385a9fafbc07753c1273ed25b09e7c00edb5fe36
+files mfbt/FStream.h
+patch 267,341,

@@ -1,0 +1,5 @@
+changeset 3b5ff99abb5ee601d7798e194d587dc56758139e
+manifest 689b8cfcfcde793193fe32c460213b5ca0d3dc70
+extra moz-landing-system:lando
+files toolkit/content/tests/browser/browser_autoplay_policy_web_audio.js
+patch 288,332,

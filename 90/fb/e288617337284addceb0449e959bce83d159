@@ -1,0 +1,5 @@
+changeset 060e71d0f8aeaf5a6ad86efae5aafc55744cfce8
+manifest 74fdbc6232aa7d5a937fc8e3ea4cd05d2d882b56
+extra rebase_source:08d6bf12864363fb965e6fae574a2d4059601d85
+files toolkit/modules/addons/WebRequestContent.js
+patch 265,339,

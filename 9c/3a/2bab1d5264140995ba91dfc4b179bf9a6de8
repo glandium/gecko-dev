@@ -1,0 +1,5 @@
+changeset 77a37c261feb8933a995fbcb6aa64812f83ed3cb
+manifest 3c5eecea7c22858d49215388837cd97c7882b396
+extra rebase_source:bfb174c8b73a4d37105b8068bcbde2e01d03c55b
+files mobile/android/base/java/org/mozilla/gecko/distribution/ReferrerReceiver.java
+patch 322,396,

@@ -1,0 +1,5 @@
+changeset b5c0f99c9a351ca4ce1700256495398b2089df9f
+manifest e3458d724cc783b18fa40c9275149fae03f1607e
+extra rebase_source:82f788e57079010075ffde8c35d6b448da09c896
+files toolkit/components/extensions/test/browser/browser_ext_themes_dynamic_getCurrent.js
+patch 345,419,

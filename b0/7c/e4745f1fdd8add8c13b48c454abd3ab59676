@@ -1,0 +1,5 @@
+changeset 23168b46da1ea05b0fe3574eba9e9286ad346ac2
+manifest 3e3a00feea3e8977b5925ecd65bea389e04cc3be
+extra rebase_source:1f7daca34a51448365ece76933cd0a5678b7c354
+files toolkit/content/widgets/toolbarbutton.xml
+patch 300,374,

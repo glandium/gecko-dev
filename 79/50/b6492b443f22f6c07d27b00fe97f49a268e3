@@ -1,0 +1,5 @@
+changeset 3c351abd294d1542deff2c9600089368eb37b449
+manifest fda33792c221c0f99e5ca23dd1ac125a1f993393
+extra rebase_source:25526e6b37a018af6c2bf55e71a2d9cc7a8cabd5
+files toolkit/components/telemetry/docs/collection/use-counters.rst
+patch 461,535,

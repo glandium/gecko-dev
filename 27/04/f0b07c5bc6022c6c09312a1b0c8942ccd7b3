@@ -1,0 +1,5 @@
+changeset def0fd8429f955dcd8f29ae54cd2e2e5cd28032d
+manifest f428acb2d3210a61604113459394f02061da33f9
+extra moz-landing-system:lando
+files toolkit/mozapps/installer/packager.mk
+patch 294,338,

@@ -1,0 +1,5 @@
+changeset fc10fcd1506648228b059419d4df5c3e895155c6
+manifest 7398a92693e577ebb4b5517dc03e85b2228257d7
+extra moz-landing-system:lando
+files devtools/shared/worker/loader.js
+patch 483,527,

@@ -1,0 +1,4 @@
+changeset 15663d3f8728823e6e48eca1d785b84d1de1edcd
+manifest 808f569e8cf70c96727bd6daedbccbd7b2c666b6
+files security/manager/ssl/nsDataSignatureVerifier.cpp
+patch 272,273,

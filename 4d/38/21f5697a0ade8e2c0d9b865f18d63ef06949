@@ -1,0 +1,5 @@
+changeset a02ef614a87bc32bcf2742f2e1ca849c66f7a47e
+manifest 9d39226c9ba80470109d4418f5c38831ce487d3f
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/DownloadsIntegration.java
+patch 338,382,

@@ -1,0 +1,5 @@
+changeset 13c27668f2d7c166bb46af2cd0b9c3a5642f428d
+manifest cd93dfa5b4f5e24ce9d97f353809ac5dc84086fc
+extra rebase_source:92d3c675cee82ffe8b562e83860601e0c6dc1a9b
+files dom/tests/browser/browser_localStorage_e10s.js
+patch 1278,1352,

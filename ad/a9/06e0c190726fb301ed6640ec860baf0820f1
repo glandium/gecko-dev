@@ -1,0 +1,5 @@
+changeset 0c049502810720c59f8343b685e12e6cc0f53d17
+manifest 0eea453be18fcfc713be54f124ec13df0d943b69
+extra moz-landing-system:lando
+files devtools/client/inspector/animation/components/CurrentTimeScrubber.js
+patch 346,390,

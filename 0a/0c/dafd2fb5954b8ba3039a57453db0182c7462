@@ -1,0 +1,5 @@
+changeset d5245076458f441cbd812737fdb5d515d6bc20de
+manifest 31284ed83c184508c6b7df02fbe250cb4ebd1945
+extra moz-landing-system:lando
+files gfx/layers/opengl/OGLShaderProgram.cpp
+patch 327,371,

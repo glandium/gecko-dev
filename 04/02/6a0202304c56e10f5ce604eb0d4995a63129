@@ -1,0 +1,5 @@
+changeset 8f1fa60cbe6ad5214929955b73ab4d57000b63ff
+manifest 70d983d63adda80371d8a7a12158da34a8ab246b
+extra rebase_source:1a8c4aeecb8d64add18a50a13c2ba6bc082b2f10
+files toolkit/content/tests/chrome/bug331215_window.xul
+patch 312,386,

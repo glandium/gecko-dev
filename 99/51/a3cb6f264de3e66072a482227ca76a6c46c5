@@ -1,0 +1,5 @@
+changeset 0f52720def8442a28e0542505e6a24e4647d6c1a
+manifest 9527d9f7b506a38bf08c4508433d997212972140
+extra moz-landing-system:lando
+files browser/base/content/browser-media.js
+patch 576,620,

@@ -1,0 +1,4 @@
+changeset 10b88cb5ca085537d8dbd128736280e7a42823ec
+manifest 3302811905d7df95912169a1f8f7feea47af510c
+files taskcluster/docker/periodic-updates/scripts/periodic_file_updates.sh
+patch 296,297,

@@ -1,0 +1,5 @@
+changeset d42cde31f72fbb0b36f1de7b0225902fdc3ad17d
+manifest b06fe818ceabd1f7d7e756c5920c7fc5b88d1522
+extra rebase_source:e07aaf1ee82e7459d97e6558f95967ac7972af9f
+files mobile/android/config/mozconfigs/common
+patch 527,601,

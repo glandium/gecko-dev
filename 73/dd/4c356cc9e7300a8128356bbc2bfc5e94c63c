@@ -1,0 +1,5 @@
+changeset 8de1cf1be14b2b32c81d91c7c362c9acd6fdc6e4
+manifest f8d81b067403a4333f5f619409b06b3a7e27b794
+extra rebase_source:d678703429b39a2a8bb2127f5fc55528a38fd480
+files netwerk/base/nsUDPSocket.cpp
+patch 278,352,

@@ -1,0 +1,5 @@
+changeset a3c737408598118378a6a44dc32e92342a317f1b
+manifest b211b35413e6a4dd43ce22e194a2be973532ef08
+extra moz-landing-system:lando
+files browser/base/content/test/favicons/browser.ini
+patch 307,351,

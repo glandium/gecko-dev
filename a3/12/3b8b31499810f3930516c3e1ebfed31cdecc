@@ -1,0 +1,5 @@
+changeset 2a9944436adcead0da6675f2c4cdf35e5f8af856
+manifest 07a8947b6125b2a9461b5054f9475ab14554ee0a
+extra rebase_source:f3b03113b42fcca61a79df77cb0721b103346ace
+files js/src/jit/shared/Assembler-shared.h
+patch 396,470,

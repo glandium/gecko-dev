@@ -1,0 +1,5 @@
+changeset bb14bbb30c4150b69d541d4c9f32762721a9ccc2
+manifest aefddb5ba39f949645f9e992c10f8e4745a22cfc
+extra rebase_source:738b504ff0d8e2c3d89c111007af1877dd46944f
+files toolkit/mozapps/extensions/AddonManagerWebAPI.cpp
+patch 677,751,

@@ -1,0 +1,5 @@
+changeset 39abbcc4230bd8f4e6a6f54c5b771eff57cbb0df
+manifest 0c0495f4b54530ea121c2b9d4bef9aaf51710fb9
+extra moz-landing-system:lando
+files widget/windows/ToastNotificationHandler.cpp
+patch 567,611,

@@ -1,0 +1,5 @@
+changeset b3b76444d58d39739c4b41ebe236023b57c55449
+manifest f70ac5b8455d836a298f6728967937a484191f65
+extra rebase_source:3593910c4add9d99009b76f724ee6c6f5da94a66
+files mobile/android/modules/geckoview/Messaging.jsm
+patch 553,627,

@@ -1,0 +1,5 @@
+changeset 43e54d35e5211330e99db33b1e265b70b1c8eb6f
+manifest 60b522f93b68366266d7e1429d0a64af744403b5
+extra moz-landing-system:lando
+files js/src/vm/Stack.h
+patch 284,328,

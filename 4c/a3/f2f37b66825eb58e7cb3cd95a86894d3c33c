@@ -1,0 +1,5 @@
+changeset 030c33c24d8c2ef5a531503a48aef9f40646842f
+manifest 0fa48f2c649f7d9cdb0fa728be0c4be2a1d08592
+extra moz-landing-system:lando
+files xpcom/base/nsISupportsImpl.h
+patch 607,651,

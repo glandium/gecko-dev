@@ -1,0 +1,5 @@
+changeset b1cfe0ca416e9a1a8208ccaae1787754172b53ea
+manifest 747360850c4c772429dd30c6ebbdf36090570ae3
+extra moz-landing-system:lando
+files taskcluster/ci/generate-profile/kind.yml
+patch 691,735,

@@ -1,0 +1,5 @@
+changeset eafbaf250b12b49985043fa61dd795878282e190
+manifest 2f0cb0f4dae13c5d2537a84c0a1f3e538bc025a7
+extra rebase_source:00b248d242c38a1cd70535aa357b284ba60732b4
+files js/xpconnect/tests/unit/test_sandbox_metadata.js
+patch 389,463,

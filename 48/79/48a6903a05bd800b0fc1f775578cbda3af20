@@ -1,0 +1,5 @@
+changeset ce47b0935c9f67b00787f450ff226fbc64f7ee04
+manifest b2ebb8e2c0255bb0996bf9f9173e73901afd94e9
+extra moz-landing-system:lando
+files accessible/ipc/win/HandlerProvider.cpp
+patch 593,637,

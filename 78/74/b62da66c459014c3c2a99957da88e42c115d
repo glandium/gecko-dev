@@ -1,0 +1,5 @@
+changeset 7566bce984f937e32e4ccf6c02e4352548847c85
+manifest f6cb099cb8afc3856d6350964ade0632fffa0612
+extra rebase_source:bfed3ed4128c6a3ede6f06feed1f50cb9f30e485
+files security/manager/ssl/SecretDecoderRing.cpp
+patch 726,800,

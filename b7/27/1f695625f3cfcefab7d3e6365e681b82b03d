@@ -1,0 +1,5 @@
+changeset 6dbd2767e7abfb93b88da4e9744bfc1f44aab74d
+manifest 1e5da53d24da98feb0c5afb2f9f7fba8881b456d
+extra moz-landing-system:lando
+files dom/media/platforms/apple/AppleUtils.h
+patch 261,305,

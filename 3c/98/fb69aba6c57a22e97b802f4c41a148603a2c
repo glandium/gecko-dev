@@ -1,0 +1,5 @@
+changeset eacd6f23d1d67eff505e1e795ef03478ad956fcd
+manifest a3c685512ef1c8da323cb6973fea7f5c24cb0f8c
+extra rebase_source:646bed23c8f23224abf401cca7d161b20a417672
+files js/src/jsnum.cpp
+patch 279,353,

@@ -1,0 +1,5 @@
+changeset ed585dab6e3cdef7ea5893c8ba4ed3050c53d896
+manifest a8a367ccae0c9056a31690469c3ebcc0589c26a4
+extra amend_source:7fc6a76231321a6080c98c3b88a9246ca7841550
+files browser/app/winlauncher/NativeNt.h
+patch 257,330,

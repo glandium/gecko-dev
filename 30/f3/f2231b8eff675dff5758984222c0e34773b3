@@ -1,0 +1,5 @@
+changeset b3118b4fae1372c3aa57caf4b16af9834ce46539
+manifest 1215f0adfd4f0d6adf018cc3c96169ebec980e96
+extra rebase_source:d2c2091bf4eba8420951b16d2be4f5d66e9c491f
+files layout/generic/nsFrameSelection.cpp
+patch 250,324,

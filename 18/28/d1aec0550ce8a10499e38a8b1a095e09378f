@@ -1,0 +1,5 @@
+changeset f4b1eccde367b86d34795e52f3a548666735b6e5
+manifest e7f5e7278c12154acbe51e0fd20dbe6627048e33
+extra rebase_source:2d97a2279e6f5927b884b21158e91d31216c5626
+files netwerk/base/nsChannelClassifier.cpp
+patch 260,334,

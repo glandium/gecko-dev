@@ -1,0 +1,5 @@
+changeset 9fc8534e92e24d257a1fbe99bfaa16a931397019
+manifest de9090d9522c386fcde1c5e8b4412e39ef63d246
+extra rebase_source:02d56acfd97f8759dcabd59acd2c2fa81cee62d3
+files layout/generic/RubyUtils.h
+patch 278,352,

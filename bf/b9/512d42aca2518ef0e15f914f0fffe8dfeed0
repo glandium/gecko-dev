@@ -1,0 +1,5 @@
+changeset 60d153b3f3c85a76755e42ec5d73c2c80dead451
+manifest 8d747f6cf7f5eb784a1b6bf710081aeebb91cc1d
+extra moz-landing-system:lando
+files taskcluster/docker/periodic-updates/scripts/periodic_file_updates.sh
+patch 373,417,

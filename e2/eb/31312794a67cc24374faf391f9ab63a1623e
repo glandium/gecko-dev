@@ -1,0 +1,5 @@
+changeset d7c3229eb734731f76d35191a283dc3e07cabf62
+manifest 7aaeffbe124674840230b9d5351dcaba7052b78f
+extra moz-landing-system:lando
+files js/src/vm/Stack.cpp
+patch 399,443,

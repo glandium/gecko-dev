@@ -1,0 +1,5 @@
+changeset 0530a537719787cedb59bdb1081d008f4a4f4efe
+manifest 9fc308683d578c76e641113b668f0784465af55b
+extra rebase_source:390361836735f7bb1edeb28ad9e6ff40bb51e97f
+files devtools/client/shared/zoom-keys.js
+patch 409,483,

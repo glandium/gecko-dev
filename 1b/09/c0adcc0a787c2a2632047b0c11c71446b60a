@@ -1,0 +1,5 @@
+changeset 6033bcc2dcae86bad7bec4536183de19c939f3ad
+manifest e112544d7f14d1252084365f6fcb9bfcb0d19f6d
+extra amend_source:cd29e74623cb69997d6cb1525b7fe03ebadd90e3
+files gfx/2d/DrawTargetCapture.cpp
+patch 282,355,

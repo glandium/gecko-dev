@@ -1,0 +1,5 @@
+changeset 347ccb93cb083df26161a66336fcbb96d7294ae3
+manifest 4b2455bf150acf9ca8a67ad7d22c536f99e28198
+extra rebase_source:84593b794f9055739a10a08ca2b4fa737043100c
+files mobile/android/base/java/org/mozilla/gecko/GeckoJavaSampler.java
+patch 473,547,

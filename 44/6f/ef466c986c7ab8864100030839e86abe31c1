@@ -1,0 +1,5 @@
+changeset 819f8b4c80b67a383195875999b07fb9f484c1b4
+manifest 133ad096d6bf8081cb0ac2a86d859c2dcfd7171a
+extra rebase_source:b7cebbd0ed077c29b2606bd42a3ec8d017a37d18
+files browser/themes/shared/downloads/indicator.inc.css
+patch 327,401,

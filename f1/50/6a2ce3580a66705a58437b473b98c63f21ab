@@ -1,0 +1,5 @@
+changeset b876f2c2f66305a5d673025eb84eab7cf648a73a
+manifest 849962ff413da3e056dd123e17766ab683705fa7
+extra rebase_source:10cbd61cb483536be32d7b40f1e64222c3259089
+files media/webrtc/trunk/webrtc/modules/audio_coding/audio_coding.gypi
+patch 401,475,

@@ -1,0 +1,5 @@
+changeset 24901fe38fac929955f42fc95cc418d9fc44767c
+manifest ef334e3ea4a933d66b2f2e7fc373c912fac6ccd9
+extra rebase_source:fe94f04c7a46378cf65aefc43f81a8531371fec4
+files js/src/jit/BaselineIC.cpp
+patch 242,316,

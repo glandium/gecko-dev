@@ -1,0 +1,5 @@
+changeset 0ee3593e23151e498f26f7fb9af07035272ebbce
+manifest 12222980265a8089ce9dfc260a6231ea20e8b5dc
+extra rebase_source:22b8d9ff621886b30590140e65adf5fe54c49446
+files browser/base/content/browser.css
+patch 273,347,

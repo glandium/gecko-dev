@@ -1,0 +1,4 @@
+changeset fd4d107aa919f091e3e6e227fe4d6409c6eb1533
+manifest 4ce7928bc561ff39021e02e0cbfe205e2c5e9888
+files netwerk/socket/nsSOCKSSocketProvider.cpp
+patch 1771,1772,

@@ -1,0 +1,4 @@
+changeset be7ee8326facc899155d9d1c6573f73731921b9b
+manifest 9108bb1c79cd2138b2210ee54e58e24fd653f481
+files js/xpconnect/tests/chrome/test_windowProxyDeadWrapper.html
+patch 383,384,

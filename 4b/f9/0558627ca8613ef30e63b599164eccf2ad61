@@ -1,0 +1,5 @@
+changeset 425e40a9fb66bbbfbe65013c20306ebb276dac91
+manifest 7cb97b5bd9cd66e7a8d66e5b6f11e9788b3a7a62
+extra moz-landing-system:lando
+files media/webrtc/signaling/src/sdp/sipcc/sdp_utils.c
+patch 642,686,

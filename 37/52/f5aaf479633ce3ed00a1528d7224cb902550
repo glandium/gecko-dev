@@ -1,0 +1,5 @@
+changeset 38154f2aad4e23eaa8e5ccf50e0612d248e1d1c5
+manifest e0003bd7853ab56d0c8e711dfb3d78df10750059
+extra rebase_source:63cc463a11d5ca085e7a96ea84dcadbe3bb90204
+files testing/marionette/harness/marionette_harness/tests/unit/test_click_scrolling.py
+patch 993,1067,

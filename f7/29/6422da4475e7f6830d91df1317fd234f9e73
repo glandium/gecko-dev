@@ -1,0 +1,5 @@
+changeset 231a2fc0fe33ab9235afd1909b0a899c66ce8e88
+manifest f292628ae8b31c2152fd3da74cc3bc0e8ce989ca
+extra rebase_source:295df93d9765c5fc1ada5b7c016617165b513878
+files devtools/client/aboutdebugging/test/browser.ini
+patch 320,394,

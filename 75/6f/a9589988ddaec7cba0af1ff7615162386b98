@@ -1,0 +1,5 @@
+changeset 403c3d0daf6a24a7bb21e9f8ca2493cb4956fb4c
+manifest 7c801486142a9ee9e0bb058384723597b3cbea01
+extra rebase_source:2aa15de90a58e38e480aca5e10f0b680820ecb2c
+files browser/components/extensions/test/browser/browser_ext_slow_script.js
+patch 399,473,

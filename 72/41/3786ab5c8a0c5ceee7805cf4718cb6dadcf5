@@ -1,0 +1,5 @@
+changeset 8455df429711e560ff70b4047617b7baafb9dfe4
+manifest 04419c9c6c85c30c65ac74912df201d4461c739e
+extra rebase_source:060319da29f313d30b380dcecd6fc73ff5a807e8
+files toolkit/content/widgets/browser.xml
+patch 586,660,

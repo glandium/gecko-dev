@@ -1,0 +1,5 @@
+changeset cac01bf337321891bb372357235494c760f28cb5
+manifest 795ac391eee925d2af59e3157f206f6f24d17ab0
+extra moz-landing-system:lando
+files devtools/client/responsive.html/browser/swap.js
+patch 566,610,

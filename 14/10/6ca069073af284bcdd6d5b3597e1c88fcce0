@@ -1,0 +1,5 @@
+changeset bb9a212e0bdf885649386ad5bf6992e2273af165
+manifest bf16842cce4e97a48e74404b787c8624da726efd
+extra rebase_source:9d2289511ebd05aea8a4c6d37136f258e2463dee
+files python/mozbuild/mozbuild/action/exe_7z_archive.py
+patch 502,576,

@@ -1,0 +1,5 @@
+changeset afe09cddd8d30b7c40d6a7fd3c2f199646a952f0
+manifest f9ac1f46e05748a15a56623a3170192a7fdf36a6
+extra rebase_source:035e765344171c2fd3a7705f1f082aafa953bc95
+files toolkit/components/extensions/test/mochitest/test_ext_jsversion.html
+patch 456,530,

@@ -1,0 +1,5 @@
+changeset ac095c2fdd8b07d496a05ecbb0c3d98f3278d31b
+manifest 45688a6bcd30bbe0ba7b7afe2b5ed25b4ccb6340
+extra moz-landing-system:lando
+files dom/worklet/WorkletGlobalScope.cpp
+patch 421,465,

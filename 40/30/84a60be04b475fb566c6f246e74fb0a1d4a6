@@ -1,0 +1,5 @@
+changeset 0bac600f111bdc83da44f684fe4a2322a318f588
+manifest c8dcb066d19b7399c3263014b4e45312e6ac65b9
+extra rebase_source:a22cd513d90d3198025b8a13b76671fe72bba294
+files toolkit/components/contentprefs/tests/mochitest/test_remoteContentPrefs.html
+patch 350,424,

@@ -1,0 +1,4 @@
+changeset acfa59a985f5e11726a8ac9a37dfebda4227928b
+manifest b38a31f1623968da753e88aa2ca286801e8172dc
+files js/src/tests/non262/lexical-environment/block-scoped-functions-annex-b-with.js
+patch 291,292,

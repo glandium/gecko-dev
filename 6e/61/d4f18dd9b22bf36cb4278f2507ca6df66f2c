@@ -1,0 +1,5 @@
+changeset 30a7983347576602e95280b0131c437ac4dc060d
+manifest c06a8aa1392b1daf3c831c94ca22ecad25191cc1
+extra rebase_source:3f2a5a6fb11a457b628716c29b597fb6685e2d77
+files layout/reftests/stylesheet-cloning/counter-style-rule-clone.html
+patch 387,461,

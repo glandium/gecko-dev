@@ -1,0 +1,5 @@
+changeset 8fd9c1479159335e4d4e9d71e2bf99d1d62b8ba7
+manifest 73c6505f2a132d38fc5e6fea257fe11c489c4cf6
+extra rebase_source:3e0f37f632b267dd79a27b30d75d9db7fe4cab02
+files js/src/vm/Stack.h
+patch 282,356,

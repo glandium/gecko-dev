@@ -1,0 +1,5 @@
+changeset fb80118393dc7ab2c942eeeaf5a600221e47b716
+manifest 8cdf1d5a9c3d62bfc2548fb3d2f77b06ac7d3648
+extra moz-landing-system:lando
+files security/manager/pki/resources/content/setp12password.xul
+patch 352,396,

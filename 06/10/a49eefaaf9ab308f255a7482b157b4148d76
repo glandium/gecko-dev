@@ -1,0 +1,5 @@
+changeset 3b96c0dd2a6c08d667dd56b7c0a9929baf256622
+manifest bd66aa61791168cb97b6ae4118f7c1ed19a55b49
+extra rebase_source:8b1ab46c451693f973b3d7e8abf69f5d378dc7a2
+files js/src/tests/shell.js
+patch 253,327,

@@ -1,0 +1,5 @@
+changeset 27b15eb83e9d22c868f8a486b4257870f40fd94e
+manifest 7450841267ba68bc1282815625228bba30675e2a
+extra rebase_source:7687aeba58c0b035ca0314379e0d199ed35a4ebf
+files browser/extensions/asan-reporter/bootstrap.js
+patch 409,483,

@@ -1,0 +1,5 @@
+changeset ac79a302c43013dd70f360cd768957397e2dedab
+manifest 454d5771c2948ff705601902a49ef6d95e6b05de
+extra rebase_source:135ab81c4407ab6a7fc412615b53569f5d61fbc1
+files dom/plugins/base/nsPluginsDirWin.cpp
+patch 275,349,

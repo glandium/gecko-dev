@@ -1,0 +1,5 @@
+changeset 2a03e9effe84d574a0dfdaaefd9bde2f69df6d0e
+manifest 76028b12f206d630a172af98d47bfa6b8a05f3f3
+extra rebase_source:4c4e738ceaec32750ae0c5aa0308c17346806b3a
+files servo/components/style/properties/shorthand/outline.mako.rs
+patch 405,479,

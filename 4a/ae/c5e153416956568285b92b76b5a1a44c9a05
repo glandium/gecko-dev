@@ -1,0 +1,5 @@
+changeset 140a1eed24787c1fe96cf1eee69a752e1ccbcb00
+manifest be4fd52e09190b3e3a4c9cd149d44120f22df373
+extra rebase_source:4307f2b77d6e59bdebc9092e92257b782c2bc3c2
+files dom/canvas/moz.build
+patch 310,384,

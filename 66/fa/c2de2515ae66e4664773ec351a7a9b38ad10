@@ -1,0 +1,5 @@
+changeset 552e33e562c36da4940d1afc7d30cc83785b87bd
+manifest 2fbc868d4e954890fdb2830ba2576acc22e36344
+extra moz-landing-system:lando
+files mfbt/RefPtr.h
+patch 437,481,

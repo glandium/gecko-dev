@@ -1,0 +1,5 @@
+changeset 3f9e341be94fe2f8be4fa70dc2298c0929de20c2
+manifest 7c62d9b90ed5695f7f712b9d844b634150b19903
+extra rebase_source:120fdb7c8306a213c051f3df6b327f49154d9153
+files testing/geckodriver/src/marionette.rs
+patch 623,697,

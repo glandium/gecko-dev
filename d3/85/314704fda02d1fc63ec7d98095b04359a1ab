@@ -1,0 +1,5 @@
+changeset cb9676e832d228ea052c1e91108d4ffcd69af847
+manifest 75e14389d8d01d887ecb6f5d814f5f2fcf3ca75c
+extra moz-landing-system:lando
+files security/sandbox/win/src/sandboxbroker/sandboxBroker.cpp
+patch 353,397,

@@ -1,0 +1,5 @@
+changeset 62a30f44921515e3f144d7e968c0b6f3066b0b32
+manifest 78e1b7173c48ab954fc6eb8377bb99f2ffec6b10
+extra moz-landing-system:lando
+files widget/windows/TSFTextStore.cpp
+patch 786,830,

@@ -1,0 +1,5 @@
+changeset 344d0af4e60c610d39e5f314233d605e1e92cfc9
+manifest 5226b7327411c34827f43b2c1d6942d0e7f969d3
+extra moz-landing-system:lando
+files browser/components/extensions/parent/ext-sidebarAction.js
+patch 359,403,

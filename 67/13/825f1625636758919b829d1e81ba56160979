@@ -1,0 +1,5 @@
+changeset 4199c3c175104828a8e8f643472f3798082a7b55
+manifest d56de2d805e425beba33d3ae235f3f2b90750053
+extra rebase_source:6bd7ae168d9abcdc241aa04c9846dfcb7de65eba
+files browser/themes/shared/customizableui/panelUI.inc.css
+patch 302,376,

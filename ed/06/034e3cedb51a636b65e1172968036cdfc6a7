@@ -1,0 +1,5 @@
+changeset bf58b31ea92ee395a67e0942e64e4b8f2356c45f
+manifest caa9e3ad0ed54d4fe49613090ed387f8f60c9819
+extra rebase_source:8da8ecc8a0a24c212d1528bf8d23fbbf0942f757
+files editor/txtsvc/nsTextServicesDocument.h
+patch 327,401,

@@ -1,0 +1,5 @@
+changeset 7a928140b9339e4f0592e6bdbcd29499bb5a4056
+manifest 93750fe0bfd4cf818923fbb41e4aeff520a025c6
+extra moz-landing-system:lando
+files editor/libeditor/tests/mochitest.ini
+patch 506,550,

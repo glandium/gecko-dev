@@ -1,0 +1,5 @@
+changeset 560bed9dac99b78ee3c0bcffc24ee17e15848b3f
+manifest 4f97a1fc333d45bcd2afaef6ddbad790cc99e43f
+extra rebase_source:98563aee129c16662a783122241623b8ed2fe457
+files taskcluster/scripts/misc/fetch-content
+patch 424,498,

@@ -1,0 +1,5 @@
+changeset 2482a109b0e28dacfe015fd8e4095b3c62a1ec00
+manifest 4d448e174c0eea42ce68f8948a57ff170817cdea
+extra moz-landing-system:lando
+files browser/components/places/content/historySidebar.js
+patch 326,370,

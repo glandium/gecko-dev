@@ -1,0 +1,5 @@
+changeset d34e52a93da46aaf20887bafd7c72ebd36bad2b9
+manifest 9386dd2698166c4244d21d474542d86e56ce1dff
+extra rebase_source:49e9108c9ade5d4392f9a4ec52fb8413512ccc88
+files ipc/mscom/WeakRef.h
+patch 247,321,

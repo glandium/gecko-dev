@@ -1,0 +1,5 @@
+changeset 42e5371334d998003e6059035c17a2852f7417b4
+manifest 89ea05a5722c918809af449545d9757611692dd4
+extra rebase_source:3c31a407e27cd5c6e7a1a4f1287f17f56f80daaa
+files dom/u2f/tests/frame_register_sign.html
+patch 1754,1828,

@@ -1,0 +1,5 @@
+changeset 643915efb742b9c561be7d46b6b599321d8679f5
+manifest e749f6551e5c917d2187748c4d43c29163d475e3
+extra rebase_source:71b61ce9934a237bea01709d5b2629b04b51e1fd
+files mobile/android/base/java/org/mozilla/gecko/preferences/TopSitesPanelsPreference.java
+patch 336,410,

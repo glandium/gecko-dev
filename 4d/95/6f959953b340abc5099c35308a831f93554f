@@ -1,0 +1,5 @@
+changeset 4b841d1c7ec0513eb080fb033f54bde12ccb7ddc
+manifest 8455a9aa5c42b8609537102ee0b30e636ad6db5a
+extra rebase_source:500687c604957227dba8668a11f7c4f55c7fd175
+files widget/gtk/nsClipboard.cpp
+patch 328,402,

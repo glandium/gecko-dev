@@ -1,0 +1,5 @@
+changeset c2be7c49dc3a242750815cec13792e6cc7d42a26
+manifest 2661218e69b3e0c658488ea5f23093470fc3318f
+extra amend_source:4a8609e5ed39528b45021a9aece48f0ad4c71186
+files mobile/android/base/java/org/mozilla/gecko/util/ShortcutUtils.java
+patch 442,515,

@@ -1,0 +1,5 @@
+changeset 62646c1718b29026bb0fc8dddc2bcbe894a025f7
+manifest b7a5d549666759224778ff682518cb1a62604f63
+extra rebase_source:96bfb92819be2c6e549dae0a5df0525587f894b8
+files dom/u2f/U2F.cpp
+patch 638,712,

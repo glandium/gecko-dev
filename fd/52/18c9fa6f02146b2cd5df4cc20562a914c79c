@@ -1,0 +1,5 @@
+changeset 7bea25aeb53f37e36e5d8aefdd57a2cec8f0519e
+manifest c2d424872a44a366a72df5739c892d0351471348
+extra rebase_source:4e6d8c54eef5f341bf01c24ce3717a36f6708147
+files python/l10n/fluent_migrations/bug_1419547_preferences_containers.py
+patch 343,417,

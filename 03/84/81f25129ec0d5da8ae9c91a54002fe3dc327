@@ -1,0 +1,5 @@
+changeset 242a12eae20e469b3d8e6cfdc0ae34f9a1752c5d
+manifest 360bd60f1c5e4bc7dd14be82a1d5e3758dacaaf0
+extra rebase_source:d36d530dabed3b087c183408bcfbbea868bc85b0
+files toolkit/modules/subprocess/subprocess_common.jsm
+patch 574,648,

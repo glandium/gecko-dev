@@ -1,0 +1,5 @@
+changeset 1f4ec019eea65bb1f8dd04d04467b9f53355bb2d
+manifest 6a34637824b32a16f3e3fb2af7693917e415d1de
+extra rebase_source:ab7c9abeed9477790f8e5671171a07b5fd6d3197
+files devtools/client/webide/themes/addons.css
+patch 296,370,

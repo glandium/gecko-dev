@@ -1,0 +1,5 @@
+changeset 71eb4d997c0d77d10979d396a2b93207ea8c578b
+manifest c9dcb2af54cad9082c41ce9c0c7a221b96890f1d
+extra rebase_source:ef6bf29e1434e29ef6c1e86b687d9009e420fb0b
+files layout/generic/nsVideoFrame.cpp
+patch 293,367,

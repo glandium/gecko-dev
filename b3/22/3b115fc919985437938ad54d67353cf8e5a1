@@ -1,0 +1,5 @@
+changeset dc2d793bf2770e36c2807d7954b09f1b34d6ea56
+manifest 39b08659bd17ceb356d100702b43cbe1de41d696
+extra rebase_source:f9c3cfd96504b232ad25cf1c49f3fcb07f461cc1
+files mfbt/IntegerPrintfMacros.h
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset e96ce1680238b4e607fafb5c6072f40a8183d434
+manifest 68dfd0640e8c3427cf8d65e75cfc2b63d8d5e429
+extra rebase_source:842e9f382bd7db3f3511624dd7b6a3464d114fd6
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/dlc/TestDownloadAction.java
+patch 486,560,

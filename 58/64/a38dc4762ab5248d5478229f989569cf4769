@@ -1,0 +1,5 @@
+changeset a8878f903df2e927cecd14e0727deec1628ecdde
+manifest 4e75efe7ca1846413ba86cef34b2edfb605631ab
+extra rebase_source:612fa3d002ed906102ab24b3d338eb0087ca5f60
+files xpcom/string/nsTString.h
+patch 292,366,

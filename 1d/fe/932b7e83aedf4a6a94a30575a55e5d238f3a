@@ -1,0 +1,5 @@
+changeset 2852286117d3415763691f042c71db595d77c8d7
+manifest 2c1470e261d081cb0c56b403b23dc70170ddff87
+extra rebase_source:f3e35a9a37e5f0b7f566dcfc0aa28de1d08bea50
+files taskcluster/scripts/builder/build-sm-rust-bindings.sh
+patch 324,398,

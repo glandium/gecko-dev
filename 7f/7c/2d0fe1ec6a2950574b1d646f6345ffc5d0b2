@@ -1,0 +1,5 @@
+changeset 897f95b6d3fcfe4f15f4901f9dbb713d0e7430d9
+manifest 5d0b0627c77423a79be02faeb9ee9356ee7f34c7
+extra moz-landing-system:lando
+files toolkit/content/tests/browser/browser_autoplay_policy_user_gestures.js
+patch 398,442,

@@ -1,0 +1,5 @@
+changeset 088f78b64f4a28a7909079d6e3d1be7e885a43ba
+manifest 1f9cb763a7fff83890806ae65775246bd6825fbc
+extra rebase_source:c4b9ae09c5c39edbc9091241fab3ebca62efeee4
+files toolkit/mozapps/extensions/content/extensions.js
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset 5f14f88f390cf2379c869c87073e508582dd31de
+manifest 18bf599786dcf09bca2c8abc7dcb1e2abfbdfe78
+extra rebase_source:46316b15c60ad3818da1b2352621aeaf7c46c65a
+files devtools/client/themes/animation.css
+patch 281,355,

@@ -1,0 +1,5 @@
+changeset 1b20c5c67b1f6f9095611b20b2ebd9fc9c64edb3
+manifest 9df207e766e25a8357f2a0a4cd556a5106d581b1
+extra rebase_source:8dcca6b5cee0d22d5af79a864bb3b881665da3b0
+files security/manager/ssl/nsCryptoHash.cpp
+patch 270,344,

@@ -1,0 +1,5 @@
+changeset 645f4840341e77d312eebf31283b01698556c4ea
+manifest 6636071a30378f2c6608480100badef9c9fbb108
+extra rebase_source:9226e7ff26d8a51cbeaeb876c8865a226f6ee40e
+files browser/components/resistfingerprinting/test/browser/browser_bug1369357_site_specific_zoom_level.js
+patch 338,412,

@@ -1,0 +1,5 @@
+changeset c7fc4a1e4360754e329262aaa1125b1ca1bb5aa7
+manifest f49d6b9d2beb515128dc297d744b8aa9d57bd546
+extra rebase_source:b5e016bf6428564c0815fcdd1eac0c8fbfc7cd0b
+files gfx/webrender_bindings/webrender_ffi_generated.h
+patch 312,386,

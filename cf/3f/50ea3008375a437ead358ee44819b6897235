@@ -1,0 +1,4 @@
+changeset 1c96cb8ecabfecc7b320ec443bb1c16a3dc575f5
+manifest b1d26cc78e8b89d90b69e9ae41b036c9847c8896
+files browser/components/extensions/test/browser/browser_ext_geckoProfiler_symbolicate.js
+patch 271,272,

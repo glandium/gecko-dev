@@ -1,0 +1,5 @@
+changeset f9aa23e0cc9b1c546308a384777ef15eb8b88638
+manifest bdfaa6769ab34e771ed7540212d5f55edddedc49
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/tests/browser_cloud_storage.js
+patch 404,448,

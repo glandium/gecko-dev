@@ -1,0 +1,5 @@
+changeset 4c162e4eda0879b7ea1761c3db4679e403273479
+manifest a499f860bc30d6f95aa8df89a449e3aca41b8bb4
+extra moz-landing-system:lando
+files browser/components/payments/paymentUIService.js
+patch 290,334,

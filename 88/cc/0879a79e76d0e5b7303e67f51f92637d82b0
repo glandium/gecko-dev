@@ -1,0 +1,5 @@
+changeset e3d08055513a9a005be9165279789b68a9e62ba6
+manifest 5587fa6848bdd7fb6c32a7b8c48616de6143556b
+extra rebase_source:06b923f17d65dd491e071a1c1f37ae1c736f66db
+files browser/app/macbuild/Contents/MacOS-files.in
+patch 408,482,

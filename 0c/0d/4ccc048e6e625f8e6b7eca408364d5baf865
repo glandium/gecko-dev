@@ -1,0 +1,5 @@
+changeset 4edb91f3fbbeeb969eaa3c44b4122db5798cfe9e
+manifest d938b389337d676922e8e1ba46907db16960c030
+extra rebase_source:03e184c107e8356c0b8c15a1bfc3d53c092e413a
+files dom/base/ResponsiveImageSelector.cpp
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset 02ec5cb3384c4f2a5164f56b4286a7cc40d4d890
+manifest 05f3ab77e8dbb110a15496338208d4b38cb88fc7
+extra rebase_source:95df68baf4b3589ff8ec9f312e3435dae43f0a44
+files browser/extensions/activity-stream/lib/SectionsManager.jsm
+patch 281,355,

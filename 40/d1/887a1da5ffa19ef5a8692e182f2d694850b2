@@ -1,0 +1,5 @@
+changeset 315142c8e038972b16ca4b1c91327b7416a5289d
+manifest a840d22ba51a9f860ad3cc7f350610b4a5a38606
+extra rebase_source:53f17d2ef7f8826ac344a2dc2bb278b7b83cbee5
+files media/libstagefright/frameworks/av/media/libstagefright/ESDS.cpp
+patch 458,532,

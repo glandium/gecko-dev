@@ -1,0 +1,5 @@
+changeset bf9838fd466c02f4283ff3f885bae02fc21a9acb
+manifest 98a357f2f8f2d9b0344744598ac48b08830ce696
+extra rebase_source:cc7222f056c9eeefd57ecd77f776aa35f080b2ff
+files dom/bindings/ErrorResult.h
+patch 292,366,

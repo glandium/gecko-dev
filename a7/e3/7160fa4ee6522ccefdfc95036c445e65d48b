@@ -1,0 +1,5 @@
+changeset 7829ceaaec31214c53e8bc098df8ca0d9ac109dd
+manifest dd50694ea7c5d5e5ae856a3d465e50e7d4a69d1b
+extra rebase_source:9ddc63c8bd3e93c3627c6c51b96f9021a7064b56
+files build/gyp.mozbuild
+patch 263,337,

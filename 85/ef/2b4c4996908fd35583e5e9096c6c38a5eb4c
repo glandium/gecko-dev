@@ -1,0 +1,5 @@
+changeset bce13e8f7d192041112b019892e9ee0108a2d6b9
+manifest 81fc521977733c1e9975c91f65181c209c746a63
+extra rebase_source:915361d1464c751c693f091cc2926661d6dbfa59
+files toolkit/xre/ProfileReset.cpp
+patch 280,354,

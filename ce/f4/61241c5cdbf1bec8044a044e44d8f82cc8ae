@@ -1,0 +1,5 @@
+changeset 3cf7e1e3d9939fded5ba24ea14902f97b9639f68
+manifest 9812ed61fae17f0d688ad75699cb957ed659efc7
+extra rebase_source:d5dbec9f6aac4a627c35fb93f85f8e922fa695dd
+files dom/security/nsCSPUtils.cpp
+patch 291,365,

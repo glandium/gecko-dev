@@ -1,0 +1,5 @@
+changeset f684c3a76f740a819eeb7a25cf791693bf83533f
+manifest 1782bafc08b73e30d24c79bb844aa5e61e327eaa
+extra moz-landing-system:lando
+files devtools/server/tests/mochitest/inspector-helpers.js
+patch 362,406,

@@ -1,0 +1,5 @@
+changeset 7c81893927912f8f38ae85199b85a807966728fc
+manifest acbf31a55b7bd6f6130be49ad3d59f6e42baeab0
+extra rebase_source:af4c1e3311035880a4d7e4515fa119cb0628dd7d
+files taskcluster/taskgraph/transforms/job/__init__.py
+patch 379,453,

@@ -1,0 +1,5 @@
+changeset 99f24cb57f64dde82d9bcf357a5dfbbfc7761e0c
+manifest f4be5cbb130a2d38b62e5ef6e2a714a8b441c42e
+extra rebase_source:7efdbb7fa034645f6699954810c52709e54e29fe
+files mfbt/WrappingOperations.h
+patch 266,340,

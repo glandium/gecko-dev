@@ -1,0 +1,5 @@
+changeset ff26ee3e478c19baf73700cbd9467e897711ad66
+manifest 6f75edbf88fedcdaf0e75ee1a2671708d9862e86
+extra moz-landing-system:lando
+files toolkit/components/reputationservice/ApplicationReputation.cpp
+patch 374,418,

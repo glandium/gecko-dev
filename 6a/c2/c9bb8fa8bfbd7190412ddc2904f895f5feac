@@ -1,0 +1,5 @@
+changeset 022f5922d17668fbf5f8895434ae9b1766d94916
+manifest ebd05fa73d7fb74a4fbf3dc5a16349a10c8b695c
+extra rebase_source:2b0f3ac3cf187fb3e960ff92fd2fd8ce95d8cade
+files widget/nsGUIEventIPC.h
+patch 317,391,

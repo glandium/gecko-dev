@@ -1,0 +1,5 @@
+changeset d2627872300c7bde621eafb4ddb3891317b7b702
+manifest 904b46f47f2ce1a520520d429fa7e51f3010d305
+extra rebase_source:b6c7dd75c295e061c870f6e318371ff0fb90558d
+files xpcom/string/nsSubstring.cpp
+patch 244,318,

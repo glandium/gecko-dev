@@ -1,0 +1,5 @@
+changeset 3d72dc36053add8e677b4b7043bc072a033c4b95
+manifest 47eb6e826f83b3f3d912db0a27d64d51fd65f918
+extra rebase_source:befef85f147e00fba3a219ba3a034125448e4894
+files taskcluster/ci/build/windows.yml
+patch 288,362,

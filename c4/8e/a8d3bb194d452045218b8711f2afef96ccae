@@ -1,0 +1,5 @@
+changeset 4f183b8b27c536be90f608ce94476ab8323d459c
+manifest a1af0f20013d2978e4403308384a36992c4425d6
+extra rebase_source:e99562b1cc84b302b52eb66b6f8fe45649b19d4c
+files testing/marionette/capture.js
+patch 265,339,

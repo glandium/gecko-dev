@@ -1,0 +1,5 @@
+changeset cac44122e0056399c546446e246011f1481054c7
+manifest 3decec376f9db3d6ca9c90522dab97c4d6c4d255
+extra rebase_source:31a6259c3c6890f77f3f65054c21a13af2d3aff2
+files python/mozboot/mozboot/openbsd.py
+patch 449,523,

@@ -1,0 +1,5 @@
+changeset cb614edd086310a3317e7cb2d08c9e166a6fce14
+manifest 3afec080e5faaae4f8e8ef06e900e991eb8a3e9e
+extra moz-landing-system:lando
+files mobile/android/modules/DownloadNotifications.jsm
+patch 325,369,

@@ -1,0 +1,5 @@
+changeset d51f52d435daa3f87b398a7ca69879da8306b54a
+manifest a25403ec2e68e972e0d6017cf45cc20025113473
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/element_click/center_point.py
+patch 431,475,

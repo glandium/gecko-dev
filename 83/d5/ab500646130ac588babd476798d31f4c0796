@@ -1,0 +1,5 @@
+changeset bcf03ee54991dbe752d3dbf4961a453a0f2d2186
+manifest 80f1666bdbe930d9765f8efba7275b95c2aa4f8b
+extra moz-landing-system:lando
+files devtools/client/framework/target.js
+patch 345,389,

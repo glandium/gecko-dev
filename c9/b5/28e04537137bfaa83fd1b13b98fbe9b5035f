@@ -1,0 +1,5 @@
+changeset 68d308ba966c683641c4edc93d418fbb4eadd9f8
+manifest 08dfecbb62f86cd66fe43db147c68aca4601e2b7
+extra moz-landing-system:lando
+files layout/style/nsLayoutStylesheetCache.h
+patch 334,378,

@@ -1,0 +1,5 @@
+changeset b39457b9fe3bffc6d05a4e118273beae2a772aeb
+manifest 0331abfb3b512c205fa212b4fc71087bc7e88281
+extra rebase_source:2b2581359f9ddd765596e6f334e0c53e6c6b226d
+files layout/base/nsDocumentViewer.cpp
+patch 388,462,

@@ -1,0 +1,5 @@
+changeset d72d02a5f8ac69198e85fe88e0acd7cca9b8c994
+manifest fae6b6ec32417135477fea84cbb3e7577682a5e2
+extra rebase_source:68ce6ebd850f3a796bb52e71d05b02b8d860c9f7
+files security/certverifier/ExtendedValidation.cpp
+patch 1024,1098,

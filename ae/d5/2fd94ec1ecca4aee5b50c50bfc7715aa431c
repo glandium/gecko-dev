@@ -1,0 +1,5 @@
+changeset fcfdb4036a06eb644d4441547b8d474b1bd62973
+manifest 9671dc5f5be10aea275c124acf3947554a7d372b
+extra rebase_source:b2698c9445a4299324615e76b5f50cff91d48796
+files gfx/webrender_bindings/WebRenderTypes.h
+patch 318,392,

@@ -1,0 +1,4 @@
+changeset bc2b9ee2cb1611d5ec1d60a7bb2b5227f2d19e6b
+manifest e9a17a2f33046d754720ba1d3b10107ef96148f5
+files servo/ports/android/jni/main.cpp
+patch 345,346,

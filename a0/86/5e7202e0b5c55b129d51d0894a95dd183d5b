@@ -1,0 +1,5 @@
+changeset d23f467218da9318bd45233227921ada9d079c63
+manifest 9b9f89833cd993d2fe3a2d05f12bfc3ffb4b5338
+extra rebase_source:e4373273e7aea7df79d70b5fbc233233a84d2360
+files taskcluster/scripts/misc/android-gradle-dependencies/nexus.xml
+patch 517,591,

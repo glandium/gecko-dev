@@ -1,0 +1,5 @@
+changeset bbea5fa747270debfa40b10ea49392b6124f5085
+manifest c4377cdb2849c6398e6d5ebe15b7d5f6126ec2ab
+extra rebase_source:58e0ea5939446f21395a417ce23ffd2b91f5d83c
+files media/libstagefright/binding/AnnexB.cpp
+patch 414,488,

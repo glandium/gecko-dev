@@ -1,0 +1,5 @@
+changeset d834c0fe16e536cf3cae25946056f3372285f127
+manifest 909bad7a12f5797b9ebe712fc86c6d9a10af3f20
+extra moz-landing-system:lando
+files security/manager/ssl/nsNSSIOLayer.cpp
+patch 289,333,

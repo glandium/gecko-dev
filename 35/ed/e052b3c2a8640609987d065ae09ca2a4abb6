@@ -1,0 +1,5 @@
+changeset 3d1ad58b2fd31d0263272df317ff32ae770e2674
+manifest 6fa220ee184259911bb39a3c259899fc4dc227bf
+extra moz-landing-system:lando
+files security/manager/pki/resources/content/downloadcert.xul
+patch 346,390,

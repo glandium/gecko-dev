@@ -1,0 +1,5 @@
+changeset bfff309c16437d516edbff04492c5d834d659eff
+manifest cf27bfeae21dd37ec75eb0413e7e0ae041c58139
+extra moz-landing-system:lando
+files toolkit/profile/nsToolkitProfileService.cpp
+patch 503,547,

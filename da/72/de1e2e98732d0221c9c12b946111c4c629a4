@@ -1,0 +1,5 @@
+changeset a159c0f0fb59327c3810595cf72f85e83e973432
+manifest d2926c6fbb1a5017805e7c36628cd040110265f5
+extra rebase_source:0bd5f3e85ba36d068f0b23984a1faa5dcd4ccd78
+files mfbt/tests/TestIntegerPrintfMacros.cpp
+patch 295,369,

@@ -1,0 +1,5 @@
+changeset 97fd777d726a26276af59d8cca1abe7c84a3c41d
+manifest 3d0ddb176ddea1de017cb9059b58d0c29a366237
+extra amend_source:533a95abeb7cf7ddc9a1329549f5d294baf983f5
+files taskcluster/docker/google-play-strings/Dockerfile
+patch 784,857,

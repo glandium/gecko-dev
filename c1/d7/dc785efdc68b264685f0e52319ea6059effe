@@ -1,0 +1,5 @@
+changeset 253e2e30634e8bb9f7a09249f20f9c11a8813321
+manifest cf36436ac8aaa73e5e191cb3e9817430a712c212
+extra rebase_source:fa585cd1cb53b8eacaec20dbe43f892733680413
+files toolkit/components/extensions/parent/ext-toolkit.js
+patch 266,340,

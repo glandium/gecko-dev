@@ -1,0 +1,5 @@
+changeset cd99a1f959ad1de4166c493fd5bf1ca86fbd2500
+manifest b1f74cec19fac4376b135382d806d4cbacbbce14
+extra rebase_source:2cc9df48ed1ba9f940f57a3148ec881c1b0630df
+files dom/webauthn/WebAuthnCBORUtil.cpp
+patch 820,894,

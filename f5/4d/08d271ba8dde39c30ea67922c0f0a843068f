@@ -1,0 +1,5 @@
+changeset bd385579481b516dbb640159e7499a6e36e41bfe
+manifest 6de3b1f8c927c382106fd509a8663a494fe92b55
+extra rebase_source:ee2386e3540f44566ac1f5c21199a817cc55a892
+files widget/gtk/nsFilePicker.cpp
+patch 266,340,

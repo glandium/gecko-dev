@@ -1,0 +1,5 @@
+changeset 406807fc751e318705f6b775d892b8aaf02cf66f
+manifest c0f9de16bf584c507e01d437ebd2c58d2dbc7cd9
+extra rebase_source:92636764a12eda78315a9a62d81709913078fd41
+files js/src/threading/windows/ConditionVariable.cpp
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 59596c38ba70cb3b1c3a93d082964b70b64b870b
+manifest dd2ad7cf91679294c136b202cad836fbfe5de62e
+extra rebase_source:e58b694bb7c5b0e3c9ae73f0d3f0b2d16f91019d
+files xpcom/io/SpecialSystemDirectory.h
+patch 287,361,

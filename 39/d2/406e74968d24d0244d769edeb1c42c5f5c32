@@ -1,0 +1,5 @@
+changeset ea883b4c00cdf658699c5cde0995925eeaebac68
+manifest ab75bbea758a38636665691e82d1730864aa1b5f
+extra rebase_source:e880a5da2dac2f8c79139646713b02feb4ddc9b7
+files tools/fuzzing/libfuzzer/moz.build
+patch 653,727,

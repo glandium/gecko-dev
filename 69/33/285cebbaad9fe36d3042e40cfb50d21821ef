@@ -1,0 +1,5 @@
+changeset ab79f9edc8f3c915fc283098b8bc2c605e158cd8
+manifest a9ed59465914e79c27c7286c51da78953fe66191
+extra rebase_source:bed4e368b5ab1cc7653daea57f20ab25dfa1f125
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/EventDispatcher.java
+patch 510,584,

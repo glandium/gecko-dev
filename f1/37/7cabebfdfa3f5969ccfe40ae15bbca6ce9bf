@@ -1,0 +1,5 @@
+changeset 9c2f023a62d0620240b5261dfb0bd8d08bdaa49e
+manifest 1de4232c0efaf20cdb50a6e944ad3bfe911156c9
+extra source:ab526acf647a6bb15db28202733e24cfc75525d5
+files testing/mozharness/configs/l10n_bumper/mozilla-beta.py
+patch 285,352,

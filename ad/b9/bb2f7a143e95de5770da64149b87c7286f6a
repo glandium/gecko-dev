@@ -1,0 +1,5 @@
+changeset 4ba6db4fd39bb4e5bf8a1a5422dd8e58ef6a646f
+manifest aeaf9ea59d359c2fda72209d629e86fc68f17da3
+extra moz-landing-system:lando
+files devtools/client/shared/widgets/tooltip/SwatchBasedEditorTooltip.js
+patch 642,686,

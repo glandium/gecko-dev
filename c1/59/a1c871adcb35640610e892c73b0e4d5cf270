@@ -1,0 +1,5 @@
+changeset 4c63a04fdd47c7cb8dc7350ae7fd6d861b525a2d
+manifest 90d0a64a65c5d01e4a43ed08d9d73eba4f7c347e
+extra rebase_source:813572029ee5a5e0a52bb87e26947fc7af99ead8
+files taskcluster/docker/diffoscope/get_and_diffoscope
+patch 276,350,

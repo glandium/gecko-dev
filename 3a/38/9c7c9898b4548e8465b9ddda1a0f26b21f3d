@@ -1,0 +1,4 @@
+changeset 2977fc85181edb2703c03b6632552c15a12f9f26
+manifest f081023da7c4a9bf2d66fe7d47810ffd3ac7b428
+files js/src/threading/windows/MutexImpl.cpp
+patch 343,344,

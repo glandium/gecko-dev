@@ -1,0 +1,5 @@
+changeset be2f9c0ee32e695167a19dfaa6b47e29453f2916
+manifest 9f6d31847e5ea2dc4ea8046b3d18b2fdc1412871
+extra rebase_source:3033f7c3827acbac33d772e087bebece3487e118
+files browser/base/content/test/general/browser_audioTabIcon.js
+patch 278,352,

@@ -1,0 +1,5 @@
+changeset 837b39bea24bbbf5d14b0e3545098b77fba713ec
+manifest 8eb66a2ce91759f95e70f8d8da57fab2d54bd8fe
+extra rebase_source:87bc2b1a95f179dc3d8852b31fece579c4974f50
+files testing/config/tooltool-manifests/win32/ccov.manifest
+patch 281,355,

@@ -1,0 +1,5 @@
+changeset f09bd717691e8e913764e560377def8d5b7581f5
+manifest eb0948922d92df7532d509afa04c6e2cae463b1f
+extra rebase_source:0812c9ad5704e7804c8e0c630a35735b65c7469b
+files dom/security/nsCSPService.cpp
+patch 259,333,

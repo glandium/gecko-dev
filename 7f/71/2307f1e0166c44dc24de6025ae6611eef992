@@ -1,0 +1,5 @@
+changeset c9a4d8de18087d34d76515d749f9af80544e2c5f
+manifest 32105bd21b0832dba86b6d0f678c141fd35535db
+extra rebase_source:0d794faebc8e751bfcd15476ae849018dfb1f6c1
+files browser/base/content/test/tabs/browser_tabCloseProbes.js
+patch 659,733,

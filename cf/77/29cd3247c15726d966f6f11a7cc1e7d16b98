@@ -1,0 +1,5 @@
+changeset 81cdbfd5bfb0445512aba662b8518a7ad27871f9
+manifest 31ac6e4552e9ae86afe597eb5c769e2ce46c7e7a
+extra rebase_source:a57099610dfe9fb4861bdae2b6479a2da93ca96a
+files browser/components/feeds/WebContentConverter.js
+patch 306,380,

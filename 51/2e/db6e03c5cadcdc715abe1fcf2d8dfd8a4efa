@@ -1,0 +1,5 @@
+changeset 7b0d4ede690af8e8e04dd0c498c2a02c636b1156
+manifest 7b46455b3b7538499498954f149280a843be6106
+extra moz-landing-system:lando
+files toolkit/components/search/nsSearchService.js
+patch 297,341,

@@ -1,0 +1,5 @@
+changeset 15e1646fafb92669732b05c7b148f6f29a29263f
+manifest 07ab61351d74dd00f84192044d358fd0c096d2aa
+extra rebase_source:a032f66dfebebd320691d95b54c0925f74030c9d
+files xpcom/base/nsDebugImpl.cpp
+patch 280,354,

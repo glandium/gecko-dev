@@ -1,0 +1,5 @@
+changeset 47b081238ac7be87c4fa4f2b9bcdcba9d443dcc4
+manifest 5200508a92c5b9d60b586e2f2494eb1ebc2c86f5
+extra moz-landing-system:lando
+files browser/themes/shared/identity-block/identity-block.inc.css
+patch 450,494,

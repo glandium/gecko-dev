@@ -1,0 +1,5 @@
+changeset d6ed830430a75fceb4303ad4db9ed93d9b12a2d9
+manifest dc58f623f24567326d74054ce219baf70e1787b2
+extra rebase_source:aeee559d77cab127a4f52a6e83455f6f41454f72
+files dom/xslt/base/txDouble.cpp
+patch 280,354,

@@ -1,0 +1,5 @@
+changeset 5d49624da2d588bc17d16ee5f4c3af845ea87d26
+manifest e461eddd07de00a10d3b80b7de0b4e88e460f3e9
+extra rebase_source:8fa8c65b54a250443fa00629461851609d1145c4
+files browser/components/extensions/parent/ext-browserAction.js
+patch 320,394,

@@ -1,0 +1,5 @@
+changeset 13ddff9cd72f3245d4552f035f45da4caa3f36d1
+manifest 097363286cae68b1658cba98dbdbe791ea5b7982
+extra moz-landing-system:lando
+files taskcluster/docker/funsize-update-generator/scripts/funsize.py
+patch 432,476,

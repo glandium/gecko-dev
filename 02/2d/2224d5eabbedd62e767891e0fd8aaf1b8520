@@ -1,0 +1,5 @@
+changeset 3387f039baf966ab1ae0cb9ee226409208f7d26c
+manifest d3f909a67335849bb9c4d5326416e2a252d5ab24
+extra moz-landing-system:lando
+files mobile/android/modules/FormAssistant.jsm
+patch 378,422,

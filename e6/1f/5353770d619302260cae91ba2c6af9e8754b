@@ -1,0 +1,5 @@
+changeset 06295b3bc400efedb63c48f1b099103211f188b4
+manifest 56b1309a58ac958122bb5ac295a11f6e5ae694c6
+extra rebase_source:9d13d81042fa26ae2e84f5987416dac076debd23
+files mobile/android/extensions/gws-and-facebook-chrome-spoof/bootstrap.js
+patch 409,483,

@@ -1,0 +1,5 @@
+changeset 82925e53eab90a2294d1e51e20b3877d6ed0d3e9
+manifest ce460c99dfb7ba3d3c1156b30d8c5236eefafb77
+extra histedit_source:4900984e39b977eb768a3b313291c365e173e687
+files devtools/client/netmonitor/src/assets/styles/NetworkDetailsPanel.css
+patch 298,374,

@@ -1,0 +1,5 @@
+changeset 0df76d4b7a2744ab8ae900b4605dc6c22a93ca26
+manifest f2784bd7f21ccd2bddee8e2dad05bc98c85f218b
+extra rebase_source:dfef755464072b02d68d80a761be6e40eced9403
+files parser/htmlparser/nsIParser.h
+patch 264,338,

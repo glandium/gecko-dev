@@ -1,0 +1,5 @@
+changeset e7aff1bbcd20a54914a046ead912bcf21cf86e76
+manifest d9c4aa3801d917835f31614c9a650cb99d46c487
+extra moz-landing-system:lando
+files layout/style/test/test_transitions_per_property.html
+patch 718,762,

@@ -1,0 +1,5 @@
+changeset 8c31849e2a065875d203d553219c59387872d1df
+manifest eb3d21936af1880fd32ab64ab12cbc0ce32059e9
+extra rebase_source:b711f37b169f3c93a39fc2af56a9c76c656a9c38
+files ipc/mscom/SpinEvent.cpp
+patch 453,527,

@@ -1,0 +1,5 @@
+changeset 3cdc953fe23584c9b4db3b7cc77c5f29156323c3
+manifest 76adc09d27ce9c4a17a9d11c4d0e11b8cddb3945
+extra rebase_source:29acc17c001c317eb851cfb09af1e451063ceda2
+files testing/mozbase/mozinstall/setup.py
+patch 269,343,

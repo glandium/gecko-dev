@@ -1,0 +1,5 @@
+changeset 7c6d97a76b96a5896fcda2c1b40b18e9f8cf7ee2
+manifest 6638cd22961c3b425b42d9951771bb503e03bab0
+extra rebase_source:0cc2a9502ca739956de7371cf288b6e9bbc446a7
+files testing/talos/talos/tests/devtools/addon/content/tests/webconsole/objectexpand.js
+patch 686,760,

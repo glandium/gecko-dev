@@ -1,0 +1,5 @@
+changeset 3f2e01a2196a226c3a27a86d2954539c7826880c
+manifest 62e8fcdfa819280dd1f2edbfd55a11e85fb8bfed
+extra rebase_source:2e08d85094de12091872b565a1fc8af92b652de6
+files devtools/client/netmonitor/src/utils/l10n.js
+patch 261,335,

@@ -1,0 +1,5 @@
+changeset 80e6c958c849f9b972481564c82a5f39b0a272e5
+manifest f894fb90cdbd00debcaccc47b24e2439b09b111a
+extra rebase_source:ecb363e35dee56a2c4d1c3cd4c5825a7017569ea
+files toolkit/components/places/nsPlacesMacros.h
+patch 287,361,

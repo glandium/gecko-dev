@@ -1,0 +1,5 @@
+changeset 6f8a7015b44870db67a911ecfb9c2585e2993459
+manifest 920e08347cb7429d111b79a53f01abf71f54bd1e
+extra moz-landing-system:lando
+files servo/components/style/rule_tree/mod.rs
+patch 823,867,

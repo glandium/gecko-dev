@@ -1,0 +1,5 @@
+changeset 7e5efe49f034c364260d5f1e0964060693c50d7e
+manifest c06590f0cfc4415a9e85c5715967d57d1faafe9a
+extra rebase_source:e0b2a229f1f4a2e4bd452c233469e3fd92f9b3ce
+files browser/modules/ExtensionsUI.jsm
+patch 308,382,

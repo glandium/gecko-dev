@@ -1,0 +1,5 @@
+changeset 7a96b2b10be318c6716593edea53b5a85bea5c4f
+manifest a66e733d3d98f2ddd3e9bfbb2fe90413f900f063
+extra rebase_source:63eb169666e6b5694e7324f5eb01349189a895ec
+files services/sync/modules/service.js
+patch 330,404,

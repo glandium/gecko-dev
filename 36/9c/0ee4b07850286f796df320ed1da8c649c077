@@ -1,0 +1,5 @@
+changeset 5b3f86194b14c5867311dc93006a8215e8b38df8
+manifest 37e77089d39c9b64b978898d369cf4220bd0e9e6
+extra moz-landing-system:lando
+files browser/components/search/test/browser/browser_searchTelemetry.js
+patch 415,459,

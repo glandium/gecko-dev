@@ -1,0 +1,5 @@
+changeset 7141a7da10208223603df9d309e1d738dbf91892
+manifest 65ee46a420600ac81d2abe401455e77c335218e3
+extra amend_source:06920efff84c1c5ad11a94689e7aeb5bac5b9368
+files js/src/vm/Iteration.cpp
+patch 566,639,

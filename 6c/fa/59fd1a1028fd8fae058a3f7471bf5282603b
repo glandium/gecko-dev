@@ -1,0 +1,5 @@
+changeset d40ebdfc91a0f84e73af05cbf4335b9d3adcb33d
+manifest e6c791dec76f8ebc40bcdd1b9ce7925fc7b6bcdb
+extra moz-landing-system:lando
+files testing/mozbase/mozlog/mozlog/handlers/statushandler.py
+patch 324,368,

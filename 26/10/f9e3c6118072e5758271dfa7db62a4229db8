@@ -1,0 +1,5 @@
+changeset 06b69c1525d00ed5eba203c523b061fd210def1d
+manifest 5246ecb3cd53680b63e69e691f57d0d21e40be35
+extra rebase_source:9c163c7682be1e515dea2015019799ad69fa7d94
+files js/src/vm/EnvironmentObject-inl.h
+patch 310,384,

@@ -1,0 +1,5 @@
+changeset 354e4a21f31095c749db01a8d75a6177f89db497
+manifest cf9a10ab9469d784b10150917e01bee07ca003d1
+extra rebase_source:9a960a74c38b51c8ad549187549b383b916aa45e
+files devtools/client/shared/autocomplete-popup.js
+patch 403,477,

@@ -1,0 +1,5 @@
+changeset 5be96992e33cfdbd85374a419aeb1b8734a2edab
+manifest bc0065766d337ca6d25a7749ad14fab87cbbf7a8
+extra moz-landing-system:lando
+files devtools/client/preferences/devtools-client.js
+patch 318,362,

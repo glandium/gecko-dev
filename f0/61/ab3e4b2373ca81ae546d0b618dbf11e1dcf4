@@ -1,0 +1,5 @@
+changeset b5f1f2c670aeee175f8f0de025fd1aaa1b74578b
+manifest a4b1fb4f9c4610f9d331c6b3f7ce7e59eb62fbc0
+extra moz-landing-system:lando
+files toolkit/components/telemetry/docs/data/main-ping.rst
+patch 316,360,

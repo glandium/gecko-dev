@@ -1,0 +1,5 @@
+changeset 78b17ef09393ab0be8bd3bc65e06bde7aa29a6e7
+manifest c516ad7a7d096025a33a1c61dc94b7f5a71c09de
+extra moz-landing-system:lando
+files layout/base/nsCSSFrameConstructor.cpp
+patch 684,728,

@@ -1,0 +1,5 @@
+changeset cb1a55c678c1bad3e9e6634f7222186ece14e4b3
+manifest 838fee57566f2cdd66e64e818f5d7ded9c579db3
+extra moz-landing-system:lando
+files toolkit/components/cleardata/ClearDataService.js
+patch 566,610,

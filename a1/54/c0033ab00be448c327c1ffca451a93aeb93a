@@ -1,0 +1,4 @@
+changeset 5e0ed7f3ec6d2492540da55b6872a856096a6b9e
+manifest 2a9f5a8dc2ece326b78ccf8691d98d442ea43aed
+files taskcluster/taskgraph/util/attributes.py
+patch 197,198,

@@ -1,0 +1,5 @@
+changeset 49adeee1a1946e4aa452ff29f2bca4445aebe200
+manifest 262c50108f4f70365466660bee4fb756816de84c
+extra moz-landing-system:lando
+files dom/base/nsRange.cpp
+patch 332,376,

@@ -1,0 +1,5 @@
+changeset 3bd2221b034d4a57fd97df85fc64a60c5ba3478b
+manifest f33cba547b277e1972377ec6940cafc9c445ae2e
+extra rebase_source:0c1b07d4bbac889c686d95ce0d1182835cb119a6
+files js/src/jsapi-tests/testHashTable.cpp
+patch 262,336,

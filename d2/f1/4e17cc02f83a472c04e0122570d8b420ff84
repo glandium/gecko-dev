@@ -1,0 +1,5 @@
+changeset c2d9f82adf43371bf0f70406b476ac29f97c6196
+manifest 960c01f640953f3cefec50c122f7f50489ce970c
+extra moz-landing-system:lando
+files netwerk/protocol/http/nsCORSListenerProxy.cpp
+patch 301,345,

@@ -1,0 +1,5 @@
+changeset 6f83e51a6d78b812e9dac2ae3c3638af1b0c86c1
+manifest 25b11ca6439549e9cb72f77a4240716dabe9618e
+extra rebase_source:cc140e33a687896dfb3b00009f86dd917cf00241
+files toolkit/components/extensions/ext-c-test.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 80293ee27bc56e6f30b4078875ee652427a5421b
+manifest 268695a0068b06396ca210291bb0b2e529924873
+extra rebase_source:6e9bf4091b30cb7d9d2354b64a7635ac61542833
+files browser/components/extensions/test/xpcshell/test_ext_url_overrides_newtab.js
+patch 365,439,

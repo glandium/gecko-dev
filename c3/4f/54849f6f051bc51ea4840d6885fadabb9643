@@ -1,0 +1,5 @@
+changeset e63355818e190b9ac2a792f372b7300d00e3ef45
+manifest f5b56f8eb204152b59ddd68ffd4ac4b988375288
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_sidebar_usb_runtime.js
+patch 494,538,

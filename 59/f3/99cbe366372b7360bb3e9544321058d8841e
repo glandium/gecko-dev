@@ -1,0 +1,5 @@
+changeset 6dc562a7aefaa0d557c32f2957b25a2a1424bdec
+manifest c39cbad91ec93511418818281c818b70a9d4c725
+extra rebase_source:17b882071cc03f983f34fccf5cb7e6e12e9899b6
+files js/src/frontend/EitherParser.h
+patch 367,441,

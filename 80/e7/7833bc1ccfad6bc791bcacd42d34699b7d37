@@ -1,0 +1,5 @@
+changeset be7be382998cbf30b8c2291d6d4806058e0f1cf4
+manifest 30e373486e41d7f840ebc478d2ffb6f1ec8fd494
+extra rebase_source:a7bf559a4093dd9a0447e195dd3e8dccd67619df
+files browser/components/extensions/ext-geckoProfiler.js
+patch 302,376,

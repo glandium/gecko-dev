@@ -1,0 +1,5 @@
+changeset 3eac4fd0f048122c0efd3da04ba0c97d4ea54ac7
+manifest 00a218a9cb84159965ce648a6399231c2c63bee3
+extra rebase_source:dc546098c3ed7f8b2e162bf6f26ab87191dba186
+files tools/profiler/gecko/nsProfiler.cpp
+patch 302,376,

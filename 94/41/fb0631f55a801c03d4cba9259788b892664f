@@ -1,0 +1,5 @@
+changeset 8c8ef5ecd85f168a8362d7ccec5330510d237c2b
+manifest 3fad2ecabf0d1bbcf54ad0d4dc3a63d9bd201977
+extra rebase_source:35e1f16e0c6a9f24819c6d448a88a1a3504c4e5a
+files devtools/client/inspector/fonts/components/FontSize.js
+patch 320,394,

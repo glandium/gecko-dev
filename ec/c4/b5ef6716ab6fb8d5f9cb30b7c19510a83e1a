@@ -1,0 +1,5 @@
+changeset 968f61ec282890ac3a69540cb4fdc3b1648f9273
+manifest 9da6469876fa6cf7b7fdfd7a7f81eff13a98130c
+extra rebase_source:d1ae0def3418235632b2ac8d671d4e8d3f6fa2b4
+files ipc/mscom/VTableBuilder.h
+patch 280,354,

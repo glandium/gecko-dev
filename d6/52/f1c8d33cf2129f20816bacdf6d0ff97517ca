@@ -1,0 +1,5 @@
+changeset 723af5c4a100e82ec21605eac9367c2b8487a7e0
+manifest 61c4fb9521b861ffb9ecc07203fdc749f7808454
+extra moz-landing-system:lando
+files layout/generic/nsIFrame.h
+patch 318,362,

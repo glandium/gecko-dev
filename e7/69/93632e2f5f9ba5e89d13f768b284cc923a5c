@@ -1,0 +1,5 @@
+changeset 0f782497fb09c037fd5a7bf977641cde1dd2202e
+manifest 31bed283592e7f0d200c3494639852dcbd18b533
+extra rebase_source:075164b921ee9b7a2ab0261251688dc4e3950b29
+files mobile/android/base/java/org/mozilla/gecko/home/TabMenuStripLayout.java
+patch 639,713,

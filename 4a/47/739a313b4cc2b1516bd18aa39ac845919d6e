@@ -1,0 +1,5 @@
+changeset c3af9177e369dd38f84b3951f79121c9a9a2f70b
+manifest f302471ec94afa92e73ebb93a7177efe996a731b
+extra rebase_source:86ee525b0539c80e47e4326a3f111a3fc84d0a6e
+files python/mozbuild/mozbuild/frontend/mach_commands.py
+patch 395,469,

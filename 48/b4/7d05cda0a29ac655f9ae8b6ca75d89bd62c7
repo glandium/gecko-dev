@@ -1,0 +1,5 @@
+changeset 79c280bcb1d258e416a070c37c77b242bc71a772
+manifest cd07e51f112ff241cdbd5ac3c9bc9c5c507074ae
+extra moz-landing-system:lando
+files testing/mozharness/scripts/web_platform_tests.py
+patch 479,523,

@@ -1,0 +1,4 @@
+changeset 59610ddb2e339d6324ae4551e9207b6a13217255
+manifest 50ab1d96cb11a509f64d01145616543693845b40
+files servo/components/script/dom/storage.rs
+patch 344,345,

@@ -1,0 +1,5 @@
+changeset f72fd25e822fc7c8f625a0b6f659a7aaee4d4a41
+manifest d1924a8b0c76ff1f3433f06218bf7d0ea57ebcb1
+extra rebase_source:09c9bc2b61f83d5316fd46f2da2e8a15dc986060
+files js/src/jit-test/tests/saved-stacks/async-implicit.js
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset df938148d900a6010c1a31471e7939d7282a53b5
+manifest 23ff87a646a145275007577f7a034682e82482dd
+extra moz-landing-system:lando
+files devtools/client/webconsole/test/mochitest/browser_jsterm_screenshot_command_clipboard.js
+patch 539,583,

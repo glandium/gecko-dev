@@ -1,0 +1,5 @@
+changeset 49ee481c49deb265e1174c4a9936c5a758ece05b
+manifest a2d54792876e1e7c11c075f7204807737c44b30e
+extra rebase_source:7d6d3126bf5f5c8d4c26077490f62b66944c539b
+files js/src/vm/BytecodeUtil.cpp
+patch 242,316,

@@ -1,0 +1,5 @@
+changeset fd3d6fae1c8fd8660b1c7f55d2a42f36bc1292cb
+manifest c5a0d1d0a16f99a7a61b34e702447e753049ea15
+extra rebase_source:f303d414e0ab8f73bec0fa14daaa32d7082455e2
+files gfx/cairo/cairo/src/cairo-d2d-surface.cpp
+patch 300,374,

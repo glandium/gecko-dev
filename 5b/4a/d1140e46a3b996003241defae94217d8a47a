@@ -1,0 +1,5 @@
+changeset 2e3e20b3d7f72ae639dc1fee9a369927b79c1989
+manifest 985fd4097c01c1c4ffb0f514eca09093a9ca8c7a
+extra rebase_source:6619cf51db1ab7d7feec95f49ea7310bcfe72a4d
+files js/src/jsarray.cpp
+patch 292,366,

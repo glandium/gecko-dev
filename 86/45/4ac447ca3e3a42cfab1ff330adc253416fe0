@@ -1,0 +1,4 @@
+changeset b1fcd408f1bb3b99ef896e1cd47e847aba97eaf3
+manifest 12f9a249713719c88f111bb5bb5f3f407bd397e9
+files testing/web-platform/meta/content-security-policy/inheritance/blob-url-self-navigate-inherits.sub.html.ini
+patch 356,357,

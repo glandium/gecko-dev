@@ -1,0 +1,5 @@
+changeset 8c3b459026284690b502a26f39b79c869eaa3ab7
+manifest afb9de528f44940fea7c0921fe2c3256a89143c8
+extra rebase_source:ae4b0e80c5a655dc4ce27cc0945cb7cea2d0cab1
+files layout/reftests/invalidation/reftest-stylo.list
+patch 427,501,

@@ -1,0 +1,5 @@
+changeset fa7711419df0a365240600579b5c0f91ef9a24be
+manifest 1f0257abd6b0f44b23da9db8b24b8cef37288d8f
+extra rebase_source:2f60f73674f9bc80fe475551753d58b7dd9dedd1
+files browser/themes/shared/customizableui/customizeMode.inc.css
+patch 331,405,

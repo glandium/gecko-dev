@@ -1,0 +1,5 @@
+changeset 79c92ef1061b290ec61b3907cb719930a07352a6
+manifest a42708f490cc5a9e36277e45169e555322013f05
+extra rebase_source:d1da5420ccf99cab9c0e96c869059d0feb63fbb7
+files testing/marionette/harness/marionette_harness/tests/unit/test_window_rect.py
+patch 510,584,

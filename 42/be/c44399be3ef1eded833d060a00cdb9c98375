@@ -1,0 +1,5 @@
+changeset 6fe40d8edcf64beeac5573c00e1b33e88e838578
+manifest 45f0b996e1d1c7557a07053d12da93bedb7a2af3
+extra rebase_source:b36a4ef7da6fb6b6ef7a1a82c56aa489e10935d5
+files layout/generic/nsColumnSetFrame.cpp
+patch 354,428,

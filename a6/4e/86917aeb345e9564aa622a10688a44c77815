@@ -1,0 +1,5 @@
+changeset 09e9cefc19ca63fe9e6d78133d45a05b70285cdc
+manifest 8618341f20cb182a070ec5f53dbe1dd38df7f8ae
+extra moz-landing-system:lando
+files testing/geckodriver/src/marionette.rs
+patch 1054,1098,

@@ -1,0 +1,5 @@
+changeset 6701a2214b3b8e300f725eedc424b9a93c168492
+manifest 72fdb36db931028eb8b0bdacf68a0f340f3bb1a5
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/LayerSession.java
+patch 331,375,

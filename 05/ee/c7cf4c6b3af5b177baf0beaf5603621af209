@@ -1,0 +1,5 @@
+changeset 5345e8472f29cd844c8218b50051c01f8aa12aee
+manifest 5a1d137e2d19faab4ebc4e7529d3dccf9a0b0390
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_runtime_usbclient_closed.js
+patch 401,445,

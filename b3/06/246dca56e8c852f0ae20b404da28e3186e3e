@@ -1,0 +1,5 @@
+changeset 92d0fb788d053f7c5e37dc09be675b2b4bbefc36
+manifest a562d77ac1bb35396af7734d186b8f3a231d2b84
+extra rebase_source:a6a08ef7599cbd7cbd8cb57543da79e942c84124
+files mobile/android/app/src/main/res/layout/customtabs_activity.xml
+patch 321,395,

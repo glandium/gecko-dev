@@ -1,0 +1,5 @@
+changeset ceab588f0348974b452af5c9f9a76d0b2983914a
+manifest 17a6c4f5bb852f594fd69202d6793205557571f7
+extra rebase_source:2a06e543de79054946f97b3f3474dbb1316ef942
+files browser/components/places/content/editBookmarkOverlay.js
+patch 392,466,

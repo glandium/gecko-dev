@@ -1,0 +1,5 @@
+changeset 5ededad9baca82c9f00e2a2d0232d021a8c5890b
+manifest 341b48015efd3665a9da595b324dd3f44562d9c0
+extra rebase_source:3784d6095f23d0b6ef071025f89cea6343c36303
+files dom/base/nsIDocumentInlines.h
+patch 383,457,

@@ -1,0 +1,5 @@
+changeset 8efb5f963758e3f8309f91b5d0dfbc04bcb8dd80
+manifest 2e71ddbdbf00deb37fd96edd7414673069bc2d27
+extra moz-landing-system:lando
+files devtools/client/themes/rules.css
+patch 337,381,

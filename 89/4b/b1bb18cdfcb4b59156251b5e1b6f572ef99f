@@ -1,0 +1,5 @@
+changeset 4cfa567d738036fb0f276d4d434b73cf8cfa3192
+manifest 48f171368f0b2c90c8cc7007be5c5359de48c1a0
+extra moz-landing-system:lando
+files browser/components/urlbar/tests/browser/browser_UrlbarInput_overflow.js
+patch 341,385,

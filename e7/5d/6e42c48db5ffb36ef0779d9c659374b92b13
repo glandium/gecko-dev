@@ -1,0 +1,5 @@
+changeset 17f52807a3169be83050845352d8b27d9eb693e2
+manifest c018bf3fddcbe6ef66b96dcb1978545ed87a44f8
+extra rebase_source:2adeed63f88ca39a71feec60627fb812b76d3bb4
+files mobile/android/config/proguard/appcompat-v7-keeps.cfg
+patch 692,766,

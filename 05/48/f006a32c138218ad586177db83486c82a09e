@@ -1,0 +1,4 @@
+changeset 5b52d51bbaf2f6c8c6388b5bc22b0b8fe1172eba
+manifest 40c8ab42dd82fe6237fffba57793e59e890fe4ec
+files modules/fdlibm/patches/17_compare_atan2_x_to_1_no_signed_overflow.patch
+patch 206,207,

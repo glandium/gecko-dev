@@ -1,0 +1,5 @@
+changeset cdf6161812fb21b313e9c146b4a74079960ae7bc
+manifest c1dc98bc0dcd5cb0ca66195cb94b4a68fb09745e
+extra rebase_source:2248a07635cd558db4c228b2d755eaec186483be
+files devtools/client/aboutdebugging-new/src/components/ConnectPage.js
+patch 345,419,

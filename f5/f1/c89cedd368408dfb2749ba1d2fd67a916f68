@@ -1,0 +1,5 @@
+changeset fd2948cdf0a5d04695e80c52d6923dab6eadb8ae
+manifest f74e147d9abc1e9e939459d5447e9033b6f1583a
+extra rebase_source:c1862d866caf1808300b174c5bc75f7f3cbddbb3
+files browser/modules/test/browser/browser_BrowserUITelemetry_syncedtabs.js
+patch 339,413,

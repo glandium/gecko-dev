@@ -1,0 +1,5 @@
+changeset 000f58399e4f434bdb8ab0c4c3c8a1f384902332
+manifest 0a5a932acea3d69944303358cda466c134a8daf4
+extra rebase_source:2e7b2c339ee6b8242c50816ed248d0b0dbf4b8fb
+files dom/canvas/moz.build
+patch 287,361,

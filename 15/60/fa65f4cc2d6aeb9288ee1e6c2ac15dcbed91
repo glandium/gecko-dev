@@ -1,0 +1,5 @@
+changeset 1878cd54d8a2d10308c149edcfd562632cb00c41
+manifest ae821645baf3cb6ab299bb92507a358ceb16be19
+extra rebase_source:d7a9f5ab09fcb97d5f6319e5fa1fca1a4f72aa52
+files netwerk/streamconv/converters/ParseFTPList.cpp
+patch 1232,1306,

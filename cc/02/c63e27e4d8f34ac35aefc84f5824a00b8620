@@ -1,0 +1,5 @@
+changeset 6a40296e9ca90d09af8135d3e82442bc7d57791d
+manifest 04180d2fe733f11b65bf83622a710a6b99e70b35
+extra rebase_source:7b5938a3a7687e7072352aa65674631d2b1ee429
+files devtools/shared/adb/adb.js
+patch 569,643,

@@ -1,0 +1,5 @@
+changeset 5dd5d0243a90df238e62ba6e4e5bd03e62bd7568
+manifest 79bf994874fb5e538586a5424c622d5bb26f0847
+extra rebase_source:ba078e828bb2d1bd25322fedb447ef62ba656a98
+files devtools/client/themes/animationinspector.css
+patch 319,393,

@@ -1,0 +1,5 @@
+changeset 4904e5bf5df7cc1f2f676272266d13e71c317ca5
+manifest a7cc30fd82c22afcc2f4759708f1a6e654468e65
+extra moz-landing-system:lando
+files testing/web-platform/meta/html/browsers/browsing-the-web/history-traversal/window-name-after-cross-origin-aux-frame-navigation.sub.html.ini
+patch 377,421,

@@ -1,0 +1,5 @@
+changeset 4f84a053b1b41518f96bcd4620a44d5acb5c3fad
+manifest 9fa6ab4f2a7726696b3097b15ee18e2f8e9b0b61
+extra rebase_source:a93e0dea52938f00ba9b6875bcdeb623022bb640
+files toolkit/components/extensions/test/xpcshell/test_ext_experiments.js
+patch 321,395,

@@ -1,0 +1,5 @@
+changeset 3a4b8a6a0881ee031ce226f7a725d283e28f1137
+manifest aa24bf0ddd3d85f1d2143f5d3b8ba7e41b84f466
+extra moz-landing-system:lando
+files browser/components/payments/test/browser/browser.ini
+patch 346,390,

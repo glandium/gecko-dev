@@ -1,0 +1,5 @@
+changeset c77cf5e040b649a47008d21ca6d49e44fec20e10
+manifest 1b8981d8f416725d448e9f14e04eb729cb065b8a
+extra moz-landing-system:lando
+files toolkit/content/widgets/videocontrols.js
+patch 527,571,

@@ -1,0 +1,5 @@
+changeset 4809c54d1cecad8a2bf3470fff09d69807423506
+manifest dca8ff5e8307c9cc560d1de5c7787bff1f2928cd
+extra rebase_source:14a32a13710965cc8a18eaca3008cdf468ab6065
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabStrip.java
+patch 309,383,

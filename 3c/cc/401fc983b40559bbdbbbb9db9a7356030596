@@ -1,0 +1,5 @@
+changeset 51394984ff2b3338e0f1ba759c6b64a91ab39200
+manifest 9950888b9dde1d583ae04652895220461845923f
+extra rebase_source:d665f7713612b76f7b36ca3d2ace1e6659bb5099
+files dom/gamepad/windows/WindowsGamepad.cpp
+patch 494,568,

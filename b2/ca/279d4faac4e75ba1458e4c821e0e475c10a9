@@ -1,0 +1,5 @@
+changeset 2db2c61d036c195934fc2bccbc48dc4a53f11223
+manifest fa2971607a25b203185bef2364092274f0c26d09
+extra rebase_source:1ee201c1f0049b02fb57679908915920226592a2
+files xpcom/threads/nsThreadUtils.cpp
+patch 470,544,

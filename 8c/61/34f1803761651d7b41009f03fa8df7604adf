@@ -1,0 +1,5 @@
+changeset 40eeaf5f1230f959b1d3116214ecb2b03e0d6f8d
+manifest 204df726e09343ae909959aed750bee4c6773e77
+extra rebase_source:3bfabb2b10fa5a8996f786910e0d7eb9916ce9ac
+files browser/themes/shared/syncedtabs/sidebar.inc.css
+patch 298,372,

@@ -1,0 +1,4 @@
+changeset 9c364b2c35d3e6af0b8585258d6ab0a336d8c0e7
+manifest 3ce5a99589909b4ed33b9aa6aed912d05efec364
+files xpcom/base/CycleCollectedJSRuntime.cpp
+patch 304,305,

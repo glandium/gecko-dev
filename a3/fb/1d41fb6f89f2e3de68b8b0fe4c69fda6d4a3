@@ -1,0 +1,5 @@
+changeset f66e161dd72f83f0bc87fbfe00415379deee5352
+manifest 9de94c00b6922855f52e44bd7cd647758a9b4bde
+extra rebase_source:bea3a2a6c02fa7689b0b2437567dfb91d03701a0
+files browser/components/customizableui/test/browser_989751_subviewbutton_class.js
+patch 376,450,

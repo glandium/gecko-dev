@@ -1,0 +1,5 @@
+changeset 0c768d3f9ba4a1171d208ce9eed8f52cd86a7858
+manifest 4cccb677ed32d826e4f42653dff1ba494b97527a
+extra rebase_source:8b0c7a7da06e7da31c71e0271b7e0da338f1972e
+files browser/extensions/formautofill/test/mochitest/test_address_level_1_submission.html
+patch 392,466,

@@ -1,0 +1,5 @@
+changeset 75c7af226bcfdeda647e2637064c9792d72af1ac
+manifest 053c47c971b8bad37b76fd1c79520d6b61e074c1
+extra moz-landing-system:lando
+files toolkit/mozapps/installer/informulate.py
+patch 308,352,

@@ -1,0 +1,5 @@
+changeset 6d33d3de96d29d1f6ade36b55c556746cd59e0a7
+manifest dccb7cf84b426ebf40a30b06473f7d0b75e6bc4d
+extra rebase_source:6e18d49dada70abe1fbb202f2d4e280f46b3487f
+files tools/rewriting/ThirdPartyPaths.txt
+patch 286,360,

@@ -1,0 +1,5 @@
+changeset e36b5e90262d89363d3ad0fa78f5beb94706a532
+manifest bfebeba8d3a0cc7a3eea49271194b33ed90286f4
+extra rebase_source:82afdecf915cd09cc3eaed948587b87d8ac4173b
+files accessible/windows/msaa/RootAccessibleWrap.cpp
+patch 612,686,

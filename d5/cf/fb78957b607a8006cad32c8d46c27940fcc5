@@ -1,0 +1,5 @@
+changeset abb82362d85b137b26ff42cb261dead6f0ce2ac8
+manifest 4741e19325b68b44c782fb9b63cf8c487fc302bb
+extra rebase_source:3859abca294230d6bc7061ee8b807191790f822b
+files accessible/ipc/DocAccessibleParent.cpp
+patch 283,357,

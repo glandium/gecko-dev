@@ -1,0 +1,5 @@
+changeset 3dcdff5c8b38cddf416c3a062c48c1619b119a6f
+manifest bedcec9ad545be9fc77c0858d32f3dd396ac64c8
+extra moz-landing-system:lando
+files browser/components/enterprisepolicies/tests/browser/browser_policy_locale.js
+patch 309,353,

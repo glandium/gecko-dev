@@ -1,0 +1,5 @@
+changeset 1978d3213a4b6f04d3a693958d5a1a6ee87cd14b
+manifest a87274518ac6e47b7acd938e87a62990fa20cf12
+extra rebase_source:57bbdb4f0d7ae0789dfc095fd4b6c99ad780f1ad
+files xpcom/threads/CooperativeThreadPool.h
+patch 391,465,

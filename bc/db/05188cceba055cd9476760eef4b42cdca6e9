@@ -1,0 +1,5 @@
+changeset 85715bafc947c4502765d61490e4b7711d72afe4
+manifest 2807126aaa33cf8bd392a57b90797c76ba690470
+extra moz-landing-system:lando
+files build/moz.configure/compile-checks.configure
+patch 344,388,

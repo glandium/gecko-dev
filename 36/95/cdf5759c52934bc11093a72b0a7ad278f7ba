@@ -1,0 +1,4 @@
+changeset bef0af13e60ea84e2f954ee3a693e6db4cedb1d6
+manifest 015f92b024c2fa22b225d6428a95fa05075737c1
+files devtools/client/shared/redux/middleware/log.js
+patch 433,434,

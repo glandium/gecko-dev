@@ -1,0 +1,5 @@
+changeset 453e9dd459a2a30a7e2dc6a0c847834f461c4d84
+manifest f9260882c0676c315fa1f176e7b77f1f23eeb92a
+extra rebase_source:6255f47ef9a21673bb2b809f41529cc877cc30ba
+files devtools/client/inspector/animation/animation.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 23e46ff286f5b24a830449e8909b0c5359937280
+manifest 6b5dd3c48bd28c115f18d474b59fa880a95f8f7c
+extra rebase_source:e9b418c8adefa8459e04b3ad65e17e376a9369ad
+files mobile/android/base/java/org/mozilla/gecko/ActionBarTextSelection.java
+patch 358,432,

@@ -1,0 +1,5 @@
+changeset 90deb122d260c1547228ed2ac05e26750775f224
+manifest f2657ba9ada636e377e7c92b42d6a7a932a72cf6
+extra rebase_source:2067e081a653cc10b1f8fcad7e03b8909bcef0d5
+files browser/base/content/browser-captivePortal.js
+patch 328,402,

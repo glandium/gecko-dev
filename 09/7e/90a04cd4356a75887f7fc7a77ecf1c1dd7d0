@@ -1,0 +1,5 @@
+changeset 2b0dc8617306db983d48a0923be06b21770d5154
+manifest 5d07f346523e46790a2b2f0a2fa00e7b5d518909
+extra rebase_source:82284076bcff9fa34d7410b22ce90bb6182d3a09
+files js/xpconnect/tests/chrome/test_onGarbageCollection.html
+patch 332,406,

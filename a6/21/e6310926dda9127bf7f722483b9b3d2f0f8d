@@ -1,0 +1,4 @@
+changeset 8def89fd63a0b2f819a73e2a4a0fad50a5331715
+manifest bf3cf208e74d3c99f56031895a0356f678428555
+files js/xpconnect/tests/mochitest/test_nukeContentWindow.html
+patch 376,377,

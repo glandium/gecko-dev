@@ -1,0 +1,5 @@
+changeset 7ee8f1e428c099f81e0d5e1b1f30778a948da070
+manifest 201415973c09bcdb3347f967b535aca33911105d
+extra rebase_source:33fbd5f8f50ac19827a5adbf22fcdc5129f123d7
+files mobile/android/base/java/org/mozilla/gecko/media/CodecProxy.java
+patch 307,381,

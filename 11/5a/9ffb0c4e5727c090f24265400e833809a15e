@@ -1,0 +1,5 @@
+changeset 4c6dc1727f183d854c6deb9aca9922b94d5d3567
+manifest 9d4e263af63f6e9b3963ebccc1c39232257897e2
+extra rebase_source:573e42c3237b11d6747ed45bc3ae3d86aeb0a4b3
+files layout/reftests/mathml/font-inflation-1.html
+patch 921,995,

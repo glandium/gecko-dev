@@ -1,0 +1,5 @@
+changeset 58de007dbd7da52ae2f74b0c9069b885ac9cfd12
+manifest 39e59cc632099ce48c76e0e5d630a900c482b7de
+extra rebase_source:2ff5485477f46560e40fbdfb26e8bf4f48a3f05f
+files browser/base/content/test/performance/browser_startup_images.js
+patch 332,406,

@@ -1,0 +1,5 @@
+changeset f5faf952c6d24e59b821018887e355f9af526bf0
+manifest be82ab14221e1e0feca579a7118aefb907829c66
+extra moz-landing-system:lando
+files devtools/shared/protocol.js
+patch 277,321,

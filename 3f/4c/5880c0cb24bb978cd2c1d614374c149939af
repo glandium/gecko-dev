@@ -1,0 +1,6 @@
+changeset c5e8b08a463535b443c21b95beea7325783ac656
+manifest 55fe178629209493cd8100a1c629f694deba7e39
+author Dan Mosedale <<dmose@mozilla.org>>
+extra rebase_source:a016340a435e388abdf28e876cc00b3d391327c7
+files browser/components/sessionstore/test/browser_background_tab_crash.js
+patch 344,418,

@@ -1,0 +1,5 @@
+changeset 36802e2a349090305f53f7ef345bfe6a3f324243
+manifest e924ce1d52f64c53b2ea4bb4a0059438b3e2541a
+extra moz-landing-system:lando
+files ipc/glue/MessageChannel.cpp
+patch 438,482,

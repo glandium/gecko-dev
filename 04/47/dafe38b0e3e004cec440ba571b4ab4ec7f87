@@ -1,0 +1,5 @@
+changeset 2e0ade0abeb9101a4a6b021a16488d385d9509f9
+manifest e73c128e0012edbc2d8c66d62ab474cf4e1d4ac0
+extra rebase_source:2a93bfb7499890fdcf407f68113d2fc03bc32f40
+files devtools/client/animationinspector/animation-controller.js
+patch 321,395,

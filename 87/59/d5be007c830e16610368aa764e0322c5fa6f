@@ -1,0 +1,5 @@
+changeset 1fb76b9b6f82209e109d05c5141532b9de2fd32b
+manifest 5618151f7276f1839e90911bd389f403f882dd03
+extra rebase_source:8c26a7555ceeb5b86be0572b06813031655e06da
+files testing/talos/talos/startup_test/sessionrestore/addon/bootstrap.js
+patch 350,424,

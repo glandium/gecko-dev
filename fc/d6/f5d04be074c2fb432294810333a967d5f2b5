@@ -1,0 +1,5 @@
+changeset ab50ae6fe4e485b7e9c40f7a76c60699c56d2482
+manifest 81a20df988f38dca8b54eaeb62535d889fdd2dd0
+extra rebase_source:60ba0ac37fc61bb3fc874230cc54e6147bd1b13b
+files devtools/client/shared/components/tree.js
+patch 857,931,

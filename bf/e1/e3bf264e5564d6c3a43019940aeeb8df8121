@@ -1,0 +1,5 @@
+changeset 9c8e2b62ae5876e4b8895833dcd15b80f7dbb110
+manifest 99891535c29066f4d94ff5599d66251183e6f2fd
+extra rebase_source:6c8f18ca73b7dfd8c9d761ccbde6986ba9d3a5e2
+files browser/config/mozconfigs/linux64/tup
+patch 279,353,

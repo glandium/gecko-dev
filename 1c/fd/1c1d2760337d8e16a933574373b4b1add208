@@ -1,0 +1,5 @@
+changeset 231b53d76122680bb682eb74cc73615a9a554f31
+manifest 1bdff6a785c7e0c3dafd87df1b7bbcece2bfe05d
+extra amend_source:1913581cbc6f5f3b9e102fcdc939f39c5b84d64e
+files js/src/wasm/cranelift/build.rs
+patch 251,324,

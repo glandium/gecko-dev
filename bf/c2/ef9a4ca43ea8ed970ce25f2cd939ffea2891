@@ -1,0 +1,5 @@
+changeset 355a7da0154cf99a7914a73e26102749cc84cf91
+manifest 6d5000bf58f6feacacc192cea21a696dd95f4e4d
+extra rebase_source:972a55ca9ef7549d896e9e96be6edc97027468cb
+files browser/base/content/test/performance/browser_appmenu_reflows.js
+patch 368,442,

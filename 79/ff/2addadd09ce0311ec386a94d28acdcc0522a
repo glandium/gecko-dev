@@ -1,0 +1,5 @@
+changeset e4adbe48c7a436e1eea143c52a7f374cba2639c5
+manifest fe4e4986910f57620dc7e31e4263e01aeca57d8c
+extra rebase_source:147d5331f7e9f71181e71e54aa69bc67dfd3452e
+files js/src/threading/posix/Thread.cpp
+patch 276,350,

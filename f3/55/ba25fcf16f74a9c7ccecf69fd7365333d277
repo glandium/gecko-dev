@@ -1,0 +1,5 @@
+changeset beafe16ced2ac9ad29b8906bcc0174209d22762c
+manifest bd95583c76794f81b91a85a30e4fb16e3fdb08b7
+extra rebase_source:87e622d52b97407aab7ec98d576b97b40c83bc5c
+files mobile/android/components/geckoview/GeckoViewStartup.js
+patch 451,525,

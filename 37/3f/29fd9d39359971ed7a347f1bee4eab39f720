@@ -1,0 +1,5 @@
+changeset 9fa127e6df5659a424ab6a187a03a5c99b1c9bec
+manifest ac1d3f3b8cabd9ed6eef779c847779e2bdfcaf81
+extra rebase_source:64da9efe122bae6225bdb66e087ef234b8c2ce3c
+files services/settings/remote-settings.js
+patch 294,368,

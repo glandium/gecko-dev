@@ -1,0 +1,5 @@
+changeset 95c1e899eab6eadae8abc9981dd4dbf4e0ad516d
+manifest 8b371f8f3e847fac5b47e91ca1c10c9934352031
+extra rebase_source:ff624cb79162336eae3e60d041501f868071dd18
+files dom/media/imagecapture/CaptureTask.cpp
+patch 313,387,

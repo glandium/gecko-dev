@@ -1,0 +1,5 @@
+changeset 3cb3b2425a447a3a47edc713cfdaf2f708046da4
+manifest 21bb2647f54d4bd269652597024ef23d7c0fb39b
+extra rebase_source:9dc1e723632c1821af5299e6f91c54471c4855f6
+files services/fxaccounts/FxAccountsConfig.jsm
+patch 333,407,

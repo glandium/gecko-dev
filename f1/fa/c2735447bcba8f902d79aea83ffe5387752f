@@ -1,0 +1,4 @@
+changeset afa19305d88a6506b953300be9757a8f9c4931ce
+manifest bde15009212f840373276122e503117a2f58bf9e
+files taskcluster/docker/recipes/ubuntu1204-test-system-setup.sh
+patch 219,220,

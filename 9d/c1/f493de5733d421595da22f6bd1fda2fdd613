@@ -1,0 +1,5 @@
+changeset c30316708edcc4da5e3aebf211dc5e1662cfae48
+manifest 07d78b6e4eb98bcf4dd61f4a23a53e07195872d0
+extra moz-landing-system:lando
+files dom/security/nsContentSecurityManager.cpp
+patch 322,366,

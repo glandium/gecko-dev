@@ -1,0 +1,5 @@
+changeset e7cc6e7ba5597b32e4975f713c85598470b3fbb3
+manifest 46b685adadec45be8f311a068fe6159d626d8aa7
+extra rebase_source:60d9dc3223e3c3ae0ff72e6685ae8950eda5451f
+files devtools/client/shared/webpack/rewrite-lazy-require.js
+patch 313,387,

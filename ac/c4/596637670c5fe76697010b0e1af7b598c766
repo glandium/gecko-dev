@@ -1,0 +1,5 @@
+changeset 6d95f23e7ea20ff6b2a5dbd0af8627c60d3b1d1c
+manifest 0de936ddf766bab646d149f5100ad674382ea46b
+extra moz-landing-system:lando
+files xpcom/string/nsTSubstring.cpp
+patch 358,402,

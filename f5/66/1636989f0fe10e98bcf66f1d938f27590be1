@@ -1,0 +1,5 @@
+changeset 73e2097aa0c3347c3fe743d125a10bb565b0e099
+manifest 3d47ba8f3bb8557b19ecd940e9f82adab02184e4
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/LookupCache.h
+patch 1096,1140,

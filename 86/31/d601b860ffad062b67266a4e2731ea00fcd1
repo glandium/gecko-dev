@@ -1,0 +1,5 @@
+changeset 2cb5c90e995c099aae97febb6723947722bd3149
+manifest 6dbb55b58c4f83db95eedae48196fc5fec1fbed6
+extra rebase_source:58c374baf6d5d6af778829f9ca708e8aa3372899
+files layout/generic/nsFrameList.h
+patch 299,373,

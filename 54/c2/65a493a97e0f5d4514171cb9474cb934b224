@@ -1,0 +1,5 @@
+changeset bbe0e551c44db6dffda2bb64e2e6a6715e5f7347
+manifest e1ea46ca58c28a72ea22b3a55c07fd10b855ccbb
+extra moz-landing-system:lando
+files browser/locales/en-US/browser/newtab/asrouter.ftl
+patch 307,351,

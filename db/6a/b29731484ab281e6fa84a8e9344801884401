@@ -1,0 +1,5 @@
+changeset 809a0de511f9e2a133176a539bc969ca101c5e56
+manifest 3daaedc73fb1e03ad3a45b585afee6b85fe97b55
+extra rebase_source:a923aef5c25e231771aeca63a83de04259d7c879
+files addon-sdk/source/test/test-ui-action-button.js
+patch 337,411,

@@ -1,0 +1,5 @@
+changeset cf1b369f61b87128cd484c1e0c46d1adfecbb053
+manifest 9b095f46d46c1b9b9ca0f6355c8a1aa8a9e4b87a
+extra rebase_source:b74c267295c836c13352e9d8d403f551883d047f
+files js/src/jit-test/tests/parser/arrow-rest.js
+patch 294,368,

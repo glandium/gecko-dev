@@ -1,0 +1,5 @@
+changeset bb814f1d5ae08a08eb89bbbb786f24c1a22a3825
+manifest ce500a9ced041988dc52636c621716ac2692e763
+extra rebase_source:3b0ade2ba5ba72550d3f19ec2105c9cb2ee8846c
+files mobile/android/base/java/org/mozilla/gecko/mma/MmaDelegate.java
+patch 301,375,

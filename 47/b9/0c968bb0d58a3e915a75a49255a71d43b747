@@ -1,0 +1,4 @@
+changeset 42e03d62106bbd3f913516dced4ac7168eded299
+manifest 6046c8fa2837b55486f79105cf02db58b387f0cc
+files tools/profiler/gecko/ProfilerChild.cpp
+patch 344,345,

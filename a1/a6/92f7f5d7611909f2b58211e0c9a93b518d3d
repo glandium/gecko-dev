@@ -1,0 +1,5 @@
+changeset 0b7a018882c4fbfa2f17b03e98c63b2c7475cad9
+manifest 3ad6c24f0b4c75eae590eb943d9ded44d6b3a284
+extra rebase_source:bfb50d02246e4377ef23179747987bc82731fd54
+files mobile/android/stumbler/java/org/mozilla/mozstumbler/service/stumblerthread/datahandling/DataStorageManager.java
+patch 635,709,

@@ -1,0 +1,5 @@
+changeset a3deb2827c8ed709b15ef8a7a492d809e25608b2
+manifest 02ac9d7c3a6c22217715f7fcee2f5ea0c677e191
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/xpcshell/test_ext_alarms_replaces.js
+patch 775,819,

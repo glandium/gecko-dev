@@ -1,0 +1,5 @@
+changeset 2d61e13b6032faa42a9f11e84b8e7a23daae842c
+manifest 3ccb4ae5f5cf5ddb423b6b428e9f2baee498b409
+extra rebase_source:31d21a3e7c72af874acbebaa30f0f77fc61d555f
+files browser/installer/windows/nsis/stub.nsi
+patch 505,579,

@@ -1,0 +1,5 @@
+changeset 0dc87bc686083ce1ee3721c6cfb38f31954f24bd
+manifest c29fdf2f82fc4105b704c283dcc7599f7e12e67a
+extra rebase_source:16b363225289281ba748215a77c72fedfe86ea06
+files js/src/util/DoubleToString.cpp
+patch 439,513,

@@ -1,0 +1,5 @@
+changeset 6267aad872ecd72f6d67b5cba687dd42a012b68b
+manifest 30e5a5859580f39bd5926772f87c9cbf36a78e52
+extra moz-landing-system:lando
+files browser/components/extensions/parent/ext-windows.js
+patch 298,342,

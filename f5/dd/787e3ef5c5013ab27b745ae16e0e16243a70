@@ -1,0 +1,5 @@
+changeset 177dda6727faf35ed3ed5dd4bf92199cc441b270
+manifest 09505dec42592e24dc7d12a06375840e792aefec
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/browser.ini
+patch 341,385,

@@ -1,0 +1,5 @@
+changeset f47b8fef7cc7f1c4c21bb7ebea49b02e9a92ce10
+manifest f38c7fa1045d3b8f141efb4e2d5da6a66c13b2fd
+extra moz-landing-system:lando
+files dom/media/MediaDecoderStateMachine.cpp
+patch 336,380,

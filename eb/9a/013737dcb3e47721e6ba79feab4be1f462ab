@@ -1,0 +1,5 @@
+changeset d3efdc909cb923712a71d9edfceb40c4ea317df8
+manifest 6a2a5f1afbe3c70edbed8229ac46850b487b3f9b
+extra rebase_source:0d2f4b0e7736dbb41169c2690e716b5f48b43d92
+files toolkit/components/extensions/schemas/manifest.json
+patch 664,738,

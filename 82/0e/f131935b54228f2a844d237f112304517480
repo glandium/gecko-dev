@@ -1,0 +1,5 @@
+changeset aeabd71dc6a4749803d32f5ebb5a3d9ecb3c1cfd
+manifest 545890d639e4e0b974692c56dbef0daba9bf5427
+extra source:5a55e5b741076790c0fead2d758fa5dc5d76b839
+files browser/extensions/formautofill/test/browser/browser_privacyPreferences.js
+patch 280,347,

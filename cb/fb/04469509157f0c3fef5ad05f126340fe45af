@@ -1,0 +1,5 @@
+changeset 5a1e7626e70266f05cc65e9ae8be55f8b32c4321
+manifest 0350c53f019097dc8e87cc376d60ef537e9c2f2a
+extra moz-landing-system:lando
+files toolkit/mozapps/preferences/changemp.xul
+patch 317,361,

@@ -1,0 +1,5 @@
+changeset 59b646e9e8990e8655568896885857c7fb0fc676
+manifest b6293a897e06b07d5bb7abf8759bae8e477be0b5
+extra moz-landing-system:lando
+files browser/themes/shared/incontentprefs/preferences.inc.css
+patch 326,370,

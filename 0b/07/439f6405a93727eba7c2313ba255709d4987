@@ -1,0 +1,5 @@
+changeset 7ac654e1c42652c8a37c2919c870a32b61894597
+manifest 4f51bdde34af791d336c4c372ab72418a36232a5
+extra rebase_source:f57632a6dc8b413053987a15d820b14b39ab74af
+files toolkit/components/aboutperformance/tests/browser/browser_aboutperformance.js
+patch 349,423,

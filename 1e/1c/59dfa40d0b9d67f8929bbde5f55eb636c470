@@ -1,0 +1,5 @@
+changeset f22ef580e4cf0315de925f315014571d835e4ab5
+manifest 544fd73fb095b88779fddafc5e68353d89c3ff56
+extra rebase_source:dd886f33d5e427e046c2004bd5e993748bfc3caa
+files services/sync/tps/extensions/mozmill/resource/driver/controller.js
+patch 334,408,

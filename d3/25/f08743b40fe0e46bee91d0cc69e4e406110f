@@ -1,0 +1,5 @@
+changeset 24755d1775fc60fcc1013d835edf3283cd5cb2b6
+manifest 2dbca7e2b9dfea8b53543fb1c5a1b4bfa14de494
+extra rebase_source:d4b540d27ffaaa2edf5554a641dfc99fc93e9b92
+files browser/config/tooltool-manifests/linux64/fuzzing.manifest
+patch 406,480,

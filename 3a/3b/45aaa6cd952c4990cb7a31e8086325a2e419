@@ -1,0 +1,5 @@
+changeset 3a9818cd5ffa027282bcc610d2845c6ef6524792
+manifest 2bd2ad117de0396a27a6ad41ba2f58972ff2e877
+extra moz-landing-system:lando
+files xpcom/base/nsCOMPtr.h
+patch 454,498,

@@ -1,0 +1,5 @@
+changeset cb4f862e9dd4053089d38347a5222032dd425943
+manifest dc17f04e57b8a574302477b148ef4d9ea94cda25
+extra rebase_source:272ff438282251abda62f3b5d58b6a4fe3e545fe
+files toolkit/components/extensions/test/xpcshell/test_ext_i18n_css.js
+patch 313,387,

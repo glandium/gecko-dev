@@ -1,0 +1,5 @@
+changeset dc452819f85fd3da866b1af80679c977cf6fa576
+manifest 20adce9b7fc680bd7774a3be74719b509c2e763a
+extra rebase_source:4509eb9980970de703e7f32ca371c76ec78b2673
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/model/TopSite.java
+patch 478,552,

@@ -1,0 +1,5 @@
+changeset d6cbfda78737876618f2a855df465dd5aa711139
+manifest 7d29cdf9b7fcc4cc3b764829973ce73224782474
+extra rebase_source:c30426843bd35f84db9e447fe708da3c74c3456e
+files testing/xpcshell/selftest.py
+patch 302,376,

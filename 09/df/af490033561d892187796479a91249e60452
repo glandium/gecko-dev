@@ -1,0 +1,5 @@
+changeset fb216e2b987078d7f79d2319072430292be3bc7e
+manifest 89efbdde77bcbee0ba4d2cbc0c47fe2befadc816
+extra rebase_source:cf7a6bae5b7a4b6678b7fb1cb19027fa0ab97d71
+files browser/components/extensions/test/browser/browser_ext_tabs_readerMode.js
+patch 627,701,

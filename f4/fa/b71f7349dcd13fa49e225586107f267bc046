@@ -1,0 +1,5 @@
+changeset 967a16acd18cb5fb9a19c88fdfe31b8b59a943ac
+manifest 6856d148e2c7f6d010fa8a451a04a0d7a97c5322
+extra rebase_source:80051fe498d20e08060afca577a6abc4ee3c35cd
+files mfbt/EnumSet.h
+patch 287,361,

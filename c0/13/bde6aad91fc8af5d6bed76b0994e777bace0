@@ -1,0 +1,5 @@
+changeset c762c4039731338d4495d5ef915e47c4049ef4ae
+manifest 08728909b43d5373307b4a5839ad58216c0f2612
+extra rebase_source:5e9752353cdf8db906e94391e9660f61336a9614
+files editor/libeditor/HTMLEditRules.cpp
+patch 545,619,

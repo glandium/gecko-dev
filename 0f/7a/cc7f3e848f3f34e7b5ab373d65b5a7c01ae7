@@ -1,0 +1,5 @@
+changeset 798d83c02cc1da9a2577da5d27a6e4338a5936a7
+manifest c95782ca074fb58c8c8480311915b55a8f3250bf
+extra rebase_source:1fd1ed99038e5f785aac4e8bde40cecf71dd2cea
+files netwerk/protocol/wyciwyg/WyciwygChannelParent.cpp
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset 5a130721f8ea9793e201453caf4bc56d5b3ae53f
+manifest 2068f9690b22f4fb408b064a0146a4e2020da2ea
+extra rebase_source:c9bc62bfe98166f3907143099a7a58a42dfc03ff
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_console_group.js
+patch 359,433,

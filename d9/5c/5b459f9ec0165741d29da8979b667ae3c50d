@@ -1,0 +1,5 @@
+changeset 4c98e1b28c388eed1ce835038f570cc0169ef389
+manifest fbad23469fd00e4bb32f8bd864997d85eadf9c09
+extra moz-landing-system:lando
+files browser/extensions/formautofill/test/browser/browser_editAddressDialog.js
+patch 431,475,

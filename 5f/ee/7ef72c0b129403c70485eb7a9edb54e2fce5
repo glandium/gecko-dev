@@ -1,0 +1,5 @@
+changeset 015e226bec0400ed0eef5f1c9fbe37eeddcc616f
+manifest 00e8baf2a9852d8cb0252cb52d57d4e0a79b17ee
+extra rebase_source:385a56126882c0f0d72817ee8c7941cab37f8033
+files toolkit/components/passwordmgr/content/recipes.json
+patch 347,421,

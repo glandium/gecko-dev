@@ -1,0 +1,5 @@
+changeset c80b721e4dd7fcde76a957a43308f81efa4fd494
+manifest c0ff7de50c842eeb58a7223e0188b104558df2e1
+extra rebase_source:b7f25868991827eca2fb7d5dc3a713a63fda910d
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/FxAccountPushHandler.java
+patch 367,441,

@@ -1,0 +1,5 @@
+changeset 933e0b698f8e8efb7706702e8c3565ba6449406e
+manifest ff711488b4bd58358e806da4d33c9202ae6c1606
+extra rebase_source:6b0f7abb908993afb77f3c90b57cb870e630f778
+files browser/app/winlauncher/DllBlocklistWin.cpp
+patch 290,364,

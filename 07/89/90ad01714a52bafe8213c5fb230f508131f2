@@ -1,0 +1,5 @@
+changeset 924b484fa4dff96148d00cfaf16bea9f065ed054
+manifest 93ba27c861bd42da8e17c3ef8b9fe243041e64b8
+extra moz-landing-system:lando
+files devtools/client/inspector/.eslintrc.js
+patch 317,361,

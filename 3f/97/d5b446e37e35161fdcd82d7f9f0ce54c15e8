@@ -1,0 +1,5 @@
+changeset 081d9ef214de6329208594aa96889b1015c8da26
+manifest 96912cafa4cdf0f54858881c65038ec7356c02c1
+extra rebase_source:0054cb81d786d393b7f9e791ff596dc49b6fc7f4
+files devtools/shared/adb/adb-scanner.js
+patch 285,359,

@@ -1,0 +1,5 @@
+changeset 85c2c2f860d91f23bc0c36c4bf7d773f04733e47
+manifest ad560f155adc51af7f8ea2f96984e8c6e8405d88
+extra rebase_source:ff882035af2034d7c968fa03236b1c56ea25150e
+files taskcluster/ci/searchfox/kind.yml
+patch 284,358,

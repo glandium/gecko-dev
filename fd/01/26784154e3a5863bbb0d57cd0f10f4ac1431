@@ -1,0 +1,5 @@
+changeset 98c2ac3923059e21d4980bc89d366b0230156e38
+manifest e1ce0df8cd3a54a5fbf3a0a47d5f63606635671c
+extra rebase_source:638fc40c8ef4280e693b9b2f7397078fc686a4e2
+files gfx/cairo/cairo/src/cairo-quartz-surface.c
+patch 338,412,

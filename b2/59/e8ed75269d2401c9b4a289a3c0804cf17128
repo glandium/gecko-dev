@@ -1,0 +1,5 @@
+changeset e7c7370fdd5457cd71bacc6e452a9d928fde8083
+manifest ff4beebd2bf2a3bcf905dde80c5dee3d58dd4073
+extra rebase_source:86a81fadf001314e6fd8452ce661f01b1e1f9535
+files browser/base/content/test/webrtc/get_user_media_content_script.js
+patch 339,413,

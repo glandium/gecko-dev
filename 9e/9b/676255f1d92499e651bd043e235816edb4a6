@@ -1,0 +1,5 @@
+changeset 469a6a99593ace50cead3a5927142582825f024e
+manifest ef87d82217761407f00c42e9381663ee6ab39882
+extra rebase_source:38151b727d9cb196d2325ca20429f3de1e699cfb
+files browser/components/extensions/test/browser/browser_ext_devtools_inspectedWindow_eval_bindings.js
+patch 682,756,

@@ -1,0 +1,5 @@
+changeset 59786b49cb876fe172cfed8659cdf3dd87505ce5
+manifest 7442053bfb100ca8036dab1e41a108fe4e82271c
+extra rebase_source:4a9a888edc15608d68db0d9ca061cb5b15beb46b
+files netwerk/sctp/datachannel/DataChannel.cpp
+patch 317,391,

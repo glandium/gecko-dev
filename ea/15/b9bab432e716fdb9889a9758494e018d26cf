@@ -1,0 +1,5 @@
+changeset 5e0eb1c0074453818e7135ad87a97e4f3b1e674b
+manifest 05de544753ab44376e9fbfbffad66a787f0df8c5
+extra moz-landing-system:lando
+files toolkit/content/tests/browser/browser_autoplay_policy_request_permission.js
+patch 302,346,

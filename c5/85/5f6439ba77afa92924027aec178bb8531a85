@@ -1,0 +1,5 @@
+changeset d522a86504a76831e59348784c25e81162fe540a
+manifest 121942d6fa53367be95db116bf3ada5c49e730fa
+extra moz-landing-system:lando
+files devtools/client/inspector/animation/animation.js
+patch 306,350,

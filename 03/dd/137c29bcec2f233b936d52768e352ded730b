@@ -1,0 +1,5 @@
+changeset d1cd66e6d3c3a76928f19ffa7f2f0a045999c8d6
+manifest e0ee4bc11bef19779cbdb1fa9dd9435a65eb45ae
+extra rebase_source:a24f75e7f1e3912b59d9cad31c9b20594e24f789
+files mfbt/Utf8.h
+patch 289,363,

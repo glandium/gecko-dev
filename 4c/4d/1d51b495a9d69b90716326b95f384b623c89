@@ -1,0 +1,5 @@
+changeset 17c32940a63fed73043fb6ce13483b567a62259e
+manifest e40dae3c7f83580eab99f6f82c22029d8e3a88dc
+extra moz-landing-system:lando
+files browser/base/content/test/urlbar/browser_urlbarKeepStateAcrossTabSwitches.js
+patch 368,412,

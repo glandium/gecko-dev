@@ -1,0 +1,5 @@
+changeset a5cc4b8910228e4530e68b1f4a4695f804ec40b4
+manifest 1acb81d2d2c73300af8cfa658381c97b92cb6d2e
+extra rebase_source:4aa4254843640bcfcf64083b5e348fc7a205761c
+files browser/base/content/test/general/browser_mixedcontent_securityflags.js
+patch 297,371,

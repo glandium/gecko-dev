@@ -1,0 +1,5 @@
+changeset e25a1ed32b5347b86843580e66b344bf11dcceba
+manifest 58bfec482641193245e0c6d0656032eb1de6cee9
+extra moz-landing-system:lando
+files devtools/server/actors/highlighters/shapes.js
+patch 783,827,

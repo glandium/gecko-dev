@@ -1,0 +1,5 @@
+changeset a77d154666723ff2b43a362541cd63ebabb36f51
+manifest e2828847a285fddb771ef5835e9ec3fe83f738ee
+extra rebase_source:f6740111fb0e33ba1a8047d38ec3a9689be3afb6
+files build/autoconf/expandlibs.m4
+patch 295,369,

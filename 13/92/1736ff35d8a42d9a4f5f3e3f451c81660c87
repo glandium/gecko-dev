@@ -1,0 +1,5 @@
+changeset 52d49783fdd03096c3dc7e57d7f4dc07bf8c7580
+manifest 70acde632365f867575dbf627777e200b3f994a1
+extra rebase_source:23f442b30d8a9160c08b52b38800e891748b4367
+files xpcom/threads/LabeledEventQueue.h
+patch 391,465,

@@ -1,0 +1,5 @@
+changeset 6fe10cab33ca07a9b6ce8e9a0ce5e41a672945e5
+manifest 2265503a5d64f19a0338536d63ba31d5a71f888e
+extra moz-landing-system:lando
+files devtools/server/actors/network-monitor/network-response-listener.js
+patch 368,412,

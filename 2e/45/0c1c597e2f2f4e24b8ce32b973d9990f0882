@@ -1,0 +1,5 @@
+changeset 1f7081335eb901bcc885c18467599441007b70f1
+manifest ca7ca3f9a40eb35134fc36cee7e768c181b5f68f
+extra rebase_source:3f296ad00897cb2cf54ac24c1276535e76f64c6e
+files netwerk/cache/nsICache.idl
+patch 281,355,

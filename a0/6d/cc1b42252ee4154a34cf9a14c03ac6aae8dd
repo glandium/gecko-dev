@@ -1,0 +1,5 @@
+changeset 4b78e1686da9ba317be1796cf241db3231f9cb75
+manifest 74d097f32182e675888a04ade8ea55796c50ce4d
+extra moz-landing-system:lando
+files devtools/client/shared/widgets/ShapesInContextEditor.js
+patch 872,916,

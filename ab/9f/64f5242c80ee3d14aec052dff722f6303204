@@ -1,0 +1,5 @@
+changeset dcab8343b3db152c68e2e981cd22b0cb77ebaf5c
+manifest 3639a8a4a77f16f1fa4edbabd1dfc5c812cab72d
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_idb_data_migration.js
+patch 697,741,

@@ -1,0 +1,5 @@
+changeset 544d195743e3ba3022fe025a305af977eec7b4d3
+manifest 8d5a0f6b9230d823850a19fbf35dd989f3cf706c
+extra rebase_source:4b3a059caae94acec884561b7925634ba3c6c654
+files testing/web-platform/meta/custom-elements/CustomElementRegistry.html.ini
+patch 319,393,

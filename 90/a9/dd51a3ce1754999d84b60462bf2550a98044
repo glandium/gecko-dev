@@ -1,0 +1,5 @@
+changeset 18b4fa2419365231eb7f2fcf581112ce8f8f3e2e
+manifest bfc6db8fc74c09bd20f5c12890f4438cb7f44403
+extra rebase_source:41aa8651fc8d182bfcbd57c1d97b1bee437d478c
+files testing/mozbase/mozlog/mozlog/formatters/machformatter.py
+patch 1327,1401,

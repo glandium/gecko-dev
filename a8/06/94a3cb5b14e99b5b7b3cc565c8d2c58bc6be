@@ -1,0 +1,5 @@
+changeset 01231e42dd09112c83c6dce35dd732136fb8154d
+manifest 7560096bcd05a557b352263843e9ddff82bdef3e
+extra rebase_source:fff9dc6738c4929f8e6f32c866f68778875ddab8
+files dom/bindings/UnionMember.h
+patch 286,360,

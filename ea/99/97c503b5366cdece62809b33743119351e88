@@ -1,0 +1,5 @@
+changeset c1200e5aa513b9c5b492c759642b452cab4106aa
+manifest b1115f21a1b6559b74a648c2e5bcd2f9efbea1bb
+extra moz-landing-system:lando
+files browser/base/content/test/captivePortal/browser_CaptivePortalWatcher.js
+patch 424,468,

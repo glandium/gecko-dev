@@ -1,0 +1,5 @@
+changeset 08c538a185408e3f79fc7a0a08fba042ebebc689
+manifest 1bc6021875d7c22eb5fc0e88407c07bafa82da54
+extra rebase_source:172be670795f0e2155d4bd5044ee37f652367734
+files intl/unicharutil/util/nsBidiUtils.cpp
+patch 858,932,

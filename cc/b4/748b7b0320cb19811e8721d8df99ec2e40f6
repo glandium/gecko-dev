@@ -1,0 +1,5 @@
+changeset e9b7f6a58cc27e19f3012ffac4f81e5067b689bf
+manifest 9c4e10e3a65246777391d6c188a58ff20db0f21d
+extra moz-landing-system:lando
+files gfx/src/FontPropertyTypes.h
+patch 441,485,

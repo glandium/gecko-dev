@@ -1,0 +1,5 @@
+changeset 94f5958dbd0ff027a4b4fa65bcc2c956ba8c0d47
+manifest fcd77f76780d53b0049da9e30bd03653cec54110
+extra moz-landing-system:lando
+files netwerk/dns/TRRService.cpp
+patch 360,404,

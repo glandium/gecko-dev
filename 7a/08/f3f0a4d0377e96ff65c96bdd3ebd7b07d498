@@ -1,0 +1,5 @@
+changeset 715ae99bc12638aa2b6a9b89325a2d4b2e579bb8
+manifest a4f1aeb2750e45c06130d2b2e1fd35dcbda67e91
+extra rebase_source:9665e0074f3c52ae974bfdd32a5bc81edda602cb
+files browser/components/extensions/ext-sessions.js
+patch 582,656,

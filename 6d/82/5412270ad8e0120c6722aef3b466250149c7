@@ -1,0 +1,5 @@
+changeset 355f1ffc83489147f470a58245276ef6b37ea4ed
+manifest e43ffb1079ffc6de76e43c0a8fa662b58948d103
+extra amend_source:47350a30cfa6737d868144e53ec7f8beea150524
+files js/src/wasm/WasmOpIter.cpp
+patch 609,682,

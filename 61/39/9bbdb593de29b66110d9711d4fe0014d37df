@@ -1,0 +1,4 @@
+changeset c4338d07076d0ad6600d936f3a1e0dcfcbe58d3a
+manifest 65fd258b0d48b87051b2670b42983a51d3fc0402
+files servo/components/canvas/canvas_paint_task.rs
+patch 349,350,

@@ -1,0 +1,5 @@
+changeset b52b0b9cd722e7d52a890598dc04782a88636cbb
+manifest 7a4229998618f558743a6c502ee3b208b1a712fa
+extra rebase_source:f4e3f5e4258ba4fb08acb4fe85b73404c7bf7afe
+files media/libcubeb/cubeb-pulse-rs/pulse-rs/src/lib.rs
+patch 312,386,

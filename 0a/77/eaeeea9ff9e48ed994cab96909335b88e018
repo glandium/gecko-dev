@@ -1,0 +1,5 @@
+changeset f4d41c4d2246f2cc055ebc718e59ae6512c3f707
+manifest f5ce15120666bd8184220bf183bacf9deaa54ba1
+extra rebase_source:f6e43a5e62e26b4176cebfa923784f6f00e6affc
+files testing/mozharness/configs/developer_config.py
+patch 295,369,

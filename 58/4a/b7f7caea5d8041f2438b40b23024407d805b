@@ -1,0 +1,5 @@
+changeset 640496b6e7c02d719eeadf8f2fc816a2e3a31157
+manifest 95eb104a0bb834ed16b8bd01806d7f6e89bffe46
+extra rebase_source:8600dc667662467a5312cf8140d60d768fd2de5a
+files dom/media/systemservices/CamerasParent.cpp
+patch 302,376,

@@ -1,0 +1,5 @@
+changeset bfee7af3b0b2b3ea9e3194629c519dcbeb2e27c2
+manifest fd928cf34c9e2a15db64d8bde0289c8cfe1913dd
+extra rebase_source:0d621ffe31ef447ef4b8226dccbfa6bdf521f888
+files layout/base/nsChangeHint.h
+patch 294,368,

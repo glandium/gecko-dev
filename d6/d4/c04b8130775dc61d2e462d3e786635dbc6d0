@@ -1,0 +1,5 @@
+changeset 1eb2225325f38bfd815e8b4894652c95c3bd2e05
+manifest c45877cb4dedb6f1c1279c0c7cb8de391989d2a4
+extra rebase_source:79e9639360461452249ce54ff538294f25b6cd4f
+files dom/animation/test/mozilla/test_moz-prefixed-properties.html
+patch 428,502,

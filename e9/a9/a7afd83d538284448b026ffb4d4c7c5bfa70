@@ -1,0 +1,5 @@
+changeset e1f71a0cf95f027d4c688d1bfac407cfcb609c2b
+manifest 3b2adff31f18da8936e9799c43098a63534cc88f
+extra moz-landing-system:lando
+files toolkit/locales/l10n.mk
+patch 298,342,

@@ -1,0 +1,5 @@
+changeset 30a236f710960e68600460d1b8b6cad9e165a20b
+manifest b5a6ee56071f0662d37c2062e9b66bf4dd6941d6
+extra rebase_source:248f8ba6773dcb03369dc2f47b50fbe31dec8567
+files media/libopus/moz.build
+patch 493,567,

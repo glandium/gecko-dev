@@ -1,0 +1,5 @@
+changeset ab16c50f1c29ed2f6e74b129f0626a7e736e9265
+manifest 369b6d9c78af030fbdca6a87eeea0b3957e3bb1c
+extra rebase_source:17d4ad855bb5e093beb142e449ce2d4b88e20911
+files devtools/client/aboutdebugging/test/browser_addons_debug_webextension.js
+patch 344,418,

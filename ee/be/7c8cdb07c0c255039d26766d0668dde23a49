@@ -1,0 +1,5 @@
+changeset 77f704be0a6dd67be191b8c9289cfab5e0b27b0f
+manifest 18c8c98671770763f732c9bdb8caf831aab80491
+extra rebase_source:835701132df22a2713c79a36a337194626624e1c
+files xpcom/string/nsUTF8Utils.h
+patch 369,443,

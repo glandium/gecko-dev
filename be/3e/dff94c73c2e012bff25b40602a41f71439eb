@@ -1,0 +1,5 @@
+changeset 32eb8bbad8cbdbbdd0bec756409064a3f331b7b9
+manifest f104c5727df80fef6c29a03e2da2c0872d8f381c
+extra rebase_source:cfad1803a61719470f8240700ac917c4931e3dfe
+files netwerk/test/mochitests/test_1396395.html
+patch 660,734,

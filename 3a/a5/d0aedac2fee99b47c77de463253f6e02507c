@@ -1,0 +1,5 @@
+changeset ec28801c69d7fd3459d02ed161401fed05a50c78
+manifest 65995a5f1e070be01432b8ff9773473509ee8ec7
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/nsUrlClassifierPrefixSet.cpp
+patch 865,909,

@@ -1,0 +1,5 @@
+changeset 133dcc512b736b76fd58dd614ce690edc310995e
+manifest 84f4de218f77701c934e1040ce812f9d8e6c356d
+extra rebase_source:3e20ee24cc43ba56537e975fd61dfbe4f758d809
+files browser/base/content/newtab/sites.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 3dda0c68e6bd7755f3dd31c5c2042aca751af3ba
+manifest 00fc827e26eb334d0a101ee6419c5abd2df3357f
+extra rebase_source:62141cbb9f23792aaec1215a247e3fe13d4157ae
+files browser/extensions/screenshots/webextension/build/raven.js
+patch 334,408,

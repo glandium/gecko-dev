@@ -1,0 +1,5 @@
+changeset b4d46a5196fec93a482cbbd00cf5d4d7018f2206
+manifest a9f117d5facb1a86f443879245eb71bc43a63ccb
+extra rebase_source:4b2a3e05f619332f9fdeb42190e9253ad6e9a26d
+files testing/mochitest/tests/Harness_sanity/test_SpecialPowersExtension.html
+patch 436,510,

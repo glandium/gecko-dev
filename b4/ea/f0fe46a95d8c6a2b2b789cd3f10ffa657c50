@@ -1,0 +1,4 @@
+changeset 76ba64f4ee9ca7508bb1be3f912d3bd5ad04920f
+manifest c2a2cc68c0009db04491755c6436d4917b79e717
+files python/mozbuild/mozbuild/codecoverage/lcov_rewriter.py
+patch 260,261,

@@ -1,0 +1,5 @@
+changeset 15adab29635350835ce0e3b0310280f3e9ba1314
+manifest 563a248861f7f6c1f2b9afedee6a2dcbccae1e7d
+extra rebase_source:568c8d9b8f1d2c4372cc919cf1e105deb1a545b9
+files browser/components/preferences/in-content/preferences.js
+patch 322,396,

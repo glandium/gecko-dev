@@ -1,0 +1,5 @@
+changeset f821cb905c0b33d010a0d686173e28fcd12d15e9
+manifest 9aad53eab31dd7581cf70e88fd3212e9cf5bb291
+extra rebase_source:41406951fe82f357c5a743958b4942e45f1c355a
+files widget/gtk/nsClipboardWayland.cpp
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset 05c18e365cc388f14a740000ead7ff2adca2452a
+manifest 5506c72c9831364ab50c03632834f90f33e42906
+extra rebase_source:19cb737f9109f4f8a095be067adf0f27e521dbd8
+files browser/extensions/formautofill/content/editProfile.xhtml
+patch 315,389,

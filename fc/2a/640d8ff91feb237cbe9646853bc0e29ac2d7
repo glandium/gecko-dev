@@ -1,0 +1,5 @@
+changeset d591851c88240323eedf457c5f58fbc3a2267519
+manifest 8165e38092b5d4a7e7aed1f1d390357d321ddd3b
+extra moz-landing-system:lando
+files python/mach/mach/test/test_telemetry.py
+patch 297,341,

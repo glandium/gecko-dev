@@ -1,0 +1,5 @@
+changeset eb07312cfbe868780ebed84fc83e5a5470e81fb4
+manifest 63175c2d3f33b37d828e3253421f9f2f6b181dc7
+extra moz-landing-system:lando
+files media/webrtc/trunk/webrtc/modules/desktop_capture/screen_capturer_win.cc
+patch 723,767,

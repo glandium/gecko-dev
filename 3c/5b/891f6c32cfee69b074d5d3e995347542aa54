@@ -1,0 +1,5 @@
+changeset de634684229e8c53ceb03b56dd45e52a1a0af9e1
+manifest ad2e5f43c1d5851fe71d891565e889447ddd1392
+extra moz-landing-system:lando
+files browser/base/content/tabbrowser.js
+patch 322,366,

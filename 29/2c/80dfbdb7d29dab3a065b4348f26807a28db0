@@ -1,0 +1,5 @@
+changeset 02a2b8be0921dce0a406e6dc829983ad48dc140f
+manifest c1ba9fcaeb06545a3c10f57aa3078a2d277c2d2e
+extra rebase_source:3712b7b2b180b583ca761cdc5d6ddf17728e8b74
+files js/xpconnect/moz.build
+patch 365,439,

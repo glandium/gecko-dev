@@ -1,0 +1,5 @@
+changeset ad64ea702de03e6e27b52ad4887e5fa813776904
+manifest ba7ae49c294d995c5ff437ce3c871f366a74b2c1
+extra rebase_source:1b766236e8f2b7a952861907cfa84ba025f14110
+files js/src/jit/MacroAssembler.cpp
+patch 265,339,

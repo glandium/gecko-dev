@@ -1,0 +1,5 @@
+changeset 6e23de29b6ccc1fff07768cf1ddf353a23d3a90b
+manifest 357317a60cffa4a655665cf063cf27c7b3bb85e0
+extra rebase_source:064b127a2c28a52b2807cd78031de9af4f258f60
+files xpcom/base/nsCycleCollector.cpp
+patch 373,447,

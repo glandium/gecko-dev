@@ -1,0 +1,5 @@
+changeset 929eea667f6a18f525c64a4b3f92f288dc5869b4
+manifest d8c15a847ecb9e4e74ffd3e76666f16cf768c38f
+extra rebase_source:fa61d69b9ba0c8b353e4bc339460c163e194f9bc
+files widget/gtk/WindowSurfaceWayland.cpp
+patch 307,381,

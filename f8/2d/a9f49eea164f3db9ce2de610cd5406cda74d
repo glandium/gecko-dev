@@ -1,0 +1,5 @@
+changeset ad4b3942b9af6445273427bf47e9033a07f6214f
+manifest 805ff35bfc1725f4bcd99963a966c68b5af868b6
+extra rebase_source:f670bac3c1118748ec2a34e1a801c71166347d33
+files browser/components/payments/res/debugging.js
+patch 326,400,

@@ -1,0 +1,5 @@
+changeset 8a44ddb5f2c2b465e73487080b20eea7ac6dadc3
+manifest ddf53cc520cd27688412d4d6c7e52d3f2e8cb4e3
+extra rebase_source:a2a248f4ef26f65f60d51bef193a721ccacb9a22
+files toolkit/components/satchel/FormHistory.jsm
+patch 302,376,

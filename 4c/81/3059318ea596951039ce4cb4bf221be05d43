@@ -1,0 +1,5 @@
+changeset 64d513f3c02b097a51903f5dcc5cd3ba58aa1b4f
+manifest 56dfe18fd90f80214a9ef2dfb9fc2067843f3374
+extra rebase_source:9c89c3959981df76f7f6c6e4d0a2cf89d7bfb777
+files browser/extensions/pdfjs/content/PdfJsRegistration.jsm
+patch 508,582,

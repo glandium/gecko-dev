@@ -1,0 +1,5 @@
+changeset 20d25c640db36e64dfd70eb7db293870e7f3087a
+manifest 779b748d6d19b2b75d65fafe0333ee549687884f
+extra rebase_source:66a7f322c46dbc9572bac09b93a40621b43c4701
+files js/src/devtools/automation/variants/nojit
+patch 250,324,

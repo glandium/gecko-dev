@@ -1,0 +1,5 @@
+changeset 8f1b4a72d48a712abbc1f7d25c3c14c1175beef9
+manifest 6abfe838e97c60348ee795651ee9234d02840170
+extra rebase_source:7e4771d4f1ffdf0959068462ead1b9b2e1154c64
+files testing/mozharness/mozharness/mozilla/updates/balrog.py
+patch 459,533,

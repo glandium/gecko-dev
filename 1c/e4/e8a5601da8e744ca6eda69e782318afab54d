@@ -1,0 +1,5 @@
+changeset ddcd7cc2f3cdd88f5f399f4c59d530aceda0d722
+manifest 678e7184e9143a9ff4666b2a14c3690dc49d0ea5
+extra moz-landing-system:lando
+files netwerk/dns/nsHostResolver.cpp
+patch 317,361,

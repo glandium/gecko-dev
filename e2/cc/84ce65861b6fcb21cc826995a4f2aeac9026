@@ -1,0 +1,5 @@
+changeset 848c2234cb27c6e0d821a545d0dd5700e7bc440a
+manifest 6b4ae078526581a4fc8427e97ec792e3a0501ecf
+extra rebase_source:3b6badbc1b56c09b74d5be3ddbf9ac157f4891c3
+files netwerk/protocol/gio/nsGIOProtocolHandler.cpp
+patch 290,364,

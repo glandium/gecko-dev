@@ -1,0 +1,5 @@
+changeset aea7a26ac8fc4de4079d4091dc81e43b6a9732dd
+manifest 8830a7d71158534684cd5be5a45185c2588edf3e
+extra rebase_source:74e1a433bc67143b3186086a9171ad8ffa7cd9a5
+files rdf/util/nsRDFResource.cpp
+patch 302,376,

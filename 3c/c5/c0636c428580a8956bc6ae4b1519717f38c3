@@ -1,0 +1,5 @@
+changeset 8c429e133ede65358c48c8a55a4c60ab9bc99759
+manifest 844c6902fc5e44393e11c1b8de15b14e1fb49673
+extra moz-landing-system:lando
+files toolkit/components/telemetry/hybrid-content/package.json
+patch 322,366,

@@ -1,0 +1,6 @@
+changeset 3cc331de51d861c05ec4f8dc7994e1641e3ca750
+manifest ad7dc0e06d2e0f413f1c1c490198f9b68df6f163
+author flyingrub
+extra rebase_source:a08ac1030ef93e97ed4228c129f6f4905d99ba42
+files toolkit/content/aboutTelemetry.js
+patch 315,389,

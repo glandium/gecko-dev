@@ -1,0 +1,5 @@
+changeset 7bdb215f8bad452f84f42c71522dfd4e7ea8f828
+manifest 33605768447dc080611fa1ecf0bc40bbf4a1ade1
+extra rebase_source:bab4170b1e47652e33c5395342490d992735d713
+files gfx/layers/ipc/CompositorManagerChild.cpp
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset a0fc8ecfa271f44bd24598786930a36bdecbd406
+manifest 3466f97ec4ff152f84fa11faaea5904001b5f170
+extra moz-landing-system:lando
+files testing/profiles/common/user.js
+patch 293,337,

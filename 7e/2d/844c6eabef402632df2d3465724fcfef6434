@@ -1,0 +1,4 @@
+changeset c9c297494260ee73d12e139913cf53389c7564bc
+manifest 15af9fb2bfa4efda412612ca40c3d1fa5c3daa57
+files taskcluster/taskgraph/test/test_try_option_syntax.py
+patch 178,179,

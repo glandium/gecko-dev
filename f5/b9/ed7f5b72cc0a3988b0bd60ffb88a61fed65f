@@ -1,0 +1,5 @@
+changeset bc377cc2f35f5a77dcaf18a07dd3837a3182516a
+manifest 4150500c8df7e29af5e6430d7323a038f7b6f30c
+extra moz-landing-system:lando
+files devtools/client/webconsole/components/FilterBar.js
+patch 731,775,

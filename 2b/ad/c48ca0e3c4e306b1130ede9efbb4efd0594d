@@ -1,0 +1,5 @@
+changeset becf4bcf841ef975fc56a9bbdb19a64f9d031c27
+manifest 999664647fcc1c3e3a8f872f777bcec6317f4555
+extra moz-landing-system:lando
+files browser/components/search/searchplugins/yandex-az.xml
+patch 289,333,

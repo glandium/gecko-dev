@@ -1,0 +1,5 @@
+changeset f44e4c7777b82feeeb8d4c59fb705733e9678796
+manifest e2798469d7d49b095b76c630064d36e1fdfba56a
+extra rebase_source:64a1a97c9aa51bb4bd7b020c4a7e1bdea239872f
+files browser/installer/Makefile.in
+patch 702,776,

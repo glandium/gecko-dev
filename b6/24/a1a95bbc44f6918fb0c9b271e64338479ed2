@@ -1,0 +1,5 @@
+changeset af51323bf014feb7fb47dd6bc3f9b11ffc354354
+manifest 08236ce72fa8f249237193d604505aeeb9400381
+extra rebase_source:ca8cbc2e04cb96e98da5febdd82d8ac7393ebc8b
+files tools/lint/eslint/eslint-plugin-mozilla/.npmignore
+patch 343,417,

@@ -1,0 +1,5 @@
+changeset 6690f01be1bf334dbedc0781d298ff228ce3e3ab
+manifest eb4003fd618ac6a616ac7b5d9cc7e91431273899
+extra rebase_source:4605dadad2be963306277f5c6563c12c62427615
+files media/libstagefright/binding/include/mp4_demuxer/BufferReader.h
+patch 286,498,

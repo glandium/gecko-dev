@@ -1,0 +1,5 @@
+changeset 12f69be06d1edd2afb91eba94308328cef90b9cf
+manifest 3165fb76218ed73880e6558d1977baa00c294f25
+extra moz-landing-system:lando
+files js/xpconnect/src/Sandbox.cpp
+patch 674,718,

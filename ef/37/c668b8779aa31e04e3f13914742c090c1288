@@ -1,0 +1,5 @@
+changeset c40a09c9790ec23dc7f5d092d6cf36bcb48d57f7
+manifest d814ca7710b49c90c44b5cfd72ff659f01baf5ac
+extra rebase_source:9e29bd3254c495289a1afdfc76df848a65c2b1fc
+files layout/base/nsLayoutUtils.cpp
+patch 303,377,

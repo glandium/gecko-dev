@@ -1,0 +1,5 @@
+changeset d57a2f1a2f6664447f26321696d6e60e26259dac
+manifest 434a66ca75b46f9b71bfb834f814b5e2503b2dee
+extra rebase_source:5b370d5c57e68117359b17b38e90a3df82ac453b
+files browser/themes/shared/places/tree-icons.inc.css
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset 515639ccfaf21f80b52a91544d1f2a219bb11e98
+manifest 25770a36f70030c4dd41bf0e85f293b9829c8d31
+extra rebase_source:ee611484a3d1073f04aee0feac92d10a446d29c4
+files js/src/frontend/TokenStream.h
+patch 278,352,

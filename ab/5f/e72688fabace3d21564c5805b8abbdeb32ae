@@ -1,0 +1,5 @@
+changeset 41168df03ca6d90b175c86aabd899535d075ab22
+manifest 749aa2870006f11c62e49890bdedf03d8208f9f2
+extra rebase_source:dbcbcf9ba80ebb2858c3d47a186daa367afa2988
+files testing/mozharness/configs/builds/releng_base_windows_32_mingw_builds.py
+patch 752,826,

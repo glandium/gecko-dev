@@ -1,0 +1,5 @@
+changeset e5a600e0d2dceb7d967eda1dd4dfc3c0dcb024d7
+manifest 72b82f63f7b52e5f4cdd1b0a731efb1c216eaafd
+extra rebase_source:65c23e47b20963a67bb13eb62cd83b5d44e64db5
+files mobile/android/stumbler/manifests/StumblerManifest_services.xml.in
+patch 340,414,

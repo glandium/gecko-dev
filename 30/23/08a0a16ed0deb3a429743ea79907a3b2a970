@@ -1,0 +1,5 @@
+changeset d47bd8c2d39dcf10795164c43bcaccd232993d29
+manifest 693986ef77835ab4fec8fa5ab9ea4bd566c56567
+extra rebase_source:836f3efb3aea6eb2a089c5aecd0f7a10a0bd6787
+files services/sync/tests/tps/test_tabs.js
+patch 280,354,

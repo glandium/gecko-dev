@@ -1,0 +1,5 @@
+changeset e64f835d2425e6625fd3b47ec8076779a4361290
+manifest eebfd2ad48107c6cad1c33f14a6cb3ca2c08e850
+extra rebase_source:740d26b1dff83c171575da666c4571a18cd5aa98
+files toolkit/components/payments/test/mochitest/test_rich_select.html
+patch 359,433,

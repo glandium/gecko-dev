@@ -1,0 +1,5 @@
+changeset e23085e6b51f7d2ab2e9c11fedbc1ef0177f30ed
+manifest 2f80dcee7fd4fee7346c46113d7ba55766c738ad
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/drawable/DrawableWrapper.java
+patch 875,919,

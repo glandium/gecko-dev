@@ -1,0 +1,5 @@
+changeset b37909c3b506a2196d9e7c41c8f72e23b15eb3c9
+manifest e3ecd0ddb4d99bee2744246bf30de958efc5714d
+extra rebase_source:4bbf0879c1b7234f59e4b503f9dfbd80aad47f76
+files dom/base/Navigator.cpp
+patch 319,393,

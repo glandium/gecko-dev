@@ -1,0 +1,5 @@
+changeset 072a665b018115ceabfb56dc54d9b277be888f7d
+manifest 59aa1ab8fe5e30d535d58e9615b35424fd473720
+extra rebase_source:dbb3543c83bf30412356f86defa1191613d95c05
+files devtools/client/canvasdebugger/canvasdebugger.js
+patch 342,416,

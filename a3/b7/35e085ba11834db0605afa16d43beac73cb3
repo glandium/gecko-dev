@@ -1,0 +1,5 @@
+changeset 7540af5aa57be8256fb8f0a800ae8c9ae2387ffb
+manifest cfc789f0de2d7fa6daa9574f579d42e9fac190a2
+extra moz-landing-system:lando
+files layout/style/test/test_dont_use_document_colors.html
+patch 322,366,

@@ -1,0 +1,5 @@
+changeset a39d4bbc830671bf44aab3f8294a4357c2e5657a
+manifest 5066117e0020792d4ccbc86505c5bf2af4b5cbc3
+extra rebase_source:c42a81bb9b46f79e0a1b827d16ac7494579017e6
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoInputConnection.java
+patch 462,536,

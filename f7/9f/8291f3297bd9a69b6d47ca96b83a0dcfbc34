@@ -1,0 +1,5 @@
+changeset ece7d0900e93c89593f943e65163a3bca334b5b1
+manifest bff721337c199016ee0878a6e394ec76218d5199
+extra moz-landing-system:lando
+files toolkit/components/normandy/test/browser/head.js
+patch 667,711,

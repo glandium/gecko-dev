@@ -1,0 +1,5 @@
+changeset 853caeaad89b97ae57584eb1958850a3e44f89f9
+manifest 43b3efaf97f0db5ac601284f31fe4f6302ca45ec
+extra rebase_source:6f7eaf26cda0776be4678141760d7890d928185d
+files devtools/client/shared/components/SidebarToggle.js
+patch 551,625,

@@ -1,0 +1,5 @@
+changeset 5c0da350da5134e6a567a27645a7eca50509079d
+manifest 32b6417556b42aa8ede5851e9b0f050619c35214
+extra moz-landing-system:lando
+files toolkit/components/viewconfig/content/config.xul
+patch 302,346,

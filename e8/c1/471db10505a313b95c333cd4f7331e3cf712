@@ -1,0 +1,5 @@
+changeset 490e100ac2e55214f41728c5e5d3dbb8ba7eb4f5
+manifest 4cdb199ca3408f51cd54ea29b971eefb77b2e90b
+extra rebase_source:0ea07bca7c78863605c723aa54b51bdef214cea9
+files toolkit/components/xulstore/tests/chrome/window_persistence.xul
+patch 354,428,

@@ -1,0 +1,5 @@
+changeset e7e15a0d51951d669505d099777b9862241fb046
+manifest 541351fb438cd700795f348e251c4b5759e022eb
+extra rebase_source:0454ce1520e6e962b8d94cfa705e305f4170cb05
+files browser/base/content/browser.xul
+patch 292,366,

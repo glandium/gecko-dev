@@ -1,0 +1,5 @@
+changeset 69e0f9c131f2c24a39dd34bc38cbc46c7f62791a
+manifest 27b929c84b40fce6c898a3a545cf3c7e88f96795
+extra rebase_source:6d591fb5c90e81a1aad2c5bef278765e2ca8cae8
+files devtools/server/actors/inspector/walker.js
+patch 339,413,

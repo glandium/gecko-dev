@@ -1,0 +1,5 @@
+changeset 0e00538a02f4fd186f0092c85f2f6822693bab56
+manifest 55c3927572ae25ccaed8b5e913a53d0bd627ff55
+extra amend_source:0095bb7730323469f28584e49a290ae29147595b
+files gfx/skia/skia/src/shaders/gradients/SkGradientShader.cpp.orig
+patch 354,427,

@@ -1,0 +1,5 @@
+changeset d92e530e4866c07158c4a4c1c218791ebd96e8c2
+manifest 1e92a819a5e9a7dfc9a1dfdfc25bd4b5047ae34b
+extra rebase_source:4a869a15dd0e2ebfa4b6711e2010ded401ecc9e6
+files netwerk/dns/effective_tld_names.dat
+patch 252,326,

@@ -1,0 +1,5 @@
+changeset 6cb1b7aa94a52aa4bcc9c5fa4261eded2aa982a4
+manifest e4fec615da69323a349c988bbc15dab05a4fbd45
+extra rebase_source:d7f11b33c91407e97416344ca1a2d0f06aa573d3
+files testing/mozbase/rust/mozversion/.gitignore
+patch 464,538,

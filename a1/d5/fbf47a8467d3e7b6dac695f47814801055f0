@@ -1,0 +1,5 @@
+changeset f9cf33c52739b06905c182b286fa2b4d1b0f3890
+manifest 1b5b0b87f297761c111e4443f0e62437170eebef
+extra moz-landing-system:lando
+files python/mozbuild/mozpack/executables.py
+patch 1454,1498,

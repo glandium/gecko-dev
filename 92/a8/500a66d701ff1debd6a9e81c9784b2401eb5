@@ -1,0 +1,5 @@
+changeset cc8d54d3b19c58181d12f5adcfcf2531baef6669
+manifest 4e22225b8ccbd58f8ac202eba4f3961b091688f0
+extra rebase_source:90736aff211016d40ac6c1b6dfd0dd4985f2545b
+files browser/extensions/screenshots/webextension/selector/ui.js
+patch 318,392,
