@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/encoder/arm/neon/vp9_variance_neon.c
+copyrev: d0d99c8d3a4dbb60d9b8a89d2ec520dce58e3bcc

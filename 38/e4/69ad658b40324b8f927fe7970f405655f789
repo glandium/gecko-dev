@@ -1,0 +1,2 @@
+copy: media/libvpx/vp8/common/x86/copy_sse3.asm
+copyrev: cc07ea104fd0335f251b931943c38cbdf16ce524

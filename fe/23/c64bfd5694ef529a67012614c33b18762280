@@ -1,0 +1,2 @@
+copy: third_party/rust/bitflags/tests/conflicting_trait_impls.rs
+copyrev: 065d760b37269514c68006dce5f1009ccf621981

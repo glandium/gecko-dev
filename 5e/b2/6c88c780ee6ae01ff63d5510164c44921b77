@@ -1,0 +1,2 @@
+copy: js/src/tests/test262/built-ins/TypedArrays/buffer-arg-use-default-proto-if-custom-proto-is-not-object.js
+copyrev: e38e0ae1b165dbfd6ddfa279e409bbb0d81fbc0d

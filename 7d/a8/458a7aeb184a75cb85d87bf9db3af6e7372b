@@ -1,0 +1,2 @@
+copy: taskcluster/docker/firefox-snap/snapcraft.yaml.in
+copyrev: 81f8fb76e560baee4c649938476aa8163bd9bfe6

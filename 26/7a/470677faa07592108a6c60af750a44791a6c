@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/encoder/arm/neon/vp9enc_avg_neon.c
+copyrev: 950691ab5f3d84446da4c64b69216822929c644c

@@ -1,0 +1,2 @@
+copy: third_party/rust/crossbeam-epoch/src/sync/list.rs
+copyrev: a25c7ef46f307c12334608077433f337401cafbc

@@ -1,0 +1,2 @@
+copy: python/psutil/psutil/_psutil_windows.c
+copyrev: 0ea5fc3bd032ac8026435160b35a8d29a62247d5

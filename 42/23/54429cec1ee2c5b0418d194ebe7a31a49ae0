@@ -1,0 +1,2 @@
+copy: devtools/client/webconsole/test/test_bug1045902_console_csp_ignore_reflected_xss_message.html^headers^
+copyrev: 76232a56429fca1f6aeb04f3a77d3efde06b2aee

@@ -1,0 +1,2 @@
+copy: taskcluster/docker/android-gradle-build/bin/repackage-jdk-centos.sh
+copyrev: a894588a1f75923eba93a8c81b5d8bae8dad4eed

@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/common/arm/neon/vp9_idct8x8_1_add_neon_asm.asm
+copyrev: 73b340f9ca078d7c726da09eec5d842d612eb6ef

@@ -1,0 +1,2 @@
+copy: taskcluster/docker/periodic_updates/scripts/getHSTSPreloadList.js
+copyrev: 7e892ba283ec3e8f649e3234862ef6d7cce11192

@@ -1,0 +1,2 @@
+copy: taskcluster/docker/rust-build/fetch_cargo.sh
+copyrev: b6c4cc0a2da7d68d20818a6486be756ba917c2ab

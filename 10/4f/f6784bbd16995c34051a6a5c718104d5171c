@@ -1,0 +1,2 @@
+copy: taskcluster/docker/periodic_updates/scripts/periodic_file_updates.sh
+copyrev: cc42383ec55ce6dd6e52d236ce7937108b6c702b

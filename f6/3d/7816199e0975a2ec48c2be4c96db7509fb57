@@ -1,0 +1,2 @@
+copy: third_party/aom/aom_dsp/x86/highbd_intrapred_sse2.asm
+copyrev: fe902b3122ca82bdef7e713ce7b711e7cdc62ec1

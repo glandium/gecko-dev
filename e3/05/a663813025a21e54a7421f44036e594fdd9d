@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/notbsd/linux/musl/b32/asmjs.rs
+copyrev: f6db2d75b67f111f2b6739aae01ad395a3bc27d1

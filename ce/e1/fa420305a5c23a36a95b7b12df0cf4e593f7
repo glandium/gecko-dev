@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/encoder/x86/vp9_highbd_quantize_intrin_sse2.c
+copyrev: bbeaf64103fd5dcc83267ae1fd07f35395b4139e

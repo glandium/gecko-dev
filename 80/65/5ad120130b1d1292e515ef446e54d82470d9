@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/ci/docker/x86_64-unknown-openbsd/Dockerfile
+copyrev: 08079c5f9707f52d515304c1b26427e1dd13f33a

@@ -1,0 +1,2 @@
+copy: taskcluster/docker/android-gradle-build/bin/checkout-script.sh
+copyrev: 5d598944ce4c4f5d303576f702123f2f9824973d

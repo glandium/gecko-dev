@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/notbsd/mod.rs
+copyrev: f3c257bec508573fdc5984668192374fd0638ab0

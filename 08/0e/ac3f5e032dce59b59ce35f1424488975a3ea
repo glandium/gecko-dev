@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/bsd/netbsdlike/openbsdlike/bitrig.rs
+copyrev: abef0bb2b92c3cef44d8e8c26f03288ac030d434

@@ -1,0 +1,2 @@
+copy: media/libvpx/libvpx/vpx_dsp/x86/variance_impl_avx2.c
+copyrev: da93841b10d50f86791c65e79ff34a310a365c0a

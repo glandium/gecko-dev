@@ -1,0 +1,2 @@
+copy: python/psutil/psutil/_psutil_posix.c
+copyrev: 65e1d1e3de52ff5b03d76479d92a2af3443b820f

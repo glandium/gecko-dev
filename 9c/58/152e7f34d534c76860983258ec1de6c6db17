@@ -1,0 +1,2 @@
+copy: dom/workers/test/serviceworkers/swa/worker_scope_too_narrow.js^headers^
+copyrev: bc87ea0cc7bd68c601def57456fbd23589e6ec79

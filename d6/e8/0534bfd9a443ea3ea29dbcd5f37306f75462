@@ -1,0 +1,2 @@
+copy: taskcluster/docker/funsize-update-generator/scripts/funsize.py.orig
+copyrev: 585039e1ac475ed294d092aa5c241c3d2b4d6752

@@ -1,0 +1,2 @@
+copy: tools/fuzzing/libfuzzer/harness/LibFuzzerRegistry.cpp
+copyrev: a12d253c3eeea03663a3c0bb9dff53afb440e2fe

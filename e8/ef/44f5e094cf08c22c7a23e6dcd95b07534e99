@@ -1,0 +1,2 @@
+copy: testing/web-platform/tests/referrer-policy/no-referrer-when-downgrade/http-rp/same-origin/http-http/fetch-request/insecure-protocol.keep-origin-redirect.http.html.headers
+copyrev: cdd834525ae40cdea751bb6708bcc590b7e7a707

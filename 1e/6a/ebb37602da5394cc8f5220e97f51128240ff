@@ -1,0 +1,2 @@
+copy: python/requests/requests/packages/urllib3/util/timeout.py
+copyrev: c495ac94ca65ad4187e5e0c671fa346a00d31a20

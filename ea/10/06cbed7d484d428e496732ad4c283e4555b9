@@ -1,0 +1,2 @@
+copy: third_party/rust/rayon/tests/compile-fail-unstable/scope_join_bad.rs
+copyrev: cf2883869c20f6c49f9aff530842deb76aa451b8

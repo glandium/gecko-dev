@@ -1,0 +1,2 @@
+copy: taskcluster/docker/android-build/dot-config/pip/pip.conf
+copyrev: 880ff288f0f91736a2285caf243774faca3d1883

@@ -1,0 +1,2 @@
+copy: third_party/rust/libc/src/unix/haiku/mod.rs
+copyrev: d25728ed973c333a7b1370bdb5a3370818aabdf4

@@ -1,0 +1,2 @@
+copy: media/libvpx/vp9/encoder/x86/vp9_subpel_variance_impl_intrin_avx2.c
+copyrev: 444ac40fb1c017cc0d69fd92a0e1f45cd596c52d

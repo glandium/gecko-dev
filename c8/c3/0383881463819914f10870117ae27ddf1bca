@@ -1,0 +1,2 @@
+copy: taskcluster/docker/android-gradle-build/dot-config/pip/pip.conf
+copyrev: ed6aa63fc3193b91d2a4db5fa20c60d7d34f70e8
