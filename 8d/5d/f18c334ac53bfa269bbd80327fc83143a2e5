@@ -1,0 +1,5 @@
+changeset 6223be841811af7515f8a157814c82b27259c0b7
+manifest 6424f1779d22cc44c49a54a0435c5ea9ab71130a
+extra source:9315eabc7fb0301e772359505bff5704fe894b99
+files js/src/vm/Interpreter-inl.h
+patch 273,340,

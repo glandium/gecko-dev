@@ -1,0 +1,5 @@
+changeset 874a07fdb045b725edc2aaa656a8620ff439ec10
+manifest 4ef34e032666746942f8498b768d76003d49acc4
+extra rebase_source:be1873a44cb2d3fa455e7bd4a31bb7c221f19213
+files python/mozbuild/mozbuild/shellutil.py
+patch 356,430,

@@ -1,0 +1,4 @@
+changeset 78dc6b0c4798e4414e99fec61e456aa3f065601a
+manifest 1cdb57a12220e463e51bb946ae7baf891339d7ef
+files security/sandbox/chromium-shim/base/logging.cpp
+patch 217,218,

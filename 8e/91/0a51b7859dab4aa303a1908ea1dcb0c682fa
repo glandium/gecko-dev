@@ -1,0 +1,5 @@
+changeset 418c564171ee3b203889ca2f9d5afef5361a1599
+manifest bf32b2af6fee7075ae6b91df516576e8159b6e86
+extra source:c2fecf58a8fd5ef8ce6cb0aa8ce7eb25dbc655a2
+files taskcluster/ci/beetmover-cdns/kind.yml
+patch 266,333,

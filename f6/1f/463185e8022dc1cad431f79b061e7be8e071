@@ -1,0 +1,5 @@
+changeset 197dde7656f8d4b8f136233a664891ba8d0b150a
+manifest 546dcaffc9c58ecc15a9c1a1af1e9d2ea050af36
+extra source:36663347138dc227d190bdec9b469821058cf176
+files netwerk/protocol/http/nsHttpDigestAuth.cpp
+patch 250,317,

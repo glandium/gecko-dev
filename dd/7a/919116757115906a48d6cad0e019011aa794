@@ -1,0 +1,5 @@
+changeset 21e673ba5a1669277b4d2752d20b8d220260e1ff
+manifest 4902011e4ac2bef38972c3f5806c1eb590c17f42
+extra rebase_source:e3c4e4cbebdb9adbc1b414c14b9df241abba009c
+files devtools/client/shared/widgets/tooltip/EventTooltipHelper.js
+patch 462,536,

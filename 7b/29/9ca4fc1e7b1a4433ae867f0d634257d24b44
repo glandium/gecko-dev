@@ -1,0 +1,5 @@
+changeset 2b4f08a645a0385021b64b4f995c18cb2250a5c6
+manifest 80ec7dda38da580a32a6ffb0f0ee398918720c82
+extra moz-landing-system:lando
+files toolkit/mozapps/update/updater/bspatch.cpp
+patch 355,399,

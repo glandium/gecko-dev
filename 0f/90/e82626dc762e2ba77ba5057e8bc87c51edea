@@ -1,0 +1,5 @@
+changeset 13b5df69b07e2af4f0cec8e01fb155a5572c1329
+manifest 8f2874b620164ec2f7c37c673ecf8c4efe307241
+extra rebase_source:18a5be1c050b622f1c57f752b3f97563009cdaf1
+files taskcluster/taskgraph/util/workertypes.py
+patch 369,443,

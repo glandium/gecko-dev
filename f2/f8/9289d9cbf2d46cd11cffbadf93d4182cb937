@@ -1,0 +1,5 @@
+changeset a179412ca028e816f367e2841f2afd91b472afe8
+manifest 89572d42d0079c1c1f094d1697d78870aab35a17
+extra rebase_source:6494a347aba323b977b845a1b70555fb1ab53864
+files widget/headless/HeadlessWidget.cpp
+patch 414,488,

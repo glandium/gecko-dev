@@ -1,0 +1,5 @@
+changeset 00c1789cdd6e6ae437589cd6e6c12f670f61d1a1
+manifest ef05022a4deaa0d7a172308f401fa2ce0093890c
+extra rebase_source:a9325ed2598c04bc6214ba42b921d4dd23366465
+files browser/components/customizableui/test/browser_panelUINotifications_fullscreen.js
+patch 351,425,

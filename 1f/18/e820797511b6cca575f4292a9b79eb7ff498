@@ -1,0 +1,5 @@
+changeset 03268e651db85ff3e6f00ce2e222a8b388a79243
+manifest 646176f9c589bc972bd8f1a95bbb8ddc0891964d
+extra source:4899a861d2869b33b0401a19b67ed6f0ed63ebfd
+files addon-sdk/source/lib/sdk/remote/child.js
+patch 290,357,

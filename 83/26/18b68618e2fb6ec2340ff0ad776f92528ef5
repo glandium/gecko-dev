@@ -1,0 +1,5 @@
+changeset 5c24c9a47d7bce752bf9d953348fd298c1b1a20b
+manifest b8c203149cc7e1b984f90ab422f330e9855fe9cb
+extra rebase_source:94bf357a24c4e59a0374f9017810760847c0a5b9
+files taskcluster/taskgraph/transforms/partials.py
+patch 301,375,

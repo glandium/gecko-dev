@@ -1,0 +1,5 @@
+changeset 4b51290fb5df280cb6fb4bccb3dbe0dd620e1e6e
+manifest 64aeb98a30d1ac66773cbb3dda8b35dfc679f039
+extra rebase_source:4843056051c254bde9e44aaf85b7f09f77e4e9d5
+files browser/components/preferences/in-content/tests/siteData/browser_siteData_multi_select.js
+patch 267,341,

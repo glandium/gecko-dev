@@ -1,0 +1,5 @@
+changeset 6f5d431f6acb97bc118b1ed811799ffad627b95b
+manifest 5016a74daef18883366ef27e3a52a97ca15a3b60
+extra moz-landing-system:lando
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/testSettingsPages.java
+patch 523,567,

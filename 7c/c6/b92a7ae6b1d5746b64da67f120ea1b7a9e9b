@@ -1,0 +1,5 @@
+changeset 1e689eca8d9851b49cc88dedd4832224d94e9183
+manifest 9320a7d8cebc43eeccac077250b05ebb81362a78
+extra moz-landing-system:lando
+files taskcluster/docker/funsize-update-generator/scripts/mbsdiff_hook.sh
+patch 407,451,

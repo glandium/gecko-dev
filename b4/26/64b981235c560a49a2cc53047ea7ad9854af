@@ -1,0 +1,5 @@
+changeset 50b8043a629c482ce42ff9ac29fb761bd055008a
+manifest 0499c91583dda1c363583fa942cc18f6bead1fd7
+extra rebase_source:03e78df55fec311b449c0d18597067749c41ade4
+files js/src/tests/ecma_6/Comprehensions/inside-derived-class.js
+patch 298,372,

@@ -1,0 +1,5 @@
+changeset 19cbf2e84f80b008832e4b17705aaa60e417b00f
+manifest 55079a39cc72f11be56093b955c596f6514f2e93
+extra rebase_source:57e16386780d3bf52e5557f3570a8835eb99e361
+files netwerk/test/unit/test_altsvc.js
+patch 298,372,

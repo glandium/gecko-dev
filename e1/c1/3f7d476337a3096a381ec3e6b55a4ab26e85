@@ -1,0 +1,5 @@
+changeset c0ee54a1b2fd971ddbe80cbb58d025c7b4909455
+manifest 81cc7ce29b0053b02786d6e3f310e64784c5fd7e
+extra rebase_source:f7665a63f3479ffd37744d8ed456366355c192d5
+files toolkit/forgetaboutsite/moz.build
+patch 327,401,

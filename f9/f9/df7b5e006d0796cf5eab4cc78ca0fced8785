@@ -1,0 +1,5 @@
+changeset f58ddafd8a65ff87ddf602ec7beeaa0f29609bfb
+manifest 5282a1a62673f4c9a44c11575ec80f36f7607e94
+extra rebase_source:c4cd89d2c9ad6ab17d5ce7d26b0ab8e1b351945c
+files testing/web-platform/meta/webaudio/the-audio-api/the-audioparam-interface/audioparam-method-chaining.html.ini
+patch 333,407,

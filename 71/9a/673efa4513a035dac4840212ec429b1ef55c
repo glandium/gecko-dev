@@ -1,0 +1,5 @@
+changeset b6d3473bfb804c6ae37e442089865fefd0324fef
+manifest 2962ebd233a456be621e4c330c4ffccc0c47d235
+extra amend_source:a46f587dc78393ef3d6198170ccd6b68465ee783
+files gfx/layers/CopyableCanvasRenderer.cpp
+patch 284,357,

@@ -1,0 +1,5 @@
+changeset 7819af073f1cf205e54895795a368e54e59070ee
+manifest 4eebb1712cfd471d71764da9685f1bc021914a0e
+extra rebase_source:b3cf22fa8b6baff642f223ae829fb087c992cff1
+files browser/themes/shared/browser.inc.css
+patch 301,375,

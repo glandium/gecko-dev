@@ -1,0 +1,5 @@
+changeset 7a9f2cf4ca3fa16ac9b2691c127ad6fa3d9fc6e7
+manifest 345a6b60cdfdfe862b04d02935536fd167b565c2
+extra rebase_source:ccdb43486e6c50dbd7b4a7b66e7e008b76c3125d
+files js/src/jsapi-tests/testPreserveJitCode.cpp
+patch 263,337,

@@ -1,0 +1,5 @@
+changeset 0329775bb9a4321441c576b01a6f851800afcf6e
+manifest 8e660779054aa99323d196d3675dc5a0d66d8b0d
+extra moz-landing-system:lando
+files browser/components/urlbar/UrlbarInput.jsm
+patch 277,321,

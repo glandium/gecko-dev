@@ -1,0 +1,5 @@
+changeset 25ab77df83364c1cf96b5ae047cf747e88090b29
+manifest 9e28df095ea65d11146a5c226fbfaa2fef26640b
+extra rebase_source:46fb508bb73adf1a556ac20abd30bf56bf23d3f5
+files netwerk/cache/nsCacheService.cpp
+patch 303,377,

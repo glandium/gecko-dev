@@ -1,0 +1,5 @@
+changeset 28164096fde24ee2b534a91454202f6610ecaba7
+manifest 9539859237e21c6bdbbc37235ee7b6ef99c6cba7
+extra rebase_source:d1e707b458cc9de278a79604663860ea5cb4e6a6
+files browser/extensions/formautofill/skin/shared/autocomplete-item.css
+patch 315,389,

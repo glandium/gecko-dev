@@ -1,0 +1,5 @@
+changeset 7771ab0cabc5b1b237ba66d19a027ae27314b133
+manifest 96b93be07337985ad46efa1f8bef261cfdcf6390
+extra rebase_source:1246dce8a7ad201cf4f01de8e4912217636f1fc8
+files tools/profiler/lul/LulElfInt.h
+patch 419,493,

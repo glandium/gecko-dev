@@ -1,0 +1,5 @@
+changeset 69fdbbb5facc288292c4d1f0057ac911f7422956
+manifest e476693cb50a87520fc712a305a9d2ac012a75ea
+extra moz-landing-system:lando
+files widget/cocoa/nsPrintSettingsX.mm
+patch 497,541,

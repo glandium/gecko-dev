@@ -1,0 +1,5 @@
+changeset c53adee3f1139cbc6537d36b25f7b3c02c06e4ac
+manifest 99a3cb666ec7b0bd5aec8b5ec3ef239baceedbdd
+extra rebase_source:541bef5b8c467894c6c0bb3c0ef4155cfea469ce
+files toolkit/components/satchel/nsInputListAutoComplete.js
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset 288c5869de06c34e0246e55361a5525765650e4b
+manifest 1b9099bd2bb3cf34b54cd7f4e04f7aaae25e5721
+extra source:0be55928fcb7ed372ee3f6aca33e5c7516593a2d
+files dom/media/hls/HLSDemuxer.cpp
+patch 315,382,

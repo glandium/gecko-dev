@@ -1,0 +1,5 @@
+changeset 1a0568ebe975cafcd2f8e785730a2a13d5ee9a9e
+manifest 1f8e58241ceeecaa697cb03aeb7bfc0b3725ac67
+extra amend_source:a1e80f703962ef0215c33fb8d61a123b45d4c994
+files layout/painting/nsCSSRenderingGradients.cpp
+patch 332,405,

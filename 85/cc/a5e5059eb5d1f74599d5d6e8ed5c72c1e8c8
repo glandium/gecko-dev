@@ -1,0 +1,5 @@
+changeset 3f362dfcc16039bd81c171d039e39f3cbf64d003
+manifest 000cd9e1abf04a4ac55b139391dba4848f02c998
+extra rebase_source:d1b8b3aa42716ba9884422687c8ae8946805bb1f
+files intl/l10n/docs/fluent_migrations.rst
+patch 430,504,

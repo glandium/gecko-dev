@@ -1,0 +1,5 @@
+changeset f9678179979d38200caefe0b46f78124c74e266b
+manifest 496f7ae53e426f973006bc68c3c45797842548e2
+extra amend_source:f02338f03bfaab1c920365d598c4b77771bfd625
+files mobile/android/base/java/org/mozilla/gecko/LauncherActivity.java
+patch 433,506,

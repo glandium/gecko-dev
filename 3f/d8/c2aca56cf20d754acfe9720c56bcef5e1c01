@@ -1,0 +1,5 @@
+changeset f624eab872101f974a3da00d4d19257a755ced1c
+manifest e2fb92f3866eaa130a9aeda0b9a37c150aea98d8
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/browser/browser_ext_themes_dynamic_getCurrent.js
+patch 390,434,

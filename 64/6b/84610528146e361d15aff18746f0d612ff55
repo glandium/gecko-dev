@@ -1,0 +1,5 @@
+changeset 2e0a891b3a0f1b92a154c41c6418cd64cfc4739a
+manifest d3a84e848668c1eddf6b1b38dd418a212e0baf2e
+extra rebase_source:93ca2919fcda84537bb92e0fd1fc09de70a8db72
+files build/clang-plugin/TrivialCtorDtorChecker.cpp
+patch 326,400,

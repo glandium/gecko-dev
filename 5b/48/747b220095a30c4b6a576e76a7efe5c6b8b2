@@ -1,0 +1,5 @@
+changeset c89d5d8a9f2cfb9d1d00992fdbc81c001b016bbb
+manifest c4674ec2aa8feab788d9ff8d53f51c27834e232a
+extra moz-landing-system:lando
+files servo/components/style/stylist.rs
+patch 792,836,

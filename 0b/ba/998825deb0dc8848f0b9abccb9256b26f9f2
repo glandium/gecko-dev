@@ -1,0 +1,4 @@
+changeset 4303b5b80d1f203fa1bfffb466f7c7d3ae616f07
+manifest 53727f9dbce20f4ea3bf7482f570161d5ffc667b
+files taskcluster/docker/rust-build/repack_rust.py
+patch 257,258,

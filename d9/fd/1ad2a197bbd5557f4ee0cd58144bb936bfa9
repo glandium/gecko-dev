@@ -1,0 +1,5 @@
+changeset cb33169e67e14d63cea1c8574fae969483ce72a8
+manifest 3113dc10f9c465c4b11c9db7c8ee15379aa96983
+extra rebase_source:4d65d40201313a53539e6d0a73fb4f1b085a8f01
+files browser/components/extensions/test/browser/browser_ext_devtools_inspectedWindow.js
+patch 359,433,

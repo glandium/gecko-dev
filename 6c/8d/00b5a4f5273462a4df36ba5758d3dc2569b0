@@ -1,0 +1,5 @@
+changeset 907068074409518346130d57333c36c79f85678d
+manifest c67b9bbabc6a4c79cfdf39feaa7b3e41f0a90d67
+extra rebase_source:0b13b004433dfa9e704d09871368e63aaebc7e91
+files dom/gamepad/GamepadPoseState.h
+patch 297,371,

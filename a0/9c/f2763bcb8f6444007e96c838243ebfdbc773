@@ -1,0 +1,5 @@
+changeset 39aaf089793437c9db28f5f1344c5aad8fbf0e8e
+manifest 98686c03b60d037fe9a45bbc0580c02c7fd3519b
+extra rebase_source:aebab5366ff2605b67f4d38ab764dd829b370fcc
+files js/src/jsapi-tests/testCompileNonSyntactic.cpp
+patch 289,363,

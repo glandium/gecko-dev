@@ -1,0 +1,5 @@
+changeset 642596497ac6f05354c7ec1c0f29a2a0a1c68235
+manifest 2d9c20fbb479549dd3b02381275c02d40fcd0363
+extra source:9b6d3584c9b871d23b858d5728eae7d81dbd80b7
+files dom/base/WebSocket.cpp
+patch 253,320,

@@ -1,0 +1,5 @@
+changeset 847333a06c62db0b96e5096c984c4fde7cde18d8
+manifest 162cb8cd4f0760dbedb7efb3a3231e4f99aa045f
+extra rebase_source:3a41c07c2ef76bef2fd7477b1fa7187a498facf5
+files js/src/gdb/mozilla/JSString.py
+patch 270,344,

@@ -1,0 +1,5 @@
+changeset 032c8557e0fd2e33651a2f507340d3af74d4ae81
+manifest 745750c599367acf0c7143c9f735b0f5bfdba434
+extra rebase_source:5aecc45a8647c994956af2a401416a5dbaadb24f
+files widget/android/nsNativeThemeAndroid.cpp
+patch 341,415,

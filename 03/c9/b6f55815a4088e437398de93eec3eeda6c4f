@@ -1,0 +1,5 @@
+changeset 23a648cc280c90a92222a6ee5eb714b37a31af54
+manifest 0a7d0699942aaf7e8f7169f88ea04b4d36f342c0
+extra source:f919fbf070ac44948cf5f896a4d8684b2fbf389e
+files testing/firefox-ui/tests/puppeteer/test_tabbar.py
+patch 478,545,

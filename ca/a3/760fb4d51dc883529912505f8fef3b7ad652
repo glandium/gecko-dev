@@ -1,0 +1,5 @@
+changeset 30813f5c5128c6e2c81e8e82250c3d3f3eaa107e
+manifest 4ce82370e0c38acba4b6263af699276f350693d6
+extra amend_source:260df77d213debe033fef9a110fe665f180e50cc
+files dom/media/mediasink/AudioSink.cpp
+patch 369,442,

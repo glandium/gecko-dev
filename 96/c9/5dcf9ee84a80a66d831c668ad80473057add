@@ -1,0 +1,5 @@
+changeset 6d68d842f601c310626d2ccedab94b38da321b72
+manifest 74b3c038346cc82483c5b0bfb75252e27b00f878
+extra rebase_source:423970ec88f200f89c05e6bb697e8eeac7078641
+files dom/xbl/nsXBLPrototypeHandler.cpp
+patch 282,356,

@@ -1,0 +1,5 @@
+changeset 6af3691ec0d1747ff384c8a61fee44918323e773
+manifest b22ccdfdd23a21f10ad8043bc1afbb431dfa39d5
+extra rebase_source:9aafb03b727b3ccacd5374804a3116558313896f
+files browser/app/winlauncher/LauncherProcessWin.cpp
+patch 377,451,

@@ -1,0 +1,5 @@
+changeset baa2b88b3ed1cd04fbae4d7ec20124c4ee2b87e6
+manifest 5f77b6019fd4bec094f16272ab413081edda2b17
+extra moz-landing-system:lando
+files devtools/client/netmonitor/test/browser_net_open_request_in_tab.js
+patch 323,367,

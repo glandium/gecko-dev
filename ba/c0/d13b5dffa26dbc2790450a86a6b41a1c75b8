@@ -1,0 +1,5 @@
+changeset 3be82e46d044dc1082fc28cded2deb15bb92acc2
+manifest 4978485382cae8cd092ff60fa060e78ce63706bf
+extra moz-landing-system:lando
+files toolkit/components/extensions/NativeManifests.jsm
+patch 640,684,

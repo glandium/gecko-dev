@@ -1,0 +1,5 @@
+changeset 7eaca2f87ee94ad68c76df0e8475e95463d6a554
+manifest 9a9e208dbccf2c62594069a51f8d35d1978af7d7
+extra moz-landing-system:lando
+files devtools/client/inspector/animation/components/graph/TimingPath.js
+patch 507,551,

@@ -1,0 +1,5 @@
+changeset f867ccafb47482578642cff261383e0d60cf4633
+manifest 8dda73ea523e6bc727aea3009570d3b64996b22a
+extra source:f66492db122a083a4a1c5ec6aa95865d82a70e1d
+files mobile/android/base/java/org/mozilla/gecko/db/SuggestedSites.java
+patch 303,370,

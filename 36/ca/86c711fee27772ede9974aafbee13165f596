@@ -1,0 +1,5 @@
+changeset 4dbf6f8f9990cc2e834cc0f2b09707e16d373500
+manifest baaf6583155406c755140fa19e964ebc1cf77831
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/widget/ExternalIntentDuringPrivateBrowsingPromptFragment.java
+patch 772,816,

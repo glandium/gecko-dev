@@ -1,0 +1,5 @@
+changeset 8bf31628742de6153ce9c2ff1ebc16d69b8d605d
+manifest c757834d865739137c47cb3d092f4f0e295a20f0
+extra moz-landing-system:lando
+files dom/media/platforms/wmf/DXVA2Manager.cpp
+patch 467,511,

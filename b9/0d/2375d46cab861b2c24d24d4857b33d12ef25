@@ -1,0 +1,5 @@
+changeset c17be0697cfba90244e38eccfb98a94ba0901120
+manifest 8b09f49248ad9c38e52a49f980f9b478aeaf032e
+extra rebase_source:790c5349507091e61c7d8345c203119d50ff2276
+files browser/locales/en-US/chrome/browser/accounts.properties
+patch 326,400,

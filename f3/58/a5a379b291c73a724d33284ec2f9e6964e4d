@@ -1,0 +1,5 @@
+changeset c7907ac20968c2311d83e5338158d5c6621c3852
+manifest ab14a14a44c0b0f6d35a609ff9090fd1b34d143b
+extra source:a54290a32fd6978e9f89ab4efd823e936258ba84
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/stream/TopPanelRow.java
+patch 353,420,

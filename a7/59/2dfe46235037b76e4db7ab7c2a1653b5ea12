@@ -1,0 +1,5 @@
+changeset ab427e770c87eb95217e49091236fe69dfdf9a9b
+manifest 5d4295543e5c3856def8b0876c2de26c10c9ab26
+extra moz-landing-system:lando
+files testing/web-platform/meta/css/css-transitions/properties-value-001.html.ini
+patch 380,424,

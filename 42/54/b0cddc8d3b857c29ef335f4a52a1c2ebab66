@@ -1,0 +1,5 @@
+changeset a2e5b2b30bfa6f6912f4af2df950284950e3fb16
+manifest 15e44ea5fc435c6a578c6535761c9bcba27410df
+extra moz-landing-system:lando
+files gfx/vr/VRThread.cpp
+patch 320,364,

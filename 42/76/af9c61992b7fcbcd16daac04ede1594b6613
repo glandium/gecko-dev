@@ -1,0 +1,5 @@
+changeset 0de9d5d433a7ae61a680e504a96a4c861b41cf3f
+manifest 45eb73d2543e8e33eaedf9f783e03dd92c876e7c
+extra rebase_source:cfb1ec685a02ca013c55cc2038c8c7e79a495ed1
+files devtools/client/inspector/fonts/test/browser.ini
+patch 350,424,

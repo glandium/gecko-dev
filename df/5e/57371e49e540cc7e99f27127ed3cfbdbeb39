@@ -1,0 +1,5 @@
+changeset 38f1df3c3f5d065b3b8d6b6811df9ba10e936ae9
+manifest ddd188606d58f3b265d24224eb9f0cf26d66e4ce
+extra rebase_source:52dd37d13137644f0119452869a416f87f7f90c3
+files testing/web-platform/tests/web-animations/animation-model/animation-types/type-per-property.html
+patch 387,461,

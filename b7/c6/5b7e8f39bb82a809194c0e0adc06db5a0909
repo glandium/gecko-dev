@@ -1,0 +1,5 @@
+changeset 12563e754c2b71520019b9ea12788381bcfc6160
+manifest 5ac96fd42049710eced3bf58a67fb86b1eaf4f4a
+extra rebase_source:4ab676e41466924e6c37401ea9f727d61e372515
+files toolkit/components/satchel/.eslintrc.js
+patch 302,376,

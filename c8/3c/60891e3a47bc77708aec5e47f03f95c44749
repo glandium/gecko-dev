@@ -1,0 +1,5 @@
+changeset 3e43abb01f45e29c0a629db77f2aaf16f8f66449
+manifest c4432ec5233c89e9d4861ae7b6edca3ea04d0a07
+extra rebase_source:1e5fb90a6099e55604ed4ea4686600e0d2251242
+files devtools/client/responsivedesign/responsivedesign.jsm
+patch 496,570,

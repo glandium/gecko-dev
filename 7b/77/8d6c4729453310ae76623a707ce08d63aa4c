@@ -1,0 +1,5 @@
+changeset 092cc740306c0817739e9b64a8edef56cfa29168
+manifest 3702f0ada8e58ac04a8518cca07ba01d6b0b4579
+extra source:344a2ba91f955e359ef560aedd778a9cd521a89b
+files browser/components/preferences/sitePermissions.xul
+patch 334,401,

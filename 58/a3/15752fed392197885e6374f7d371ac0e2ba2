@@ -1,0 +1,5 @@
+changeset 30d929bb7a7a01dc43584cd0b95a2ea9e1578647
+manifest 259c2ff8373617e635e3ec1e6f1f470ee927ef18
+extra rebase_source:cbc03eb7a63a4e9771c470cb3de153de25796f9b
+files layout/reftests/svg/svg-integration/reftest.list
+patch 287,361,

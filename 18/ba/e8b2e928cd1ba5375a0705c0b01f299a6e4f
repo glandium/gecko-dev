@@ -1,0 +1,5 @@
+changeset e90afee2e1413638f2a865e1f4abca292eebf00e
+manifest da7e72f8e7ac0a994e7fb2bd4bce9872f9794391
+extra rebase_source:6ca648a86d4ce1e159939b6f39bb632e01b0eca5
+files dom/animation/test/mochitest.ini
+patch 298,372,

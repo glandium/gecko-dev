@@ -1,0 +1,5 @@
+changeset 2d6de6f3bb5c7d159b7e4e8fef38af6bc408e33d
+manifest cf91c83877e7302089897a868042b0a4121e16cf
+extra rebase_source:7af77c4e028561e127f101b92bf8738502325bf9
+files mobile/android/gradle.configure
+patch 318,392,

@@ -1,0 +1,5 @@
+changeset 600fd2ac9a5ad2b5a9c1538b22bb1db010187e37
+manifest 63acf6b0584e4ad37d0f12f5803e6c046cae6e51
+extra moz-landing-system:lando
+files gfx/wr/webrender/src/frame_builder.rs
+patch 309,353,

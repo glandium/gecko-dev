@@ -1,0 +1,5 @@
+changeset 846c5bd262641bde5ee819522087ef9839416eaa
+manifest 23272503b6f02bcb6f1778fcd9e54a6e24d7ec1f
+extra rebase_source:479864aa7db0f3050bbc2dbd9465cbc35ae172c0
+files media/webrtc/trunk/webrtc/modules/audio_processing/include/audio_processing.h
+patch 372,446,

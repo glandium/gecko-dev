@@ -1,0 +1,5 @@
+changeset eb2c61b1014ceb1ac30211e2f9651ff36bb55770
+manifest bbe1bda7cedf650cae848b3619658624199d5276
+extra rebase_source:1e85f8352b7a59cb3cd2fd3034a0103c8705ff09
+files mobile/android/base/java/org/mozilla/gecko/updater/UpdateService.java
+patch 572,646,

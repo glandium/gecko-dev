@@ -1,0 +1,5 @@
+changeset dea1c646413a27c5251c87aeef52aa426fdc3aae
+manifest 5ee1564b54881278bd0d228b26f4216e8a7d2109
+extra rebase_source:a7559df0a6c5432c3ed0329e2411dc41f6942498
+files toolkit/components/places/tests/favicons/test_root_icons.js
+patch 364,438,

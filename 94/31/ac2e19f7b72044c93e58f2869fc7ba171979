@@ -1,0 +1,4 @@
+changeset 40755aa80f41ee6df8995ae44044caf7a024b128
+manifest bcf892265781e55d1f830e16cbbe51f4e649fd6c
+files taskcluster/docker/funsize-balrog-submitter/requirements.txt
+patch 256,257,

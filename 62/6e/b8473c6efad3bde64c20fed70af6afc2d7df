@@ -1,0 +1,5 @@
+changeset 8d568f13019209d727e5ef0f777fe7d7ed27964b
+manifest 6183b19b581f9a7aa31189f215369381839f1333
+extra source:476091dbf8c06ad7880859f302e08f637c077764
+files gfx/skia/skia/src/opts/SkOpts_hsw.cpp
+patch 308,375,

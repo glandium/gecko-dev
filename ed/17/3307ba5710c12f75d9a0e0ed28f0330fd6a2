@@ -1,0 +1,5 @@
+changeset 105e456d811b8c4616de688e9afdcf0af620b80b
+manifest 23db7929a161bfaf54b9dce981f4676affcec728
+extra source:43db947ee2fe101cb4f98db01b1f4808a1676765
+files widget/cocoa/nsCocoaWindow.mm
+patch 275,342,

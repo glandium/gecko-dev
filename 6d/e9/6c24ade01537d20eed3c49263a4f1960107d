@@ -1,0 +1,5 @@
+changeset ac243504720c88daed01f79598400b5aeb6c8240
+manifest 08d60f2161224bc0b013f9a66420bd503f752694
+extra histedit_source:dffaccd0ee01e1f7842680f614a760f93823f8c9
+files browser/components/sessionstore/test/browser.ini
+patch 294,370,

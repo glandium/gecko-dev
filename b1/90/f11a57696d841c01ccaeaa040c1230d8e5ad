@@ -1,0 +1,5 @@
+changeset 194a4baf87a5f1e0374edcf233c5299e878d9a37
+manifest 88a6facbdb8879cee34428712b3a43c6b04ec77c
+extra moz-landing-system:lando
+files devtools/client/inspector/changes/ChangesView.js
+patch 323,367,

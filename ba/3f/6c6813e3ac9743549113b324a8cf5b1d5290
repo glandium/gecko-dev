@@ -1,0 +1,5 @@
+changeset b351c04d0dc84965f8f8f3212272d21e53417599
+manifest 85024b08da4a8dbd56cfb676ac5a8a380d710faa
+extra rebase_source:05b1a047ac29f7512367a2e0ed551c5595edde44
+files devtools/client/shared/widgets/widgets.css
+patch 315,389,

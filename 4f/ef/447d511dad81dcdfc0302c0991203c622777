@@ -1,0 +1,5 @@
+changeset 64fa36b13e1a9d9b9c7da4b4d991b4c7570ce215
+manifest 0182cc61b03c1c6f3ed81e90570d1e810fa38ce4
+extra moz-landing-system:lando
+files widget/nsBaseWidget.cpp
+patch 304,348,

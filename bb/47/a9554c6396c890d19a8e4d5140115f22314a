@@ -1,0 +1,5 @@
+changeset 2c6eaa99679f4b2fd142cad85e0279216d7c86c7
+manifest 2f83a7646b937d4371aba160d479d4eb53c118e9
+extra moz-landing-system:lando
+files testing/talos/talos/mitmproxy/mitmproxy_requirements.txt
+patch 296,340,

@@ -1,0 +1,5 @@
+changeset aa3ac1aa52997563fd9fe67ed741d742f86bd797
+manifest 9cc703fe460769a76b8330e2b5b5aa48980c5280
+extra source:78f2064b3811db58b364c32ce9b58a3f2dcaf8f8
+files taskcluster/scripts/misc/build-libdmg-hfsplus.sh
+patch 695,762,

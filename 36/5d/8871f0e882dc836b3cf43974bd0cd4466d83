@@ -1,0 +1,5 @@
+changeset 1273c0362dd7a7afe2ccc06514f8238d16d057f1
+manifest 1b6a6817181006c929b6871ba6518a1c65c73035
+extra moz-landing-system:lando
+files browser/themes/shared/aboutRestartRequired.css
+patch 438,482,

@@ -1,0 +1,5 @@
+changeset 11731cdc9a54bfa255ca0cad3de5b2f748ec2afe
+manifest 4c078e0ab81f815e29ae7e54a2044bf46ea94916
+extra rebase_source:6ce8c84ac9a2ee6886483c3e2bb91320c557c371
+files devtools/client/animationinspector/README.md
+patch 303,377,

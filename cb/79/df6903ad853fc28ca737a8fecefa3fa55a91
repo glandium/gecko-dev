@@ -1,0 +1,5 @@
+changeset 0e72e4c798bb6999188eb745cb6bf5b39056c5aa
+manifest efd479f8fed46f2ae718faec709734746ef53573
+extra source:177fdd3c0a754a194c114524284537c92178a271
+files toolkit/components/backgroundhangmonitor/BackgroundHangMonitor.cpp
+patch 1119,1186,

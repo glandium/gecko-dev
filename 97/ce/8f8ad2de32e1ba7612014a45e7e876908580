@@ -1,0 +1,5 @@
+changeset d42edade7ed89be77315be5510839d7047ad6b55
+manifest 38777e746190fb20b489eb4848535dd0c81f84b9
+extra rebase_source:c0d6af0a1b283e0ff1ca56896b48e65fa2040633
+files testing/web-platform/meta/encrypted-media/clearkey-mp4-playback-temporary-encrypted-clear.html.ini
+patch 344,418,

@@ -1,0 +1,5 @@
+changeset 0f3543d470f269a834975f836adb3e5edcdb49e1
+manifest 8b4400fc4b51e9a97dff44e0ec5243f360d08cb9
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/test/browser/browser_webapi_theme.js
+patch 1308,1352,

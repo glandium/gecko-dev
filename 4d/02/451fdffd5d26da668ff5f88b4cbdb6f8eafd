@@ -1,0 +1,5 @@
+changeset dccf43cba794a6934858ff0e2e0a3ece92b1f443
+manifest 67839214188b83a2ba272d81a825373cbfc9b0cb
+extra rebase_source:88e6b631e679ff77a5d76e0fe9e4f2dfd5e6f748
+files toolkit/components/extensions/test/mochitest/test_ext_cookies_first_party.html
+patch 512,586,

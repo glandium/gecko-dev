@@ -1,0 +1,5 @@
+changeset 8268418fa2528e228a503e74a1a2f71272f257a3
+manifest 5e3d4d2f6be16b75da581fdbdb056d9834342650
+extra moz-landing-system:lando
+files toolkit/components/passwordmgr/test/browser/browser_capture_doorhanger_httpsUpgrade.js
+patch 402,446,

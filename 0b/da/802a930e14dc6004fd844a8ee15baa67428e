@@ -1,0 +1,5 @@
+changeset a5c5e322deb7b3764583332a082753b4363c1dde
+manifest 576b14e9cd03bf4aedca4d48686f84d35b319837
+extra moz-landing-system:lando
+files taskcluster/taskgraph/manifests/fennec_nightly_checksums.yml
+patch 304,348,

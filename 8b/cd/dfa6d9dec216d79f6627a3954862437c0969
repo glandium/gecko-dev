@@ -1,0 +1,5 @@
+changeset 459097e1f324f49d5713d41c50c895ae29bfbbf0
+manifest d44bf11aa2e088cc134abe0940cd31fbca045ed4
+extra source:07d87a46d6217a279adce2a022f660b04de98d08
+files dom/tests/browser/browser_focus_steal_from_chrome_during_mousedown.js
+patch 773,840,

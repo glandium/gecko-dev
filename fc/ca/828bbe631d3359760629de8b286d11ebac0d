@@ -1,0 +1,5 @@
+changeset f556bd020e0837f7c710beac70e85b3250fb2761
+manifest 68e9870a838f29c55860bfdc0bbe3f915fbb0929
+extra source:c8359f8f6142fe0378df4e510f60438cbfe3b1aa
+files browser/base/content/test/siteIdentity/browser_no_mcb_for_onions.js
+patch 313,380,

@@ -1,0 +1,5 @@
+changeset ec8271296a279e42abd174c08b1ee2e12d2cf794
+manifest 30da656c8bafea7410c2f7971edcef74d0cb0dfe
+extra moz-landing-system:lando
+files browser/components/urlbar/UrlbarView.jsm
+patch 310,354,

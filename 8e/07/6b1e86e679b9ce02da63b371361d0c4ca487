@@ -1,0 +1,5 @@
+changeset a1edfa0dfd73537199d61298685369b61ff25be9
+manifest cc269b4ba5736c0d6a7c584a4bbbbf61259c58e5
+extra rebase_source:b0a8ad739da00e626a76e24328fb3b1e10221c52
+files js/src/jit/arm/AtomicOperations-arm.h
+patch 276,350,

@@ -1,0 +1,4 @@
+changeset c39cd7438b60866004690e6191dec0984e996d4a
+manifest 24a6558d08a878060c07ee91a94a456fca2007b3
+files js/src/jit-test/tests/basic/consume-interpreter-stack-bug1473289.js
+patch 355,356,

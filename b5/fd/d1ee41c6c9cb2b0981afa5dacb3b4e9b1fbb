@@ -1,0 +1,5 @@
+changeset 27ef5204cf21149aaf1de1b9bc10793b7fdbbad8
+manifest 62befeb7138e29f0cf05702f94697480f0dbb8a2
+extra rebase_source:1de846f0f78d5fafea8e169d7b37f0d6a5a276ee
+files testing/raptor/webext/raptor/manifest.json
+patch 321,395,

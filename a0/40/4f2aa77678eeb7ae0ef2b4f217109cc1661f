@@ -1,0 +1,5 @@
+changeset b2ddfd6799978bd4b8bd2d2c92079d14099a0ac3
+manifest e3d480e0393221b01de1547dcc793123f4c9a60b
+extra moz-landing-system:lando
+files gfx/gl/GLContextProviderEGL.cpp
+patch 349,393,

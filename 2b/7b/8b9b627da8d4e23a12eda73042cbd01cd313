@@ -1,0 +1,5 @@
+changeset 07a842e3bf52cd8d1169951d00eb977793d03f72
+manifest b0a124c6a7f822745dde24e119bddb831f04c8df
+extra moz-landing-system:lando
+files dom/base/nsFocusManager.cpp
+patch 278,322,

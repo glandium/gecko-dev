@@ -1,0 +1,5 @@
+changeset 765bfffce2b4c077d11c2c874f074e2cdda270d7
+manifest ff92dea9f5ae7a0403f1643a488bbf654bde8174
+extra rebase_source:823e86ff4ee33062786a799d5bd1eb74ee6cd83c
+files browser/locales/generic/profile/bookmarks.html.in
+patch 292,366,

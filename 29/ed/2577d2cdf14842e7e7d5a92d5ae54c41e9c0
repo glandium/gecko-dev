@@ -1,0 +1,5 @@
+changeset d448c9d53ceae6e7171d427ed5d3721c62391b23
+manifest 68f920a44adae50e7ddb936c51d3a0b5f2db7497
+extra rebase_source:8be80145b56fa2da2f30ca62893900b4ff0c0517
+files security/nss/coreconf/coreconf.dep
+patch 242,316,

@@ -1,0 +1,5 @@
+changeset b1aa311b6b42be5eb1ec516c637bc2fd0e177778
+manifest 1cfbb9b9c5b8fae474f147d925f1d8a275a04c59
+extra rebase_source:ebc74ab507aaad6ac4c301cbbcdcab30ad3034d0
+files layout/generic/nsFirstLetterFrame.cpp
+patch 444,518,

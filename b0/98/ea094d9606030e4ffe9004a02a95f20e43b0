@@ -1,0 +1,5 @@
+changeset 61d324b24f9893589465f85ddb80f28c23b169d5
+manifest 48ba433eb9d8dc0378ef0899cd4efaf82163cd63
+extra rebase_source:ed80103b931c5fd45920559abf21815d500e3ed0
+files taskcluster/docker/firefox-snap/firefox.desktop
+patch 285,359,

@@ -1,0 +1,5 @@
+changeset 5ce13fbe4561b9f2d0cb3d516db9905b052cddb0
+manifest 2b78364663fa113fbf8b1de000048ac6dd481bf4
+extra moz-landing-system:lando
+files browser/components/pocket/skin/pocket.css
+patch 292,336,

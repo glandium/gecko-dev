@@ -1,0 +1,4 @@
+changeset 89e2f1795be7cdb353df6f52ba0b2daa3b28dbb3
+manifest 5db14c6a08d304acbaa8b8ac5201e1733326127d
+files python/mozbuild/mozbuild/action/process_define_files.py
+patch 518,519,

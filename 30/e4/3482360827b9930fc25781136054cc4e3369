@@ -1,0 +1,5 @@
+changeset db257b3d2c99be15970dcbb6b523c691cd3b937b
+manifest e280378b9c6a4747c49963c956d431905077500b
+extra rebase_source:c24e7e3d9deb858bd295a01bc2a0d150e27a7bc7
+files browser/components/extensions/test/xpcshell/test_ext_manifest_commands.js
+patch 314,388,

@@ -1,0 +1,5 @@
+changeset 0b55eb19edbc11c7fb340fdb1bee0ba9e1efea1a
+manifest 49624453043805ce9726af3070973b9f0b8ce5e7
+extra rebase_source:c4de09802785e1802e76898d820d0d9cf87896ed
+files taskcluster/docker/mingw32-build/Dockerfile
+patch 277,351,

@@ -1,0 +1,5 @@
+changeset 7de161eb2e1189967306da2a4f3f0b483b77a507
+manifest ea25cd36ac710790aeb483c1b1bddb273e781d52
+extra moz-landing-system:lando
+files browser/components/payments/jar.mn
+patch 372,416,

@@ -1,0 +1,5 @@
+changeset 4e3d7247274add5d767d6700209040f76ce8cb80
+manifest bfadfa32ada23c0a9fca3c1259d17cdb93610d30
+extra rebase_source:07ff416d5019eb9f2c92c616f2c3e53e55d8c929
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_context_menu_store_as_global.js
+patch 395,469,

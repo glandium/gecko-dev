@@ -1,0 +1,5 @@
+changeset 1e66240eb8b6287b0830066e2ba2e5d9c86f2a03
+manifest 89acc377f99de6b9565d61c39ce793a1bd782adb
+extra rebase_source:aba767491182f5066d3cc3988c822366f40ec145
+files mobile/android/base/java/org/mozilla/gecko/util/WindowUtil.java
+patch 356,430,

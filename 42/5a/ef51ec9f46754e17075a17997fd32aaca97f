@@ -1,0 +1,5 @@
+changeset a38d3c69ee958a21b131ae579469ca5b22535c9f
+manifest d05292327684634585f076ccc8c30b0d5e60cf6a
+extra amend_source:b47319d975fc93d8be4e5cc7ec794eab40932ecf
+files toolkit/components/extensions/test/xpcshell/test_ext_webRequest_responseBody.js
+patch 376,449,

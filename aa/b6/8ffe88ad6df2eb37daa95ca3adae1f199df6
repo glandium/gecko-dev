@@ -1,0 +1,5 @@
+changeset f421de9f952fd1034ed2eb23233eefc387bcc20f
+manifest 41e0ea9e603b3e32ccc556847e1ff03a6ec97cf2
+extra moz-landing-system:lando
+files dom/media/test/test_seamless_looping.html
+patch 387,431,

@@ -1,0 +1,5 @@
+changeset db1c005d388b62e8ab51929ea78bcf588b532ddd
+manifest fd593f04483fa4a3336eee8b638712af62521404
+extra rebase_source:32a53093dd8fc79d89fe3344d15852e4a2727eb0
+files toolkit/components/extensions/test/mochitest/mochitest-common.ini
+patch 322,396,

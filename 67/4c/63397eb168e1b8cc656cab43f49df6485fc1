@@ -1,0 +1,5 @@
+changeset 324232a1330c2a0661973d49f54ab5d29ca30a64
+manifest 862f96fe6fca559abc14abe26407d41d2c003df7
+extra moz-landing-system:lando
+files editor/libeditor/EditorBase.h
+patch 495,539,

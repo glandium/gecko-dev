@@ -1,0 +1,5 @@
+changeset 7ca275e013ff7a6bedeb4aeaa996af8d2a96c61d
+manifest 4c8799b81d20b2e19677b3cdc556f81a3d986db8
+extra source:0069f96e7711e0c66d0dc46e79d2635d875724c5
+files toolkit/components/prompts/src/nsPrompter.js
+patch 261,328,

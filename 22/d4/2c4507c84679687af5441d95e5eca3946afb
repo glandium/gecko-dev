@@ -1,0 +1,5 @@
+changeset 02b3167c1a8e87b2cb09cf2c6508df76e3e03c76
+manifest a5c13283e9ad902715e707a70e83900b7f55b4e6
+extra moz-landing-system:lando
+files dom/xhr/XMLHttpRequestMainThread.cpp
+patch 377,421,

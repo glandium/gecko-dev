@@ -1,0 +1,5 @@
+changeset 07208dd4924c87ab4c8d4b56579a19d3ed7ed82a
+manifest 09fc80d588167942309a59c8cc4c2fa55c75bf6d
+extra rebase_source:e10589628b0daf82aa8ac1c68f8dc1ea703862c7
+files browser/base/content/test/urlbar/browser_bug1070778.js
+patch 312,386,

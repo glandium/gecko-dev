@@ -1,0 +1,5 @@
+changeset d72ddbe9798884935ea974e963c5c9e1d1a135b0
+manifest b5f9568340ed601895af997c9d6ea0a143b2c47c
+extra source:b69245da928a9d067c08a2ebed11f38d6c1fa552
+files toolkit/components/antitracking/AntiTrackingCommon.cpp
+patch 372,439,

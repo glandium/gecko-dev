@@ -1,0 +1,5 @@
+changeset 39ac7d43116c8b4b13f84ace2693a9b2de64b53e
+manifest eea81ffb3b715d612cab1679da75044fdf25232a
+extra rebase_source:8b44fbe866ae5fac7547e9d1ece3a03a84718e79
+files mobile/android/app/checkstyle.xml
+patch 299,373,

@@ -1,0 +1,5 @@
+changeset a0c9f426defacb61a19ffc7eefbcb5e913ea13b4
+manifest aedff8542a64fdb431d185fb8e4f19fbe26ed059
+extra rebase_source:265937bc9ba3bc4c18756b6c675100a62929bafe
+files taskcluster/docker/android-gradle-build/Dockerfile
+patch 632,706,

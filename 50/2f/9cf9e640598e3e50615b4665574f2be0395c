@@ -1,0 +1,5 @@
+changeset 8f44dcf0d3406f4d44b04b86fff06a37937f2179
+manifest c63bdee1632d02451ed5d34f9877757c209b87f8
+extra rebase_source:478ea40d015c3aa7fc42d396431a368b041f1bce
+files js/src/vm/TypedArrayObject.cpp
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset 2e11c53b5a51948e8afb845e2c1603cc2ecd8b9f
+manifest f707f8bc82acfcc7f8ebc33e3d328140ec4022b3
+extra amend_source:a51aedad5b11b92f564ea739308000a41ff89578
+files js/xpconnect/tests/unit/test_getCallerLocation.js
+patch 492,565,

@@ -1,0 +1,5 @@
+changeset 57f9b3c8803318d2783a38b4bf14287613b96891
+manifest bbf90d7edaee41f49193d9697f338a777120a8c7
+extra amend_source:979b52543e7a97a63fee96a50bdcca23997dd5bc
+files servo/components/style/properties/longhands/svg.mako.rs
+patch 262,335,

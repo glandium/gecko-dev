@@ -1,0 +1,5 @@
+changeset a1e3dce97e85597982416ffb9dc8f81ac9c56bc2
+manifest 4143be810c8026f13a38a1a23ba8e1200765859e
+extra rebase_source:ae162e2a971c2b8d30456a9cb28b924b670d5b3e
+files js/src/jsapi-tests/testNewObject.cpp
+patch 274,348,

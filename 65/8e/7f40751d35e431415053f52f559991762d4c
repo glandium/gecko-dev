@@ -1,0 +1,5 @@
+changeset 15f3b254d594895a9169b28f9d74d586f7a5fe0c
+manifest 456d204351bacba9dc77d1ab20f800ede8747cf9
+extra rebase_source:3501a488774044cef2f4d9844b17123a40372a2a
+files devtools/client/webconsole/package.json
+patch 349,423,

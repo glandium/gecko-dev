@@ -1,0 +1,5 @@
+changeset 99e9b6c6a801e4e1df5ced3eb58b511fd533715d
+manifest a23b3cfdedf9b3e8a7aff210f8710f60d282b2bd
+extra rebase_source:5aec372dfcc4e7ba22cd16fa7eee15ed897a6fb7
+files browser/modules/PageStyleHandler.jsm
+patch 356,430,

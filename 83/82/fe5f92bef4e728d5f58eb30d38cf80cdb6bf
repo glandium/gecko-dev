@@ -1,0 +1,5 @@
+changeset 214a91d5dc5ca1d008a86005897648be07c7a8ca
+manifest 6777575681dbe9fc6d13a2ea3f6b2df3bae96e92
+extra rebase_source:59296afd2964cbdde969801b50599464509b8965
+files js/src/jit-test/tests/coverage/getLcovInfo_twice.js
+patch 264,338,

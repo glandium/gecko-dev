@@ -1,0 +1,5 @@
+changeset fc3d9bc177b77a645118d9ed512ae7018a1834dc
+manifest 5e7a894608b54dcc6d5582656729e1551fd164df
+extra rebase_source:94fa7303b73a8c717bbdd4e70e933ecf6bd4cc24
+files js/src/frontend/FullParseHandler.h
+patch 274,348,

@@ -1,0 +1,5 @@
+changeset d99a4076dee541b8e7f9eeedb3ed56f17be23a11
+manifest 4be75b7448ece4664b98b03a033f76e2b9ac0817
+extra rebase_source:61390c729e694589b0351026aac0263440a9a3c5
+files python/mozboot/mozboot/stylo.py
+patch 546,620,

@@ -1,0 +1,5 @@
+changeset 8d75bc8568ded43e2324a9dcf70a961a7cadbc3a
+manifest 316ce2ec9444c4f0bea315ffe23f7072ccb94a99
+extra rebase_source:97e98bf1fb9e725a107ed3200b95921375bfb637
+files dom/animation/EffectSet.cpp
+patch 436,510,

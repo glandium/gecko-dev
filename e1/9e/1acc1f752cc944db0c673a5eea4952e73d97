@@ -1,0 +1,5 @@
+changeset 3b3833597bd5b9b399151f017f6d5e98198fc7d4
+manifest 0c7081d8b4a5ad2162bee89654e333e276de206c
+extra rebase_source:95259e33e084038d7a71e89b90affb60c38894a3
+files devtools/client/framework/selection.js
+patch 568,642,

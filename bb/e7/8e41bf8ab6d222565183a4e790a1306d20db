@@ -1,0 +1,5 @@
+changeset f796b2c950e0689ad60163afca97f63e99f81f9d
+manifest de8df47b23a82bf915a89b4ba0f7a000968e4f74
+extra moz-landing-system:lando
+files netwerk/protocol/http/TunnelUtils.cpp
+patch 291,335,

@@ -1,0 +1,4 @@
+changeset 03f123944f4cb36820eb046c7c8fbad0d275bc32
+manifest 8282f367a632c3dd309c92a77dbb4a4f1fdc587c
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/PermissionDelegateTest.kt
+patch 329,330,

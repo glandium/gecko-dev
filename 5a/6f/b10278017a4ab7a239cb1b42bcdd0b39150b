@@ -1,0 +1,5 @@
+changeset 51b5d10855c9cce20abf96df79e91dc4176bb5bb
+manifest bd9d5202c8480d235b58278d4bbe6fcf68428e26
+extra rebase_source:4c3bb805018df98b0755854a113433e6e9c83150
+files browser/components/customizableui/test/browser_panelUINotifications_multiWindow.js
+patch 370,444,

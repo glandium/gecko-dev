@@ -1,0 +1,5 @@
+changeset d776548e68467ed3d65a9ebf2490e3a54cd2ea03
+manifest ceed637bc7dfce8f4284cbc03aabf92ece12676e
+extra rebase_source:aaf40cda47b857c66181a27a2450f9c9affb27d9
+files browser/extensions/shield-recipe-client/lib/RecipeRunner.jsm
+patch 347,421,

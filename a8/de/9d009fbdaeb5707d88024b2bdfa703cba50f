@@ -1,0 +1,5 @@
+changeset 24afd8e04316ca29c5906c3119a94cfec2cc2292
+manifest 260cce1a28a8fdc44f97c967acd4c0b0fceaf501
+extra moz-landing-system:lando
+files widget/WidgetEventImpl.cpp
+patch 543,587,

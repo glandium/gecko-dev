@@ -1,0 +1,5 @@
+changeset ccba4bf58b0fe402026346d09a7911f513f89daf
+manifest 2ffb9a6c526bd77389e86d8ee9c0a1507f265e3e
+extra moz-landing-system:lando
+files browser/components/newtab/aboutNewTabService.js
+patch 603,647,

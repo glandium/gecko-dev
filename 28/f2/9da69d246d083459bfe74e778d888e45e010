@@ -1,0 +1,5 @@
+changeset ec3f626df9d1fde0095c0df104a7f4e7863ca5ff
+manifest 3862d4d3a37634f56c5dcd49e098712f5a789b35
+extra rebase_source:93e624fb5dd938cee6019fd30991b210e21f0aae
+files xpcom/string/nsTextFormatter.h
+patch 309,383,

@@ -1,0 +1,5 @@
+changeset dedc153b08c31134016606dd7a1f2a430096aa19
+manifest 7731363d49647d7fe806d9a3bce82fd0869e39f3
+extra amend_source:18c356e0e2bfd5b7e725573a98a016e0ee1b79b7
+files testing/web-platform/meta/html/webappapis/dynamic-markup-insertion/opening-the-input-stream/abort.sub.window.js.ini
+patch 345,418,

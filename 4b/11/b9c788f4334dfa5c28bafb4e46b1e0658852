@@ -1,0 +1,5 @@
+changeset ea40957614e1dddbe0a486b3ddac7dfa77709512
+manifest 803f4016740e5600720a3b73565b49608474fb40
+extra rebase_source:d97984b59093350df42742560e566d746a0dc26c
+files browser/base/content/browser-media.js
+patch 213,287,

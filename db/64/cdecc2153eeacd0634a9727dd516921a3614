@@ -1,0 +1,5 @@
+changeset 4b70731f4113cc16c00dd43530b2c3baa432c97a
+manifest db1395cae0781a660f4837841c4d671e67da466e
+extra source:4255a184eac6d037763deb9319df652abf5f703b
+files browser/components/privatebrowsing/test/browser/browser_privatebrowsing_newtab_from_popup.js
+patch 1261,1328,

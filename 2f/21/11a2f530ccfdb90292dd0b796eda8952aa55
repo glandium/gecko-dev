@@ -1,0 +1,5 @@
+changeset 3d6dcf35e8f4a9ff76b34f5ffd5ab7cd961598ef
+manifest 3ab84039f7adc0c780706ab4c047cf78fc2ba591
+extra moz-landing-system:lando
+files browser/base/content/urlbarBindings.xml
+patch 596,640,

@@ -1,0 +1,5 @@
+changeset a38e0adbe442be2030b6a4b23c66365a10e1afbd
+manifest 28163684d6c23197b25569c88b2862041d53ae2a
+extra amend_source:24f8dc7366fbfd26fe3a2e331519ecf71907d5f7
+files browser/components/nsBrowserGlue.js
+patch 246,319,

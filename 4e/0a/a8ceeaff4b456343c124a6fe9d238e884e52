@@ -1,0 +1,6 @@
+changeset 7e8036db9669d79cdfbf20fdf68447c4bef60179
+manifest 9d61db27edc7dc8224c67f6cdd75e142b5bf5534
+author Nico Grunbaum
+extra source:4bee139e29a10b49bb145a20ee9c36895ef07a25
+files media/webrtc/signaling/src/peerconnection/TransceiverImpl.cpp
+patch 311,378,

@@ -1,0 +1,5 @@
+changeset 3e3ed1157c498ed0fb9c4cc8b93b7be3fcd56e68
+manifest da36dd3f14395e67447d4a9f37d223b09f08c935
+extra rebase_source:1d05cda7c7677df58f8ce8f1a46d51498d52c734
+files gfx/layers/apz/src/APZSampler.cpp
+patch 312,386,

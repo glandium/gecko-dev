@@ -1,0 +1,5 @@
+changeset 9114c6ecda72724ed8a763bb61991347f3f3ad10
+manifest 22bc435efe94c4540c3ae09016027d722ea63157
+extra source:910902e3dea7eb671ac09b811977d76459ab436c
+files mobile/android/base/java/org/mozilla/gecko/GeckoActivityMonitor.java
+patch 1466,1533,

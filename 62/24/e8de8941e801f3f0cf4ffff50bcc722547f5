@@ -1,0 +1,4 @@
+changeset c79dc40faa417607f4c06c80fe555088b6982908
+manifest 3251978e4242836035e7533fb2661c47e4ef7858
+files mozglue/misc/ConditionVariable_windows.cpp
+patch 324,325,

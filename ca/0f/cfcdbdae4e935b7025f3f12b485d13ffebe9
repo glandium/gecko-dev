@@ -1,0 +1,5 @@
+changeset 799d7dc72dc6978aeac96cc41cd2311f0e838cab
+manifest 1b10ab414ca46eabb9ce008a3dc3014f094faa82
+extra rebase_source:e3fc1087cf13e57af6fa154d46c0ec93ab625b7a
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/ProgressListenerTest.kt
+patch 365,439,

@@ -1,0 +1,5 @@
+changeset 6d7899c2a5eafb705ee898d110fe373aae5fed7c
+manifest 39e0ed6165bfc1b909b2fca6f7205f5ca09eb5f8
+extra rebase_source:3b0454e5ff83ccda3131406df36b34d4fe78fe30
+files toolkit/components/places/nsPlacesIndexes.h
+patch 299,373,

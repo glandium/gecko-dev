@@ -1,0 +1,5 @@
+changeset f6a4fa55f7245e3860503595c74d5b24e7ff0642
+manifest b9e5dbec2ccf5d1b02c2a43322d46b371f287e87
+extra source:ef88efc93b440aa048a2be8764f46ffe26dd716e
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/SelectionActionDelegateTest.kt
+patch 424,491,

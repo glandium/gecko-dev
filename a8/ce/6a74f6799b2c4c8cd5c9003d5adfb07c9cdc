@@ -1,0 +1,5 @@
+changeset 23bb00c3ef775912f9d86ee2fb7cf77f86775d04
+manifest 09859d95a86972eb3e32da56e76110920cd58ec2
+extra moz-landing-system:lando
+files browser/extensions/webcompat-reporter/content/WebCompatReporter.jsm
+patch 348,392,

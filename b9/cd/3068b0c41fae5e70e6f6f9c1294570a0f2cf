@@ -1,0 +1,5 @@
+changeset 8fb4ddab47308f7daf4442cb8f65471eb67ba422
+manifest 149318e2472693503aa8dab86aebd7d36df7bccf
+extra rebase_source:1870eb6933b02c83c7e61ac275b648fdde9b4cec
+files media/webrtc/trunk/webrtc/modules/video_capture/windows/video_capture_ds.cc
+patch 643,717,

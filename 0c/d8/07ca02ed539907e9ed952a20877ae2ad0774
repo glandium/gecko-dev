@@ -1,0 +1,5 @@
+changeset 3ebfb70bbd0bd65cb4ab8b7ed1bb3a4e43af3fa6
+manifest 39a68bdd377bec6086249c1fe3f6c99e54a98ed1
+extra source:540d3ce3b9e4c307dd85d46b0130a0ee6ea83cc3
+files widget/windows/nsClipboard.cpp
+patch 326,393,

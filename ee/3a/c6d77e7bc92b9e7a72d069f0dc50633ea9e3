@@ -1,0 +1,5 @@
+changeset 96e94c1a5230c2d96cc6470dc0f28aa93351a6f2
+manifest 0956acaeb76546eb709f077c67a855236d59d6d7
+extra amend_source:4e82a34ddb09f0acfb4469badf21980e951d13a4
+files js/src/jit-test/tests/wasm/gc/ref-global.js
+patch 266,339,

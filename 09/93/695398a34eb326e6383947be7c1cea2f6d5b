@@ -1,0 +1,5 @@
+changeset 6266e52aa3a7da160bec4aac6ce78e87618be80a
+manifest 0f2200c9d46d4f1850c91f8b79a8656041d67c79
+extra rebase_source:2c2a7d79201b66ac3262afcc5f060936ca2e8fa2
+files config/rules.mk
+patch 696,770,

@@ -1,0 +1,5 @@
+changeset eba81b98b0484f6c33b66769777f0e941f03f066
+manifest 3c7104f3bd1428b7cebefe972a24da0d5fb15122
+extra rebase_source:331dcf55caaa662203a501e5d0fa16f692b61793
+files js/xpconnect/src/XPCJSContext.cpp
+patch 293,367,

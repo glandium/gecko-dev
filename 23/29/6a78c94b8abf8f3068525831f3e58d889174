@@ -1,0 +1,5 @@
+changeset 96609bba12f3afbd78db214448491b55a4c2fed7
+manifest a3e20f0436ef536db749a7c0c59af40fc21f1c7b
+extra rebase_source:e877337b6635642e627578a2d99fec25d813c11f
+files browser/extensions/formautofill/FormAutofillDoorhanger.jsm
+patch 321,395,

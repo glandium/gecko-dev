@@ -1,0 +1,5 @@
+changeset 5e0f094685128a66ebebacb5627ffe570bdd4d2e
+manifest 2fe88faad54f7fbad323df901f3ae155971dc7dd
+extra rebase_source:1eef543c0461c601c47cbfb96a3ae3309b4221c1
+files js/src/jit/Jit.cpp
+patch 217,291,

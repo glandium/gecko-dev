@@ -1,0 +1,5 @@
+changeset 76bd6b8d073b2c2544f9ff87e0008fa0d61b309a
+manifest d50cf6732a1f6fbd77607d2b0de3482a8b7cf14c
+extra rebase_source:1b061d9f1511c7265d1d7e2481ed1d192609d652
+files testing/mozbase/manifestparser/manifestparser/ini.py
+patch 324,398,

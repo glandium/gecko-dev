@@ -1,0 +1,5 @@
+changeset 256247373b45b3599feb86ee570004633587f864
+manifest 32f0fe73cb2acb77639bfc7cb9384f24fa046896
+extra rebase_source:2f77c318339b8d6dee0bc0fb796fb763fe66b76f
+files browser/base/content/urlbarBindings.xml
+patch 264,338,

@@ -1,0 +1,5 @@
+changeset 9f6a982100e9b175042e375211abaa854498b1bc
+manifest 96d9794991579ae419f9703b68c5893d778699ac
+extra rebase_source:f91bdae686b062bade1cacdb489c935e30ea0876
+files uriloader/exthandler/nsExternalHelperAppService.cpp
+patch 506,580,

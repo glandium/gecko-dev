@@ -1,0 +1,5 @@
+changeset f744e835c8bf344bcd6f64b4b894a0a4d64a1c1c
+manifest 682625b7a673bc2d7f0107dd257f630b0ff7a943
+extra rebase_source:b6d18398e1f4dffc32ea61dd6cca80d57f97911a
+files browser/config/whats_new_page.yml
+patch 313,387,

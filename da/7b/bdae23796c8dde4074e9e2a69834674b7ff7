@@ -1,0 +1,5 @@
+changeset 87402fd86ee06ced4467c27144d8ce200e7b69cc
+manifest b2327fcef817c7247138d25c1046ffd776cc74ee
+extra rebase_source:e12b70d9974436580af926f636757856009ad5d4
+files dom/media/webspeech/synth/nsSpeechTask.cpp
+patch 268,342,

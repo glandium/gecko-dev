@@ -1,0 +1,5 @@
+changeset 42f0bbe5be03d22edfc6454de635db991b2c3bbb
+manifest 52f93e98922537275fd64d1158a6f0ffe68adffe
+extra rebase_source:da3355b1513a4f20b025c1af8eb0c7fad47dfb30
+files browser/extensions/screenshots/webextension/background/startBackground.js
+patch 577,651,

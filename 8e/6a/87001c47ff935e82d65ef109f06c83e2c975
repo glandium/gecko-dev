@@ -1,0 +1,5 @@
+changeset f2dfa6584638ef4b4230e6a954fa3862dad61d08
+manifest c975a7d9a58d736dd25181517fb20fc591cd16b5
+extra source:1f9785d097d0e04d731516a7b8ebfc3a7e9ec26c
+files parser/expat/lib/xmlrole.c
+patch 368,435,

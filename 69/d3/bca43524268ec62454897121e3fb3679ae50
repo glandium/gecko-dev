@@ -1,0 +1,5 @@
+changeset c926817dea602dd5ec1e836607c13effc24d90b4
+manifest 202641b6ba939bab36a5ed26188425a1e0ece5af
+extra rebase_source:208e781360d4c9dd1a39070a370466b9fc009f9b
+files xpcom/tests/gtest/TestStrings.cpp
+patch 371,445,

@@ -1,0 +1,5 @@
+changeset 37f69ad9559fa036df5496d49f09b9527f090eb1
+manifest 7f78ba22f76b3a59e09981f6e222be52c2e0485b
+extra rebase_source:0950ad7770f944fceb10ec89dd9d4a765fe3e9b6
+files devtools/client/webconsole/new-console-output/components/message-types/PageError.js
+patch 353,427,

@@ -1,0 +1,5 @@
+changeset 87b1dff0ae24b786976cc9e8ded643729575da01
+manifest 4ae156165aa546d49df916dbf234bf1d480b3c81
+extra rebase_source:b9c3ccf3c451d001c35f75709c7b03f6767cbaf0
+files browser/themes/osx/preferences/in-content/dialog.css
+patch 335,409,

@@ -1,0 +1,5 @@
+changeset 13f138fbb0bbed96fa87e25c2d8f90e38373bd34
+manifest 3aeea8640f05655e0a37147a9775e58e4e643bad
+extra rebase_source:65bb4f565c1e5c64d91292077084324ba6f40dd6
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/testBrowserDatabaseHelperUpgrades.java
+patch 632,706,

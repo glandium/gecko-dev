@@ -1,0 +1,5 @@
+changeset 0177a4902e5ecae53bed1e56f373bbc526168be7
+manifest 8047e5145d010bd5a220062844b093e04a1df7a5
+extra rebase_source:e0a9f1cffe6bae98334f71ada7d09f2d204ad268
+files browser/components/aboutconfig/test/browser/browser_locked.js
+patch 397,471,

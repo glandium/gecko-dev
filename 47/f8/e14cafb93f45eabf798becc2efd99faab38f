@@ -1,0 +1,5 @@
+changeset 0fe63c4978cd3062a08058233b67d69ecf7dfcd5
+manifest 814030aa99f86aba71f48f843b8023a913280de1
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/debugtarget/WorkerDetail.css
+patch 356,400,

@@ -1,0 +1,5 @@
+changeset 2083171b3ecbc178bc5eaebe629a28800635bd1b
+manifest d21716186a18e2d9c418379a5a2b88072cdd2980
+extra rebase_source:3b5953bb260343175b8911f1e5a964dbf35efa92
+files browser/components/preferences/languages.js
+patch 344,418,

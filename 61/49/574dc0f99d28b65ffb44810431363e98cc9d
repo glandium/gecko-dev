@@ -1,0 +1,5 @@
+changeset a18a4febdbdc83e3006e8297ef9dbd041597abf5
+manifest 6e55c77010de15fe01f441479ef5fe1bceb2815d
+extra source:4741b93cfdf29517ff8eae863825fdc2ab5bd7bd
+files toolkit/components/telemetry/pingsender/pingsender_unix_common.cpp
+patch 337,404,

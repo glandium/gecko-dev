@@ -1,0 +1,5 @@
+changeset 2b393dc7ff57c7ebaa1cad605ce5a1cb088bfef7
+manifest fea32d89d40c47a3f141c4509798f44808d400dc
+extra rebase_source:73ad3259abdef72f5b35d4f1e61f24e17b938dfd
+files mobile/android/modules/WebrtcUI.jsm
+patch 297,371,

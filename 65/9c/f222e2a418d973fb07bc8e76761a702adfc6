@@ -1,0 +1,5 @@
+changeset 463445e8010696ea7cf0c4fbadd8c2f6a2b49b94
+manifest 603eb3f5c2c08e4d5845b137a74e401e1a154400
+extra moz-landing-system:lando
+files taskcluster/ci/build/android.yml
+patch 474,518,

@@ -1,0 +1,5 @@
+changeset 01f390f36d953e54ae4c17126ac7d9764a6e3470
+manifest f9b5627a651aa1da4c621f439a81538903590cd7
+extra moz-landing-system:lando
+files browser/components/originattributes/test/browser/browser_firstPartyIsolation.js
+patch 401,445,

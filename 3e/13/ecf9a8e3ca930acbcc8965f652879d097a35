@@ -1,0 +1,5 @@
+changeset db5198c10a4b0b3a0e837faef01931d60dd2fee1
+manifest f2013a929ee4d5392a952b172601cce5342ce3ab
+extra histedit_source:32e707a592ede9fdbed1d1fe4b39e0e6103c949f
+files browser/installer/package-manifest.in
+patch 377,453,

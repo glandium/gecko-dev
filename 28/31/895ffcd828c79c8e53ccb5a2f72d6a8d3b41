@@ -1,0 +1,5 @@
+changeset 1a264632cf3fb854255fd31f8863e63861feccd2
+manifest 2f6946328069736d90e5fdfd5cde613dc71b3c33
+extra moz-landing-system:lando
+files mobile/android/tests/browser/chrome/test_device_search_engine.html
+patch 475,519,

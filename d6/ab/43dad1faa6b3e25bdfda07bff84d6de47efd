@@ -1,0 +1,5 @@
+changeset 6965bf2d3c5aa522b98d24348dd7afd04ef4a17b
+manifest 784e8ffba2012a7e542e7c82c251f444f9b891ef
+extra source:e414fcdabb7209d3ac6a0052f4c0c8c8c89ab35d
+files netwerk/streamconv/converters/nsIndexedToHTML.cpp
+patch 280,347,

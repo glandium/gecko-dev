@@ -1,0 +1,5 @@
+changeset efcfd2f95057ea622a735a015a9cd3f547281fc1
+manifest ed6c25f81b825522df69cce30047c8378fbdb094
+extra rebase_source:52850057c38b2760f660390f8c8faea457507bbb
+files js/src/vm/NativeObject.h
+patch 249,323,

@@ -1,0 +1,5 @@
+changeset 13763ec9100053bc33afc138cb2bdabafbf299d9
+manifest fe89514ad1bd66a3b7997806bdac83fbed4e8539
+extra rebase_source:134192b98d306d8c9313ccdcfe5106b0db4dadb3
+files browser/tools/mozscreenshots/mozscreenshots/extension/configurations/DevTools.jsm
+patch 445,519,

@@ -1,0 +1,5 @@
+changeset 6e0c72599e0b63fe2e4957184c40520c2fa6339c
+manifest 6c4ce8ef57ea4954d7dccef57d49c6557cc4de1b
+extra moz-landing-system:lando
+files toolkit/components/reputationservice/test/unit/test_app_rep.js
+patch 678,722,

@@ -1,0 +1,5 @@
+changeset 959fa5fe7bcf06a7c022e890541f906baf5efb48
+manifest ac69cc04efe2e28ab80d6333bf001d6d17ec064e
+extra rebase_source:089efee29869edc8229ebf894dd1e49e186ecd4f
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/db/LocalBrowserDBTest.java
+patch 341,415,

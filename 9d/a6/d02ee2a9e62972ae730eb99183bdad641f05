@@ -1,0 +1,5 @@
+changeset 20f2bbf59893ed5e92777f81c341b15a546059e2
+manifest 577da1755802f5d77e9213a544b65ae880861127
+extra rebase_source:dfe1baba6b1c0731d5fb12cbe4152067e997008c
+files browser/components/aboutconfig/content/aboutconfig.js
+patch 362,436,

@@ -1,0 +1,5 @@
+changeset d9718ee5b1101cdef15b59bfdb0cd7fb7b962e08
+manifest 08203ab6bd85c8dc58cc1d3d76ae3837bf22c821
+extra moz-landing-system:lando
+files taskcluster/ci/release-balrog-submit-toplevel/kind.yml
+patch 326,370,

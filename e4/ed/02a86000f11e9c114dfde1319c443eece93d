@@ -1,0 +1,5 @@
+changeset 25b2db4f13231f03a2e6b56ccf2883ac50290e7c
+manifest 9fae30fd94776cb42a61c1657f7b83b0d8f2b61e
+extra rebase_source:f2bc67f8757655d99bfd9735b80d7205f7bfe47b
+files build/unix/build-gcc/build-gcc.sh
+patch 978,1052,

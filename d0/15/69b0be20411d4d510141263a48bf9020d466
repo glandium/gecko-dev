@@ -1,0 +1,5 @@
+changeset cf9235d34b5bb3b86bd351edf9cce45d26a69cd4
+manifest 4c4b5c8a228aae79d006d7eef9520dbf5d14ea6e
+extra moz-landing-system:lando
+files testing/geckodriver/src/prefs.rs
+patch 360,404,

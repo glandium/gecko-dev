@@ -1,0 +1,5 @@
+changeset 44f9af6ad433e022479f2e32fb499036ee1440d5
+manifest 57627ce12558bbd73f8248903f3077704a4442f7
+extra source:1deede261ebf1a452e328a3ee5daa6f1da60edc0
+files testing/mozharness/scripts/release/generate-checksums.py
+patch 297,364,

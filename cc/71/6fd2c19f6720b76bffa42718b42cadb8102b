@@ -1,0 +1,5 @@
+changeset 4111a13b009fa64d890d827b956908e3aaf580e0
+manifest 6b270ff74ee62ddb8461d63ae5b45a99a324ed5e
+extra rebase_source:a55a6d438774462e8862f9c3890d32f9dfa6f511
+files browser/components/sessionstore/test/browser_tab_label_during_restore.js
+patch 809,883,

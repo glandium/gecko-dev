@@ -1,0 +1,4 @@
+changeset ad7285c0f876ee09a80d224dc374cef1ccbe51fe
+manifest 4535f5473027101771cc86f1b0c98545b6898202
+files taskcluster/docker/periodic-updates/scripts/getHSTSPreloadList.js
+patch 458,459,

@@ -1,0 +1,5 @@
+changeset b09ee6fada54d69c9f0bfddc0ac8048683bd650f
+manifest 8ae93df62568ad8deae0021d504f206776500af0
+extra rebase_source:cd9cc1cf6d64b67243eff2ca9c6c24ab46b033ca
+files layout/xul/nsImageBoxFrame.cpp
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset a66860c81eaf8f83e38ab184c1d1fa9e5564edcc
+manifest 724d5910525242e2ca9215bf183e3be8bc7a61df
+extra rebase_source:f2b316eb673a531d8f8040678c04d48c0b2424bd
+files browser/base/content/test/general/browser_popupUI.js
+patch 491,565,

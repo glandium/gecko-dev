@@ -1,0 +1,4 @@
+changeset 44f6455da33e3c8bd32df9611de89d20c771b0d7
+manifest cc15589cee42fa8538cd7d1808add89efb5fdcb2
+files dom/events/test/pointerevents/test_remove_frame_when_got_pointer_capture.html
+patch 300,301,

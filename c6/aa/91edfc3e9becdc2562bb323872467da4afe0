@@ -1,0 +1,5 @@
+changeset 1d4f929cdbf422d5346cd490b9bdca7bd812ed2e
+manifest e349f01a0d3a3c602f903cd25f43ac3425d35f33
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/sidebar/Sidebar.js
+patch 348,392,

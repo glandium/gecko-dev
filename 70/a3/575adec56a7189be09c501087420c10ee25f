@@ -1,0 +1,5 @@
+changeset a231670d9c66f178453520089f837f36390d0c55
+manifest 5d2f6aa17a685d45bb21600dbc2b95b21cb390ba
+extra rebase_source:cb426a250946aa92172a077dc9ccf708304af846
+files toolkit/modules/CertUtils.jsm
+patch 596,670,

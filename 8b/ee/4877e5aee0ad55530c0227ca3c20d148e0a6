@@ -1,0 +1,5 @@
+changeset e742cc754ebc1a989ab174e26ba29001fecfef7a
+manifest de69d236061e98a044d7f3c959545c12c49ffad8
+extra moz-landing-system:lando
+files testing/raptor/webext/raptor/measure.js
+patch 334,378,

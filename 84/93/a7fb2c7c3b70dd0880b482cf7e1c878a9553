@@ -1,0 +1,5 @@
+changeset a66f57e872c2bc3e4257b4b2cea98d8ef3c1e48a
+manifest 755a9d57debcf0c0ae75796f1179aa813f6ba6c7
+extra moz-landing-system:lando
+files layout/reftests/border-image/reftest.list
+patch 302,346,

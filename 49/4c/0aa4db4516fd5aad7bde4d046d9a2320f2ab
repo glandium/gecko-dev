@@ -1,0 +1,5 @@
+changeset e57bbf2bbcf99bd3a5c6c8ddc62e5b6fb298c681
+manifest 3ec5cd6429dd92caa925143c6086f748504c463f
+extra rebase_source:034a33ecd64a376e536a3f31d7e221a9bfb763b9
+files python/mozbuild/mozbuild/backend/cpp_eclipse.py
+patch 360,434,

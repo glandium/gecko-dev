@@ -1,0 +1,5 @@
+changeset fb45231e386d90110cdc7b93297e609e02c2b2a7
+manifest 820dca06b4ca851a70ccd05244c7c13c88a433a1
+extra moz-landing-system:lando
+files editor/libeditor/TextEditor.cpp
+patch 571,615,

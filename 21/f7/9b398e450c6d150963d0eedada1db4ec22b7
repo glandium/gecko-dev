@@ -1,0 +1,5 @@
+changeset ecc6886f6f9a6445f2068fba616654f660907aae
+manifest 2ce17b6d8a931f15374430d571ce991e05b52f2b
+extra histedit_source:677258e873bc5845a422f5e83ef91e071af1d1f9
+files js/src/vm/JSAtom.cpp
+patch 242,318,

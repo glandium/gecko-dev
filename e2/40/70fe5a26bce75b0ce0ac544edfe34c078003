@@ -1,0 +1,5 @@
+changeset 3b5f78d0f03e234565a4febb1cfafc23e8f40443
+manifest c788253ff7cfb2efa1f5a4b8844fe109a1c4770b
+extra source:ed6cbd03dbc20866e472a587cf3275d78b01adcc
+files devtools/client/inspector/markup/test/helper_screenshot_node.js
+patch 364,431,

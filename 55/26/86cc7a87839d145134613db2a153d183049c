@@ -1,0 +1,4 @@
+changeset fc3aed055616d295c60a0dec9c2d69ed6da4f8f0
+manifest dc12ead0366bf31714464faa6bf65d47f2068633
+files testing/web-platform/tests/wake-lock/wakelock-enabled-on-self-origin-by-feature-policy.https.sub.html
+patch 986,987,

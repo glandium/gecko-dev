@@ -1,0 +1,5 @@
+changeset d94fdea046be0070c4f75d89eb5e02b3c0fb4578
+manifest 5978c4ddd878fa54d4e84232cab3b3e04367e02b
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/browser/browser_DynamicScalars.js
+patch 369,413,

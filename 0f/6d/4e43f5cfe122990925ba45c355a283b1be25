@@ -1,0 +1,5 @@
+changeset 109ec8a11ab8c883dc8c5a6b1c5cec9046e6ec3d
+manifest d36cc20c78ea985d86cc84dadf4bf7bab5e544a6
+extra rebase_source:9bb6eb2d876f6b2a9e3d9dcc9585b9e12e14e8c4
+files browser/modules/SavantShieldStudy.jsm
+patch 476,550,

@@ -1,0 +1,5 @@
+changeset 6d4989ca4f5923062378a87c19fc3c7b8eb0d19d
+manifest c4c8ac2b382c4fbb29747ac315c9ca5b0fe33d7d
+extra rebase_source:a6bef8ec6eece3a1b0e45f84c907c2fbc0800863
+files build/unix/elfhack/inject/Makefile.in
+patch 556,630,

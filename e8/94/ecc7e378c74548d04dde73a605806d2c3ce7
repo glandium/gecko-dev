@@ -1,0 +1,5 @@
+changeset 44cd913c18f8f185a8b5ad3aad6a34b26c947cae
+manifest 4f1cd1d24b33a151b2e30c8c60d549db1d3af7b4
+extra moz-landing-system:lando
+files dom/base/nsGlobalWindowOuter.cpp
+patch 521,565,

@@ -1,0 +1,4 @@
+changeset 5be34c2d1de5d169706e498f0cadbbaa80a4ad29
+manifest 1a64f9ba09a15dd752cb4eae345e34a7bcd9f6fe
+files js/src/vm/RegExpObject.cpp
+patch 219,220,

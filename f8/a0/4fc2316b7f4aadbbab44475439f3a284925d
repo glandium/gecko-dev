@@ -1,0 +1,5 @@
+changeset ba149daae44e54bbe19f0c78845654e94bc47cad
+manifest edd1bb80bb6193010c40fa32908a9df3fbc37782
+extra rebase_source:b74bd0d6c36ecbb83db8ce6659f1484bfa3b885e
+files toolkit/components/telemetry/gen-histogram-data.py
+patch 477,551,

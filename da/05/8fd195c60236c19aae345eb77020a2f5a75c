@@ -1,0 +1,5 @@
+changeset 896a6b159815e5511c4845a4085be2ba8329f91f
+manifest 30d9e69ae519c57bd15d952eecf1cbb3af7320f1
+extra source:2e5441b820524a231d6a52284cca2db3c8e0ff19
+files config/external/ffi/moz.build
+patch 319,386,

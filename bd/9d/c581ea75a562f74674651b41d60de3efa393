@@ -1,0 +1,5 @@
+changeset d0fccf681c202e09119a65fe37a05b043d6b6bef
+manifest 560c0a40516ae16f0b5c151524612dfc6a0ae055
+extra rebase_source:a59fc01483fbc85766ff4445c5db7ddb1e49b87c
+files python/mozbuild/mozbuild/frontend/data.py
+patch 764,838,

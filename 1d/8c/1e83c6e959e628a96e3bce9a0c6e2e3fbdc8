@@ -1,0 +1,5 @@
+changeset f149ea88f20108dec9d7937b8f45138744461150
+manifest e4dc4a3f928fe9a831fffb488247447a6a775b55
+extra amend_source:77ce2411bf5313f2abc50a216f2d3fbcec90df10
+files taskcluster/taskgraph/transforms/bouncer_submission.py
+patch 339,412,

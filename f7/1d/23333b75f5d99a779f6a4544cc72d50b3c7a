@@ -1,0 +1,6 @@
+changeset cc2457d116a4b4c71adf9e01c6a9ea96968b9242
+manifest a5489a76e8f53343bdcf4d8d713b373d9b8ccd54
+author ben.tian@gmail.com
+extra rebase_source:3869ced9dcee89dd8f36edbc3df8facff9492bcf
+files dom/base/nsFocusManager.cpp
+patch 244,318,

@@ -1,0 +1,5 @@
+changeset 9db45f8500a9088745ebb5717240ae90b19bd360
+manifest 47e06f1a8f86860e9ccf239d7134efc8ca37987e
+extra source:372eb24ceb9e7c597b0e91e0d27a8c8ba732fe3b
+files devtools/client/debugger/new/test/mochitest/browser_dbg_rr_breakpoints-01.js
+patch 307,374,

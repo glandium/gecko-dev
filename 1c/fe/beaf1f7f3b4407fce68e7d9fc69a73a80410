@@ -1,0 +1,5 @@
+changeset b106eda10bfa8ca2a836cd0c29b1d584facebc37
+manifest f32835b7fbd47fd35f8fa103c197544866fdb5a2
+extra rebase_source:e2edc84999c9253aed65af86823a42c1847641a7
+files js/src/wasm/WasmTypes.h
+patch 288,362,

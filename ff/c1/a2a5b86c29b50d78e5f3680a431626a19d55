@@ -1,0 +1,5 @@
+changeset d7a43e59a1b4ea7c294e7645c4f77d798fe7be67
+manifest 92773acdcdf18a2ab36c7564646afac0e4ba5b3f
+extra rebase_source:0bde54fc7e1164a2b0fef8fbd161168a45aa07ab
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/mozglue/GeckoLoader.java
+patch 508,582,

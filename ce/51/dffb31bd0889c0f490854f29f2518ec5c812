@@ -1,0 +1,5 @@
+changeset 6f417be4dd3d5c77201c9b141687cccad6fc504d
+manifest 3b175904b233249a7c94b802887d10aaacabe7b6
+extra rebase_source:94d602a5fc23aeede3466101b0595b99836edba3
+files security/manager/ssl/nsNSSCertValidity.cpp
+patch 331,405,

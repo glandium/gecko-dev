@@ -1,0 +1,5 @@
+changeset a3a48defe4284e108769301d36a0c45498bee992
+manifest f3d08303f691e7b5198a9c1cc3a7222a1b4658fe
+extra rebase_source:d892b8b93b9f917c81c107fc29b446761f4617c6
+files js/xpconnect/loader/XPCOMUtils.jsm
+patch 312,386,

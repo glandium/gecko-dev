@@ -1,0 +1,5 @@
+changeset 7c43769de237d820797c702e9c3c17fe66c33fd6
+manifest 9d61d33707bf93d67558ee182a861c07deedcf8f
+extra rebase_source:51aa36fc73345e045db0a3351233170e77b13241
+files browser/extensions/formautofill/content/heuristicsRegexp.js
+patch 295,369,

@@ -1,0 +1,5 @@
+changeset 314994bc7f3f7de359818616dc96f6840a6e6c35
+manifest 63d8a11a90aa7067c1c2037d96ddb8996119071c
+extra rebase_source:11bc9b8881467bbf6a4cee9800bf1d13707856b6
+files docshell/shistory/nsSHEntry.cpp
+patch 264,338,

@@ -1,0 +1,4 @@
+changeset 0c52dd8e08a82a1c7916fae2a7d30cf4cf13a32c
+manifest 0170406fee538e711313c65e7bc0d23220905ddf
+files taskcluster/taskgraph/util/scriptworker.py
+patch 230,231,

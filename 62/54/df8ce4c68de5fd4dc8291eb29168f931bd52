@@ -1,0 +1,4 @@
+changeset 9ccc34d4916e51f562b13f6e8ab3402c9c1a8e71
+manifest 440c27297b4dcfbbd8c6a3b7ddeb27b86e8f2127
+files servo/src/components/script/dom/browsercontext.rs
+patch 394,395,

@@ -1,0 +1,5 @@
+changeset ec7ea9c6e94a6c640b9512f43473508dbfea25da
+manifest 300344bc20d0c6103d2aab0c8938e5e350c01f33
+extra source:51419ce26c1559f1521dec9a5dc0fb7a5505ddad
+files xpcom/io/FileUtilsWin.cpp
+patch 284,351,

@@ -1,0 +1,4 @@
+changeset aac6849c6ff0eb4981b569988a094f04e42f14dd
+manifest 456da72bb9d6ee13968e882db5c8ac4b09899041
+files devtools/client/debugger/new/src/workers/parser/getScopes/moz.build
+patch 207,208,

@@ -1,0 +1,5 @@
+changeset f06bcde158d3bbaec4389590e525cc3dead85d97
+manifest 73e4d5256f9f7eca7d5ed46af1837edfd0f2e081
+extra moz-landing-system:lando
+files mobile/android/components/ImageBlockingPolicy.js
+patch 365,409,

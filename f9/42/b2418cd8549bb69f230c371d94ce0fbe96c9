@@ -1,0 +1,5 @@
+changeset 7dcb80a051a3c6d70561b2965795cdc886b6028b
+manifest d89e85432a98e49567ca5e59273b0318a045ae58
+extra rebase_source:e1fdf13a2abc73ae961b7d4087dbfd7232101ede
+files toolkit/mozapps/extensions/AddonManagerStartup.cpp
+patch 287,361,

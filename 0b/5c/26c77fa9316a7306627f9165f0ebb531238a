@@ -1,0 +1,5 @@
+changeset d2294c830e11cd5467f5bb5ed39ecdaf4637e5cf
+manifest 331d521b804afca929f490d7797b2dd576154630
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/BrowserApp.java
+patch 735,779,

@@ -1,0 +1,5 @@
+changeset 9695a57baa0d7472b83f67efd71e433aee87c303
+manifest ad8f7ed9c7ab79b70932c2068d3e483ef38d36f3
+extra source:53f1ff7723eb56404ce3e32e9090edc1fa32a00c
+files netwerk/protocol/http/HttpAuthUtils.cpp
+patch 293,360,

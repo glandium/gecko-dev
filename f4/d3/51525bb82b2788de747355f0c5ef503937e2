@@ -1,0 +1,4 @@
+changeset ff6260097f15c4f76927f90c46b9dc7862b8cef5
+manifest 6271044a791c68bf5920ded9cbdbd9136c7c6b89
+files taskcluster/taskgraph/transforms/task.py
+patch 221,222,

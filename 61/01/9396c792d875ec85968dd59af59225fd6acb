@@ -1,0 +1,5 @@
+changeset 8ed6a4bfec68227c2aa576a907579aff8a9a6bcd
+manifest 366fce48064d3f077b3224c036506e92d9626281
+extra rebase_source:c14005a47bf64512c20d1253f278157f428bc61d
+files layout/xul/nsXULLabelFrame.h
+patch 290,364,

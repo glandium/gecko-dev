@@ -1,0 +1,4 @@
+changeset 6a997a291a00b738fe03ebe3637cb5291f4ac03d
+manifest b9a74a1cca9b5eaf2c4482e34ed4f85b0b62ca01
+files devtools/client/debugger/new/src/actions/sources/blackbox.js
+patch 321,322,

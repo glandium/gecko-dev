@@ -1,0 +1,5 @@
+changeset 07b4e13976f12bbcf9992778713968cacf646cf9
+manifest 00b71c6e0cf69fc5e2d5941eb4880e5422597523
+extra moz-landing-system:lando
+files widget/cocoa/nsCocoaUtils.mm
+patch 291,335,

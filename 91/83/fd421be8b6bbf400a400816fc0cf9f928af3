@@ -1,0 +1,5 @@
+changeset 5a3dac2b3a35503400845f64f8c09d690f96696c
+manifest 943c5b854ea28cda92ec470104080fc10e5b8c00
+extra rebase_source:ff106a725e42093f9957403fcb14b9804990c3b5
+files toolkit/crashreporter/breakpad-client/linux/dump_writer_common/ucontext_reader.cc
+patch 340,414,

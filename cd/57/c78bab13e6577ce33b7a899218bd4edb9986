@@ -1,0 +1,5 @@
+changeset 49268ecb72fbc8daf6d28e9be88fa5c4a55c2223
+manifest 0c9b498bf77eb4529d1bae9d02c4538482d542d1
+extra source:901f0ec0d11c11897fe3cf6c2243e6c43862b970
+files netwerk/protocol/http/nsHttpPipeline.cpp
+patch 310,377,

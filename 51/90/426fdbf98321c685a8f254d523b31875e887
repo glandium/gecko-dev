@@ -1,0 +1,5 @@
+changeset c20a1a0d01ff475ff8db96f9e1d81c579029fa77
+manifest 415dc2de98c4a9e8703cb44703bbf42f4f1a8fd5
+extra rebase_source:d11f0391c9fed77c805b7bfb71cc39ed729a3f8f
+files layout/generic/nsPageFrame.h
+patch 492,566,

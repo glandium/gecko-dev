@@ -1,0 +1,5 @@
+changeset 234a1abc97dd5c39c5ba8fecdee115fcdfbd4520
+manifest 0a5dd28a3c90e7159acd05901d669a6e49d4858d
+extra source:cd9aa3938195762e74c1595895b462a8b0a5fe87
+files js/src/vm/StructuredClone.cpp
+patch 239,306,

@@ -1,0 +1,5 @@
+changeset 5627d6ef29163f8b14305a7c612fb15475801b7e
+manifest 5c6f790d563646908a94cc9bcbaacdfa020cd359
+extra source:59221b30f49baa42ee9f8d12a087e093398165ce
+files dom/plugins/base/nsPluginNativeWindowWin.cpp
+patch 484,551,

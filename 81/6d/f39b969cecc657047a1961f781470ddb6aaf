@@ -1,0 +1,5 @@
+changeset ec06d5263eb38d2b9b8a02b759c2e4d4bfdf54b3
+manifest 186e6591a8864bf9d19ecfd134775bd431b93ae5
+extra rebase_source:6f8d74843ab61ebcfccf2138bd7ebc4a35eb6dbf
+files browser/components/newtab/NewTabWebChannel.jsm
+patch 333,407,

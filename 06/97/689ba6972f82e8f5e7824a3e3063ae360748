@@ -1,0 +1,5 @@
+changeset 73d4ed6f999e9424089ce740f8b679e0bebc05b0
+manifest 65031f2c5743c780da8246c67b10530ccb722815
+extra rebase_source:379161dd8545bdc3659eb8623ff57b8b6b488a2e
+files mobile/android/base/java/org/mozilla/gecko/icons/loader/IconGenerator.java
+patch 357,431,

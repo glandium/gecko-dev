@@ -1,0 +1,5 @@
+changeset 0e7248074acf71bb6553a68c53299f2fd1b35329
+manifest 098f9af0234c048af8de0d155c86e312eb23f6ba
+extra rebase_source:604691b597c7d442f31a8be4d2f1c2cd22421a2e
+files devtools/client/aboutdebugging-new/aboutdebugging.css
+patch 382,456,

@@ -1,0 +1,5 @@
+changeset 888ec0edab2f070648e8c505738bb720de97e1bf
+manifest 3e0b52d9f890f2daa63979469367325a489366b7
+extra rebase_source:0a5de9ee2b0c36303f64c20d0cceb33f81c0c6b0
+files browser/branding/aurora/pref/firefox-branding.js
+patch 324,398,

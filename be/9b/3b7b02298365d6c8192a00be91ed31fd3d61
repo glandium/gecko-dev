@@ -1,0 +1,5 @@
+changeset 870ce315712c4484f69ebe14fdc21f826c674d3f
+manifest 50124b51a3daa202eab287d296e4827970f4cd8c
+extra rebase_source:cdcb9cda69eac57c264de6f254583c2c791aebba
+files devtools/client/shared/components/notification-box.css
+patch 325,399,

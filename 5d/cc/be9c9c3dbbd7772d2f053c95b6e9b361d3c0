@@ -1,0 +1,5 @@
+changeset 8f9dcb9c62de9ef2ab82f42b7c5e5984d38bf55c
+manifest 9cfd85ba47f8bd46743ee09858c0774d083c1d8e
+extra rebase_source:22b143db53aaafd155bac825bc74f41f2ae0ed70
+files toolkit/mozapps/extensions/nsBlocklistService.js
+patch 324,398,

@@ -1,0 +1,5 @@
+changeset d1bef3268b21d02e8810a3a4559f1aaac9f27f3f
+manifest c3e988526ec60df2e8648c3ef26dcd70cc47dfb8
+extra rebase_source:6d6fb32bb36414b3b164c4111e861b6314c3e64d
+files toolkit/components/reader/Readability.js
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset 6075562b897b0ec87d7075da96cfec60cdf38bc2
+manifest c6cde0d4d683b61fa2fbeef6a34a1b735f89ef68
+extra source:04edb03fb817d692e7e502e86b618febad0c5ba8
+files security/sandbox/chromium/sandbox/win/src/restricted_token_utils.cc
+patch 322,389,

@@ -1,0 +1,5 @@
+changeset edb81858603dcc688ce16c6cb87f0c1911496239
+manifest 1c67b6110e550f686132b7f8b81b32868e1e1294
+extra source:0b6635a4c87d88ac36f88073839e5d7191da798b
+files xpcom/io/nsStringStream.cpp
+patch 282,349,

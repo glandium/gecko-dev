@@ -1,0 +1,5 @@
+changeset 183a8002ba333c29ca2d09ce014bb99f1a2e80c9
+manifest 2591564a38a40d131babe6e994a20a2d475609e0
+extra rebase_source:7ff59a448bfac6414a88adfac361463157ec5275
+files testing/mozbase/moznetwork/tests/test.py
+patch 714,788,

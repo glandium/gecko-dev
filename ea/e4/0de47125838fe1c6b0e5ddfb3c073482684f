@@ -1,0 +1,5 @@
+changeset 803f2dfa6e1298ed21ff9d864a90073116942be6
+manifest 30682f430ae5f4387371c2516d547cebdfbb12a1
+extra amend_source:ecc2a440d35e55af8e80a11f7c69befc549945f4
+files browser/modules/BrowserErrorReporter.jsm
+patch 311,384,

@@ -1,0 +1,5 @@
+changeset feb3c3fd79ca9b1f0803981d2746b1b98427d5a4
+manifest aa3ca419269c28e3e10d33f81caa46095bc73ec6
+extra amend_source:a88ab6e916c2d41696f6201e3d92cb6db2ce15c4
+files netwerk/cache2/CacheFileMetadata.cpp
+patch 288,361,

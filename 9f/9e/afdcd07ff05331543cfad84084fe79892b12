@@ -1,0 +1,5 @@
+changeset 377eada51b3cf7e03d5357a43b2a8a1bd1d6e168
+manifest c5e30c306ff6a9a7ee853390098415e7f66d7631
+extra rebase_source:147e4be9eb98326fd4946b7b3695c573c7108347
+files build/moz.configure/headers.configure
+patch 422,496,

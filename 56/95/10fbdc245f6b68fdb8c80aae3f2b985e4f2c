@@ -1,0 +1,5 @@
+changeset 8e03f957959dad0e0da538d975b60cf650237c3e
+manifest 3d94bbe033f6ede27afb410be203e7d01be366bc
+extra moz-landing-system:lando
+files xpcom/build/LateWriteChecks.cpp
+patch 344,388,

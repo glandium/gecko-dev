@@ -1,0 +1,5 @@
+changeset 3e36c0072a40be5bdd5d5322b4a925095dd69f4d
+manifest 9920d50de03b43701213fc9b93805ec7432a8f5c
+extra moz-landing-system:lando
+files toolkit/components/satchel/test/browser/browser_popup_mouseover.js
+patch 318,362,

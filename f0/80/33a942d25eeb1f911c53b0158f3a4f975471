@@ -1,0 +1,5 @@
+changeset 81e5e9200b41b827addbecfe34736bfd13249ab9
+manifest 122189c288edbede5b9aff98f7643619f1c224fd
+extra rebase_source:399d35a056b53d735a113c56f771a4d79ae3d38f
+files browser/extensions/activity-stream/vendor/Redux.jsm
+patch 296,370,

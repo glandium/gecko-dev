@@ -1,0 +1,5 @@
+changeset bb3a786dfee336e68f7521ef267152ca5b9e8ba4
+manifest 1294fb46af15b29a5d238c656ecf2c9f45983e03
+extra source:7c3b71a3cadcd9973ef4792e89374b4ada498112
+files gfx/skia/skia/src/core/SkScan_Path.cpp
+patch 301,368,

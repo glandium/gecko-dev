@@ -1,0 +1,5 @@
+changeset c94572a3b0d6ff958b6f33a3ac50adc305579cbf
+manifest 5ff53bfb8946af45153ed912b01d492b8121e1ff
+extra source:8702f2b2c64818748fdfe7a530a5a3e02d1fddc5
+files ipc/mscom/MainThreadInvoker.cpp
+patch 847,914,

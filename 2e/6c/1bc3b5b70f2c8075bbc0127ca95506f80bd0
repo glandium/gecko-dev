@@ -1,0 +1,5 @@
+changeset b359993bc563d9610f4ffe2ea86193428704ad08
+manifest 05946e1382df1a541b89b17396ec8c1b7d1c08af
+extra source:7dc34fa77f398c2156194e739c79ed48f94c6cf0
+files browser/components/newtab/tests/browser/browser.ini
+patch 274,341,

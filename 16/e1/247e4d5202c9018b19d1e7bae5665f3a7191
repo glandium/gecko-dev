@@ -1,0 +1,5 @@
+changeset dd482a0086c4841b03a4a57c18bce19197df1fb2
+manifest 6eed667386678f3b09316d0c40977394f45cc5de
+extra rebase_source:6e5b5b37d0c962c75a2a4b41c004f9cf47c2e8a2
+files testing/mozbase/rust/mozrunner/src/runner.rs
+patch 405,479,

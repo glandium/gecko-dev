@@ -1,0 +1,4 @@
+changeset 06f837d52004d87dcc376ebf513aa321109736f2
+manifest fa51b1f86868e0c3694a9383235f6cbe010d5029
+files services/sync/modules/browserid_identity.js
+patch 266,267,

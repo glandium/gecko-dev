@@ -1,0 +1,5 @@
+changeset 8f6a7ac9d726b343d9ba5067ffaccdb62e397263
+manifest 3f294a07cdae3ae167eef6c2486d8be46e917b18
+extra source:2fec62780f475cfb6633cac9b7393c0cc99cbb74
+files gfx/gl/GLBlitHelper.cpp
+patch 268,335,

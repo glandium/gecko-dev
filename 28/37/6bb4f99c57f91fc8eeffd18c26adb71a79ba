@@ -1,0 +1,5 @@
+changeset 1c8e5a4781fc7fe9ccd63012c6dc61bac25fc459
+manifest 0598beb24908da9dc81bf5b4bc1bb9dca045a5a8
+extra moz-landing-system:lando
+files config/rules.mk
+patch 438,482,

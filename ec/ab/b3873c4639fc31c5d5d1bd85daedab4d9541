@@ -1,0 +1,5 @@
+changeset 9ab9c35d407ba407ae1edec92a78c4fcf49a0151
+manifest 3cc5bc9c9a01d5771a12d0c06449204eecb7d8e3
+extra moz-landing-system:lando
+files devtools/client/responsive.html/test/browser/browser_touch_simulation.js
+patch 389,433,

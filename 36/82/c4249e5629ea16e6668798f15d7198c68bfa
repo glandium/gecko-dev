@@ -1,0 +1,4 @@
+changeset 9dfa745e1b33ee432adfc4591d5d8b1b599085d7
+manifest f41f3c692b86fb2d4b1c27790d794e7624079c27
+files testing/web-platform/tests/html/browsers/the-window-object/apis-for-creating-and-navigating-browsing-contexts-by-name/no_window_open_when_term_nesting_level_nonzero.window.js
+patch 1283,1284,

@@ -1,0 +1,5 @@
+changeset 723b390519dee8be6656e2609533f0e260f1a938
+manifest daba5f3659545de19935725bcfaecfe3c753e58f
+extra rebase_source:0bf8a18c81bc7efb9764a046035e7b51be298db9
+files dom/events/test/chrome.ini
+patch 281,355,

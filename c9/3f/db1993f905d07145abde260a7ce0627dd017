@@ -1,0 +1,5 @@
+changeset 60872ce3bd7d8ffc70e566f77bdc4ccdc7e2585b
+manifest 49c969b2d6571d3c78c0d3f084c7ff8e2bd40331
+extra source:56189c70cc8bccd927c71b09fcde036f61f3a726
+files browser/base/content/test/general/browser_findbarClose.js
+patch 351,418,

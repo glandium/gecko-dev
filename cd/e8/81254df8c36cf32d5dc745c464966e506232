@@ -1,0 +1,5 @@
+changeset c2810f74aef7a7c2413d9d89286c9e2d707d3457
+manifest 1dc4d38100978caf788744c08cda21c8f233aeb3
+extra source:95e975bffe31406777dd8e7a837f61d506336d23
+files parser/expat/lib/xmltok.c
+patch 359,426,

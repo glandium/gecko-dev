@@ -1,0 +1,5 @@
+changeset afbd3a8108de651ba078f4eb615d1a50d9c74824
+manifest 3d43cb4a4238be7a32e8cca8aebfecaa9d66b167
+extra rebase_source:443c07f724f294f8c515def4e011f7247396da58
+files media/webrtc/trunk/webrtc/modules/video_capture/video_capture_impl.cc
+patch 610,684,

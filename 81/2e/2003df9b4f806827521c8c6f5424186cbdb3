@@ -1,0 +1,5 @@
+changeset 83022b462d0b617fb82c044a0612cb118509b829
+manifest 66b06f35d9569238456a8ebd09788f53ef6405b9
+extra moz-landing-system:lando
+files accessible/tests/browser/events/browser_test_docload.js
+patch 348,392,

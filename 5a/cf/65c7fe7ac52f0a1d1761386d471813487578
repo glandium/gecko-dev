@@ -1,0 +1,5 @@
+changeset fbb8f063f6dcc99ac5f1ac8ae5749d70533f9145
+manifest b7ecd9325137ef7e4750e322a266ed3b9804ba04
+extra rebase_source:b4b3dfbbabbd610384448169b10c3f9b5c27e621
+files build/unix/elfhack/elfhack.cpp
+patch 314,388,

@@ -1,0 +1,5 @@
+changeset 9841fa1b5f14754998800b7d34b3b621aa829913
+manifest fb733e036c77b76a607a5cdb6db1bb4325dcb944
+extra source:d3d5149546bf7f6a533a9cd39832278c8cde064d
+files devtools/client/performance-new/panel.js
+patch 356,423,

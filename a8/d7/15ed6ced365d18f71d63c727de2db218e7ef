@@ -1,0 +1,5 @@
+changeset baff63f434f73b9b70aff0fbbcad42ed7c777f71
+manifest be10e9d0c292d169d0bc2b43f0d41250d82962d8
+extra rebase_source:f4ab48e73a56d331c3045197704cb73f9dd8b82d
+files toolkit/content/widgets/videocontrols.xml
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset c06b2c594294b667b6e9cfc05e6fa7dbb69eb41d
+manifest 9af0f15ce5672077df9d6ee10556e3a8a079e199
+extra moz-landing-system:lando
+files intl/l10n/L10nRegistry.jsm
+patch 299,343,

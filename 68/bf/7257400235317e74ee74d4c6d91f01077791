@@ -1,0 +1,5 @@
+changeset b1ca612ffb07f244735f83df37947652de43a6bf
+manifest a591b4669d0ffbd6b056fb9282d435122e573026
+extra amend_source:4b6a7db62f3a9beb8416dea1c53dd003b9def397
+files js/src/jit/RegisterSets.h
+patch 260,333,

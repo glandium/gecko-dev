@@ -1,0 +1,5 @@
+changeset 8ac25acdf9c15f4a8798f17aee228987be641635
+manifest 9887caeba1f4c3a4c3019aff94f0d62f709d433f
+extra rebase_source:9269938ff6495a392aaa3fa3e2fc7d5705c0aac4
+files mobile/android/base/java/org/mozilla/gecko/media/JellyBeanAsyncCodec.java
+patch 319,393,

@@ -1,0 +1,5 @@
+changeset 16471f5143c7a96a75814ab1e6c8366a43959c34
+manifest eff8f8ca4805bfd714d229eac0a5522fe2358567
+extra rebase_source:37199ee376e7b7db8984455d965fc78996cc0f3f
+files dom/xul/XULDocument.cpp
+patch 270,344,

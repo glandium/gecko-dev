@@ -1,0 +1,5 @@
+changeset b2299dd1dc579b9d5b0cce5092e9cac9b69f0f3d
+manifest 732b1bff6426a28acb346ed960a0eddce1753ad4
+extra histedit_source:c5a27d3f2a72396c14c8d8eb57b7885164e98dfe,5a288e823a0678e958cbb46080bf10d0fba0ce21
+files ipc/chromium/src/third_party/libevent/patches/backport-upstream-fixes.patch
+patch 366,485,

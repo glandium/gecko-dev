@@ -1,0 +1,5 @@
+changeset 2d0225ff21ff1238cf61e4a3c239dd89b7b7fc25
+manifest 44f50564a9c8f45e9719d812f070c54832928cec
+extra rebase_source:00084e91252f40f464bd7694a908180b02966855
+files devtools/client/shared/components/menu/MenuButton.js
+patch 2053,2127,

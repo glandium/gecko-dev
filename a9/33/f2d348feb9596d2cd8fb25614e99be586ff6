@@ -1,0 +1,5 @@
+changeset bb5aaa6697ec6169fcc8ba1acb35c10bbd33fb4e
+manifest aefa6a6bd32365881f06b293b3f1eac9cdf84023
+extra rebase_source:9b585b7a0dfb251b80d7712ed8dd18169a474199
+files devtools/client/webconsole/new-console-output/components/message-types/NetworkEventMessage.js
+patch 561,635,

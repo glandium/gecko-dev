@@ -1,0 +1,5 @@
+changeset 80f3e8b1d66fb5a9dbaba457ae2535a679ec49c5
+manifest 10ca6659170f4410cd4bd2dea0a74f7ed16f3117
+extra moz-landing-system:lando
+files widget/PuppetWidget.cpp
+patch 1311,1355,

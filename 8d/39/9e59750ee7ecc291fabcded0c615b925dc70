@@ -1,0 +1,5 @@
+changeset 09d9f11e8264d797651d5cf39111bf1053864a5d
+manifest a21aa03a2aaedecb32260a9177fc612b46fe1de8
+extra rebase_source:fc3976fca972bc224aee32830ec6cd0345ef0b7d
+files devtools/client/framework/devtools-browser.js
+patch 303,377,

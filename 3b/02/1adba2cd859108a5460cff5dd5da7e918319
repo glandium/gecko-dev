@@ -1,0 +1,5 @@
+changeset 8377d1696ac403b0e9d1b2fb9a855b7717f576a8
+manifest 1b0da6a9668b5751574ce0d76f3a9947832a8b34
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/vendor_dav1d.py
+patch 307,351,

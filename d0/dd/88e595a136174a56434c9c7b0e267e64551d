@@ -1,0 +1,5 @@
+changeset 5d784935e3bf4822868decf7edbf434e993440eb
+manifest a8ee0b983d3f7f9c285ba3e0c7ac24840c27512a
+extra rebase_source:a6cbcc57edeeca4bdae473be0ef5b2f0e3f88123
+files taskcluster/docker/desktop-build/Dockerfile
+patch 267,341,

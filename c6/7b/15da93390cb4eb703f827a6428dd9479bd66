@@ -1,0 +1,5 @@
+changeset d4657cdb08125a7daab950a72066df1332f25f21
+manifest 3db095eed091da905e5aef629bccad3b4d95750e
+extra rebase_source:f998e6c37161f851da450bd98ee27ba04a50f16f
+files testing/mozbase/mozrunner/mozrunner/devices/base.py
+patch 460,534,

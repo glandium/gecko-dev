@@ -1,0 +1,5 @@
+changeset 9ccc25047469c3ccfaaa3a13c5e08595b3f31065
+manifest 03d10c4e4e7c762b3c5279e2fd0a230a16c43a81
+extra rebase_source:399a988d00fabaa314eb7592b2aacf277a2ca477
+files xpcom/ds/nsArray.cpp
+patch 412,486,

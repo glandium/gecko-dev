@@ -1,0 +1,5 @@
+changeset 9941588e63261810b56446113d8fe9c07116b185
+manifest 0bb7d6e54fdb7d37016b99e6bf0b5bc0753ec311
+extra rebase_source:1a0e328b84f1a71638425bb4dfba756a211faa74
+files editor/spellchecker/nsITextServicesFilter.idl
+patch 475,549,

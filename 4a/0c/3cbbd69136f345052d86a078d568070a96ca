@@ -1,0 +1,5 @@
+changeset f67c47f25e6c8056bf22199d6d0596377526b7fa
+manifest 5718a139f27a4dcd2735b9179f1590d4bd3399b3
+extra rebase_source:28e219d44795b54979307f8f70eba0823eefab78
+files devtools/client/responsive.html/index.css
+patch 291,365,

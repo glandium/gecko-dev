@@ -1,0 +1,5 @@
+changeset ee9ac079ab0ecb1e6e011094cb227e5c36fe5dcf
+manifest 2c90bf98e6919eb991fde74fb91aada2ece87739
+extra rebase_source:f8c73bb4070b5bf6d6da639e1d255ece22f8d531
+files testing/web-platform/tests/webdriver/tests/cookies/get_named_cookie.py
+patch 280,354,

@@ -1,0 +1,5 @@
+changeset 5bcbe5232a262a2ad2703f2fd1678d8bd7681c02
+manifest 000a6f68558911f21a73c96e4444e60b0f02d954
+extra moz-landing-system:lando
+files toolkit/components/places/SyncedBookmarksMirror.jsm
+patch 503,547,

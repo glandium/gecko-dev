@@ -1,0 +1,5 @@
+changeset 513cd669aca140b8792069c05c4b5215d88bb41a
+manifest 57a0a803c6308ddb79cec13a61047929c2284af1
+extra rebase_source:8f9be1a786c85344bfde13649f043a13e113b693
+files js/xpconnect/tests/unit/test_classesByID_instanceof.js
+patch 462,536,

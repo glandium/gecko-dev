@@ -1,0 +1,5 @@
+changeset 74b41dce2486939617d1e358fe45e24bb063a6a7
+manifest f8796de036abd742000d44aab89b2260cceda64d
+extra rebase_source:5ba14360e3acf6652d3152109dea9945513b3271
+files netwerk/protocol/http/nsHttpChunkedDecoder.cpp
+patch 279,353,

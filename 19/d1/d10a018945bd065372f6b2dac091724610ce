@@ -1,0 +1,5 @@
+changeset a36197d667da7c46e535e34eb13e029c54e2b172
+manifest 8f5b56d8b80465a029b48c84d06d3cc05b71d8f5
+extra source:8e0c107d042f969fc94c4573d390ef34efd8ffb6
+files netwerk/protocol/about/nsAboutCacheEntry.cpp
+patch 502,569,

@@ -1,0 +1,5 @@
+changeset bb369804a51e7665c0b44d3778681ca132cb1c2c
+manifest 1502c16ae67ab64f623301c012f935f476e91826
+extra amend_source:4c60590a513eca5c2b601cc4ef50a964e2a80fa1
+files tools/lint/eslint/eslint-plugin-mozilla/lib/rules/no-single-arg-cu-import.js
+patch 366,439,

@@ -1,0 +1,5 @@
+changeset f49f30c8fefac983bfbb3452c2f43ea9b2e4c753
+manifest a0fc02284afeb6ba0d54dfd15f865865304eac25
+extra rebase_source:fd184f7eb6b5aa082382cf2e0ecb6bcd4992312b
+files browser/components/extensions/extension-win-panel.css
+patch 370,444,

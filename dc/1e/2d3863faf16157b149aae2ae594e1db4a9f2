@@ -1,0 +1,5 @@
+changeset 4c90faaa680da60a5fbe4230873ea7c06d0af04d
+manifest 0069379ed9ed222f9e763b78e1d41d7f42f46898
+extra rebase_source:b2ba34a48e427bb35caf84ac0ff4687f5e4467dc
+files browser/tools/mozscreenshots/primaryUI/browser_primaryUI.js
+patch 316,390,

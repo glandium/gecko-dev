@@ -1,0 +1,5 @@
+changeset f7f47849e748a4509be6005d060be7e09f537495
+manifest 1f7406a5a4134c07bd23dcf3e293dd3ee6d3659e
+extra rebase_source:71bf4e8f1d53f5de6ca69a45737ae1a45b5ee590
+files toolkit/components/normandy/lib/ShieldPreferences.jsm
+patch 321,395,

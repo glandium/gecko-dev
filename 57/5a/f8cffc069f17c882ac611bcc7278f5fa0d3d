@@ -1,0 +1,5 @@
+changeset aa9e4ca3dbca572fc9fd3583a87dc977c91ef036
+manifest 84aaa58e08bcb211295daf34b994338e97cfcb11
+extra moz-landing-system:lando
+files devtools/client/framework/components/MeatballMenu.js
+patch 456,500,

@@ -1,0 +1,5 @@
+changeset 9c540a7a8ca3a6271a7fedb2b342444207151250
+manifest 0cbec39d6fe19f880bbe10cdb91688763f4475e2
+extra source:f25c04e26f61ecc7cb9e058a2401d8943a47f0f7
+files browser/base/content/test/general/browser_trackingUI_telemetry.js
+patch 327,394,

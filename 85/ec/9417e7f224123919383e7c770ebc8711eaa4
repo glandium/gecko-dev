@@ -1,0 +1,5 @@
+changeset 0a457907494285ecf2e1745b222436d775476d17
+manifest b711de62774c34b29698802884e964e295edd732
+extra source:a6da01a927c90dcabb38a786158607696d109c3c
+files widget/windows/WinCompositorWidget.cpp
+patch 321,388,

@@ -1,0 +1,5 @@
+changeset 606cfe2ddd368dc617f52795ddb2f5016d3ef1a8
+manifest d06b52f48ea85b5e96cb84421e46b82448cd09ad
+extra rebase_source:a10854c8dc213007dff8e2af1185997b76a54f14
+files netwerk/base/nsProtocolProxyService.cpp
+patch 254,328,

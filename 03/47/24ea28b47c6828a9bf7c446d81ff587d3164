@@ -1,0 +1,5 @@
+changeset eedfc71718b4abd80fabcecf37eb122ef8aaef1a
+manifest 50410d0e782dc5488b45c819d4b51d276c327165
+extra source:8358de87720b2418b6cc17914571bcadbffd4ddd
+files uriloader/exthandler/tests/mochitest/browser_auto_close_window.js
+patch 501,568,

@@ -1,0 +1,6 @@
+changeset cc222ceb5dece2b76ba4b64bf92c178eaeefb844
+manifest 6053424de84307e0dc91e645a24492659b1284f6
+author pierre.brochard.1982@m4x.org
+extra source:8600fe754cc1889d68c77ccce574d6cc03b740e9
+files dom/media/MediaRecorder.cpp
+patch 304,371,

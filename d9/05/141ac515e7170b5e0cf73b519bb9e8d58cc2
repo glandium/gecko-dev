@@ -1,0 +1,5 @@
+changeset de02c78c82b754299fefda4d10c9f137cabeca95
+manifest 3ac8d193512efce19b148bbb8fa8b52a9d5daa9e
+extra rebase_source:829a3dea58f123893c591c05795fd6b4f4bba0e9
+files js/xpconnect/src/XPCInlines.h
+patch 276,350,

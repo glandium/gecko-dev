@@ -1,0 +1,5 @@
+changeset 1dfdc7ba998d4c03a5e93e6afff087086413f94e
+manifest 45a5bb3c21efb87ac64bbf32c0109a46dfc0d0ad
+extra moz-landing-system:lando
+files toolkit/recordreplay/ProcessRedirectDarwin.cpp
+patch 527,571,

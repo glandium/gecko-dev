@@ -1,0 +1,5 @@
+changeset c0de1027fbdab6f93e38854be19bbb936012339c
+manifest 4ebd0956991e57d0b6ffd6d7e93ffb80dd67e617
+extra rebase_source:265405fee0cc5fc5776cacca744d569357fd5674
+files mozilla-config.h.in
+patch 745,819,

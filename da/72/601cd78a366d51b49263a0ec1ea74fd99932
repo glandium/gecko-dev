@@ -1,0 +1,5 @@
+changeset 90e54fb8d5a8fe2d0cd80ecbb3b3aa2813eaf6c7
+manifest 54b33c3cb6fa5d1e1da25f0bca3ce2d9c9a8d4b8
+extra rebase_source:79a186251dda0dcd73191177d6b28e60d46ef96c
+files browser/base/content/test/tabs/browser.ini
+patch 323,397,

@@ -1,0 +1,5 @@
+changeset 3308206a8cbbb6823c4f9f7e08c7100bf58090c9
+manifest 3dec7f57726f5e073f18b822b2e45c46c1b31fe2
+extra rebase_source:3bf62b3943e64dca33f79299dd79dbd63dcfdba3
+files xpcom/io/nsAnonymousTemporaryFile.cpp
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset ada7d6900274686aca0b3500b3242c736caa9f49
+manifest 42998f4936907b8fda46bc5a47579262f117d2e1
+extra rebase_source:995262e4975a4ebd713cc81f29bc9e84ee2b8d9f
+files mobile/android/base/java/org/mozilla/gecko/icons/processing/ResizingProcessor.java
+patch 618,692,

@@ -1,0 +1,5 @@
+changeset c3b6b9b52356f88346eb6396f6e649e8c27549b1
+manifest 0403f4ccd87c9aa0050456039a4fdaf018dcbf2a
+extra moz-landing-system:lando
+files toolkit/themes/linux/global/toolbarbutton.css
+patch 301,345,

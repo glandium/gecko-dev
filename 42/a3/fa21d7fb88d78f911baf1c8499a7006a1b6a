@@ -1,0 +1,5 @@
+changeset fa53e62227a9fec00ad2374cd9ed6e80c27cb082
+manifest d96769dcec721f0cfcbeb877402476699a8cf914
+extra rebase_source:6611debb3567310c61e5a5dc9cedadeae888cfe5
+files netwerk/cookie/nsCookieService.cpp
+patch 681,755,

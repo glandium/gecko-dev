@@ -1,0 +1,5 @@
+changeset 960c7d09adb6cccf88411ba24bab2987f064c1c9
+manifest a1658cbf7733dd861215f88b9016ddfc28d2fca2
+extra rebase_source:098a81265deed9afc0b284d9863f18ebd74fda33
+files config/makefiles/xpidl/Makefile.in
+patch 576,650,

@@ -1,0 +1,5 @@
+changeset 2dd1517113c3b4b77ed0baf5313e9b0ae1a6a873
+manifest 777188c79d15a14d8f8c94f3f957fd69d5e08720
+extra moz-landing-system:lando
+files editor/libeditor/tests/test_resizers_resizing_elements.html
+patch 808,852,

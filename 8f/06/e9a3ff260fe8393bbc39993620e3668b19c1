@@ -1,0 +1,4 @@
+changeset f9744e7abcf9a6f10ed058186c033710beffc280
+manifest 8eb9570ab49e7afa98ba29688ec678ca2250fe85
+files toolkit/components/telemetry/parse_histograms.py
+patch 357,358,

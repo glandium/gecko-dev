@@ -1,0 +1,5 @@
+changeset 2abcdba8a85cd073642df23d850139f9f414b1ba
+manifest a909b2917417e7fca96d44b324bc68a8c3d752a4
+extra rebase_source:6b7b9d2918cee9e8c7c9fe64014a145dc002f380
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_input_focus.js
+patch 367,441,

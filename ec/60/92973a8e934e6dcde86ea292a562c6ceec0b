@@ -1,0 +1,5 @@
+changeset 99dac743207c3624909cc0742c7b8b7ee00a6628
+manifest b73e6cdceedd8114980b57a0fdb976524d27355d
+extra rebase_source:d1cd97e18c7184420fb420439d43b6d70457b682
+files toolkit/mozapps/extensions/internal/AddonTestUtils.jsm
+patch 631,705,

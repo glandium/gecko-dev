@@ -1,0 +1,5 @@
+changeset b8bcd63c24c9a2b86de3a8fd58658dad2d280663
+manifest 2382c12c07cb56af0f65f7e486b1ba7ea041ea7b
+extra rebase_source:be0b7c37575cb1996ef6823491fc3a8cf30fe596
+files toolkit/components/satchel/test/mochitest.ini
+patch 298,372,

@@ -1,0 +1,5 @@
+changeset 454e109602369647079000150d94d7aa2f269427
+manifest fc18af6ba868261eebce833d9c0ca6fc26b768c1
+extra moz-landing-system:lando
+files toolkit/xre/ModuleEvaluator_windows.cpp
+patch 599,643,

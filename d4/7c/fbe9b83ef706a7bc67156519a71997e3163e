@@ -1,0 +1,5 @@
+changeset 4ee1eca7adbdce195f7e660b227ddcdec38c9c56
+manifest 5ed86306476e78eba20a03d82444fb7379f79906
+extra rebase_source:850b0cafd6319d5af8f3dcd63c135544ec6b48bc
+files browser/components/places/tests/browser/browser_controller_onDrop.js
+patch 353,427,

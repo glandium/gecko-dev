@@ -1,0 +1,5 @@
+changeset 79290fd284cfc2226df07b793287d9c2037f2f10
+manifest 23f2c5efca233e18bde75b66626493283e5018db
+extra source:f94c634c79d05b14058c5635e434ceb23e68ec42
+files devtools/client/inspector/animation/components/keyframes-graph/ColorPath.js
+patch 365,432,

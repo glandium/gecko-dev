@@ -1,0 +1,4 @@
+changeset 840cf9044de30a0ddddff5904c9415a8a074faf8
+manifest f3e4afcb890b6ea80b799f46a5ae817d15dacf3d
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/GeckoSurfaceTexture.java
+patch 312,313,

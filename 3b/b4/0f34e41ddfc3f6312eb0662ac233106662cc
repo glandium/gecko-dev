@@ -1,0 +1,5 @@
+changeset f2d9e3f86795d687a0cc02859d6a2f55e0e7e5a6
+manifest 53eddd043c8ac27487100931b0798a4a0bc2f044
+extra rebase_source:d1913d01fdf6390baa7406c2ad27db64a6333098
+files devtools/client/inspector/webpack.config.js
+patch 313,387,

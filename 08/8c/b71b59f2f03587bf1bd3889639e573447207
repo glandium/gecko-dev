@@ -1,0 +1,5 @@
+changeset 0f9d5e93e0ba6fb9bde4dfb9befd6b941d2007f6
+manifest 10bb43a8a9445420e1d358da56a108aade4906c2
+extra moz-landing-system:lando
+files xpcom/base/nsCycleCollectionParticipant.h
+patch 347,391,

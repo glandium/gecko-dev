@@ -1,0 +1,5 @@
+changeset edea8382d3f45ed2fdd38c42f210a63c139f3be2
+manifest 16029d01f413495cde37d74ad37aecc698ef02b9
+extra rebase_source:9e09eb9b67824c81dc45198acd6582584a5e1652
+files mozglue/build/arm.h
+patch 395,469,

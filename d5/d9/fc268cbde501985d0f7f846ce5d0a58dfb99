@@ -1,0 +1,5 @@
+changeset cb2a199d50d1f79aafd93861ed7f6bc3f1f24eef
+manifest 594cf3e636190cd6b1b122614a871008895dbf98
+extra rebase_source:94df1ebbc40ab14b760f6ded192f0f2fb5cc6960
+files browser/components/extensions/parent/ext-windows.js
+patch 321,395,

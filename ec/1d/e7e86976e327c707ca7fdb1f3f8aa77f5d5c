@@ -1,0 +1,5 @@
+changeset 82d7df6894a7bd76eab313b77bdbfed4c334fcb5
+manifest 9f305429abee390c22ee8a4340a2a07a638ac918
+extra source:4931c4cb7c742b896935737e4081a8929ce802fb
+files browser/base/content/test/webrtc/browser_devices_get_user_media_paused.js
+patch 312,379,

@@ -1,0 +1,4 @@
+changeset b1e3a057032ea35502a6a9aecaea8ff6de04effe
+manifest 819c283215cfe5e96ea95d68ffe8f5456364e29c
+files taskcluster/taskgraph/manifests/fennec_nightly.yml
+patch 232,233,

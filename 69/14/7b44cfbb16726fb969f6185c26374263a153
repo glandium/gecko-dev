@@ -1,0 +1,5 @@
+changeset b0e17fa9eca1fd58040407e3b0a5ff82e12098de
+manifest c2d829e413b4037f6661a8191ce1bc698468be36
+extra rebase_source:d4f3d8ed3232a1cb81b0c73f1c66d647184a27dd
+files browser/base/content/aboutaccounts/aboutaccounts.js
+patch 345,419,

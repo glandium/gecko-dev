@@ -1,0 +1,5 @@
+changeset 02361691547a0220d9c08951e9d7a578507bd039
+manifest 7b3c291967fe67d2ff888a8fc7c4e76e1ba1c50d
+extra moz-landing-system:lando
+files modules/libmar/sign/nss_secutil.h
+patch 304,348,

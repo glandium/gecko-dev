@@ -1,0 +1,5 @@
+changeset b60b9d07842ed57911c896477b37defd9c00fb8b
+manifest 476045b489e965ec47219a27aba5186fa6f6afa0
+extra rebase_source:e10b00f7735bf63cb578d18acd03c3f3e919e304
+files xpcom/ds/nsHashKeys.h
+patch 275,349,

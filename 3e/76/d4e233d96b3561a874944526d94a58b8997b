@@ -1,0 +1,5 @@
+changeset 4655e1b1b2377a539a2d7695ce7fd2db580c5029
+manifest 54edeb4e126309dddc5f3109ddcea5d442416c20
+extra rebase_source:43b3fa15042246d2c3ec37a3ca904822b0f68d0c
+files mozglue/linker/Elfxx.h
+patch 372,446,

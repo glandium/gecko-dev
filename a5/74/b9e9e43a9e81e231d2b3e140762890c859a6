@@ -1,0 +1,5 @@
+changeset 3ef29704bc3d34cc4e3b4c804f5547d5527c2564
+manifest 222380d755ebc9c2fbfe0953bb47db0cf4921a57
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/set_window_rect/set.py
+patch 348,392,

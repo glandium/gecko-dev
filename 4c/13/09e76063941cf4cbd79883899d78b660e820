@@ -1,0 +1,5 @@
+changeset 9796d42a13d4d39d6ab6f0bdd53ee616a8ddaaa7
+manifest f2727628663e056292bb954ac02282948c45a09c
+extra rebase_source:7fde284fa7eb45a43683d163abb96b2bb80de140
+files devtools/client/debugger/new/debugger.js
+patch 287,361,

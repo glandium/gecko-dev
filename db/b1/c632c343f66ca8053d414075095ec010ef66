@@ -1,0 +1,5 @@
+changeset 86bf4fd84b052064313e6820530de0601a2e037d
+manifest d82278b086d6a982f789448cc829b15d4108f07b
+extra amend_source:54d17e32b91e3768e30ee7db0ac0aa0845c6c0ad
+files mozglue/build/AsanOptions.cpp
+patch 291,364,

@@ -1,0 +1,5 @@
+changeset 03cb4db8182b7db44601aac19c3803056e87ceab
+manifest 9dc832a415a21f4024473b20fabaae70d740b039
+extra rebase_source:6db2948d3a67bdac2f0e704563e75c11deaee445
+files browser/extensions/formautofill/bootstrap.js
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset efae18bd45a8f0a5b1c2faf8aeacb0157f45b703
+manifest b1eaea5748a6cf7134589e7a84ea2afe7e86d05f
+extra moz-landing-system:lando
+files dom/media/webaudio/AudioParamTimeline.h
+patch 323,367,

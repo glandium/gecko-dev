@@ -1,0 +1,5 @@
+changeset cb11989283f92e3613a2e1f091599b566b4270fc
+manifest cd5d2e156eaa50e7f5448cb85de935ae2f4d3b04
+extra amend_source:2d6f9ef300d074af494d3ef921dc752274837671
+files js/src/vm/TraceLogging.cpp
+patch 258,331,

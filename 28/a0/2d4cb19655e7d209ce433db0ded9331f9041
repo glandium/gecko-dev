@@ -1,0 +1,5 @@
+changeset 48738bebc1b909059931bcc1e45dc9125751692b
+manifest 2f65bed01b29496617fd15df63114b9d6b6fed46
+extra moz-landing-system:lando
+files services/sync/modules/UIState.jsm
+patch 353,397,

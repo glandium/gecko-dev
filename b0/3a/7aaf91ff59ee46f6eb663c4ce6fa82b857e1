@@ -1,0 +1,5 @@
+changeset fbb8ff8e9ad9dc2e2fb6e304042bf7613903cb1f
+manifest 9934c537acccd63b43ccad7983bc7fc23c8c975c
+extra rebase_source:6a20a286d230e363989e79d2d10b96268b06770a
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabsPanel.java
+patch 340,414,

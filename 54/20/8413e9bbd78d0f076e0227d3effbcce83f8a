@@ -1,0 +1,5 @@
+changeset 1c092a627a52416909908ec3c1937c46ce9f1b0d
+manifest c5743126e12f53714bc563fc453fef3dce5bf972
+extra rebase_source:0e2dd971b4b7c77dea04a74b9b4af8e5a2c822c2
+files editor/libeditor/HTMLEditor.h
+patch 282,356,

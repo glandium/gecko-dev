@@ -1,0 +1,5 @@
+changeset 103a0e570e3099ef0ed19b5fcb30e9cae9893bdf
+manifest 2da3c25a482ad23a94ed4b679b94563d64537222
+extra rebase_source:96585c678b163fd7506b60ba3c2390d6f8b51d33
+files media/libstagefright/binding/SinfParser.cpp
+patch 387,461,

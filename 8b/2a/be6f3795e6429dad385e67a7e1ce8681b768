@@ -1,0 +1,5 @@
+changeset cb4c292192bfa0d0f36f871c8fe71c0c98873144
+manifest f0edfa83f5d9b3b6b6650cdd6ef511be50cbf987
+extra moz-landing-system:lando
+files toolkit/components/normandy/test/browser/browser_about_studies.js
+patch 351,395,

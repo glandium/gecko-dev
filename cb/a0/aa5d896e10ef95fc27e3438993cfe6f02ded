@@ -1,0 +1,5 @@
+changeset 51399503eb15cd14ecc5510d15927c6b0f840175
+manifest 46ae3d3dbdbabebef83dcb652e7db5b0cc9acfe3
+extra rebase_source:6ca1082b766393fa90f3631fd09a399e01c9e6e6
+files build/clang-plugin/tests/TestMustReturnFromCaller.cpp
+patch 348,422,

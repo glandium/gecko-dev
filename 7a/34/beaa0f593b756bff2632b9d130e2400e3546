@@ -1,0 +1,5 @@
+changeset cca613b59b3c3711a9d1603b1dc90981f8395586
+manifest eb55036fb07f1d8ab7a967e722085c7c20e9dd12
+extra rebase_source:77fece9b202594887d6bfde8ae1c43c6caf15301
+files browser/base/content/test/urlbar/browser_locationBarExternalLoad.js
+patch 382,456,

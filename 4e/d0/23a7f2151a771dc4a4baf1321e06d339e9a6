@@ -1,0 +1,5 @@
+changeset 0138266bc70b0763a0843c9ed46488afb83bc20a
+manifest 9a1570c8b9f44585bcd5fbc9651dba510812d2ee
+extra rebase_source:76c781b6279a3ab53e0e5ad370dd9dfe625799d2
+files taskcluster/docker/android-build/Dockerfile
+patch 334,408,

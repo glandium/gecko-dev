@@ -1,0 +1,5 @@
+changeset 42c1ba6cb5f400c7e4a8a68fe11713de6a69ba38
+manifest 0fbc639a88dfc34f496a578fa2ff60210de34933
+extra rebase_source:88a50110d66ad85c1277213afea7e08f7aa9538a
+files js/xpconnect/idl/nsIXPCScriptable.idl
+patch 372,446,

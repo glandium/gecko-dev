@@ -1,0 +1,5 @@
+changeset 52d60c758838d2fa4d9f947680c12a380b0e8e46
+manifest 522a2a466c8b2dddf272f3f7e924d9713d9567b7
+extra rebase_source:1fc559bf3a24907fddc064b3e8e2d01776b712a7
+files python/mozbuild/mozbuild/action/check_binary.py
+patch 365,439,

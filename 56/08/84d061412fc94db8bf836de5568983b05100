@@ -1,0 +1,4 @@
+changeset 27d0649dccc7394b1e17a187f076cdb9c86e132f
+manifest a52d8a4e723a09f1c7aec5489ee0b068fd9e5a67
+files devtools/client/debugger/new/src/reducers/event-listeners.js
+patch 293,294,

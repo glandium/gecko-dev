@@ -1,0 +1,5 @@
+changeset cad017b24b7fe161e4330eac2327f74f9786203e
+manifest 8f3e2e970107055a3e3c75b55e9fb6b8dbcd2e95
+extra source:2bcba81ebe936f83f4b12047f41b29dc20a74782
+files devtools/client/inspector/computed/test/browser.ini
+patch 301,368,

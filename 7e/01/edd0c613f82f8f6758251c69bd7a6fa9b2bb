@@ -1,0 +1,5 @@
+changeset c179e84b040f22612b228076d2d6d46229b1fa57
+manifest 7e707e26a7ad4c1582317a3c1eb0415e78fe8977
+extra rebase_source:255c6771dc705c556e82789b1af9b04aed697a0b
+files dom/workers/test/serviceworkers/test_serviceworkerregistrationinfo.xul
+patch 344,418,

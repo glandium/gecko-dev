@@ -1,0 +1,5 @@
+changeset f655236b4f528dfae0c3bc519b872567689d905e
+manifest 5a4518d03b1c7aeaf2be67a43a4cc90817f52364
+extra rebase_source:6a578d8944cc0cadc69f7f031374bac92b8c6ee9
+files layout/xul/nsScrollbarFrame.cpp
+patch 301,375,

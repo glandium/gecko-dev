@@ -1,0 +1,5 @@
+changeset d45b0f72d98aba5c55ac3ad4b5fc548edbeb30f4
+manifest 5064b8119c4c15b662440fcc25d297997afbf237
+extra rebase_source:e1b079c4e7e29fcb2121ad3cfbc2c183798928b7
+files media/gmp-clearkey/0.1/ClearKeyDecryptionManager.cpp
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset 6fdf52934a04f7aca7e3a0a1e8a180b7c9e0305b
+manifest 77640d8075d8b73d54ec3ee533dc30fa7ab0582c
+extra rebase_source:4d0ce4c9fe97857bdd274ac149c707df2ecb9122
+files js/src/frontend/BinSource.cpp
+patch 248,322,

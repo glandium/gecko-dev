@@ -1,0 +1,5 @@
+changeset bdb29efa6bee6a1b8b2213f3829506a6c3217caf
+manifest c6a3e0298382b9cadbeae5f5fe3b05727714c0f9
+extra source:08f5f3a124d34babdf642fbedb93900fd5ef3acd
+files browser/components/search/test/browser_searchbar_openpopup.js
+patch 362,429,

@@ -1,0 +1,5 @@
+changeset a426ddd23654e1f3b801d864aa1a686fc22d8e4f
+manifest 3d957026ddd931048c30fac4f3c4537712df8fa7
+extra moz-landing-system:lando
+files build/moz.configure/windows.configure
+patch 622,666,

@@ -1,0 +1,5 @@
+changeset 7fe4c38ae22f924209aacc4cb3e5177d79cdb9ef
+manifest 2cd88f91d64f1ff0fd4e9f270b2664dfcf525574
+extra rebase_source:5ce371fc492fba5200d03b05c00787ec82603ddb
+files toolkit/themes/osx/global/tabbox.css
+patch 279,353,

@@ -1,0 +1,5 @@
+changeset cd72be2928eae2b1bf1952a05fa475c1668cc0f4
+manifest e3f797749168b7b660e806ae47572f6856694f3e
+extra moz-landing-system:lando
+files widget/gtk/nsWindow.cpp
+patch 287,331,

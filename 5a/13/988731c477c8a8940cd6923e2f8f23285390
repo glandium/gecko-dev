@@ -1,0 +1,5 @@
+changeset acdb8e6dc477e1e4c01b7dd53e94bb4e0823b62b
+manifest 1b8d05c34a1634c78310ff0c042ed32f5a0f4bfd
+extra rebase_source:977c790f03188c4fda83297db026af62ee56a870
+files caps/nsIPrincipal.idl
+patch 254,328,

@@ -1,0 +1,5 @@
+changeset 7860182ed49d0cfeb73ad00063663904262ea824
+manifest 8260d525124b80d3c6836255b62d8f45fe2f7c1f
+extra rebase_source:f955c1cc01e50ac7600df5f7d34439eca4870927
+files browser/components/preferences/in-content-new/tests/browser_subdialogs.js
+patch 329,403,

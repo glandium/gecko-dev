@@ -1,0 +1,5 @@
+changeset b8ac8bdb082cd6d362ed29ab11a01ff33eabddb6
+manifest e1152a503ddd038d236902b97a11743ef3ced30c
+extra rebase_source:549937e54581d9c5b69e05351b88805e244cb622
+files devtools/shared/protocol.js
+patch 293,367,

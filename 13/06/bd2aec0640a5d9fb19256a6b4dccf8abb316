@@ -1,0 +1,5 @@
+changeset 9930b3b01f8f5444c5e548a3eb482bd3002fae8e
+manifest d739f7acb9a44c080e4791bec8dc27a89b3079cb
+extra rebase_source:e97ac44d40b9a910cef36e3965b96bf51fb6df88
+files js/public/RootingAPI.h
+patch 288,362,

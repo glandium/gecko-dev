@@ -1,0 +1,5 @@
+changeset 09693629803f174b18c4906d8bdb13c4cc4c9684
+manifest c14d2c1094f8ba21c325742347c80a2f922a6567
+extra source:0a56c49e7e25c97f6c6b6881cd86ea7c5dfa4182
+files extensions/auth/nsHttpNegotiateAuth.cpp
+patch 312,379,

@@ -1,0 +1,5 @@
+changeset f35c055ccbaa9191f9dedbee5da5bb805e4cdef9
+manifest 93fc517785f8dab1458e795f9e97dfab8dc3fc67
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/telemetry.py
+patch 323,367,

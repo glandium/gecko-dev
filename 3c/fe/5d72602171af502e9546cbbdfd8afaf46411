@@ -1,0 +1,5 @@
+changeset 4a61437c8f0ad49cb93543a4f6ed7ddf12c0244a
+manifest 297db8a988d59bb0c62b37702be6fc84f1703f7b
+extra source:210ee7ebb398f40a51969ee316d2ed9e4d864f84
+files python/mozbuild/mozbuild/action/dump_env.py
+patch 534,601,

@@ -1,0 +1,5 @@
+changeset 2622040931e64baff36decfec3cec21301f02270
+manifest fad1bac368a233f759b30c3b46723457fd44b6f6
+extra moz-landing-system:lando
+files browser/base/content/test/trackingUI/browser_trackingUI_state.js
+patch 328,372,

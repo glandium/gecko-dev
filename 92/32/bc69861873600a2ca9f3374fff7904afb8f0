@@ -1,0 +1,5 @@
+changeset e4222223d4ee4c96c9d586147e56b2843b16ed49
+manifest 5777ca52ba7f063fa50ebef07f4d2c77a81fcdbd
+extra source:ec55743c3ed433453ef8e67ca7869b65558b1497
+files browser/components/downloads/DownloadsViewUI.jsm
+patch 313,380,

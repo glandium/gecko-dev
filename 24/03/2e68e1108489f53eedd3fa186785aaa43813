@@ -1,0 +1,5 @@
+changeset 3f0075d62b3675ae8c8e25552336a8091f08cf3e
+manifest cfe77898885fc825179b2a635634b851f91c74ae
+extra source:4b9b12d91081fbbe98b82b2501834c6877366011
+files widget/cocoa/nsClipboard.mm
+patch 290,357,

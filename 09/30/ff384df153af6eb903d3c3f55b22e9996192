@@ -1,0 +1,5 @@
+changeset 78b85b822ca3fdd13f593e34287ce255bd78c0cd
+manifest 990d718dcc82384e1042b8e8a6e5f2f9e1a754fd
+extra rebase_source:051523f98e582b1246893e985a0464d671c0d822
+files addon-sdk/source/lib/toolkit/loader.js
+patch 332,406,

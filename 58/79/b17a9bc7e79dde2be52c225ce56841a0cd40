@@ -1,0 +1,5 @@
+changeset 313fd5d293cdf66a4dfd6a76a2ac7e77506d8e2a
+manifest 84ca6233c9178ea3669f8bbcafeee80a3181de97
+extra source:34ffa05e2af018ce65d69c49f9018cf2aa99438b
+files gfx/skia/skia/src/core/SkBlitMask_D32.cpp
+patch 303,370,

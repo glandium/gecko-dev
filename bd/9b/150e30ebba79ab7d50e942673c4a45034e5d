@@ -1,0 +1,5 @@
+changeset 978b64d7fe7bc486716ac62ebd67cf43734f7b0e
+manifest f6b5795795435204ac0e00f0a5466e2c68c4c708
+extra moz-landing-system:lando
+files layout/style/ServoBindings.toml
+patch 272,316,

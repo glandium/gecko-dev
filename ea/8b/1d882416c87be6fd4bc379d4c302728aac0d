@@ -1,0 +1,5 @@
+changeset 0cd431a10e070dae1def1f0903b7b70d65e91c41
+manifest 2417bb26491fec40f61b39cbd92ad1135e58512b
+extra rebase_source:3fd81cfb0bd0c819b3ce700487471246e9cf3498
+files dom/smil/test/test_smilChangeAfterFrozen.xhtml
+patch 295,369,

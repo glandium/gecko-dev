@@ -1,0 +1,5 @@
+changeset dc198f688d39013ec8fb15d831e02f7e9f0f1505
+manifest 8a89d8592b0374585f76f2c85d87ce8ca8d35a09
+extra rebase_source:9f4c9c619dbccc2575b2a9d3e4304a54d41acad5
+files image/decoders/icon/nsIconURI.cpp
+patch 214,288,

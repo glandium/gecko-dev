@@ -1,0 +1,5 @@
+changeset bd8b51b807381ceef0dd12aa0534b65bf6e12f3d
+manifest 63b44259bb15f8a2115a450c62a3bcfb13f0fdd9
+extra source:3b924184c333c508df0890c811e115a195e71e7a
+files extensions/auth/nsAuthFactory.cpp
+patch 248,315,

@@ -1,0 +1,5 @@
+changeset fd98493f58fa4c5c9d55558c0d623fbc2ac9f3e6
+manifest fc627cf5fbe19795309fa0dddf8abd3bdd61cc43
+extra rebase_source:8a918cc7581a8b0a7d74719c9d0546d3d07f7a0f
+files browser/tools/mozscreenshots/mozscreenshots/extension/configurations/Tabs.jsm
+patch 357,431,

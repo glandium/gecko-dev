@@ -1,0 +1,4 @@
+changeset f367f91a3bde6553e3d93a479dca222a35a23904
+manifest 1b6498e5e64c5e9f705270c6e4f5cdd58abeee3b
+files xpcom/threads/CooperativeThreadPool.cpp
+patch 305,306,

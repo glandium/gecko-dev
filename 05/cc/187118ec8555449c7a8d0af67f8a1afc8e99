@@ -1,0 +1,5 @@
+changeset 4c764e503ceff397a4c2de2712ec89087ea4de6e
+manifest da863c72b011f1a0b760aae5341f0163af193a33
+extra rebase_source:242862f31d3a2f6b0eb7ae53392f7c4ed3296d20
+files mozglue/misc/WindowsMapRemoteView.cpp
+patch 312,386,

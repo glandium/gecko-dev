@@ -1,0 +1,5 @@
+changeset c1dfab9dd166a1d84e3d97243dc257c6150df110
+manifest 2d843c44f6f24c9ff3f0406f7d20bb1135cb4814
+extra moz-landing-system:lando
+files mobile/android/app/src/main/res/values-v23/themes.xml
+patch 653,697,

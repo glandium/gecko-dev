@@ -1,0 +1,5 @@
+changeset d05ad8f64da72a900357fce8598574a49295c841
+manifest b731339428a201eeca93fcf60a4035035ab48b18
+extra source:adb5053309977cfdf18e29ab041f37abbbe00d60
+files browser/base/content/test/siteIdentity/browser_mcb_redirect.js
+patch 289,356,

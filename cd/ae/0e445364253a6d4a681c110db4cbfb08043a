@@ -1,0 +1,5 @@
+changeset 617173b7edbd5c803deee852c1bb6bfdd9373e3f
+manifest 3546922b001fed3ffcfe65a4b1077aa5642dc06f
+extra rebase_source:813f578aeb1801a9508eb0cb1cd5e9ca1429148e
+files python/mozbuild/mozbuild/vendor_aom.py
+patch 696,770,

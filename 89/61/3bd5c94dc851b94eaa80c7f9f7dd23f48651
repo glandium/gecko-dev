@@ -1,0 +1,5 @@
+changeset 941dbb6d3cf98adcfe03c673b4508c035877e8bd
+manifest 6ec21d3f322bf3e33ec5888ce707f84f8736fc8b
+extra rebase_source:81c1d8ff72e92b4c1421ca214b17dad320cb8f99
+files image/test/mochitest/bug1217571.jpg
+patch 225,378,

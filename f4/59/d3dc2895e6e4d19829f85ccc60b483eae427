@@ -1,0 +1,5 @@
+changeset 3758e58e78460d53b3c58dac3c41c6749256fdd2
+manifest 1126ad48a3afbe07f1f7a0c0a40b5c5fe6a36cc2
+extra rebase_source:58905ee8f66d71cb09a930edbaebd7f719c68b96
+files gfx/ipc/CompositorOptions.h
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset 6073f26ea1db85264cc1eaa5923de7bef6c14257
+manifest 6e76c6b8273fe318d71f4bcbb4b8e4dc8290669f
+extra source:b0e0a29a5caa9c67279be0b8a171fb8fe47b48ae
+files dom/events/TouchEvent.cpp
+patch 958,1025,

@@ -1,0 +1,5 @@
+changeset dd4babc850ff5b3313e11cb8479442c697b6283a
+manifest ac0df6a72fea649547ce53dff8fdc70cffe30f90
+extra source:44e8b4f4dfa6753a9ca19979ce7ed8e061878fe5
+files dom/security/test/csp/test_empty_directive.html
+patch 332,399,

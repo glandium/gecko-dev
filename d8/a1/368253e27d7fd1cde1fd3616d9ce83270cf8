@@ -1,0 +1,5 @@
+changeset f46005c41416553d039c0e0f75f8efdfba20c6fe
+manifest a07bcd550758d436b5a20c1af463745dec693d1d
+extra moz-landing-system:lando
+files dom/payments/MerchantValidationEvent.cpp
+patch 327,371,

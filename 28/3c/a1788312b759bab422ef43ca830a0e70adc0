@@ -1,0 +1,5 @@
+changeset 92de31554a9f5c5da8bc36fa06b85e215a45220f
+manifest 11ffdd432750f5b73aab9fe87f03d94f4f48c858
+extra histedit_source:636c4eb4f6c0b9e12327adae8745071de62b512d
+files devtools/shared/webconsole/network-monitor.js
+patch 325,401,

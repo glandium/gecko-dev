@@ -1,0 +1,5 @@
+changeset 09600e445256c6fdf48f217efe9603edeb2f7dbb
+manifest 08d3c1a081166c7da188aefe0f83b7100956e64a
+extra rebase_source:4d8ab430700b20ad5b4934ec03c617143cf3f6e1
+files browser/installer/windows/nsis/installer.nsi
+patch 333,407,

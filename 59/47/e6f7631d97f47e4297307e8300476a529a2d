@@ -1,0 +1,5 @@
+changeset c44903823d66dac1b9e1310951ce7095710d2afc
+manifest 7d76633a19eb8c41ffe736556bddf595514bba74
+extra rebase_source:ceeae763ef3020343084dd94134a1fc365ad90d3
+files browser/extensions/formautofill/test/unit/xpcshell.ini
+patch 376,450,

@@ -1,0 +1,5 @@
+changeset a23b3ff6cb7de34a5500738901126055fa9690a1
+manifest 49fa2cf96800b745f734b5d7f5496ed0e444df39
+extra source:b43dff21dd79154d1b06b2e0318bfc9f79d41f28
+files toolkit/content/tests/browser/browser_default_image_filename.js
+patch 373,440,

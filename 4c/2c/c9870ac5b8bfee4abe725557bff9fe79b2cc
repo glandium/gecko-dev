@@ -1,0 +1,5 @@
+changeset e1af5dd01c02a31f20cf516322eba9613792d9ef
+manifest bc1eef7cd69a5a1b2b8ae463d810bc87c08f825f
+extra rebase_source:cf193acc0f4746060483ab35a4051c577af52995
+files testing/mozharness/scripts/l10n_bumper.py
+patch 286,360,

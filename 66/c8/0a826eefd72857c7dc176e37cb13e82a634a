@@ -1,0 +1,5 @@
+changeset 8dbd91b516700e2b13f1c774dbc9325a0c41a764
+manifest 133ce57c7e49f654a5daa281a02d358fe7178274
+extra source:121933d763b4e868758c8e47904157a731b67426
+files extensions/auth/nsAuthGSSAPI.cpp
+patch 282,349,

@@ -1,0 +1,4 @@
+changeset 805f775f35e23e0dfcb60e647650a2b1e8b94226
+manifest 525bc7bc8941640af93e1f698be8fda135e1f732
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/CrashReporterService.java
+patch 1409,1410,

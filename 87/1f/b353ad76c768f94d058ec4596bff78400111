@@ -1,0 +1,5 @@
+changeset 9d21ea9afe7a61cfe80d577809bf3191e816baec
+manifest 6a0646be8f67b66bdddca628e8ffdf44a534890a
+extra moz-landing-system:lando
+files testing/mozharness/scripts/l10n_bumper.py
+patch 298,342,

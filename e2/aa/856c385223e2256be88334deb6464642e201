@@ -1,0 +1,5 @@
+changeset 38d0314b3f91e1de1222658097443f930e5f7e4b
+manifest 4fc263d074ac05fbd8e67f0f4c6d33c2e1ff7fbb
+extra source:8399adcbb5a8548e74e6a9b4cfba74a2791c9a23
+files testing/talos/talos/mitmproxy/mitmproxy_requirements.txt
+patch 293,360,

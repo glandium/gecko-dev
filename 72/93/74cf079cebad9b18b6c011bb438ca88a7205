@@ -1,0 +1,5 @@
+changeset a54c51168b3ba14fb6ac81c9c9eec9435a671b59
+manifest 818c4ed4b00b856fdfdff7604c8b3beeba1c727b
+extra rebase_source:5e86b1ec57c4a3aba6df469251054aa3519e1cdd
+files js/src/frontend/NameAnalysisTypes.h
+patch 310,384,

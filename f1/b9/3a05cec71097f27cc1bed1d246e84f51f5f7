@@ -1,0 +1,5 @@
+changeset 462fa988e42c7b1993453271fb47831131822459
+manifest e2beda880d73fdec6c01b738b6769d6fd6c068d2
+extra rebase_source:923855315d88db4def88f63eecbb8e3566772ff7
+files browser/base/content/test/tabs/browser_multiselect_tabs_reorder.js
+patch 361,435,

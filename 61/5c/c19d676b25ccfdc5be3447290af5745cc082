@@ -1,0 +1,5 @@
+changeset 09d98fab8420c7bf2c76f2d9c3ab75eb61d89d37
+manifest 4ea6ad734675777a38791a462719f9645bb18174
+extra histedit_source:36f94caad4c6ff419aa94c048dc012d08a41a863
+files testing/mozharness/mozharness/mozilla/building/buildbase.py
+patch 279,355,

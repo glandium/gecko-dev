@@ -1,0 +1,5 @@
+changeset d20341a660b6d3ee214418a0cffd23dcf93b8a8e
+manifest e80017c18fe0035caaa65bf174f399ba4b13eb7b
+extra rebase_source:f924e0060b2a397b00a827d8f3a8365903982f9b
+files testing/mochitest/tests/SimpleTest/EventUtils.js
+patch 396,470,

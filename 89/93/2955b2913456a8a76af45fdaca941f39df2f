@@ -1,0 +1,5 @@
+changeset 38bdc7128df6f44334a9776704fc90b7b150c64e
+manifest a496e3464708d77d7a9dc793c85f1e1062b5fa94
+extra rebase_source:df689bce039c001fbb31bf9a949debd847de24e3
+files widget/android/GeckoEditableSupport.cpp
+patch 259,333,

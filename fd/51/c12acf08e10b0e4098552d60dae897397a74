@@ -1,0 +1,5 @@
+changeset 61d7c365ea76a3dc1b7cf7f4320ea17123a30a98
+manifest 28105367e523e94486f88d377c9817a451b3b7fe
+extra rebase_source:f4813ee854a1b4f34207e127ec68d421ff064f9e
+files toolkit/content/widgets/tabbox.xml
+patch 293,367,

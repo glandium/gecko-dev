@@ -1,0 +1,5 @@
+changeset e98870938f1b4563910293f56d55a929f205d7ad
+manifest ec69ba2e609e83ddf5987a15b98867c4eb53a459
+extra rebase_source:2fde2dee2d46a21240c161eb77b69e02ac601cf1
+files toolkit/modules/IndexedDB.jsm
+patch 318,392,

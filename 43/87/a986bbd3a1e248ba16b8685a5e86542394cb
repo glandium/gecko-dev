@@ -1,0 +1,5 @@
+changeset a4105117aed9d4fba32619c2654175d68c9e58f0
+manifest 1c02b8d3ad7f89dfa33b47cd0aa132f6f23a49aa
+author "Mozilla Releng Treescript <release+treescript@mozilla.org>"
+files browser/config/version_display.txt
+patch 202,203,

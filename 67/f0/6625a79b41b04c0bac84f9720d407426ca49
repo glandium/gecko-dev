@@ -1,0 +1,5 @@
+changeset 5cd83e5b3ea002480c8a6a53f1706cff4808f8a9
+manifest 0243064021bea5cebc24425aafcc7c16cc1c56bd
+extra moz-landing-system:lando
+files testing/raptor/setup.py
+patch 247,291,

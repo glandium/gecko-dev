@@ -1,0 +1,5 @@
+changeset 3b394452b9a9185cb85173e0fc7f98d57ab9e73e
+manifest 6432c28dc766f260252f0054c08902805b94f776
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/SessionAccessibility.java
+patch 339,383,

@@ -1,0 +1,5 @@
+changeset a7b68c29f53397749f873002c83afea4c875d6a0
+manifest 468144aa33a08e94b5b52194e46489e488018c41
+extra rebase_source:299a5fd582b727af801e341e397e8d5ef9882193
+files browser/extensions/onboarding/bootstrap.js
+patch 339,413,

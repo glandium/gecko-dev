@@ -1,0 +1,4 @@
+changeset 3e3b75439ccaf3c0b661e2ce5d3af797a2734501
+manifest a07c39015043ac464c90ebc8ec246484401e0ce1
+files taskcluster/ci/static-analysis/kind.yml
+patch 336,337,

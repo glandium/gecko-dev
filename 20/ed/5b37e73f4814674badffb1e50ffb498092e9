@@ -1,0 +1,5 @@
+changeset 1549babb34d47ac5d3dbcadc827ce3fcb7adde08
+manifest 1a876349809993107fc6b8c66f7d2a8b1c530a5e
+extra source:85af63c044f75f0a7b9909c70205829dbb7abe00
+files dom/xul/nsXULPopupListener.cpp
+patch 301,368,

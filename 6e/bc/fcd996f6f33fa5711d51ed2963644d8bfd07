@@ -1,0 +1,5 @@
+changeset db5fb5feecf942eb9b50aff738f96e36a514759d
+manifest 427d838413f1cdab9a96b0e0ff9c0618f8398761
+extra source:98972a72031fb348d5b4f33d5c1efc43c79e3caa
+files devtools/client/inspector/boxmodel/components/BoxModelMain.js
+patch 415,482,

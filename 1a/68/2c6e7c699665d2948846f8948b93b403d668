@@ -1,0 +1,5 @@
+changeset 010ddcfda3180588d5b3cf830091e33e3e854da9
+manifest edec291580d674c65ffbf82894df4a25d8a547cd
+extra moz-landing-system:lando
+files testing/mozbase/rust/mozversion/src/lib.rs
+patch 335,379,

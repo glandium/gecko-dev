@@ -1,0 +1,5 @@
+changeset 39f31c0be9f48cfba1f6cace2b2dadd9b8917d34
+manifest a6d5f11807fe7cbfa34f6cb56c62c72613683e48
+extra rebase_source:219aeb63a4c9c5eadbabf3c97af1ec300ba09cb1
+files browser/components/customizableui/test/browser_901207_searchbar_in_panel.js
+patch 339,413,

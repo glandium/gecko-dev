@@ -1,0 +1,5 @@
+changeset 33a2372e73997ce75a3d67c2a208e599295828f8
+manifest bc3c94306ea129ce2a2d61af09e75428dd9646d8
+extra amend_source:bddaf442ed1af677aac6d03417fa2afc754b07eb
+files ipc/mscom/oop/Handler.cpp
+patch 331,404,

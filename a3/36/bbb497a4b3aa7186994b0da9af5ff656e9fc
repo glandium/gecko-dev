@@ -1,0 +1,5 @@
+changeset f418889f0d1900a1f806c0af23528bc03540e6ab
+manifest 3ee5b32091410b4b71a7c51860c4b2968eb34174
+extra rebase_source:b1c87514f8e1b6eba1a3c992a275abf2e5283f86
+files browser/base/content/test/general/browser_hide_removing.js
+patch 635,709,

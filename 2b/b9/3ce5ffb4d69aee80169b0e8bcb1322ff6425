@@ -1,0 +1,5 @@
+changeset 3a3522cd4bb7dbeafe1fca1edaba3d4f587195d0
+manifest 7a7ec1839563321b32bec86e35baab170a16ec9c
+extra moz-landing-system:lando
+files js/src/vm/JSObject.h
+patch 279,323,

@@ -1,0 +1,5 @@
+changeset 3399e550a30cd4c30f5e018429e46a3295c19efe
+manifest f11db361d73a4ce124ab9b749c639304798c74a4
+extra rebase_source:b83c10c63ca88bdc7415256915878ceb34f8382b
+files browser/base/content/test/general/browser_invalid_uri_back_forward_manipulation.js
+patch 375,449,

@@ -1,0 +1,5 @@
+changeset 9ea3c346233617a6f769a6bd2e07130d7db9d89f
+manifest fb6be1e9718d5907c5f947fe44d554345cecb52d
+extra source:4025523b22a30c3603391c26dc398ce64c638539
+files media/webrtc/trunk/webrtc/modules/audio_device/android/audio_device_template.h
+patch 497,564,

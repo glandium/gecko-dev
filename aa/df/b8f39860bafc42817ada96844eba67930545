@@ -1,0 +1,5 @@
+changeset 0ea62e993c85c3988c2f8c6f2a2019c01c16cfa4
+manifest 07a19f2e3d1f44d6d5cc1049a4f470ac99815406
+extra source:fc7d1d5fd6f63737b7f2f4e836ce04dd1e74e9ee
+files testing/webdriver/src/capabilities.rs
+patch 518,585,

@@ -1,0 +1,5 @@
+changeset b60d8554e94f9190bf98a1ba5e40a35b376f3431
+manifest 4221798505ec00bc4129c5ee904e5f1978bad303
+extra rebase_source:60c30e8b7aaf643fe52dae94b298c4a2ee78099b
+files browser/base/content/aboutNetError.xhtml
+patch 328,402,

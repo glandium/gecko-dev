@@ -1,0 +1,5 @@
+changeset 672e7d5d8f40a04ccd87b0f84eb4ade0f19cbdd4
+manifest d658b9a54db48e65dc516ccb1cac1b0f5493f052
+extra rebase_source:1a38e446931c916af7f37ffc928683df47f0bba4
+files testing/marionette/components/marionette.js
+patch 601,675,

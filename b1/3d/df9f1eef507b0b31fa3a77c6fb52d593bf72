@@ -1,0 +1,5 @@
+changeset a71d0947dfd6fbb8af224facfcaa570c3e1f3a62
+manifest 5327e668a48bca902952738f2a034e09e9c48867
+extra rebase_source:772f5bed3ff46fdced588fc726c2e0ee50100ef2
+files js/src/jit/none/AtomicOperations-feeling-lucky.h
+patch 292,366,

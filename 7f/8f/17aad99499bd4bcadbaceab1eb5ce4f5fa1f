@@ -1,0 +1,5 @@
+changeset f65cadcba4bd3c4b72ffbd1743279867a9415a3b
+manifest 540944715814676aef860bd065858075685c9e9c
+extra source:95c294286e66c5e4d3ae15706247ad95357b34fd
+files testing/marionette/puppeteer/firefox/firefox_puppeteer/ui/browser/tabbar.py
+patch 378,445,

@@ -1,0 +1,5 @@
+changeset 715bc83e2bab65268812ab778ff014ecffcd148c
+manifest fd87f1eccb22ce6971793b69edd54682a251e721
+extra rebase_source:65dd6271306303a3f856f916dba822df18d1b00a
+files devtools/shared/gcli/commands/screenshot.js
+patch 359,433,

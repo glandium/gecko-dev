@@ -1,0 +1,5 @@
+changeset 5988e21167c2913edadb20fa73d7ade380a602f7
+manifest a64948d060cd7639c1f3ff0576cabe4e85b56342
+extra source:f5f4f7d7fcdf6db3d6599e49b42b23dcdba3fe71
+files media/webrtc/trunk/build/config/win/visual_studio_version.gni
+patch 701,768,

@@ -1,0 +1,5 @@
+changeset 45f63618f66e184f8b20da48fe37fb3f546094f2
+manifest 14b5d5700bac07b45b16f5269a41a95bf73f60fd
+extra moz-landing-system:lando
+files layout/base/MobileViewportManager.cpp
+patch 344,388,

@@ -1,0 +1,5 @@
+changeset 54243811f36eabc6f0ecd59380d70f8beb15e592
+manifest 416645fb79a62fecc7c3f3f0a10217fa4e46a22b
+extra rebase_source:c0b82eab2d97829a7a11cc51fa002c1eae49a4d0
+files toolkit/components/jsdownloads/src/DownloadLegacy.js
+patch 333,407,

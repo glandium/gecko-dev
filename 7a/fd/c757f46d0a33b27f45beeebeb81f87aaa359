@@ -1,0 +1,5 @@
+changeset 996189aa5b6f37b8eadd739cfb688d3752aa6325
+manifest 0d4ac13d598d0e3fc6c58f19b556d6b4e8bd37e4
+author Dragana Damjanovic dd.mozilla@gmail.com
+files netwerk/protocol/http/nsHttpConnectionMgr.cpp
+patch 222,223,

@@ -1,0 +1,5 @@
+changeset 2dee1d713c1d562341174eadcd90c6be2a01ef8b
+manifest 27d6ace5f1879ac01d47a856505dec534596b0fa
+extra rebase_source:0f2819446d03501706b6e87a9d029bebddc919cd
+files toolkit/components/passwordmgr/LoginManagerContent.jsm
+patch 358,432,

@@ -1,0 +1,5 @@
+changeset b46165a0e3d6a5b6c988e8b9cc552a491e50b577
+manifest 356875c253d9469c47ade144309fc54a044e1c0b
+extra rebase_source:ccd0834847571eb81ff87a31a640cc6de597428b
+files browser/base/content/test/general/browser_extension_permissions.js
+patch 318,392,

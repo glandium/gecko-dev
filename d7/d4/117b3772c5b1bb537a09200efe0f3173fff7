@@ -1,0 +1,5 @@
+changeset 48135d25898304a1c991b66639ffa029b0d0035c
+manifest 0287b829b745a57f145b552fb5c86380a6806ffa
+extra rebase_source:1fba07c540febbc3dda87b0af2629b6092a17c25
+files browser/components/search/searchplugins/freelang.xml
+patch 322,396,

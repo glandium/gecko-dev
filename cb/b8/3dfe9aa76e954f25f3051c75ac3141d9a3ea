@@ -1,0 +1,5 @@
+changeset 2b219c2cb0d6ca49ef1cc419756ccdee430f0258
+manifest 094f41fddc20ab75946ab02333fef82de1d91c49
+extra rebase_source:a8f9c3562868b190ffa336cb306903c5608a4f5f
+files modules/libjar/nsJARProtocolHandler.cpp
+patch 291,365,

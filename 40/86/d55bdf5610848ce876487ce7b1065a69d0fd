@@ -1,0 +1,5 @@
+changeset a9d0b65595c1cfd92c7e78747244066e6bbf4d47
+manifest e16f43c487f211fcdd6f4d4cf23670f5f922378b
+extra moz-landing-system:lando
+files browser/components/newtab/test/browser/head.js
+patch 577,621,

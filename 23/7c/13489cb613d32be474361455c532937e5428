@@ -1,0 +1,5 @@
+changeset 4753cd9ea2d974db967e5debb1bdc4c048ebaec8
+manifest 4026834c2923a070133f6ca3e1c414f5d3189d8d
+extra rebase_source:20cf9ef88cad04555b970d5316c3e58d02d6fbbd
+files devtools/client/netmonitor/src/components/status-bar.js
+patch 391,465,

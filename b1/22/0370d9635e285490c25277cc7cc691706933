@@ -1,0 +1,5 @@
+changeset fe837e8247ba6749b8e108051a34e17d1860cfc0
+manifest 42311fa127db2beac86b6bed4bd3364f5bb64114
+extra rebase_source:e6a8162621dd9c5df410d9eec4224c7e79ea9819
+files js/src/ctypes/Library.cpp
+patch 533,607,

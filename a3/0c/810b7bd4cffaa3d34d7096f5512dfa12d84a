@@ -1,0 +1,5 @@
+changeset bf4962739d38ac21ba6ba216fa61f572e7976354
+manifest ce726f4eb71bb860d5280f02b006cfadf547afc0
+extra amend_source:9e7dded5da8708dd357b33dca1509c1ad2c1cb66
+files devtools/server/actors/animation-type-longhand.js
+patch 285,358,

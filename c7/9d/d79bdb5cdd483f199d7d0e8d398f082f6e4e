@@ -1,0 +1,5 @@
+changeset 7eac5fd072cbe24564f884d6b4e1c82bfb94790c
+manifest 80fa492ae714f176d957de1794d17862453bd56d
+extra source:c2cecb6d6f9bb85f258a66cf8e94c1860adde7e5
+files js/src/builtin/Object.cpp
+patch 266,333,

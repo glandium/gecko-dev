@@ -1,0 +1,5 @@
+changeset 0b9045d5d664548f153628a301dfedeeff2d4fc3
+manifest a93c8ee53842572a9ca5e6fc04bc678229376993
+extra rebase_source:cf6a60ba2199cec37a85a250f219a54c253cd23b
+files browser/components/resistfingerprinting/test/browser/browser_performanceAPI.js
+patch 364,438,

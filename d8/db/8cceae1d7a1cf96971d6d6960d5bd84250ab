@@ -1,0 +1,5 @@
+changeset dc3a6c6be8ccaec884c5e2112002f44d5e050f26
+manifest 3c2a8143337c711df9dbcf8f6965a1f533c340ad
+extra rebase_source:7f4def130eac5ce3d4f1d645eba512b442003eb8
+files browser/components/preferences/in-content/main.xul
+patch 339,413,

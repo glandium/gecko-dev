@@ -1,0 +1,5 @@
+changeset dd52b41d2b775e5c7261ce52795268b7670635fc
+manifest 5a79f8eb1838f22d8d825ee9b4f3990ca7b0273b
+extra amend_source:f4be0bebe38aec774f29cca08eecc4199bd66364
+files dom/plugins/ipc/PluginQuirks.cpp
+patch 332,405,

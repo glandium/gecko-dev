@@ -1,0 +1,5 @@
+changeset 17c5d6591ddef2166d1fe7785d9f9f859e79ac98
+manifest 058dd4f84027cfd9cbd3e42c2534973cb4471921
+extra source:d418ce8a05644edb16f317c13fc1c8cd2b6c3c2f
+files toolkit/components/url-classifier/Classifier.cpp
+patch 443,510,

@@ -1,0 +1,5 @@
+changeset c544521fcec87a539517348e644c7847c93f4d6e
+manifest 7dfed641a7146624b92a7cbd98079b0198b4bb14
+extra moz-landing-system:lando
+files testing/talos/talos/startup_test/sessionrestore/addon/api.js
+patch 354,398,

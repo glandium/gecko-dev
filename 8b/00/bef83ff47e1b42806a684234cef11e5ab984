@@ -1,0 +1,5 @@
+changeset a8b326d7a918386e14077be9b5f8b27463a5c8f4
+manifest 644f6cbc9188eeb1076c5e528cb76e6df5787c30
+extra rebase_source:649a7f4928679405fe445ac533eee2cfccaedd25
+files dom/webauthn/WebAuthnManager.cpp
+patch 572,646,

@@ -1,0 +1,5 @@
+changeset b53757428f6d04f9ae00296a8fbcd65f6343c2e6
+manifest d13606a9ff2a35738175734287c63cc716f10894
+extra moz-landing-system:lando
+files browser/themes/shared/toolbarbuttons.inc.css
+patch 301,345,

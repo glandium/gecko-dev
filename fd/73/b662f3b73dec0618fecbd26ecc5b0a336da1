@@ -1,0 +1,5 @@
+changeset 3bf5eb6fe16d1fa91924edc63da909f1b96d1307
+manifest 6603eb90628ba4d964d74404235af746b4586249
+extra rebase_source:4a4d62c9a14bcd55fe758bdc46c8e746b9247442
+files js/src/vm/JSContext-inl.h
+patch 263,337,

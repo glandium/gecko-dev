@@ -1,0 +1,5 @@
+changeset fd4be420c44fd529177030a2ca02ed8686b5c742
+manifest 3020db68cd01646a45bf8b9cfda40dcef5479e22
+extra amend_source:4fe42edf6cd2fbb39306e5e136ed1e106c3c485a
+files toolkit/components/extensions/test/xpcshell/test_ext_permission_warnings.js
+patch 316,389,

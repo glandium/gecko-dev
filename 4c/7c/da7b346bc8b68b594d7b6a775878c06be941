@@ -1,0 +1,5 @@
+changeset d2a0c97079f6cbad4c09f7026260098a54b33062
+manifest 4711aabbe9329d062c1458626fd78c24fb1ad7f6
+extra source:d0048726ae54ecbffaace8e1fd40b49822b16282
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/RuntimeTelemetry.java
+patch 312,379,

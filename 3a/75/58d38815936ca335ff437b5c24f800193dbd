@@ -1,0 +1,5 @@
+changeset ea9c2e2a07e5aec595e49c036917c7e88c8b42a4
+manifest 7fffd6f8c14d2ae5ea7cf9aecfaa6308520863b6
+extra rebase_source:cf43a64a98f2cc961918b3666900a4e228b953e7
+files testing/mozbase/mozlog/mozlog/pytest_mozlog/plugin.py
+patch 307,381,

@@ -1,0 +1,5 @@
+changeset abab9d80f685f778550e98625c284a0f01526700
+manifest 6581adc1a968d00dbce163eda5ccb6b2a8d04eb5
+extra rebase_source:f29383e2d73986f3e5b033ac82c0d520bacd4fa6
+files build/moz.configure/memory.configure
+patch 533,607,

@@ -1,0 +1,4 @@
+changeset 29bc945061a0f565e38907a5359a483c8a4efa08
+manifest 224c534057a79377cbe23d53fbd80007341b237d
+files js/src/jit-test/tests/parser/bug-1324773.js
+patch 171,172,

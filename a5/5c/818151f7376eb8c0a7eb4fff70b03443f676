@@ -1,0 +1,5 @@
+changeset 8b831ffc1816125b86a7956c1eac069ee865bd3a
+manifest 5fe4938e9296ad3b7e2e264b6dcb3fd20b71a540
+extra source:b58eeeefbc959db34c0a9e5e966cd4e15e044bb9
+files parser/expat/lib/xmlparse.c
+patch 343,410,

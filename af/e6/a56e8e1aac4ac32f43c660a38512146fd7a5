@@ -1,0 +1,5 @@
+changeset 91511a8d050201bf5c93e82fe9f3ef2c0cad630c
+manifest 3e2fb7a57cd800839bd2fad2da66a9854f35b0d3
+extra moz-landing-system:lando
+files taskcluster/ci/release-bouncer-aliases/kind.yml
+patch 394,438,

@@ -1,0 +1,5 @@
+changeset 0865d305aa6b0f9cc2ce04b0ab52cfc36dd99252
+manifest f89e81a9aaa027f01de9981eb6dfea5cf767cd65
+extra rebase_source:b4c3290962f7d0e870a464bff42c9c4bccb3bb7a
+files browser/extensions/formautofill/FormAutofillHeuristics.jsm
+patch 311,385,

@@ -1,0 +1,5 @@
+changeset 77eac13df6ece3efdd5be3e47df0a3909dd396cb
+manifest 825f147f33f1ca0b37b78e422535327a1840542e
+extra moz-landing-system:lando
+files toolkit/components/places/nsITaggingService.idl
+patch 392,436,

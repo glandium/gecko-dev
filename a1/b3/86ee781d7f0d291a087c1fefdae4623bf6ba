@@ -1,0 +1,5 @@
+changeset 299496ea4cac9c31aadd4ff0e34d55b661b57407
+manifest a37906185abb579db62a08ffbaf1bcd64ca2e3c6
+extra rebase_source:4259c6d54683d9ca6604a51d018cf3aa5ad9e55b
+files toolkit/components/telemetry/tests/unit/test_TelemetrySend.js
+patch 313,387,

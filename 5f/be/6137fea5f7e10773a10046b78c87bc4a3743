@@ -1,0 +1,5 @@
+changeset 8fde0d035af05fe7603cd28ff6d9af6da3bcf951
+manifest 851269aa25c2ad54cae0f8aca37d64cbbe521ee3
+extra source:cc843dd9a34b9c996ab42cb75e7078ce571774eb
+files layout/style/nsCSSValue.cpp
+patch 575,642,

@@ -1,0 +1,5 @@
+changeset 82ef44f87f728be56a6c2fee209e7b88b9fdcbb4
+manifest 6ed85c13529b9db315c810c91136f3d8e56ee95b
+extra rebase_source:d62245b5620442ea1714a1b88e9cccc310f878df
+files devtools/client/menus.js
+patch 244,318,

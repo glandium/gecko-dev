@@ -1,0 +1,5 @@
+changeset 1c58753cc0fa45dae47832c9f78f49f5efb72315
+manifest c061478506b41c40e48c8f83900590d833241e50
+extra rebase_source:ea178e2ad9cc2dd60674def06b712832a6e136da
+files dom/locales/en-US/chrome/dom/dom.properties
+patch 313,387,

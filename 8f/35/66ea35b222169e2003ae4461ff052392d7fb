@@ -1,0 +1,5 @@
+changeset 39239b51da8dcbb9344f123a5b9efa6675603d1d
+manifest 6e2b6e1449db9b6c43fb0bce942feb757c4fc55d
+extra rebase_source:402e881cd8639885568e0a32fb49aa4dfa7cbbde
+files dom/smil/nsSMILCSSValueType.cpp
+patch 1481,1555,

@@ -1,0 +1,5 @@
+changeset 2fb1dd0d8344ef24e2e0fca94725bbfaf59aa257
+manifest a27174bae73eb18df59104b0e46fd3c88963866e
+extra moz-landing-system:lando
+files media/webrtc/trunk/webrtc/modules/video_coding/jitter_buffer.cc
+patch 394,438,

@@ -1,0 +1,5 @@
+changeset b76b1af27cc15b15a9b53a371eb33f27fc3859b0
+manifest 12c76bbe407ee86f55dac7d5040a880b30ba922e
+extra source:3304400da8cbe3689967b6a8e4fc69d973a48618
+files dom/events/test/browser_shortcutkey_modifier_conflicts_with_content_accesskey_modifier.js
+patch 861,928,

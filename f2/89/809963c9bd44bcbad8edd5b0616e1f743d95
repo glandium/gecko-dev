@@ -1,0 +1,5 @@
+changeset 184216421caa824bd1b8aa3015ec99481c342fed
+manifest 52dd6eb934c234cf6758ef9b2417ab22523b5b48
+extra rebase_source:63cd78b81cccb99069a9dbfe78274040cb0ad589
+files browser/components/customizableui/test/browser_allow_dragging_removable_false.js
+patch 339,413,

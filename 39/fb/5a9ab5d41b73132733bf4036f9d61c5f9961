@@ -1,0 +1,4 @@
+changeset ce496fde2eddf168291d48576e7ef3a06e75896a
+manifest 2bb25bc134df67bc225829dbe36b56aa8f10abc8
+files tools/lint/eslint/eslint-plugin-mozilla/tests/use-returnValue.js
+patch 234,235,

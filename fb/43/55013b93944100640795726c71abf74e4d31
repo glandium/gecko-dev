@@ -1,0 +1,5 @@
+changeset 60ee07f3171f98b42cd7ab9e134b6147e02b5539
+manifest aca44fe88cc6e8167e88c5a3632c524004d0ccfc
+extra moz-landing-system:lando
+files dom/webauthn/tests/browser/browser_webauthn_telemetry.js
+patch 488,532,

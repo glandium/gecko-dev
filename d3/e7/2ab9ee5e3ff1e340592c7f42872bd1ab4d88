@@ -1,0 +1,5 @@
+changeset 2c6c6849848672490205b4e3217dd15de1acea44
+manifest 2d2b7e56e7ea4da80921fbbaec2aabd32dedbfcb
+extra rebase_source:04f10507afd4a47f9ef42ee30f1ceb16da80b9cf
+files js/src/jit/MCallOptimize.cpp
+patch 277,351,

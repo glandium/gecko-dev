@@ -1,0 +1,5 @@
+changeset 0108b7aec9400b03abe37b82312cfd4b7ab22cb3
+manifest b90cf64592e6362f3c6aff07121baa2c78c1d45e
+extra rebase_source:cd6e1b453b29f925a1f385d2a52b5ab4278fff79
+files js/src/builtin/AtomicsObject.cpp
+patch 316,390,

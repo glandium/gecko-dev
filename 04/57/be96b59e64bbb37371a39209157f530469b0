@@ -1,0 +1,4 @@
+changeset e2e874ceae787faed7bf73dc049e580ee7159f28
+manifest e8a65a16aa10bee255d16d5a3678ace663fb3ecb
+files devtools/client/shared/webpack/shims/system-stub.js
+patch 187,188,

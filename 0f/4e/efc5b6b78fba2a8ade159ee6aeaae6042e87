@@ -1,0 +1,5 @@
+changeset b202178963600848d8357f73136221db228432a3
+manifest e898c5791ae7b0ac912dedfe3349f645dec14f2f
+extra moz-landing-system:lando
+files devtools/shared/builtin-modules.js
+patch 340,384,

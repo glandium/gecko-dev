@@ -1,0 +1,5 @@
+changeset 7e3e50fe7d197df6cef86043c79bc80b88e3b223
+manifest 6c0d6fa16f2a40e3e05845f4dab5f15cc8b50df1
+extra rebase_source:c4babd1c24de230a7edbf163d18901ea6dbea502
+files js/src/jit-test/tests/wasm/globals.js
+patch 253,327,

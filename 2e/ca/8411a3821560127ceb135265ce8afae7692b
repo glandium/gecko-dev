@@ -1,0 +1,5 @@
+changeset 75c688fefb300e8b2be69e33665f5e2fcf24d559
+manifest 38579613538f2ef383bf00de00533559971a556d
+extra rebase_source:5fe014388db8e4186c2cda54a453930bf8eed211
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/ActivityStreamPanel.java
+patch 1507,1581,

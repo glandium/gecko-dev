@@ -1,0 +1,5 @@
+changeset 9d570f91ea5a273fb2a38a0b40d90d00b9cbbbc6
+manifest a97521c43ad136178b9772fa2b2f12c1fc362c46
+extra rebase_source:404a19f170871ddacfbc15f395f96759b6c0eef1
+files storage/mozStorageConnection.cpp
+patch 333,407,

@@ -1,0 +1,5 @@
+changeset 26da3a2d48f9b89c6ff9d7682aa4db85c0107606
+manifest dcf4980834ab2b8f646afc96bfac2b848c56fae1
+extra source:f5748d54bf4be5312f5a5463bc7d1ce8f8e1a777
+files browser/modules/BrowserUsageTelemetry.jsm
+patch 319,386,

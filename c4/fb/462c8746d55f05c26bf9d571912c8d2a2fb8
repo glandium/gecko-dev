@@ -1,0 +1,5 @@
+changeset 806ebd3f042c306b33d0241973ec055dba981c6e
+manifest 6163d3e5d523f25c8a6df02cabf5fa9f2a01e4d4
+extra rebase_source:13504b84e6d224fcbc23f57a94205abc1e5f3c43
+files browser/locales/en-US/chrome/browser/preferences/search.dtd
+patch 384,458,

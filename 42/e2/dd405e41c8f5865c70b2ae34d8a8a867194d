@@ -1,0 +1,5 @@
+changeset 8c0f4cb39d9e3b41a2d85a99ead11f9b04b9b948
+manifest 02129c36d92739b24f22588d41330e7f5a7fa9fa
+extra rebase_source:fad8e2c9105f3aa1f88de47a7e43b82859c60da6
+files testing/mozharness/scripts/mobile_partner_repack.py
+patch 386,460,

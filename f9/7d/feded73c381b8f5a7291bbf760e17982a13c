@@ -1,0 +1,5 @@
+changeset 41325adb5477a84e8353c40c93ab717b357ec984
+manifest 8b5d4fdf6a1a968c9d839c096b3e5848c5f6825a
+extra source:86cd474c48940731ff1b9ccf931377b94d612a19
+files netwerk/base/nsTemporaryFileInputStream.cpp
+patch 324,391,

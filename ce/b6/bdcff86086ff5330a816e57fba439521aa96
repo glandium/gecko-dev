@@ -1,0 +1,5 @@
+changeset ad3f7419411bb0b8b11b6f00807f08097070a4e6
+manifest ebf747effcde85dc659900f1a7b8829aa7a5198b
+extra source:139bd07e900499a065e82a77c9aaa3816952f942
+files netwerk/base/nsMIMEInputStream.cpp
+patch 1343,1410,

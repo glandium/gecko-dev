@@ -1,0 +1,5 @@
+changeset 32cff21188b719ea9f9228dafbd19d69b4378854
+manifest f86403f5e7f7336ebfae59dc3400e12cf7e6b621
+extra rebase_source:6f038b49fa028ae8d1f4d2e7f6bc509a712ce8ea
+files browser/themes/shared/social/social.inc.css
+patch 441,515,

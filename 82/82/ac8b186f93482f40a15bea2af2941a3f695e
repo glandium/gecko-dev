@@ -1,0 +1,5 @@
+changeset ff081e1601572e4691c62c825e62e2de8fcb05dd
+manifest 917c1fbf07c3f06c47ddc81fd951e3838deb16fa
+extra rebase_source:d9608a02a451b032c67b8f234838b5151701000c
+files layout/xul/nsListBoxBodyFrame.cpp
+patch 306,380,

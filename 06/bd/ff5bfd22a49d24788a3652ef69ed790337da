@@ -1,0 +1,5 @@
+changeset f65406393199c620d30b2c6ef1fc9f1cbb237c90
+manifest bc5548862dde950601ca19b58bbc48d186d7d0e1
+extra rebase_source:1a1b91d7cab21bd5ecc956ddde5c299745ce95b4
+files browser/themes/shared/urlbar-searchbar.inc.css
+patch 285,359,

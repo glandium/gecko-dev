@@ -1,0 +1,5 @@
+changeset 89f3f7bc117269fc321d6067718c62788ba74589
+manifest 2302daafe8e86a057944f70defcb95971fdd5878
+extra rebase_source:28e3dcbc0b2fe736b5a14640abc9ab8174f4987e
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/ActivityStream.java
+patch 301,375,

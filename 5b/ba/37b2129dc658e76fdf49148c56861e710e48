@@ -1,0 +1,5 @@
+changeset 904aaf73eb3a620cb2ea3f44ee35243e0b385ca9
+manifest 8e6071081e305693abf0f5b5e3c9a6dfe558eefb
+extra rebase_source:41fa45dc3c59b2f44d33bdbe86b3eb2e29a31319
+files servo/components/selectors/bloom.rs
+patch 809,883,

@@ -1,0 +1,5 @@
+changeset 0d25a6e63f799309f2c56f86ca4c4dc42e85ee3a
+manifest 92c950362a972c8678e12a1aa8274e4892f7b018
+extra rebase_source:02130293e25495f8bed3c00e580ae50d9ae548fc
+files config/external/icu/defs.mozbuild
+patch 306,380,

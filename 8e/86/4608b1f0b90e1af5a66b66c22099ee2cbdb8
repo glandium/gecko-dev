@@ -1,0 +1,5 @@
+changeset 3b55ee79bb6892163f723eef325a217fb4b2842a
+manifest b13da8027315aa2e8fc34bedda2877224d26a68c
+author Dragana Damjanovic dd.mozilla@gmail.com
+files nsprpub/pr/src/pthreads/ptio.c
+patch 161,162,

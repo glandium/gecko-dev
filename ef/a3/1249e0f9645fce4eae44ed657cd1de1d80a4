@@ -1,0 +1,5 @@
+changeset 97db64816667d2662632e77ab761a14fe1946ae4
+manifest ff7f763f1aa6243d145ec26664afd77202e30748
+extra rebase_source:2e1894a629155619ee6616092ee9f9c133a68d1d
+files devtools/docs/tools/inspector-panel.md
+patch 295,369,

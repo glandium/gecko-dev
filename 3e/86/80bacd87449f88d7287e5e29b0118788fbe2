@@ -1,0 +1,5 @@
+changeset f7afc687263c633d98c69ea6b327ae17aad26f87
+manifest 6eccbe290f484885dfbf0dbb25446aaddf10fc85
+extra rebase_source:e66859475406e5c1d6c64c5e0aadd0f7b63a0c51
+files mobile/android/base/java/org/mozilla/gecko/toolbar/BrowserToolbar.java
+patch 354,428,

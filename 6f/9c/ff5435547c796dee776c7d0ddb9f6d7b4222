@@ -1,0 +1,5 @@
+changeset 7480f990a1045fa8a9975d02debbb2df8339d943
+manifest 1e9865bad84a912d450c7e71224c3594b72f77c3
+extra source:ef400c4f3907d66a028bd9f641765e19fc4b6cb2
+files mobile/android/base/java/org/mozilla/gecko/prompts/PromptInput.java
+patch 500,567,

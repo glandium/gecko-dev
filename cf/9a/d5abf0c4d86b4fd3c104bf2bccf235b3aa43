@@ -1,0 +1,5 @@
+changeset 947dc10ef79a8f9fa2bf705421e5fc35994c9b73
+manifest 1b88f6ac0996dc1bf41d562ff45cbb8b23b2d19b
+extra moz-landing-system:lando
+files devtools/client/inspector/animation/test/browser.ini
+patch 293,337,

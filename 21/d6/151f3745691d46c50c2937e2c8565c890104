@@ -1,0 +1,4 @@
+changeset 67e8fa8c96e5965d566b1132d3e9b163163d814f
+manifest d07c18b2781d0ca92a1813af787baf4bcae8f68b
+files servo/components/script/dom/websocket.rs
+patch 334,335,

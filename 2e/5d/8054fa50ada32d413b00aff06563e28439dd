@@ -1,0 +1,5 @@
+changeset 1645dd67b553c63477f601d43163e161d65f3f89
+manifest 08a0874ab80a242c016d52489e702d81cb05ee9c
+extra moz-landing-system:lando
+files layout/base/AccessibleCaretManager.cpp
+patch 359,403,

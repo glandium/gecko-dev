@@ -1,0 +1,5 @@
+changeset 2231d313a521211887a2ca6018af7e3bcc65c92b
+manifest aa0398492b8ecce7ebb8ff2fccb0be3301d82b5c
+extra rebase_source:858c15dcf8122ee0604b09bca4f7c3d557d41824
+files devtools/client/webconsole/new-console-output/reducers/ui.js
+patch 302,376,

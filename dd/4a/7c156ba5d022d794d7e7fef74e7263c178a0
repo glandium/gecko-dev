@@ -1,0 +1,6 @@
+changeset 65c9d527fc8c73f764ad481ea309dd7d6d3450bc
+manifest 2948ace3f379e88b8341907e51f42a25cfdb5e7f
+author cnevinchen@gmail.com
+extra source:da494e30eb87f4ff827cbb3ffe7923694bc49c8c
+files mobile/android/base/java/org/mozilla/gecko/FilePicker.java
+patch 274,341,

@@ -1,0 +1,5 @@
+changeset 0b1e3a8cb09c0dcbba2e515b776cb977bca34307
+manifest e4fc973d2a38337ade404d045c845434c9aa6543
+extra moz-landing-system:lando
+files devtools/client/themes/toolbars.css
+patch 325,369,

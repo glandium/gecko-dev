@@ -1,0 +1,5 @@
+changeset d72c318a4f42ab4d4e34d27be6a590fc5df619b9
+manifest 8645f804035d4c5b6141939c35129424dbffb9be
+extra rebase_source:e6712c8ec0e18427151e1db53769efea35fd5106
+files addon-sdk/source/lib/sdk/util/object.js
+patch 308,382,

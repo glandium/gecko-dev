@@ -1,0 +1,5 @@
+changeset 3221f428493e488068dc664e4752fef0b60edef3
+manifest a7fcb68f8a58190e4efdd19e100450717306379b
+extra source:db2a8ddbdb48edbc1a2b27296694f0bc1edb11e4
+files gfx/layers/ipc/ImageBridgeParent.cpp
+patch 266,333,

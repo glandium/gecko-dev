@@ -1,0 +1,5 @@
+changeset 67f8cf76ac89c38cea62938449f487a5ca7c7217
+manifest 87228d09ebdee1e958004d6bc416d4a0e8ce45b5
+extra source:5b3f86194b14c5867311dc93006a8215e8b38df8
+files browser/components/search/test/browser/browser_searchTelemetry.js
+patch 451,518,

@@ -1,0 +1,5 @@
+changeset 1e2bd57986402834a3c4eebf328a3c40263fbf7b
+manifest 4b963321b3c475ef32ff060d9b71d5e45b19b9f9
+extra rebase_source:c35fe0d1289aee2f81af7b67548f8ed98c349e07
+files testing/mozharness/configs/talos/windows_taskcluster_config.py
+patch 272,346,

@@ -1,0 +1,5 @@
+changeset 7591c7732048a08c2adb1337461da7f41dcc4274
+manifest 3c020046979ef15acd6748e519bd787bf369ced3
+extra source:0346f1d64c07e7ffdaa109f079411c4f5ac9fa45
+files mobile/android/base/java/org/mozilla/gecko/widget/BasicColorPicker.java
+patch 316,383,

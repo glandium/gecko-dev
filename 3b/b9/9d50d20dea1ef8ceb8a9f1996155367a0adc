@@ -1,0 +1,5 @@
+changeset b6664d437a230a0e1722124b01e95d777e057958
+manifest 4ad4863bc61d19ad702a697e10d8bd1c0e2fe5f6
+extra moz-landing-system:lando
+files toolkit/components/places/tests/unit/test_origins.js
+patch 366,410,

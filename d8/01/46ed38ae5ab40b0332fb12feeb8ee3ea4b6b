@@ -1,0 +1,5 @@
+changeset 4caca965bb6c8d810f4a90f9678af95d3030e9b1
+manifest d140b1046a1ee18620eef842edafc4a22e82ee72
+extra source:e0edfda61ef2b46712bc8ea565fbaa5a692f2d65
+files testing/web-platform/meta/service-workers/service-worker/skip-waiting-using-registration.https.html.ini
+patch 378,445,

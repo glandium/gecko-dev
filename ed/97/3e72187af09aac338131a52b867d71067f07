@@ -1,0 +1,5 @@
+changeset 16c55e718c19858647fcadb5489c362bcc4180e3
+manifest 23e879b9f37bfe16159e418d033a2aace8b8a4d7
+extra rebase_source:13ae7a5af3bbbb00c6cae3685ef5436e601f0f24
+files browser/extensions/webcompat-reporter/test/browser/browser_disabled_cleanup.js
+patch 350,424,

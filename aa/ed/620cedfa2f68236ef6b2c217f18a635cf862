@@ -1,0 +1,5 @@
+changeset 10ffdec164a9712d3817aaf17ddb9cd7dc2b810c
+manifest 3d24a1255cb0b06ac2be69fe6f6ebff95159c4bb
+extra rebase_source:24b451d244cd0533ca550688ccc05976cae410c7
+files taskcluster/scripts/misc/build-rust-size.sh
+patch 539,613,

@@ -1,0 +1,5 @@
+changeset 28dd89824e9b748d428c877fc9bf88aaf4356fb2
+manifest de28b1067a2ab22d09f962d7571f7bb7917e8679
+extra rebase_source:a513bfa3c1fc408743bd5b4aed6e416f4d8cc0d7
+files gfx/gl/GLLibraryEGL.cpp
+patch 508,582,

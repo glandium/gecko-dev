@@ -1,0 +1,5 @@
+changeset 3ff9725e0c3a53a71fb3af3c1f4fd9f49828fa5b
+manifest 67a2fa65eac6697e57d14d76dcdb88b0cb4dd6aa
+extra moz-landing-system:lando
+files dom/animation/Animation.h
+patch 552,596,

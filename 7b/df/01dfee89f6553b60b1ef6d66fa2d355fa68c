@@ -1,0 +1,5 @@
+changeset e51037702c9e8febad9b39f219fec3f22a6d7f26
+manifest 040376dbf43f4cc3530071d0a7f027560d857a43
+extra moz-landing-system:lando
+files uriloader/exthandler/tests/mochitest/browser_auto_close_window.js
+patch 354,398,

@@ -1,0 +1,5 @@
+changeset 0331493c6965f5ee888729319903cebaf7b12062
+manifest f5f098540402410d56f63ac56cf1dd2540df448c
+extra moz-landing-system:lando
+files devtools/shared/event-emitter.js
+patch 300,344,

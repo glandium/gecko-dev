@@ -1,0 +1,5 @@
+changeset d5bd9f1381b3fdd998e12c13ab7fb31302c9a338
+manifest 684d147a895d5e5012f47bdcc3009ff097e5eec1
+extra moz-landing-system:lando
+files dom/canvas/test/webgl-mochitest/mochitest.ini
+patch 301,345,

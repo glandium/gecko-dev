@@ -1,0 +1,5 @@
+changeset 25af0b19ec39666d33efe54a7feca0e7cb35fb6c
+manifest 6b3c1a2a2c64c25f2ee29b2c03a3ed59a4d7cf6b
+extra histedit_source:72ddef3814bf638831316a3ac8e2af466b985284
+files js/src/jit-test/tests/modules/bug-1476921.js
+patch 291,367,

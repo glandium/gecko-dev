@@ -1,0 +1,5 @@
+changeset 0e96d60023213064e9dfef68c59979459248fd7a
+manifest 967bbb864624a96cdd133d694da4a355520baba7
+extra moz-landing-system:lando
+files toolkit/components/printing/content/printPreviewToolbar.js
+patch 312,356,

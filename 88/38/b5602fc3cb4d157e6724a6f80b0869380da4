@@ -1,0 +1,5 @@
+changeset 0ea159b503624f0dabbcbea5a2422611bd84de07
+manifest c22983a916cecd42e78c7cfa7487602fa4f82188
+author Arjun Nair  <a26nair@edu.uwaterloo.ca>
+files toolkit/components/telemetry/parse_events.py
+patch 347,348,

@@ -1,0 +1,5 @@
+changeset 138a3eb773c865898c1f43e53aa9b3b39e2f38d4
+manifest f9752923399090237f6de53d037628459b08e4b3
+extra source:0801165e31759dfe84480650d254924336e4fe76
+files python/mozbuild/mozbuild/frontend/gyp_reader.py
+patch 430,497,

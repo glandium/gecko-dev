@@ -1,0 +1,5 @@
+changeset 956bc408307c40ffc9a307a7affe8377e04842aa
+manifest ef347ca5d8eb93059aed2381a4ee4d741e68d44d
+extra rebase_source:42f936c5a3e6b7f8cdce1703d7d74883fc806d1c
+files browser/components/customizableui/SearchWidgetTracker.jsm
+patch 414,488,

@@ -1,0 +1,5 @@
+changeset 679aed94d97ba18bbabc15fa57a193f7225ed502
+manifest b46089bae58480e7d5c770e147f58aa4b13864d1
+extra rebase_source:aced0d7252f1a1be0b01bd18a9173689790f896a
+files toolkit/modules/Troubleshoot.jsm
+patch 299,373,

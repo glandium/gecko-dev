@@ -1,0 +1,5 @@
+changeset f316cbb31c28d2b128b5d44255a982002db7bfb8
+manifest 4ce17e849ba8198b98f0cc14408815f7595e882c
+extra rebase_source:c6cd50d972fe8764831544685a63921e0548e765
+files python/mozbuild/mozbuild/backend/fastermake.py
+patch 1153,1227,

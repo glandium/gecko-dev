@@ -1,0 +1,4 @@
+changeset b1c3821412f8f212fda67ffc7121d82d6a5d2fd4
+manifest 1a48450211c4c9f55ff9e610e4d3570fd83adaca
+files js/src/vm/JSObject.cpp
+patch 226,227,

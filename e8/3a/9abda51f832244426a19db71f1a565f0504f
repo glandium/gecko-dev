@@ -1,0 +1,5 @@
+changeset e4c41608a13eeb493af0ba7e73fedf6abf2bc366
+manifest f73b23877af9f44eacb9d06752d7f40285a1a755
+extra rebase_source:56119da5b7b15c091dcb5de8d427b910237d634b
+files browser/extensions/formautofill/content/editDialog.js
+patch 336,410,

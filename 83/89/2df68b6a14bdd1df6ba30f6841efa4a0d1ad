@@ -1,0 +1,5 @@
+changeset e2eae98b708c4d349a7853e84f3f41729178a38d
+manifest 58775d578ac4f3fd340bc3b0f09d07ffdf4320c4
+extra source:a1887634b8e902214a7c5bccd999d421f691e2c8
+files testing/talos/talos/tests/devtools/addon/content/tests/head.js
+patch 300,367,

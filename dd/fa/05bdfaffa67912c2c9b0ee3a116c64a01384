@@ -1,0 +1,5 @@
+changeset d850ab97f26b8824425de7d88a8603265de6e3ae
+manifest 8db3c931b903b59cb682abf8d60e8b15173236df
+extra source:a27f8c7557d4eefc9ed75192aff5eba3d1b80d6f
+files js/src/builtin/JSON.cpp
+patch 307,374,

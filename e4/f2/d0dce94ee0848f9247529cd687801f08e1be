@@ -1,0 +1,5 @@
+changeset 7cec07add03a1e79d3da1cad2953c8afcec2ddf5
+manifest 3e5e197f5c14d34463ab10e95e24116650e5e262
+extra rebase_source:54f28163b78593d25b7a52897162f20e9042bcfe
+files toolkit/system/gnome/nsGConfService.cpp
+patch 1194,1268,

@@ -1,0 +1,5 @@
+changeset 7a3c6621037191b5a205070a2b9e116ef7fa4404
+manifest e3f5221244c5ed76ddd9fc8009c01f78b4a57eac
+extra rebase_source:36eb51be32d0618edb4eb34f84eed1cba55b3064
+files toolkit/components/normandy/test/browser/browser_Normandy.js
+patch 337,411,

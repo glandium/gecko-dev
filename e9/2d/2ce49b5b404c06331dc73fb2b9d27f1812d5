@@ -1,0 +1,5 @@
+changeset 8c80b15ea92b49c66348ffd38c42a0b833390289
+manifest 8bafcefe81ea1ff853d8a99e8736e2b34ae949e9
+extra rebase_source:5f6ddcb617d9f4730ce864722ee06f2f7c3b850e
+files gfx/gl/GLUploadHelpers.cpp
+patch 723,797,

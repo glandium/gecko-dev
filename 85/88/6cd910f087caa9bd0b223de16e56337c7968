@@ -1,0 +1,5 @@
+changeset 2b0f0d220a7cc3d6262706c160cc1900148dbe79
+manifest 21ab24938c35f31ce7a786c890200bb3ae6e143f
+extra moz-landing-system:lando
+files gfx/layers/apz/src/GenericFlingAnimation.h
+patch 467,511,

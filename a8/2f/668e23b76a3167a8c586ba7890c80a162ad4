@@ -1,0 +1,4 @@
+changeset 00ae06989ae033bf9a79936d9929852cff09e8c4
+manifest 64f95b86f1894e8e49444b5fb358826197fb00d3
+files third_party/rust/parking_lot_core/src/stable.rs
+patch 175,176,

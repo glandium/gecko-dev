@@ -1,0 +1,5 @@
+changeset de8d3617e884b75b023ebb2591a141cd11eb5a2d
+manifest 4425c592b1707f811397399c01d08e6fd8cad58e
+extra rebase_source:e58a294ecd9b31592214e5e11be2f8729edb38fd
+files js/src/vm/JSFunction.h
+patch 682,756,

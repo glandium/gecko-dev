@@ -1,0 +1,5 @@
+changeset 1f9785d097d0e04d731516a7b8ebfc3a7e9ec26c
+manifest 0abd80fbdc63aadb6f16f821087803f7506dbd98
+extra moz-landing-system:lando
+files parser/expat/lib/xmlrole.c
+patch 335,379,

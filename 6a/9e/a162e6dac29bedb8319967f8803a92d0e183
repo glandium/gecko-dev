@@ -1,0 +1,5 @@
+changeset 50da96ec0040585c2d0d1cd46b2ce7f93af78ae5
+manifest 58ed45dbd111abe464b5b7371626300a2a97fd7a
+extra moz-landing-system:lando
+files js/src/tests/lib/jittests.py
+patch 287,331,

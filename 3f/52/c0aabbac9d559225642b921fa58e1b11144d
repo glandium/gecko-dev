@@ -1,0 +1,5 @@
+changeset 0999c7162711da0457aef32082ac9fc6e8542022
+manifest b3fcc5b0d42164b908dfe94ee4309b5ab3979e85
+extra rebase_source:4abbe897863d44bf0a2e4b5282283f68cc25d83a
+files toolkit/components/xulstore/XULStore.js
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset b1c3caea8b7eb19ad5ed4933bee53966b09f41c4
+manifest da699da701f890f840bfc2a8ec2f0f9e6438f08e
+extra rebase_source:ad3671be04751ece8966fa19267239b9f1614551
+files python/mozboot/mozboot/base.py
+patch 495,569,

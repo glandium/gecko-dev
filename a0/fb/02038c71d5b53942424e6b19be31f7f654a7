@@ -1,0 +1,5 @@
+changeset 233f5ec7592438d70f43524dd7f628d717ae4f81
+manifest c008c3f6e5142c860d59949be5d9e5349e3d81f9
+extra moz-landing-system:lando
+files toolkit/modules/tests/xpcshell/test_CanonicalJSON.js
+patch 349,393,

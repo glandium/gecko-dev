@@ -1,0 +1,5 @@
+changeset c82285d253de952fe6388e2ec5060057e2e8e80b
+manifest d039ebb5aef4db3a770474ccf5d64c886c99e710
+extra rebase_source:a960907bf87c1f3db16a409ddb06f0dbf58a4c2b
+files taskcluster/docs/partials.rst
+patch 230,304,

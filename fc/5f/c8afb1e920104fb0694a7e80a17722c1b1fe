@@ -1,0 +1,5 @@
+changeset 3f80d2aaef435081f05551eae1a5c9b42302d56b
+manifest fea2fa6f155e2dc5d77d0969510be054db601d52
+extra rebase_source:8776da7b23601eb3f1ec9e9711f9f9cd9eedd849
+files accessible/base/nsAccUtils.cpp
+patch 359,433,

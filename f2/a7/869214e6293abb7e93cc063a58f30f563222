@@ -1,0 +1,5 @@
+changeset 0be1d1ac3bdc9daea2be077ea53139f5ee6b7bd4
+manifest 75e9ad9e45d82ba6ad05784ca0eddb93e228cfa1
+extra rebase_source:552112b2568e61af3e4cd68a63bc00f9b8c37987
+files toolkit/components/extensions/ext-browser-content.js
+patch 321,395,

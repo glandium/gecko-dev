@@ -1,0 +1,5 @@
+changeset a10beb909d931f09e94ee79b990010427aee225a
+manifest 0d9ea5e674ad5d5c50a864831dc603b589484a8a
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/maximize_window/maximize.py
+patch 537,581,

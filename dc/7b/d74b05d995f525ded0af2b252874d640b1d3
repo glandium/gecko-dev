@@ -1,0 +1,5 @@
+changeset 99d2b63661e738c5538bb778e0fa275362a153a2
+manifest 5efeed1facdf5e71393ae0fe81d2d5704b89a4ab
+extra moz-landing-system:lando
+files widget/cocoa/nsChildView.mm
+patch 284,328,

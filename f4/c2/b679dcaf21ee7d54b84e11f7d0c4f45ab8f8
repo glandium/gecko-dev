@@ -1,0 +1,5 @@
+changeset 29fcc3b892a2a19b72f2d3d556c2da306abdd0e8
+manifest cd489c2369f6e3ea9b54002f5cc7590cd48ffe19
+extra rebase_source:865d7b8375e3b800845f06dd4c5db7a669f05eed
+files mobile/android/base/locales/en-US/sync_strings.dtd
+patch 307,381,

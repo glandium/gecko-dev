@@ -1,0 +1,5 @@
+changeset baff3e8129149cd9667ffd9b827ee16006892b0c
+manifest 5e1dbfe2242fc7843574a6d201ddbac9e4ea53fd
+extra rebase_source:6d53031ea8669b15cdf6fad4c55c58624bd54c38
+files widget/gtk/WakeLockListener.cpp
+patch 283,357,

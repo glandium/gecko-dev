@@ -1,0 +1,5 @@
+changeset 1caa3b80f1faf1c0fe5cc30ff572df340280b9a4
+manifest cff25f10bef0b910e16408e58ad037936382290f
+extra rebase_source:05845c5c50bb2ae8dd444f021aeb3fef2717cc58
+files tools/fuzzing/libfuzzer/clone_libfuzzer.sh
+patch 305,379,

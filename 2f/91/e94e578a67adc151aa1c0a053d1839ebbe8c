@@ -1,0 +1,5 @@
+changeset d01daa40baa50929485236aea9f480e055a48b26
+manifest ffb6d17cd064dabfadbadc17fdafeeee3bf5d83b
+extra rebase_source:26dfcd85a09d1de614c2fa97ed1b24b609981af8
+files browser/base/content/browser-thumbnails.js
+patch 422,496,

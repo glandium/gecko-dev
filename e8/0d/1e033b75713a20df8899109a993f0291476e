@@ -1,0 +1,5 @@
+changeset 77a91768f10977b06436d79e4551d5c257ae4c32
+manifest 0e9182748cc00c893037d864dba102a751bdaf01
+extra rebase_source:31cbee03b926e60f914ad2f9914ebd9bd6953c4f
+files browser/components/sessionstore/test/browser_394759_purge.js
+patch 308,382,

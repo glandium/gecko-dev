@@ -1,0 +1,5 @@
+changeset f1badafad1266abed3237f0f376b6d6bb60dbd11
+manifest 7fe9a7806b52e7e3d173ac833278b76309ad1a0e
+extra source:9a103b890855e4abbe1472d985240bd54edbe947
+files gfx/angle/src/libANGLE/renderer/d3d/d3d11/Buffer11.cpp
+patch 253,320,

@@ -1,0 +1,5 @@
+changeset 601ee6e72cf15c306d659f34f405f9b5c70dcb58
+manifest fdc6d4424384773b6255c0b4c5d38f0b1b6390aa
+extra rebase_source:910e7fc54a4ba4c124d1217d7618ad2b68b9258b
+files rdf/base/rdf.h
+patch 298,372,

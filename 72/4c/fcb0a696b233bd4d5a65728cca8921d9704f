@@ -1,0 +1,4 @@
+changeset 88d9d20ee497bc5fa93ce17945cbf363dc58be0a
+manifest 2607dacd92a58ff3b951021e6bc05efc4d3fade6
+files js/src/tests/ecma_6/extensions/too-many-arguments-constructing-bound-function.js
+patch 319,320,

@@ -1,0 +1,5 @@
+changeset bb27071244f9730a0b778d0a5a023251292a2266
+manifest e9dc0ed976ec0f5b60e2d34313eeaa381eee1e89
+extra moz-landing-system:lando
+files toolkit/actors/UAWidgetsChild.jsm
+patch 361,405,

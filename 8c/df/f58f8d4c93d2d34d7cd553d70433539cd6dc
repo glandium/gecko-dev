@@ -1,0 +1,5 @@
+changeset 465d94722195cff562b4e63156bff8670a5691e7
+manifest 89f67c6e8e6dd5578f9821e4876c8fe124df1580
+extra moz-landing-system:lando
+files gfx/layers/RepaintRequest.h
+patch 304,348,

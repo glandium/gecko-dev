@@ -1,0 +1,4 @@
+changeset 41889754fc469678e9becaa993e47424300fa782
+manifest 635b0e190a494cee37a341d30f5f6bc689b37024
+files taskcluster/docker/funsize-update-generator/scripts/funsize.py
+patch 266,267,

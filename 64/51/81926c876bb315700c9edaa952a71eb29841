@@ -1,0 +1,5 @@
+changeset 8b0058e2a4a8a123e09470b7ee975963be88a158
+manifest 70ef78c1f05922428371a33846a072c207ba81a5
+extra rebase_source:4790d8d198165141f0ba07900991302ff6b25062
+files devtools/client/webconsole/new-console-output/test/fixtures/stub-generators/head.js
+patch 693,767,

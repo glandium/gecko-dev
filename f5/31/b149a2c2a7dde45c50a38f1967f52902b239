@@ -1,0 +1,6 @@
+changeset 56b432712357b3461601de27a733be3dde408def
+manifest 7a595a1678fd68315b8f56fd6b5b9e57cf6b0a97
+author jmuizelaar@mozilla.com
+extra source:4d7efa2ca9e2aae089754cd85558a048c9121512
+files gfx/2d/ssse3-scaler.c
+patch 236,303,

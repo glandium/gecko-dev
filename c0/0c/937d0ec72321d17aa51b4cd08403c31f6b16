@@ -1,0 +1,5 @@
+changeset f1d399b5747d95e9addc5f3a6f45cd59086b5336
+manifest e8b455a2dc47da55db7c575e6c9fd9d5e1c62237
+extra source:1fd1e34371da3e3ab587a2311528b4ac235d0b67
+files toolkit/components/extensions/test/mochitest/test_ext_webrequest_basic.html
+patch 366,433,

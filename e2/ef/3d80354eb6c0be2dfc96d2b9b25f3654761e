@@ -1,0 +1,5 @@
+changeset ac280d2e0cbeb2066f1428a809546a075f11bf43
+manifest faed95d4c3f20d6c438a7cd5c684f5e951c7bfc6
+extra rebase_source:905b7e83bc7265fe8312509dfc5aa6274dd89c5c
+files mobile/android/base/java/org/mozilla/gecko/ChromeCastPlayer.java
+patch 623,697,

@@ -1,0 +1,5 @@
+changeset 58db74bca66e1b6d274b0c56fa1c811a5aaa47a0
+manifest 095b720bd92735bd58d1d55ddf53ac22617c3116
+extra rebase_source:4d16b8133d11592911b5e8529e6a5259dce41f03
+files python/mozversioncontrol/mozversioncontrol/__init__.py
+patch 291,365,

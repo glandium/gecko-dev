@@ -1,0 +1,5 @@
+changeset abd19b1b58599d2d521c72b7cd628760b95065bd
+manifest 39aa65425354da643cc292036861694d8871730b
+extra rebase_source:5c7b2fac7e1213a5dbaad0c4697fb6b1209b9d8f
+files netwerk/base/RustURL.cpp
+patch 284,358,

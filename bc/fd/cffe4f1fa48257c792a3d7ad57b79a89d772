@@ -1,0 +1,5 @@
+changeset e98549c5dd9dd6fd6582ed74e46152ce3bf56a0f
+manifest 4acb5123fce38a501f7bcbe64eb872b088f4646e
+extra rebase_source:f4afebd4568cc707fd23fc1406c485b2e7f5868e
+files dom/gamepad/cocoa/CocoaGamepad.cpp
+patch 283,357,

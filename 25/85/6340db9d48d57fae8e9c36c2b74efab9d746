@@ -1,0 +1,5 @@
+changeset 46dd32e1f0fae9d4d7a56a258ce126fae0078f60
+manifest 0c09ebf3bf8444101379f2cb2c4112c5f7d94ff0
+extra rebase_source:2bbec4dceffb7698804609010127b37442a907a7
+files layout/forms/nsComboboxControlFrame.cpp
+patch 505,579,

@@ -1,0 +1,5 @@
+changeset 8fbfe8c77eaa41c79aaf48a07666986d300dd0cf
+manifest 76e7f84537bba8e24ee3249fe06c8852a0fc9a1a
+extra rebase_source:2c248426471d6d09a96b0d5f500d55fd2bb081ac
+files toolkit/crashreporter/breakpad-client/mac/handler/exception_handler.cc
+patch 364,438,

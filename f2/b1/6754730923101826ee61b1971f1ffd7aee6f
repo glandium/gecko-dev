@@ -1,0 +1,5 @@
+changeset da94f942668ae2985d079e1e9f067a5ffd6f93ec
+manifest 0468a3444e449c6a6c2254a3003da9a906d629a4
+extra rebase_source:07bf094ad3d7a3ac97c4965ba4f3fe36688b97d6
+files security/manager/ssl/security-prefs.js
+patch 447,521,

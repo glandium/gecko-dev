@@ -1,0 +1,5 @@
+changeset 67278f192c2baad2fdd4128ea9b8a018b1a1b49c
+manifest 49d4236e97aca6922f5b8cc07ff2f0e93ae9236f
+extra rebase_source:9f91766de9d0dd2c3faf6549626ecf7ab0134e79
+files browser/base/content/test/general/browser_temporary_permissions_navigation.js
+patch 381,455,

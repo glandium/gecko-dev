@@ -1,0 +1,5 @@
+changeset eed73ebe0266c7263da00ce634959983edfb8f35
+manifest 4df41976f1eb4e1f13d0f768f52344ae976f416f
+extra rebase_source:415c26fd7471bfc9bb73f8293a890e41aaa7c0d3
+files js/src/tests/ecma_6/ArrowFunctions/arrow-not-as-end-of-statement.js
+patch 390,464,

@@ -1,0 +1,5 @@
+changeset f106b1dc2db1c29df92e5f653c4de2b9d96e63d5
+manifest 8bb4a478ca48a1b93601dc50f2f06aec88fce60d
+extra moz-landing-system:lando
+files netwerk/base/nsIRequest.idl
+patch 315,359,

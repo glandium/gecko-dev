@@ -1,0 +1,5 @@
+changeset fd5e587c92bfc441ba30bc25350d9facb257d9a7
+manifest 4fd3c8d9d14e8843689814e6dd0dfe7d7547475c
+extra moz-landing-system:lando
+files taskcluster/ci/release-sign-and-push-langpacks/kind.yml
+patch 321,365,

@@ -1,0 +1,5 @@
+changeset 4d3a4ce7e9c6c60a0be8d27b95223d7906d1bf2a
+manifest 2610c1f98120a26774305cda69f486c2445068dc
+extra source:8d762aaeb5711d23e20b809fb8ec07cd04879bb2
+files js/src/jit/IonAnalysis.cpp
+patch 282,349,

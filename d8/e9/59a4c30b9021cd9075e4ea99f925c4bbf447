@@ -1,0 +1,5 @@
+changeset 7764656611ce25659b5fc408ce72007623545d69
+manifest 9f66a3883e3e191d44f727fc82ae01b3c2157630
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/privacy.xul
+patch 328,372,

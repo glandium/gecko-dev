@@ -1,0 +1,5 @@
+changeset 3774e59affc5fed9d9bcff7ecce0f1c46df4c738
+manifest 28aa6fbef6b610d332bbd39c2f68e3976209b9cf
+extra rebase_source:21939f3abd0874bbcb4da0b5bb5b3d17fdee06a4
+files services/sync/tps/extensions/tps/resource/modules/history.jsm
+patch 330,404,

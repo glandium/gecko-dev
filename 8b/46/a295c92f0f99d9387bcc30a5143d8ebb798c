@@ -1,0 +1,5 @@
+changeset cb1917fc2c705c5cada73b15862298725acc9b87
+manifest 5d182c9b08b1e1b1bc4732980219e5c956f98c86
+extra source:fbe067f550c8be7ecc0a6a461183d89ac9a8513b
+files devtools/client/webide/test/chrome.ini
+patch 239,306,

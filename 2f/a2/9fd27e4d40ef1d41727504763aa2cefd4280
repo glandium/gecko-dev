@@ -1,0 +1,5 @@
+changeset b61d6231f6dc9f44d5db7ac797c5ff2f6b2e89b0
+manifest d241511257cfb59c594b9ce7ec2c6b9cc1a6f0d4
+extra rebase_source:865d56f06e83464a5e4a266f7af61d250b676971
+files browser/extensions/webcompat-reporter/skin/shared/lightbulb.css
+patch 322,396,

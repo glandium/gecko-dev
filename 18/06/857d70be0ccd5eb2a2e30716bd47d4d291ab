@@ -1,0 +1,5 @@
+changeset 23558938a6c6c02c920c0df8670c0fac6a883532
+manifest 2e25fd003700a5bdd520c02c9ae4845ece651015
+extra amend_source:7f51ba1debb369c0c8ef38302d50524f3e699865
+files servo/components/style/properties/longhand/font.mako.rs
+patch 401,474,

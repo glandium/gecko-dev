@@ -1,0 +1,5 @@
+changeset 57187d8e14337441e40c2ca33c2997e95bc7cdd0
+manifest 0fc66427d5f3d2f43fd4638b664f7b191977a037
+extra rebase_source:46293d2485b6a019cdcc5b5a9f260058fbdaaf8f
+files browser/extensions/onboarding/content/onboarding.js
+patch 376,450,

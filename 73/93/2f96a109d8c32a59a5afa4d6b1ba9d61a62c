@@ -1,0 +1,5 @@
+changeset bfd9ddf7b03b2d0a05f61a1bb9308639dbf0a2f4
+manifest 8343b1e0c6c38b9c9c2af1420fc3eb89827dad4f
+extra moz-landing-system:lando
+files browser/components/extensions/parent/ext-browserAction.js
+patch 310,354,

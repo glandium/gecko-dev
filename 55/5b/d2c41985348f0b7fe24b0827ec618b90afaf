@@ -1,0 +1,5 @@
+changeset c4acba4df2b205a75c1f858c9b431ecfde531673
+manifest 44eb3555380cb28ff828880afe3ca426ee14f0a3
+extra rebase_source:4346ed0f9d1340b416e4cb2c2098b94aabdae8d0
+files editor/libeditor/tests/test_bug1330796.html
+patch 245,319,

@@ -1,0 +1,5 @@
+changeset c96874a02a34f471af532c70c6da531c5e429046
+manifest 6a1aa5e25a98f91440161f12c232dff274837ea6
+extra moz-landing-system:lando
+files toolkit/components/places/nsMaybeWeakPtr.h
+patch 721,765,

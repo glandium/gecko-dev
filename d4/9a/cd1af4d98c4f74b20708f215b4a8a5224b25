@@ -1,0 +1,5 @@
+changeset 4a831fd88f01e0244078064829c2b3e720f89e8a
+manifest 1770bdc7f126632a9578be2b33f9fd449b6f139c
+extra rebase_source:60652f6fcb23507f42535ce42128dcb42d8eeaa2
+files toolkit/components/telemetry/TelemetryStorage.jsm
+patch 382,456,

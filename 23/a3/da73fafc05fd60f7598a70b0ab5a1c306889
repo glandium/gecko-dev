@@ -1,0 +1,5 @@
+changeset 123ca165e8a759ca966de3c557e4b6f53652759d
+manifest d5112d2f369a6d780e23d2ce391c13eafe58b1b1
+extra moz-landing-system:lando
+files security/certverifier/ExtendedValidation.cpp
+patch 297,341,

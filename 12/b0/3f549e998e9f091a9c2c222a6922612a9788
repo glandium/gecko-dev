@@ -1,0 +1,5 @@
+changeset 2e5441b820524a231d6a52284cca2db3c8e0ff19
+manifest 31d169755c4855b47de1bffbf5027a6504d6cda6
+extra moz-landing-system:lando
+files config/external/ffi/moz.build
+patch 282,326,

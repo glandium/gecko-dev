@@ -1,0 +1,5 @@
+changeset ba9cc5295263af54d9ef4fedb7ecbbbc1cd9fa2c
+manifest 10faf1f0496508baf1f8e5f95157b76f37de6d1b
+extra source:b6f95025c1ee6f40a1d60c9e518cbb80c15e30ea
+files devtools/shim/DevToolsShim.jsm
+patch 301,368,

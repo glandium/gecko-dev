@@ -1,0 +1,5 @@
+changeset bd194ec65d783469fb8be9d2055c93cf8ddfd1b0
+manifest f15120cd6d9ac31d431ba9bf0ec509b0f165ac94
+extra source:5de3ada563495d5f7e672ff6cda6e26b6e161fa4
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/SessionTest.java
+patch 342,409,

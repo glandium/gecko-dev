@@ -1,0 +1,5 @@
+changeset 0b229b00818a2ca397c591240339246f1b1a0f53
+manifest 838a827af51b53fd7bec8d0e0a7e405ed9790291
+extra moz-landing-system:lando
+files taskcluster/docker/diffoscope/get_and_diffoscope
+patch 318,362,

@@ -1,0 +1,5 @@
+changeset f516952da0d4dbb127ca9b24a29b23f0bcbc5308
+manifest 00545392618a6e67b8b69eb8844d3fe530b94a02
+extra rebase_source:c0962d1c8c709c89073c41bc9c94bde9851a287b
+files browser/extensions/formautofill/content/manageDialog.css
+patch 321,395,

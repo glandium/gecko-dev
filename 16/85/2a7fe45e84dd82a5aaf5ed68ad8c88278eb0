@@ -1,0 +1,5 @@
+changeset 2a9f2418655a1c0e544145490f278bab751392ab
+manifest 12b2228e24c37d1b91897b87fabc2aca74a5c69a
+extra moz-landing-system:lando
+files gfx/2d/DrawTargetD2D1.cpp
+patch 278,322,

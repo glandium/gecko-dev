@@ -1,0 +1,5 @@
+changeset 25b861c8365a473426e1efcc64226815407b813c
+manifest dc1685d3f8ad0f067b1fe76f4d207748a0badb48
+extra rebase_source:1774410824f32b1f822b83ccec3f132b6dad77de
+files dom/webidl/EventHandler.webidl
+patch 472,546,

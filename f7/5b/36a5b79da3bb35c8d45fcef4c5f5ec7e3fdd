@@ -1,0 +1,5 @@
+changeset e9ac4160d051f7ec520c7a0534b75c4b10386873
+manifest 8e4a1fdd358b6e2f682da9f54278fc0a1d536170
+extra moz-landing-system:lando
+files layout/generic/nsFlexContainerFrame.cpp
+patch 323,367,

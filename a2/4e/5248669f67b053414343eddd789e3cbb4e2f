@@ -1,0 +1,5 @@
+changeset dfdfc8e56c31538f820d436a42fcfb24d583b26a
+manifest ad412039d2e67b3c2f45859e1d73d639a2675e0a
+extra amend_source:03087529e7cd92ba64e3fd36569ed02d31470134
+files toolkit/components/extensions/webrequest/StreamFilterParent.cpp
+patch 600,673,

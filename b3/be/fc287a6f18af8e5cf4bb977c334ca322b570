@@ -1,0 +1,5 @@
+changeset 9a18481b44cdc5e2762631a4acc760dd54eb6a6a
+manifest 75a9477120d9c86e3b1001eb0581fc2ba7426fec
+extra rebase_source:336a7118927bd6c3f0e4edaf15770afb1f6602a9
+files gfx/layers/apz/src/APZCTreeManager.cpp
+patch 539,613,

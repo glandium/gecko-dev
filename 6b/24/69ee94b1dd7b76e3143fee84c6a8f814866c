@@ -1,0 +1,5 @@
+changeset 77f05b140bb73e7263483cff075a3eece6ab8f85
+manifest 45d1ee46b179efc8d628b06d456d3019216b91fb
+extra rebase_source:910dc9a398212cd484afb005b96bdc8f425fafb5
+files toolkit/components/telemetry/parse_scalars.py
+patch 310,384,

@@ -1,0 +1,5 @@
+changeset 977302799d70635dcd94a036e2a34d5094abf353
+manifest c8503898f3e6211c2984a571e7df11975bc31180
+extra moz-landing-system:lando
+files toolkit/components/processsingleton/MainProcessSingleton.js
+patch 353,397,

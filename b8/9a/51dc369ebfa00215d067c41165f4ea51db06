@@ -1,0 +1,5 @@
+changeset b3a5c5824ad80ae96997eb84a8d921372850a9fe
+manifest c450a90072ecd2a4bf05d8c1961788e70517666b
+extra rebase_source:f5c520bd4019e6a8b940307355c68135e7e0cb9c
+files dom/bindings/BindingUtils.h
+patch 302,376,

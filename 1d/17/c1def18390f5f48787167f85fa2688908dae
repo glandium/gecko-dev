@@ -1,0 +1,5 @@
+changeset 7151850b2933e3ae6e41435461545db63b6591c9
+manifest fb4a3061946b38a35b64fd4014fca70c949d7914
+extra source:4bb6a59e797f812d922a5f7391beda693da21df1
+files xpcom/ds/ArenaAllocator.h
+patch 235,302,

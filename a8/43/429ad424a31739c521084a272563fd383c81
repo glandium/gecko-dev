@@ -1,0 +1,5 @@
+changeset 45c1f862dccf624e4986335886135cd2282fa412
+manifest 81d6ee6076360ed3deca37d94d89877b75684124
+extra source:993c073ab27a61d60a3f4aafbe4d1ef7d80fae38
+files browser/components/preferences/in-content/tests/browser_contentblocking.js
+patch 379,446,

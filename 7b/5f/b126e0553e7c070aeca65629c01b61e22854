@@ -1,0 +1,4 @@
+changeset 578c92bc890e44eddcc8bfd7adf003f3a115ec51
+manifest aa25f6ab2c6bfac05d1c2782c901b7003fae94bb
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/SessionLifecycleTest.kt
+patch 483,484,

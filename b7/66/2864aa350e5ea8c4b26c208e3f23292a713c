@@ -1,0 +1,5 @@
+changeset c289e7c3995d245f4bb043d0dafce34f2a1c35b2
+manifest 18b224b572a5952ad7b467e149647e7bcf3c62bd
+extra rebase_source:d466af20427a49cbc5be7a21613662fffb364132
+files mobile/android/app/src/main/res/layout/home_remote_tabs_group.xml
+patch 553,627,

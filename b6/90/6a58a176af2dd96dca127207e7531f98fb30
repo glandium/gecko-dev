@@ -1,0 +1,5 @@
+changeset b2635d26a7b7c0f6cdb278c7f62503978e620f6c
+manifest aff3698574d4bc386505ab1dc817c9f18fd244ab
+extra rebase_source:293a832e540efe966ed1a07f9dbe361f6c45399e
+files devtools/shared/fronts/inspector.js
+patch 261,335,

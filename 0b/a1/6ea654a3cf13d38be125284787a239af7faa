@@ -1,0 +1,5 @@
+changeset 5f217a0d04736cd2c33c8fbf9adc3fae320e2065
+manifest 7e54a307cb8531a2c6984e96bae93f4348701ea7
+extra moz-landing-system:lando
+files browser/locales/en-US/chrome/browser/aboutPrivateBrowsing.dtd
+patch 321,365,

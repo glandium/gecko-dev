@@ -1,0 +1,5 @@
+changeset d7d5a0e7ef006ff23c61828327b91c8dbd19af8f
+manifest 6037bfde9f6efafd26afd0ab20345420b97c1a2f
+extra rebase_source:a82b4e2d4d5e7e6c65f003cf23a6db6d2a2c8f7d
+files uriloader/base/nsURILoader.cpp
+patch 273,347,

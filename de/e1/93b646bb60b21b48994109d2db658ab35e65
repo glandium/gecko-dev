@@ -1,0 +1,5 @@
+changeset 71e27c73bb26924823d74fa345a27fb243d4a0e9
+manifest 8552d7b89a951eb0ee65dfcf407d21382249bebb
+extra source:4f844b2ebd4fc15c3d9ebe688e96d109e019cb7f
+files dom/base/nsDocument.cpp
+patch 603,670,

@@ -1,0 +1,5 @@
+changeset 1252f83a5b4222f493fb979058098e4f3dd09bd8
+manifest 0c8e78781caacb95d141825d1c096e9bf72d7734
+extra rebase_source:4be168e7450c4618dd846f4be624d9f4043d91bd
+files dom/gamepad/moz.build
+patch 231,305,

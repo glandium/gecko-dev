@@ -1,0 +1,5 @@
+changeset 807e9ba8d4b8e1d0d362b96aa9878d966b7f8309
+manifest 24e897f014a5c6a8cc296a3d8389961f70e7aea7
+extra rebase_source:9b6bea993f6261596f2c6283d6569632d395d68b
+files browser/components/extensions/parent/ext-browser.js
+patch 892,966,

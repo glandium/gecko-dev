@@ -1,0 +1,5 @@
+changeset f75ad2573f47bd015deace0080fe31fca27ab173
+manifest 6e2d338c925ccb3c57c5602c2f365fbfbb7ef7ee
+extra source:65fdb046a5295f5eb322ed2eb6d4fdc119868c86
+files dom/tests/mochitest/script/file_blocked_script.sjs
+patch 283,350,

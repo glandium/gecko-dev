@@ -1,0 +1,5 @@
+changeset 785f0ff257ce6718888217bc657b1b4cfaca8159
+manifest c5e832b077976779e73c5f8cd86b2d7d7ff576f0
+extra rebase_source:d0197a5f69898e9bf0d25cc62e29c79bfe32c89a
+files browser/themes/shared/translation/infobar.inc.css
+patch 342,416,

@@ -1,0 +1,5 @@
+changeset 5cc0b9a19f37a067c4a511b0d489e0b3b272584f
+manifest c0d00c3a94f97504056698634970fc112d7be2fc
+extra rebase_source:eca3cb09b636cb57ff0370937202de76a837cd84
+files devtools/shared/discovery/discovery.js
+patch 302,376,

@@ -1,0 +1,5 @@
+changeset 4574b92aa174a4db34615ebc3107041aef9db28e
+manifest 83351d068322b4e16293269114b4c03ee09cb662
+extra moz-landing-system:lando
+files dom/media/platforms/apple/AppleVTDecoder.cpp
+patch 325,369,

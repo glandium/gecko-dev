@@ -1,0 +1,5 @@
+changeset 54b3084db2161764fc4e96cde8979b18a2a66694
+manifest bd5d03e5f6fa56b821333a2b552ade814696c3e5
+extra rebase_source:c696f373b90b5ece1647c59e4ad54cea791a8e73
+files mobile/android/components/DirectoryProvider.js
+patch 321,395,

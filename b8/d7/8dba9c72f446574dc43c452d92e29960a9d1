@@ -1,0 +1,5 @@
+changeset b58ea9ea4468244fdad1b7f5cb1626e9f0ad01e3
+manifest 9c8bf0c787f72852959b1ed5b79da717dc876045
+extra moz-landing-system:lando
+files testing/web-platform/tests/tools/wptrunner/wptrunner/browsers/fennec.py
+patch 334,378,

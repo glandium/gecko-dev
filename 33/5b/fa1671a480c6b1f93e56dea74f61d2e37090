@@ -1,0 +1,5 @@
+changeset 5580c145af589494221aa1878d38882287d2b5d0
+manifest 90dac87ecd57353479dff8ad8699983a58372f58
+extra rebase_source:0da6b32ca21dd2c2c915565ed5749795710d6c4a
+files dom/interfaces/base/nsITabParent.idl
+patch 289,363,

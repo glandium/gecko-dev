@@ -1,0 +1,5 @@
+changeset db833c9360407670f3fbaf0db668eb5a5c05d2ff
+manifest 86a26b9d638ac6ecc4478b2a9bd56191b0dfbf52
+extra moz-landing-system:lando
+files gfx/layers/wr/AsyncImagePipelineManager.cpp
+patch 741,785,

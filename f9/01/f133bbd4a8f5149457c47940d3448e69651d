@@ -1,0 +1,5 @@
+changeset 74be40b3eba22443d7872b7449075b041b93602c
+manifest 7b2f789a89acff790b36e73cd93183d030cbc478
+extra moz-landing-system:lando
+files taskcluster/ci/docker-image/kind.yml
+patch 313,357,

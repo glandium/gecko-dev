@@ -1,0 +1,5 @@
+changeset ae3b2ea8974a0f4323678149eafd3d322c263349
+manifest 7230494649da9ee1731a512729ae7f434ef090ac
+extra rebase_source:2e813e1ab07dd18c3b26dee1f3827b4d6c834350
+files netwerk/streamconv/converters/nsFTPDirListingConv.cpp
+patch 279,353,

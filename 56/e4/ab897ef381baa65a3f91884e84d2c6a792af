@@ -1,0 +1,5 @@
+changeset dd12c80cff71af9c113d5919577169538d2bc873
+manifest a0be615e681c22b7643cfc8fdcd0a13405ef9bb7
+extra source:0f5b9cd3d7107aa8d744036247d56dc9576e1dcf
+files dom/webauthn/u2f-hid-rs/src/u2fprotocol.rs
+patch 397,464,

@@ -1,0 +1,5 @@
+changeset 2d102208c9ba338076cfc00448e3b791435a5ccd
+manifest 784ef53ca5b5b3208c600c2597228d254762ee21
+extra moz-landing-system:lando
+files browser/extensions/pdfjs/moz.yaml
+patch 270,314,

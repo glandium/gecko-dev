@@ -1,0 +1,5 @@
+changeset 4c22770b36ca9176f54687420a4e607e751a3b2a
+manifest bea182f744cea85f76551c6e76f371731a8d40fb
+extra source:21f8f4c25486be1159fa051f90de9bd473d8529d
+files js/src/ds/MemoryProtectionExceptionHandler.cpp
+patch 301,368,

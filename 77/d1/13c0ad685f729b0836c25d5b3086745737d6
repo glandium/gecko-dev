@@ -1,0 +1,5 @@
+changeset f9cf6e98fc4bbaebf12fe6c101adc6f7ff8702c7
+manifest fc1392e25b04d30f41045bb273ef90f27c5fb3df
+extra moz-landing-system:lando
+files testing/mozharness/scripts/release/update-verify-config-creator.py
+patch 585,629,

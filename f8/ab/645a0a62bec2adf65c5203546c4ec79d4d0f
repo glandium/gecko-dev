@@ -1,0 +1,5 @@
+changeset 60e4c1c5216d827199806579ad88f0223063c54c
+manifest 29548571ab7770abe36bf3da6be89c9931432444
+extra rebase_source:59986701b093522e9837ce49543663c034b99cd3
+files dom/base/nsDeprecatedOperationList.h
+patch 295,369,

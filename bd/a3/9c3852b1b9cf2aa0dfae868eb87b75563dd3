@@ -1,0 +1,5 @@
+changeset 4dd398d383c67072022a937d1f55a0798f9017e1
+manifest 4a43e0d929085b6593525313b628ae5f8886e595
+extra rebase_source:5e5deec8b67aff53760f1aec08a4b58f7f6b5ff5
+files browser/extensions/webcompat-reporter/content/WebCompatReporter.jsm
+patch 333,407,

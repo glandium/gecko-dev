@@ -1,0 +1,5 @@
+changeset 9edf84bb874d3a89654ef96fe0bbf807a081f4fd
+manifest aaaeb48b4a95c55114c5413945f2e7eeb10e4f97
+extra moz-landing-system:lando
+files layout/base/nsRefreshDriver.cpp
+patch 327,371,

@@ -1,0 +1,6 @@
+changeset b2d0036536466f8bb4e7c32be967fe2c428924f4
+manifest 931a2790d4e14b49ebf253d072f5753cbf4b02b6
+author Dragos Crisan  <dcrisan@mozilla.com>
+extra source:460f9791ba8a7c40171fe8762bb827c59c83e9e3
+files taskcluster/taskgraph/transforms/job/mozharness_test.py
+patch 363,430,

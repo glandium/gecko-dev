@@ -1,0 +1,5 @@
+changeset 4446ecfee3d7530ae423be58cd0c34f054564d8a
+manifest a882f318b9210532567ae5d6a08350859f01e94d
+extra rebase_source:8819ae899b3398460484f27f3f4cc8f41d97d53c
+files toolkit/components/telemetry/tests/unit/test_TelemetryHealthPing.js
+patch 278,352,

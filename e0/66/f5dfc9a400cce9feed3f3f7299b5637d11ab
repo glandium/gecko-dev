@@ -1,0 +1,5 @@
+changeset 7cc6c0d5edc232b8545ff717a1242269f8890a4b
+manifest 97d48bfc67beef18e1a5e8fe8a4fb835b1bef9d4
+extra rebase_source:83435a1cf81d3fea57b2c636072ed87822b5504d
+files devtools/client/webconsole/new-console-output/test/require-helper.js
+patch 297,371,

@@ -1,0 +1,5 @@
+changeset 77a89d5ea06f4674af88419d22cc597978cc7929
+manifest 58e4e157ba68ecd589bfd9ce702c28029922eb6c
+extra rebase_source:d4c2ccf0d2057ecb6535002254211b73025f3695
+files toolkit/components/telemetry/ipc/TelemetryIPCAccumulator.cpp
+patch 286,360,

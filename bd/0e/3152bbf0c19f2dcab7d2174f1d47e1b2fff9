@@ -1,0 +1,5 @@
+changeset 0708fba46573478e9c8454a2288463324a9f3d16
+manifest ecc924aa04051415c9a5439ecf6bd96a2605cf2a
+extra moz-landing-system:lando
+files toolkit/xre/SafeMode.h
+patch 286,330,

@@ -1,0 +1,5 @@
+changeset b16212b3d834ae27cd39435608ac8951ee7385b9
+manifest 8e89e46b3c6131c493e9aaedfd640d26b89898fe
+extra rebase_source:589c078fac563f7e7f057e3a2904970126b6a4b9
+files memory/build/mozjemalloc.cpp
+patch 266,340,

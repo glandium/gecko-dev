@@ -1,0 +1,5 @@
+changeset 30495babf10381155f2eee006cf74c2ead445a6f
+manifest 6db66887e21b836f0ff8be27e89c67f1479926b6
+extra moz-landing-system:lando
+files js/src/vm/Opcodes.h
+patch 269,313,

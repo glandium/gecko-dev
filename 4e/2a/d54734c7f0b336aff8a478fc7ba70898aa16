@@ -1,0 +1,5 @@
+changeset c1b0ea577728f27afeb30406d03bc9c0d226ec0b
+manifest 68dfc1beefaa611af9b7ecaab1ac13909114c07d
+extra rebase_source:b67e9c154a93abc43fcbb40ec3bb8a5aae35ced8
+files toolkit/components/passwordmgr/test/unit/xpcshell.ini
+patch 296,370,

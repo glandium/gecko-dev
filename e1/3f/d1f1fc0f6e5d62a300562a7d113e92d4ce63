@@ -1,0 +1,5 @@
+changeset e4acca06cb52a3a91399f38cb6a171ee71e5edca
+manifest 51e27d3510872fad5b8d0004cd916730da6a1e03
+extra moz-landing-system:lando
+files toolkit/modules/ActorManagerChild.jsm
+patch 462,506,

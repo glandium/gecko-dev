@@ -1,0 +1,5 @@
+changeset 7a488bdb5f3cf17217c6be505396b4120a68641a
+manifest 818e75e5387491355814502c98b79114c947532b
+extra source:0675c7ddcc691294f2fe3f2e6397e65724eb7a0c
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/GeckoBackgroundThread.java
+patch 412,479,

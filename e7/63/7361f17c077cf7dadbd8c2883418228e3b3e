@@ -1,0 +1,5 @@
+changeset eeddd8eeca5680734aa300d013169f675a5da000
+manifest 7b0b7578411e475529186f9cca5e0ebd9c82ea6b
+extra rebase_source:4925a27442bd59b034ef9d8f05892a888c48d9f4
+files browser/components/preferences/sitePermissions.css
+patch 338,412,

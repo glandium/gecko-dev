@@ -1,0 +1,5 @@
+changeset eaef9f93b37c700d4e8d809c00684d051de4943f
+manifest 68698724c92b3d784f1273e03e00225f10b1b774
+extra moz-landing-system:lando
+files dom/media/platforms/wrappers/MediaChangeMonitor.cpp
+patch 543,587,

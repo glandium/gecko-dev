@@ -1,0 +1,5 @@
+changeset b8885c91286377615d7417aa8a7432b01172116e
+manifest b8d687a02653b5fdfd1ba70a69c6e845c48174fa
+extra rebase_source:7ed18ecd051dcc37e7969a0d5bcac63b48b596d0
+files devtools/client/aboutdebugging-new/src/components/sidebar/SidebarItem.js
+patch 302,376,

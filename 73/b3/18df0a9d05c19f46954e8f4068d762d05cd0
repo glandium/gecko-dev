@@ -1,0 +1,5 @@
+changeset 66b20d029e9565fd725d614e90e0e9da430e3a65
+manifest 8bdadf4caaec39330b544f25094702ff2320e23a
+extra rebase_source:d66a936a81723d1dcb7032f28d50b5582d748fa9
+files netwerk/protocol/wyciwyg/nsWyciwygProtocolHandler.cpp
+patch 357,431,

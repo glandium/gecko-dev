@@ -1,0 +1,5 @@
+changeset 725d9fd86a431fca7747c686cb8f7c5f8fffcb4f
+manifest 78ca119a345348545918ba7be1eb37a7e25753d6
+extra rebase_source:2201d9d025864459f478c5daa1f2e96adf1c4a92
+files browser/components/enterprisepolicies/schemas/policies-schema.json
+patch 306,380,

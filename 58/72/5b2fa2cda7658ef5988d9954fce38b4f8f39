@@ -1,0 +1,5 @@
+changeset ed6cbd03dbc20866e472a587cf3275d78b01adcc
+manifest 6da54739783e90fd29f88dbeb7a12dc967a45518
+extra moz-landing-system:lando
+files devtools/client/inspector/markup/test/helper_screenshot_node.js
+patch 327,371,

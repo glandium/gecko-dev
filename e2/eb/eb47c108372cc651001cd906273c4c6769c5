@@ -1,0 +1,5 @@
+changeset 0cd1372b3fa999fe8a2d00649201bb9e16cd7ef0
+manifest 752691c2298ae89cd943aadae42161fb98ea034a
+extra rebase_source:3e67868e1cb5a91ec80d21b1687ecc6cead74935
+files layout/generic/nsBlockFrame.cpp
+patch 304,378,

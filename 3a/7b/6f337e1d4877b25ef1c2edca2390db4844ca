@@ -1,0 +1,5 @@
+changeset f54d088190672270c1487359a13a9ec9a9940e79
+manifest f22edf2c6bc52694edd0c4907d5c22145900743a
+extra moz-landing-system:lando
+files browser/components/customizableui/test/browser_panel_keyboard_navigation.js
+patch 716,760,

@@ -1,0 +1,5 @@
+changeset 2cc1b7bcca99433a472e0c3eda35e6534dbbbbb7
+manifest b23db37ca5aa577152920c38abc9369e3e11e951
+extra rebase_source:33a6095b91c4ce29d2e184cfce71cc4824784bce
+files browser/components/newtab/aboutNewTabService.js
+patch 577,651,

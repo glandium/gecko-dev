@@ -1,0 +1,5 @@
+changeset 5e2d242ba5227a3e0fc4cce33e7fb2de9e79ed2e
+manifest d5e939a9b78006e7cd10fb2c48a10b49b36a5ff8
+extra rebase_source:c3f1da387ef3a9787168d070c10091da80ac1605
+files browser/base/content/test/general/browser_plainTextLinks.js
+patch 305,379,

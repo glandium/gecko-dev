@@ -1,0 +1,5 @@
+changeset f321cc0af9040fa75e93756fe44b433e8a4fd6ab
+manifest 515a18969ca9f519d81cdd3a1dade6b8574e4ace
+extra rebase_source:1ffc8392106757743f0718aa5cf68d03aa16e384
+files xpcom/ds/nsDeque.h
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 838c6c929f5f1eb6f3bf6c5c33173ff765db348e
+manifest ad2bc1d7e385b4cf338d0f6c3d20a15a1ca43737
+extra rebase_source:6e95f24c0cc7513821133d934da5ac3c7f6c1ff9
+files toolkit/components/telemetry/tests/unit/xpcshell.ini
+patch 301,375,

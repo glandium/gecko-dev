@@ -1,0 +1,5 @@
+changeset 8332dc26820c4fba4f92989d6857350871259a70
+manifest e0d48da1add359f2fd3379740b61a250d99ba724
+extra rebase_source:6d04d2642129b6e4e5822bd5580b2ff53145a011
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/menu/PopupContextMenu.java
+patch 352,426,

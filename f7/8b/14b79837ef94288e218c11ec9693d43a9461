@@ -1,0 +1,5 @@
+changeset bfabfda50d8a53c4fbc78bca0670b4bad4a30607
+manifest 416bbab8bc4c380143c2225cdaad74d9bf4eaba8
+extra rebase_source:c2674d225aaa4cc09be20af25d913941f0337437
+files browser/config/tooltool-manifests/macosx64/cross-releng.manifest
+patch 319,393,

@@ -1,0 +1,5 @@
+changeset 3c88ae1e95084e65a9df5fc5fe442c674eedcafb
+manifest 6330705af1affc988f67d72cbe7f434866dd5e2f
+extra rebase_source:933b4fa3469fa41b39beb36f9ac835b6321d57a1
+files devtools/client/inspector/inspector.xhtml
+patch 303,377,

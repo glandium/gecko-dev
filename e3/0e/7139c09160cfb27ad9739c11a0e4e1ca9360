@@ -1,0 +1,4 @@
+changeset bb73dbc2ab8387d157bba14dc2e931057503f3fd
+manifest 35091819b5915f85d48471278054e3181ec1072b
+files mobile/android/base/java/org/mozilla/gecko/telemetry/TelemetryCorePingDelegate.java
+patch 337,338,

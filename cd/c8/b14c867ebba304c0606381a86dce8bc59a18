@@ -1,0 +1,5 @@
+changeset 9b66674b3b80c6464f1bb392a9dd598638b0cfc8
+manifest 35caa8a9063b53a6752f4de98dffe7130be49e47
+extra rebase_source:7ad0e35d111fd5fbe9e5a93d0151ff5acfc18fc2
+files mobile/android/base/java/org/mozilla/gecko/home/activitystream/topsites/TopSitesPagerAdapter.java
+patch 333,407,

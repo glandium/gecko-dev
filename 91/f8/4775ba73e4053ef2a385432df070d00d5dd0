@@ -1,0 +1,5 @@
+changeset 04720d1e6c022478a58750fed54e6188bda6a0da
+manifest 807332a072182b290b3b6adb148c9f4dd8c63ed6
+extra amend_source:4eca7400c5fccb0417e93fabed3e51138c95f5d5
+files devtools/client/webconsole/new-console-output/test/fixtures/stubs/cssMessage.js
+patch 480,553,

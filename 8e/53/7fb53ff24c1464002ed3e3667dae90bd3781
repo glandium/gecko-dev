@@ -1,0 +1,5 @@
+changeset 9582213d1360ec17eeb3c75fe2b21069eb3c441a
+manifest f568e1e3e44be816839c729e9d5581991e520f48
+extra rebase_source:4d9f030ed37767c02a27aa291f2c0338afd0619a
+files mobile/android/app/src/test/java/org/mozilla/gecko/telemetry/schedulers/TestTelemetryUploadAllPingsImmediatelyScheduler.java
+patch 596,670,

@@ -1,0 +1,5 @@
+changeset 30801f76e945300a891b36408b9ee2fd113b18f6
+manifest 2c12f6cde8a79daca55b6f50fcef43cf042be77f
+extra source:d41d243d363bc326916a8ef4f3f0a8827feb0e97
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabStripDividerItem.java
+patch 315,382,

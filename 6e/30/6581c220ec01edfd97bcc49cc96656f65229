@@ -1,0 +1,5 @@
+changeset 17f777b161890b63b207c412549e4afc7129fa32
+manifest cc136a33277a318ab0a8d02223379b034e9346c4
+extra moz-landing-system:lando
+files dom/media/webaudio/StereoPannerNode.cpp
+patch 636,680,

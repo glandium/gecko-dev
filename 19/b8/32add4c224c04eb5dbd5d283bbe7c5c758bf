@@ -1,0 +1,5 @@
+changeset e8e30b10e75d694577bb7eb23cf3892735fc210a
+manifest 81db43ce5e9e2fbd1ec54814217c614890d60bac
+extra rebase_source:b68bc5b7a2c654757cb27b7ee80952adf6196fac
+files js/src/builtin/TypedObject.cpp
+patch 667,741,

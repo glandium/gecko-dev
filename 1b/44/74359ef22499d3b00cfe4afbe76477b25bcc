@@ -1,0 +1,5 @@
+changeset 6d6dc27d428ccce4c2c69323dadc8e7109f8b8e5
+manifest 46680c087c40a078bc5fa3b80eb7a223e01354f5
+extra rebase_source:1c2b39bdcce30f47d1b675615a35c4573556459e
+files gfx/layers/apz/test/gtest/TestSnapping.cpp
+patch 307,381,

@@ -1,0 +1,5 @@
+changeset b694e11fc7edfb3087c4cdd12f174ee1e7b91c3c
+manifest 19ac067b593cdf1c722289078fb71f4ea1499f46
+extra rebase_source:86bb81ab25cf16e864fbff743b82913bc12ab6a0
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/CrashHandler.java
+patch 339,413,

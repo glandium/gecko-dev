@@ -1,0 +1,5 @@
+changeset 627c2701f5fc9b8e184977e70fb711d00c856eb7
+manifest fe9dcda3fb48adc5f2cf115c6acc03e0047ad422
+extra source:c2d20fb73fc9fd22a57423382d11a1a5864d21ca
+files devtools/client/shared/test/browser_html_tooltip_hover.js
+patch 325,392,

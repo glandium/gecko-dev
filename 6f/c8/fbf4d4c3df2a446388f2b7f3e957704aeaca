@@ -1,0 +1,5 @@
+changeset a44074ad3dbbb9dcfa561940aeb2f83158de6f05
+manifest b0733c0b141da7a03387a85620ec6d6355f5ba91
+extra rebase_source:f44209e18c96e69df4f6c0907d0d37115444199f
+files toolkit/modules/sessionstore/Utils.jsm
+patch 265,339,

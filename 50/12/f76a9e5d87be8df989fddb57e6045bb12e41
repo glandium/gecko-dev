@@ -1,0 +1,5 @@
+changeset 8da95adec5a778ce8c5f596aa5c9eda880002fe5
+manifest 123737e4ac5f205443db4110c7032183a7f1d891
+extra source:3d6fd421ac7453fda072e769dc9819b1b30bae5c
+files netwerk/base/ArrayBufferInputStream.cpp
+patch 277,344,

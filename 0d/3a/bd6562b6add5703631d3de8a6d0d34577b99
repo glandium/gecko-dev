@@ -1,0 +1,5 @@
+changeset b06d3343f43a1ceacf22293e5a3650195a6211fc
+manifest e3a81ea09a452d1556ec7b15d3935f12308a3d31
+extra rebase_source:268cd3700ce826bb9c1381f87a0b42f6c1ad3c7a
+files testing/mozharness/mozharness/mozilla/mitmproxy.py
+patch 467,541,

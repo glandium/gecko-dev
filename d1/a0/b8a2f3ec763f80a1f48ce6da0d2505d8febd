@@ -1,0 +1,5 @@
+changeset af1ffe202cec65b7d88c4aa38ba46de05d364165
+manifest 28ad9547204dad0100822ad8dcc15f0945f52c51
+extra moz-landing-system:lando
+files testing/talos/talos/pageloader/chrome/quit.js
+patch 343,387,

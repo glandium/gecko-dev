@@ -1,0 +1,5 @@
+changeset af979f77c8384b56c66ba142d7f50e1c2675dfaf
+manifest 443522e8f57fcc66daabc55015edf15802e0f834
+extra source:e6604d308037fe4b42170840a12e9e3cc795cb55
+files netwerk/protocol/http/nsHttpChunkedDecoder.h
+patch 333,400,

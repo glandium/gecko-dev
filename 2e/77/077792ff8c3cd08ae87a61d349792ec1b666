@@ -1,0 +1,5 @@
+changeset 52fb045e622a10a17b4dc40b1474c1c987b6ca9b
+manifest b70d85735bf58fb074f5aefb16a1bacbcb29986b
+extra rebase_source:22d6c279a60d0d23161ca1addd5b5e9a3411d8ab
+files memory/build/Makefile.in
+patch 626,700,

@@ -1,0 +1,5 @@
+changeset b52c2fb70ae1ebcdf44147022001acfb35d42bea
+manifest 61c2a9287fff70227433c00e95535e9ac9c12707
+extra rebase_source:b73a35ffa2eaa58f3b8e5f4fc9755870fd6f48a8
+files toolkit/components/extensions/test/mochitest/test_ext_storage_cleanup.html
+patch 348,422,

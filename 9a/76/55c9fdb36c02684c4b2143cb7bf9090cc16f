@@ -1,0 +1,5 @@
+changeset 49814bb3620325ca2eee9fcd7f85bff4061c2e28
+manifest 1145abd92c6eef9cff3e01aec772d5927d43f780
+extra rebase_source:057d70cc0ade70ca9a7436ecc16bb1a1d1edc690
+files browser/extensions/onboarding/content/onboarding-tour-agent.js
+patch 352,426,

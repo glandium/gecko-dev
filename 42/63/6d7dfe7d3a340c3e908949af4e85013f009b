@@ -1,0 +1,5 @@
+changeset f25ce451a492a6338554e3a3aaadf96d4da25835
+manifest 7d172affc9b4a8f48e201e1421ba3aae16a007e5
+extra source:dedd5c14209a8a120ad837784362c5c8539d8784
+files extensions/spellcheck/src/mozEnglishWordUtils.cpp
+patch 288,355,

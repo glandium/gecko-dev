@@ -1,0 +1,5 @@
+changeset 966a069151ea02794c283cb97538206222fcd077
+manifest e24a101b29625b07c63ba46b838b57d0afe39ce8
+extra rebase_source:900f2e04678e35088b9671e7f4c88cb2b85b0864
+files taskcluster/ci/source-test/doc.yml
+patch 303,377,

@@ -1,0 +1,5 @@
+changeset dd8b72cfda82d0924dca8a98275ebf82bf80dbdf
+manifest 5b27e13df6d3a21feec08f14c4a66c77ae2ad1f8
+extra rebase_source:c899e93a1bc4819d16a079704f0db3818e602b18
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/GeckoMediaDrmBridgeV21.java
+patch 328,402,

@@ -1,0 +1,5 @@
+changeset b69717aaf5972e6331fb3532b0cf27671002f61d
+manifest 637b80be16ac72e78680483087ebc531c107ba27
+extra rebase_source:421c29657b658219cdddee978b0b0672d93fc795
+files devtools/client/inspector/animation/components/AnimatedPropertyList.js
+patch 327,401,

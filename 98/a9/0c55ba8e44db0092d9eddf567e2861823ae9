@@ -1,0 +1,5 @@
+changeset 3901ae585e3ae25f76b20e0fb8f44f1a9a4dfff0
+manifest ae50ea76eb37b18b73cd5646a1f2e54ba16fd3e3
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/AccountsHelper.java
+patch 354,398,

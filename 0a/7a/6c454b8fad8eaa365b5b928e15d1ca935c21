@@ -1,0 +1,5 @@
+changeset 9cc431483c616fdcc2af815bcb2b34a2526100dc
+manifest 202a1bcef554315c5e39d913ae08c48aae9b5757
+extra rebase_source:2c72544c993015793005e912bf221a9e5abb710a
+files testing/mochitest/manifestLibrary.js
+patch 318,392,

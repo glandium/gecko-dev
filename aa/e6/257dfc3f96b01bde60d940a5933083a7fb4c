@@ -1,0 +1,5 @@
+changeset 6604f8508dd9ffa6430beae09f105b295b466a11
+manifest 569852f4b84a6a281068656039140c2c55bdf3c0
+extra rebase_source:c0d0a7b36f2857de1a9af1ddfe6520c620e5d4b4
+files toolkit/components/payments/paymentUIService.js
+patch 372,446,

@@ -1,0 +1,5 @@
+changeset c8bf2c45a10be93c3dc3f9efc09582dcde0c519c
+manifest d2400a4249c259f50c1fd62417fa136e6aca719e
+extra source:d982adfcfb188b4863e66f0a6811b7734c77a520
+files mobile/android/base/java/org/mozilla/gecko/prompts/PromptListAdapter.java
+patch 346,413,

@@ -1,0 +1,5 @@
+changeset 1c1ef238dc17b0e64ac6b860c165e871de21bd86
+manifest cd417fb72474529bb6232075212e49940ef3d7f6
+extra moz-landing-system:lando
+files mobile/android/app/mobile.js
+patch 299,343,

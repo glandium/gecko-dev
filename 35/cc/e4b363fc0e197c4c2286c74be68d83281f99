@@ -1,0 +1,5 @@
+changeset cd0bb0a35c3d4d8de65e504e11095b3f306b6815
+manifest 24953b79b27a2b6dbfea1e1042cc8d880ad4360b
+extra moz-landing-system:lando
+files browser/components/enterprisepolicies/tests/browser/disable_fxscreenshots/browser_policy_disable_fxscreenshots.js
+patch 384,428,

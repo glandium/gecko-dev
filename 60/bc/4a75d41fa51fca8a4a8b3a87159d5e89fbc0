@@ -1,0 +1,5 @@
+changeset 7ce2489fac102c79e92af1808cfa6bf50db71097
+manifest 458faa7327699cb18dc62a3d28705374d43dfe23
+extra rebase_source:dd5d59d2db72fd35436a976da8bb4020dbf363a7
+files browser/extensions/formautofill/test/browser/browser_manageProfilesDialog.js
+patch 348,422,

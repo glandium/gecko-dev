@@ -1,0 +1,6 @@
+changeset 98a314e77d6cb3325acdbfbd5a724227d8e46c9f
+manifest 862d44e78158baf52748d9bfb72309046a03b826
+author Nico Grunbaum
+extra rebase_source:84c0e85c9f214f1bc7403256d8c2d80809305e13
+files media/webrtc/trunk/webrtc/modules/rtp_rtcp/source/rtp_utility.cc
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 720afff2d5e57a0049dcfd0a6f0fdda064c87711
+manifest 43f4ceec414dd6f0534a5fdcfc90f9163bfff337
+extra rebase_source:ae176d5e052785cc77865e1bf220013e87d7a3f0
+files testing/mozbase/mozprocess/mozprocess/processhandler.py
+patch 711,785,

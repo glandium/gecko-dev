@@ -1,0 +1,5 @@
+changeset d4e1988f25dfb13476d880df0f1738d172afbc4d
+manifest 1d2c11d3a742411fbd2ced94e45e91f9ad1481e2
+extra rebase_source:3af4465da67e0df764b9ece1fd45e20de4992f57
+files testing/marionette/harness/marionette_harness/tests/unit/test_window_close_content.py
+patch 344,418,

@@ -1,0 +1,5 @@
+changeset 9af862d21fa4187ac47974eb5712a064386a1579
+manifest 03b672cd8d7b53e8c0b41e162123fa670e7ccf54
+extra source:d18f58b026967820e4f2c4e9b879e64e302a0a8f
+files gfx/gl/GLContext.cpp
+patch 284,351,

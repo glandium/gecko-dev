@@ -1,0 +1,4 @@
+changeset b0efa0731412c1fef077a02c3683a90a36352218
+manifest 4075023747c00e9f40f274972bbd94bdce70a088
+files taskcluster/scripts/misc/build-clang-trunk-mingw.sh
+patch 216,217,

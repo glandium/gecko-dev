@@ -1,0 +1,5 @@
+changeset ebc9b049b54da0cb5120de12e96e1bdf617289e5
+manifest 79ac8c0d4d71d4c8e1e82ac62c7fcede203e9a6b
+extra rebase_source:6c5eb28d2e0dcf39a35b310d1e1c45cfc47f272b
+files mobile/android/modules/Snackbars.jsm
+patch 590,664,

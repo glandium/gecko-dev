@@ -1,0 +1,5 @@
+changeset 79426f83650f78d8d4b6f8ad8832112e2637ac18
+manifest a23ece8f6727e9ae61af675fa52aacb30d8140d3
+extra rebase_source:35c45e3d75ef1aa6270635616901ca640dfb46ff
+files browser/themes/shared/places/editBookmarkPanel.inc.css
+patch 316,390,

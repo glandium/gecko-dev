@@ -1,0 +1,5 @@
+changeset ebd853eb196e0fe92e03875be88c8c5a14c2ed08
+manifest 1d3d3ab1584908ba1e5a6bb5d56eedc54a39070f
+extra moz-landing-system:lando
+files dom/bindings/BindingUtils.cpp
+patch 315,359,

@@ -1,0 +1,5 @@
+changeset e8d101cf79f080ce34d27f718b5be1c69dd0f9a5
+manifest 59bd7aa7427e49a7123543ee9048b97a9ef4e1ba
+extra moz-landing-system:lando
+files devtools/server/actors/styles.js
+patch 534,578,

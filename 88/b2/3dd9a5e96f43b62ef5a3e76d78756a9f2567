@@ -1,0 +1,5 @@
+changeset 15651f8268b74f12d6db4b4949bcf2bdbef63809
+manifest 21ed5dd8b593b6199ea39d6f151475a3f412f056
+extra rebase_source:f70e2c352a6e22e49ebe48fff0799f0351cf4c16
+files browser/components/newtab/PlacesProvider.jsm
+patch 323,397,

@@ -1,0 +1,5 @@
+changeset c9670bff5a6852ae7fb19db4a0f1cfbda550da7a
+manifest 45f50b878f62eda9deb9adccf8126838510e75a6
+extra rebase_source:ccdbdb017f87c81fdecf38717164d46cf65222b6
+files caps/tests/mochitest/browser_checkloaduri.js
+patch 310,384,

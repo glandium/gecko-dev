@@ -1,0 +1,5 @@
+changeset 4b5ae6076e03ae92c5be593491bedea65ca5336c
+manifest 4e8a8e7480a7ad26fe344b94a440bbc5c5e4a707
+extra source:41d9d168940d58a3184b5840797e2f0f8654c5a4
+files gfx/gl/SharedSurfaceANGLE.cpp
+patch 276,343,

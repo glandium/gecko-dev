@@ -1,0 +1,5 @@
+changeset 99fb2b79579902eb3365c87202ad3deea9c484af
+manifest 436984d74c7877bdb14a38a12c6b5c51153cef63
+extra moz-landing-system:lando
+files devtools/client/shared/vendor/REACT_ROUTER_DOM_UPGRADING.md
+patch 333,377,

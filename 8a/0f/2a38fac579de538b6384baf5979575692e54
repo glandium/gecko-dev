@@ -1,0 +1,5 @@
+changeset 7f4d49af53f1bd362527154076d2bcb42e928d7e
+manifest 6de40811cdeab53d00d918efcbd9b4f4ea578a6b
+extra rebase_source:bdb255bd6fa9ac8f6aca7b55d6fce58231da2ce4
+files layout/reftests/stylesheet-cloning/reftest.list
+patch 343,417,

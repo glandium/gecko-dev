@@ -1,0 +1,5 @@
+changeset 4c5a956b33f7c1106428792e4fdccd893efe350f
+manifest 44c034c4ccfb549fade24a218ba131ca4aee1671
+extra moz-landing-system:lando
+files devtools/server/actors/emulation.js
+patch 362,406,

@@ -1,0 +1,5 @@
+changeset 33a96b25401320c9410d83ca94ca4d32fce6b59e
+manifest 10cbde1be18edcf3908626033ea7b3a6c3df7e9f
+extra rebase_source:9167bf47f839c6e05b7fbff68d525d72c9e2b29e
+files dom/plugins/base/nsPluginsDirDarwin.cpp
+patch 701,775,

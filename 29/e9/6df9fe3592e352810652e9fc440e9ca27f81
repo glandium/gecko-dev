@@ -1,0 +1,5 @@
+changeset b3787ede5d7baf7e6490758ec5898bd94cb9b123
+manifest 3b9f8981620f040985c5c765c94e8442848056cb
+extra moz-landing-system:lando
+files toolkit/components/utils/JsonSchemaValidator.jsm
+patch 310,354,

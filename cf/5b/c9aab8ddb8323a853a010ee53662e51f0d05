@@ -1,0 +1,5 @@
+changeset a190aea35898fe80a190290a97e7f68988c3657e
+manifest 8f22a9cdf7baa88d6ba6c233956f46c90ac3e528
+extra rebase_source:6bdd2102000e9db1b213783c39d56a729a4a29c0
+files browser/components/preferences/in-content/tests/browser_cookies_exceptions.js
+patch 344,418,

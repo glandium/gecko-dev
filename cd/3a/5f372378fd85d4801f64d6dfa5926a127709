@@ -1,0 +1,5 @@
+changeset 49bb9b849c4af957e6f51b16731b98ed0ef72e85
+manifest 516b6f75bed5d779a6622ae9c3b66c3ef3e65a0a
+extra moz-landing-system:lando
+files js/src/frontend/BytecodeEmitter.h
+patch 293,337,

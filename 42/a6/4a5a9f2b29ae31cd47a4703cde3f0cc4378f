@@ -1,0 +1,4 @@
+changeset 517fe68440b3c9b31611a83e3208793e287dc56a
+manifest 9825a3c82dfd6ed782f25d53aa745f39143bdfb0
+files taskcluster/ci/release-snap/kind.yml
+patch 253,254,

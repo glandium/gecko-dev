@@ -1,0 +1,5 @@
+changeset 983cb96d1a3a8aa0d0c3e48abd3ddf05c8396710
+manifest 0e24c47a3b13ed36c25133130affb775db675e83
+extra source:3024ee56e9db395cdc7295e99378c9bca1a4967b
+files devtools/client/shared/components/splitter/Draggable.js
+patch 346,413,

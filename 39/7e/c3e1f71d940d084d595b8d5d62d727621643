@@ -1,0 +1,5 @@
+changeset 433b404ba5fe9c94f730e041cc83556bdeb5b0a7
+manifest b9c3f7d6c34e80a3f047bd364fa9c2e94b22cddb
+extra source:b697efa82765e507c6a262c4c2d70de8a3268838
+files devtools/startup/tests/browser/browser_shim_disable_devtools.js
+patch 351,418,

@@ -1,0 +1,5 @@
+changeset cb4445c53902a0dbce4b5a72511710c9827c9a8c
+manifest 1606b966cfb63e2ed1a3f1d10af0e856a9580458
+extra rebase_source:9dc0251763dc574e932b4508564d9ed8065f21c2
+files layout/base/MobileViewportManager.cpp
+patch 281,355,

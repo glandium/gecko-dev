@@ -1,0 +1,5 @@
+changeset a6c09cee1a8c2ede72b14bd426ef9f85528f0c8c
+manifest a0d693ceb8894712d649a712871e67c9abf22c39
+extra source:7305ca850fb34af24a4cc0585e1613ef81bb1390
+files devtools/client/netmonitor/shared/components/properties-view.js
+patch 333,400,

@@ -1,0 +1,5 @@
+changeset f39c27cbd36d49279803fb47c845e08e955f7b63
+manifest 7cd80592dd97cc5f8a88d720dfa278a32fb2527b
+extra rebase_source:6f6b99d4edf94386c8de5ebaff2d5ef565acd218
+files taskcluster/docs/docker-images.rst
+patch 256,330,

@@ -1,0 +1,5 @@
+changeset 94f475532485aacdbb8e2c664a8da4a68e0c9e93
+manifest 3c6ca575fa36b486ccae90e50585b90f630b3e1e
+extra source:bacf04be0a480e4d7ea94de3c2677de3e0d5e10c
+files python/mozbuild/mozbuild/frontend/sandbox.py
+patch 280,347,

@@ -1,0 +1,5 @@
+changeset 06bdd79f4ba24041467755b35dab028e06e2de7d
+manifest 566e5a4cd042e0efe538a75249f2d915e079c1a5
+extra rebase_source:352a82ad81858782898a10440ff77b4891af6a60
+files media/webrtc/trunk/webrtc/video/video_send_stream.cc
+patch 310,384,

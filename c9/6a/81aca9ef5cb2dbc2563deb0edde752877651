@@ -1,0 +1,6 @@
+changeset f7f40b6cf8cfc0d7a84b585a1e6d27ad14dc06c4
+manifest 37e1e5a75367491ad50916c94e69a4510563df9d
+author Justin Wood callek@mozilla.com
+extra source:ea9a60e5c79e864167d495ce900d34b5c74e99e5
+files python/mozbuild/mozbuild/action/langpack_manifest.py
+patch 271,338,

@@ -1,0 +1,5 @@
+changeset a25e16b5b8a9c38733a2bdaf2757619eb656c1a6
+manifest 78c31c58d641eb45dacc8e0a0172ca80324a56bc
+extra source:55330a883a17af8ae34a5fc90f81fd7b916b500e
+files media/webrtc/signaling/src/sdp/sipcc/sdp_attr.c
+patch 307,374,

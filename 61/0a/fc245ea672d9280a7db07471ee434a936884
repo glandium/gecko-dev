@@ -1,0 +1,5 @@
+changeset 5fce19a3307f59301ab8fcf14605cba10a1bb638
+manifest 83e270966ef8bba3e31b4e372597a3079d6fcd21
+extra moz-landing-system:lando
+files widget/windows/WinUtils.cpp
+patch 526,570,

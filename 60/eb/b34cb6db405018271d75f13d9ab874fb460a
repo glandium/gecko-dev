@@ -1,0 +1,5 @@
+changeset b6428d328b6bd02cc88a18b60880a9beabc45d7b
+manifest c40931e770c02b1dc1623b6a1e01aeb99f02b102
+extra rebase_source:9fd3c8160cf7616511472db6afc6ae240e7e594e
+files browser/extensions/formautofill/content/manageProfiles.js
+patch 327,401,

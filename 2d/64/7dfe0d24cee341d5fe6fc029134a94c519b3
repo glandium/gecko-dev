@@ -1,0 +1,5 @@
+changeset 0e75ce9f6b318dc1713e229bd05cb1f11a40a0f0
+manifest 0003c614101b170a67f6cf36e9786584d83e9e3d
+extra moz-landing-system:lando
+files dom/presentation/PresentationSessionInfo.cpp
+patch 353,397,

@@ -1,0 +1,5 @@
+changeset cb1b544d3bba729b7eb876bf9b50a791dec1d01e
+manifest b7b2770dfe543092a7082eefd7d0185ef5887230
+extra rebase_source:acecdef2e75c12455a80cc7c0bd07ff02574257a
+files browser/extensions/activity-stream/lib/ActivityStream.jsm
+patch 320,394,

@@ -1,0 +1,5 @@
+changeset d7b2b1eb46a0ef358b84801dc0fc775bf24127c6
+manifest ba88d240270d4d7f69afa98f4ba15ab0869a0b4d
+extra rebase_source:1605ce1c07f195fdd66eade01e57b184dac66e81
+files mobile/android/base/java/org/mozilla/gecko/widget/FaviconView.java
+patch 354,428,

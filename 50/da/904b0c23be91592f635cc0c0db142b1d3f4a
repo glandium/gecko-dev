@@ -1,0 +1,5 @@
+changeset 8719cf957ca5801241d727664d3d0d01a7965431
+manifest d306885d2957be128d0907c51ad1b69741c0a033
+extra moz-landing-system:lando
+files xpcom/reflect/xptcall/md/win32/xptcstubs.cpp
+patch 315,359,

@@ -1,0 +1,5 @@
+changeset b31792feffa3648582107b155054320a165ab830
+manifest d3491bfca5284047f4128b5a58928476bda037f5
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/tests/browser_connection_dnsoverhttps.js
+patch 451,495,

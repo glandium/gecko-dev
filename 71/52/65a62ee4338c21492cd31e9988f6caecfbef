@@ -1,0 +1,5 @@
+changeset a7d2ac78d9f2628047af66b2e33cb39d6a07eb00
+manifest 870f231aec4ba73bb9af6718fab96ad25ffcdca5
+extra rebase_source:e26bcabd1cdf549e8a0ee54f0e6333c76484ca24
+files mobile/android/base/java/org/mozilla/gecko/webapps/WebAppIndexer.java
+patch 509,583,

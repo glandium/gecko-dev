@@ -1,0 +1,5 @@
+changeset 0157f48f3390234850d45a973f46fa8b9a621a0b
+manifest bdd34be19f1d1f2412e11346c5ef3f162ccb9bc3
+extra rebase_source:eb42178d3ffa0d7dde9579d49e668f9afed97b90
+files browser/components/controlcenter/content/panel.inc.xul
+patch 346,420,

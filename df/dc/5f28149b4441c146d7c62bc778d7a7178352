@@ -1,0 +1,5 @@
+changeset deaeb2be4e18285f8474af2e4bcc3f7f38457131
+manifest cd6bf628fe067c4a6dd285b16511d01a6f227605
+extra rebase_source:6c632ad1cca513796b80d98050994ebb6d5cce6b
+files testing/mozbase/mozdevice/setup.py
+patch 261,335,

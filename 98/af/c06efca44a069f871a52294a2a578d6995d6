@@ -1,0 +1,5 @@
+changeset a42437c2e1fe656e5573c7951c1d50298d8a2f45
+manifest ae91249255340cc42705d348ceb8bfceb40bcb4f
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/Tabs.java
+patch 397,441,

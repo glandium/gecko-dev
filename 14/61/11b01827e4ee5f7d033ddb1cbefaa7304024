@@ -1,0 +1,5 @@
+changeset 4493cbfb68bb1491845cfd6a852c24f210e26c3d
+manifest ffe826033bebbc5e355744cf7cf3d77e33a5f13f
+extra source:66fb08227855c12a5362dc9027a3bddf125b6c39
+files services/sync/modules/SyncDisconnect.jsm
+patch 369,436,

@@ -1,0 +1,5 @@
+changeset 1ff507e1820103ce83ec6e1d44915c1dc1ed0071
+manifest 22c28c0c4936e0bf7fd0ec530c0f0616c1b23d7c
+extra source:194fe4b5ec0998b5740b51b2cfd60540ee9a451a
+files dom/xbl/nsXBLResourceLoader.cpp
+patch 266,333,

@@ -1,0 +1,5 @@
+changeset 4a39adfb94aef8c4ea30ba7ff1ec5673251e4796
+manifest 351e6e51aa4b416409c776ff8bb145fbcf71b211
+extra rebase_source:2deb89a6e0ce1565134bfaba12811b0217cf0497
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/media/RemoteManager.java
+patch 333,407,

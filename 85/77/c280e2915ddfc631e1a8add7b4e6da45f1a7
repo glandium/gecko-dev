@@ -1,0 +1,5 @@
+changeset b393da8b7c59312ab1f5c0978a84272655ecb50a
+manifest 87aa62410682619739c5cad00fbbc1d701e9347d
+extra rebase_source:bac48b8f91e6561dfb7afe2828c3652431347c40
+files xpcom/base/nsISupportsImpl.cpp
+patch 459,533,

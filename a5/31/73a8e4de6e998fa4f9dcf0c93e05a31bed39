@@ -1,0 +1,5 @@
+changeset a320ecb85b4708b551ee1480481e208e94dc2efc
+manifest 8429da9fd39074761db95246f97602813f8a256c
+extra source:c1560f6fb5dae475b33373fdf4c2e60329e29f16
+files widget/android/nsWindow.cpp
+patch 363,430,

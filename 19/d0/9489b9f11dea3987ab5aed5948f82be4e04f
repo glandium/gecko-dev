@@ -1,0 +1,5 @@
+changeset aec6c504c6c47890c2bf08b4147e5fe262759742
+manifest 0d2d226081b7de6aaa2f3b7d38c76c931924ac0b
+extra moz-landing-system:lando
+files browser/components/enterprisepolicies/WindowsGPOParser.jsm
+patch 301,345,

@@ -1,0 +1,5 @@
+changeset 5ccc75c4b2a15e1526bdf8d37646db79f4ee65d6
+manifest 0cf414e1e3ff2783fd4ae0155dfb14f812311cb0
+extra source:aa5d21723b5592784780bd76d88d2ad00ac1e48f
+files dom/filesystem/compat/FileSystemDirectoryReader.h
+patch 315,382,

@@ -1,0 +1,5 @@
+changeset f463014033520214bc213683fcb086ee3848cd30
+manifest 956960c97ace5c3cfbd7b25e2fa3650396fd3337
+extra rebase_source:bdc82cee761ab389ee17235ca115e3a964a55797
+files toolkit/components/extensions/ExtensionStorage.jsm
+patch 332,406,

@@ -1,0 +1,5 @@
+changeset 4e884e689aada1cfec78a41e8d89bf0229f0d8fc
+manifest 0ccd0e65de3c512f544f816608f94e94d2ea9d2e
+extra rebase_source:6c6f668551b6e4fbdb43313d31eca83d715d4f0a
+files devtools/client/inspector/rules/rules.js
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset f0b4429eedff2fa443cf9c4e94d9079a55dc78dc
+manifest 4978bd4adf75206e408986af59232fa515feaa86
+extra rebase_source:d3682ea78848d4237c66147a6dea2ebc93da2dee
+files toolkit/components/narrate/NarrateControls.jsm
+patch 325,399,

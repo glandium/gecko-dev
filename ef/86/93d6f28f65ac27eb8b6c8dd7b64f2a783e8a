@@ -1,0 +1,5 @@
+changeset 960a3d703f4b30534edb77db380a45fd51de5088
+manifest fa641d6a5f0f01b740d48de5d9eb516ad5d7ee8f
+extra rebase_source:dfd3f1a00470856a177a526d385dd0f1b7d0ec38
+files mfbt/tests/TestEndian.cpp
+patch 282,356,

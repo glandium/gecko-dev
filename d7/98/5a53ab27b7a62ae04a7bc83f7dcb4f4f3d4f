@@ -1,0 +1,5 @@
+changeset 421f65e89a85a685168f4af3c5ca7e832c0b8346
+manifest 5029193bb9bd14a4efbf102ce700a2a1658de766
+extra source:f6e04f1ad2564649196e9235581111c44dfb37ce
+files js/src/devtools/automation/autospider.py
+patch 288,355,

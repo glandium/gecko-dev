@@ -1,0 +1,5 @@
+changeset 1fd1e34371da3e3ab587a2311528b4ac235d0b67
+manifest 4560063b271aeadb66e2b7e1f792d625bd644951
+extra moz-landing-system:lando
+files toolkit/components/extensions/test/mochitest/test_ext_webrequest_basic.html
+patch 329,373,

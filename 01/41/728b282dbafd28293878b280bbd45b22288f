@@ -1,0 +1,5 @@
+changeset 3709d682bb55a88747275fff818a033f8de558c1
+manifest d6aca77764b9ffb959f89045ab7aec29d2be6d7d
+extra rebase_source:e5919c4cd7b40c9032e8aacd62a12d02f623bb33
+files toolkit/content/tests/chrome/test_bug570192.xul
+patch 316,390,

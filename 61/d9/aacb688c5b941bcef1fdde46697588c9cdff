@@ -1,0 +1,5 @@
+changeset 70b72c8bddc6dd189bf6cbc79828b790e032af3e
+manifest 56d9a737b6669c36fe85f5bd95114d036e596ef0
+extra rebase_source:577f7c823ab7ee8d1fdedfbd26393c1f1664b965
+files mfbt/Tuple.h
+patch 723,797,

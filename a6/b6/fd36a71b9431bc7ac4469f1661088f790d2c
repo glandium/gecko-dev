@@ -1,0 +1,4 @@
+changeset 9af9e57b3a598dc2a1a6aa293344bfeee11acc9f
+manifest 988bae0d7dfa7bddc25a58fea2c3f02c70a34f3f
+files js/src/jit-test/tests/ctypes/conversion-finalizer.js
+patch 245,246,

@@ -1,0 +1,5 @@
+changeset 3bc46ad43fde17cba9203e6336718f979dddfba6
+manifest f54f9f705ce7af6e40ec711c91e1bd2104dd54ff
+extra moz-landing-system:lando
+files devtools/client/themes/toolbox.css
+patch 297,341,

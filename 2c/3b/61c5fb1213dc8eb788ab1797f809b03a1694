@@ -1,0 +1,6 @@
+changeset dec37391ecf8c26962fede1c15db9b5f8c769b28
+manifest 51334ff648198c601dde2d144a0f570bf78ad9b8
+author Ursula Sarracini
+extra rebase_source:f752dd25a819af4c8dad8be44408cc42e011415f
+files browser/base/content/browser-thumbnails.js
+patch 305,379,

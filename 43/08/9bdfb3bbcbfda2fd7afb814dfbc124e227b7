@@ -1,0 +1,5 @@
+changeset c81af374dfc77fb47197a48525251e58e6da4356
+manifest 468705215b1d601a74d5f930cb134d0f1c5d44a9
+extra rebase_source:2a33c3eaa4d0ef0142ac366f990b0208c5fb5f7d
+files toolkit/components/telemetry/docs/internals/geckoview.rst
+patch 330,404,

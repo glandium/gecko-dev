@@ -1,0 +1,5 @@
+changeset 84818c89ef9ce8734678e9f099025da3e394de18
+manifest 8835231227a93054e8cfbb76203105282e34c4db
+extra rebase_source:fdf22f1cdc2a5eba3ada1339aeefcc23c2debfe7
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/sync/FxAccountSyncAdapter.java
+patch 384,458,

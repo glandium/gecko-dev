@@ -1,0 +1,5 @@
+changeset a031db8b171ad9d7f623a760db2c5e7c4a4a8768
+manifest 03de7b3b3e08ecf6a56b363817644f37a046299a
+extra rebase_source:f8e52333b0cd0bf7619b1611eb033f69744d0684
+files gfx/layers/opengl/TexturePoolOGL.cpp
+patch 282,356,

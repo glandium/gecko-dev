@@ -1,0 +1,5 @@
+changeset 544d3ecf27ab29902f07237a3170b1c8217672a7
+manifest 75a546a68515e58e2aa77cf2f44663689a7ede67
+extra moz-landing-system:lando
+files toolkit/components/telemetry/core/TelemetryHistogram.cpp
+patch 1022,1066,

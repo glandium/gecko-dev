@@ -1,0 +1,5 @@
+changeset 06461ddb2699b3b9ee7283bb33307d37b107ec08
+manifest d148e29c2bd098a8758a0e88b15bb5583225d51b
+extra rebase_source:2cd80ebfdcb7fcab2ca8eeefd570a62b90c2dd75
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_tab.js
+patch 345,419,

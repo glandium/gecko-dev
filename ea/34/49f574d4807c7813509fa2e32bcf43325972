@@ -1,0 +1,5 @@
+changeset 69ce9b28b1f8ec710ded1769a8eee9e25293f20f
+manifest 1f297206c0728e2f16affc0fc2bcb0178f86ed95
+extra rebase_source:78737a2c51c85305a29f6335a0721404b215145e
+files dom/events/test/pointerevents/mochitest.ini
+patch 293,367,

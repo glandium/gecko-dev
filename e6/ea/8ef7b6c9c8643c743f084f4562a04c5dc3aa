@@ -1,0 +1,5 @@
+changeset 8ea04450a3548566f7fcf96ce849d4e9c9a62d2f
+manifest 5822f68781921174d9506fe9b5ab979cc17cd915
+extra rebase_source:e60dc6b48319f3cfcff2b3411f7eb8cd8928408e
+files media/mtransport/third_party/nICEr/src/stun/stun_codec.c
+patch 306,380,

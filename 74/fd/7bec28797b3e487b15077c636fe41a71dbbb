@@ -1,0 +1,5 @@
+changeset abda1ead1561b2085c610bf5161081d36bfd1f44
+manifest ea35385befbfa5a6219376bf1470da8d81135bce
+extra rebase_source:2e15da82ed232cf0fdafda42e3d8b6233f16e4dc
+files testing/mozharness/configs/single_locale/mozilla-esr60.py
+patch 322,396,

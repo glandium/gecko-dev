@@ -1,0 +1,5 @@
+changeset 3da75f798507be65851fc426a205767c230a0787
+manifest 8ca4bd6d8a132be3e4bed0691276e0439e5a98f8
+extra rebase_source:e2edeeaf076fa8a4505dd6993540fe138763d2df
+files devtools/server/actors/highlighters.css
+patch 333,407,

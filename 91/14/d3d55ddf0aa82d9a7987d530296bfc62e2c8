@@ -1,0 +1,5 @@
+changeset 5beaa5c88e2008fb5cad46fe7c3d77928298a227
+manifest 77f24a8c38c44ce976e94b783b9f7afa2a939a2c
+extra rebase_source:09e87fab64bc3e8a00300bc3109e45a1b8c8b797
+files dom/html/nsHTMLDocument.cpp
+patch 502,576,

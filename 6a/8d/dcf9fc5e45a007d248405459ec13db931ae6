@@ -1,0 +1,5 @@
+changeset 7d0ca31ba08d78233b611884aac1db46c3456d04
+manifest 3089807599e893a43372125017136963bfbf41c7
+extra rebase_source:7da48e8fff04d55e2499f556e427d464bb9cc24f
+files browser/themes/osx/syncedtabs/sidebar.css
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset 94582b9363c6d7759a996ad49ce92d52fd62eba8
+manifest 4b3e72ef74efbad9749b6fbb8678b99cfab42d86
+extra moz-landing-system:lando
+files browser/components/urlbar/tests/browser/browser_UrlbarInput_tooltip.js
+patch 353,397,

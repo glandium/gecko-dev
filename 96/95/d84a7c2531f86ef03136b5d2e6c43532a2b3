@@ -1,0 +1,4 @@
+changeset c42425e8009ebe66b277db68e66975220383c756
+manifest 98a88e7e94354f1372e52939c20b38beafb4c914
+files servo/components/net/http_loader.rs
+patch 342,343,

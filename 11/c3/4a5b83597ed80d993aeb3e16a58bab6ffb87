@@ -1,0 +1,5 @@
+changeset c587348ba99b3e1732c547840a336b678af89d4c
+manifest eed4ceed9a4b49e827a35fdf30a029b5fa07c0e0
+extra rebase_source:69b82c3df7db7d19f0667e9de0c6c67b7c7794fe
+files netwerk/dns/TRR.cpp
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset 0f95c1e8fca93909844336d21612f4a25fe9c158
+manifest 8b2db524d81b8430abc2a32dc340c6e637bcec4c
+extra moz-landing-system:lando
+files js/src/vm/CharacterEncoding.cpp
+patch 350,394,

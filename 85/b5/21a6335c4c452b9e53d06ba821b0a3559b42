@@ -1,0 +1,5 @@
+changeset f4e34d6481e811353d84fe8f7b5f26dd23924a4d
+manifest 2af03bc0023af398d07423faeade817f6f0e5a6e
+extra rebase_source:61ce19675463d6b32502d561cd90a6cfa782c72e
+files dom/gamepad/ipc/GamepadEventChannelParent.cpp
+patch 342,416,

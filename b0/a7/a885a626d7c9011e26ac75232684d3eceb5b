@@ -1,0 +1,5 @@
+changeset 48e74a9e3496f65dcfc142533fe59f5253e7cc25
+manifest c9575c91ba32e05e354a0fff7bdd466e04a1d016
+extra rebase_source:74747cd754f89ef42579d6f13884fa91db4ac641
+files browser/components/places/content/controller.js
+patch 297,371,

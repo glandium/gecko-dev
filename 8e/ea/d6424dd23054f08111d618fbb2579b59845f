@@ -1,0 +1,5 @@
+changeset e7f9ba7e8ac2707c9ad1caf569ad134635caec1e
+manifest 658054e2ae7ed43e63bfbfa6bd3ad78302000258
+extra moz-landing-system:lando
+files devtools/shared/client/thread-client.js
+patch 293,337,

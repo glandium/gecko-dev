@@ -1,0 +1,5 @@
+changeset 2939dc6bb578d28d8b75dc8ed91065ad7b8cce65
+manifest 44b2b665cfd4102b4f300ce23ea861242f32c164
+extra rebase_source:1475f03b5fa929c2dcb001224194f1edb0f3c28d
+files mobile/android/base/java/org/mozilla/gecko/extensions/ExtensionPermissionsHelper.java
+patch 337,411,

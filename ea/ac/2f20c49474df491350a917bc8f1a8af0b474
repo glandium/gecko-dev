@@ -1,0 +1,5 @@
+changeset 3de1d6228039258820829c04fe0d1b91d96ad6db
+manifest 492b6502b0b08d40a250508c2a3112b9b8534142
+extra moz-landing-system:lando
+files browser/components/extensions/extension.css
+patch 722,766,

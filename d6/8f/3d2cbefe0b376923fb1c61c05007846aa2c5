@@ -1,0 +1,5 @@
+changeset e9e34c0b62ac841810517ebb5c5a3dd4c7dd439a
+manifest 8883a6123d32fcc29d28bfd4b5244eab534dbb9b
+extra moz-landing-system:lando
+files gfx/layers/apz/src/AsyncPanZoomController.cpp
+patch 300,344,

@@ -1,0 +1,5 @@
+changeset ada62d24880b0c17991da32b6bc69f2f14c1c5a7
+manifest 131b749bb51bf60975faa96a692f9cb19a8d5e1f
+extra rebase_source:ce37a62a721eb2ea074ae0fa3eebda3f4d36a9bc
+files browser/components/extensions/schemas/search.json
+patch 268,342,

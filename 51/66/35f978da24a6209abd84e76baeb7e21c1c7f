@@ -1,0 +1,5 @@
+changeset 886a50c39daad5843af3232ef54738e1462b08e2
+manifest 9416cdac3a4b77a68f0233506521c170d3cd69fc
+extra rebase_source:a2ea1259a2ce1d2e07b7911c10497f5ee15232a3
+files toolkit/components/extensions/test/xpcshell/test_ext_adoption_with_xrays.js
+patch 402,476,

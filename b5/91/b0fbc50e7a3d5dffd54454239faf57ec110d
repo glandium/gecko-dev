@@ -1,0 +1,5 @@
+changeset 232a49daf2b458834a2e6d828c697a913796d84f
+manifest ce8507c38af38ee550a4c58697a415315d9d8891
+extra source:48fc404b0637a7315f9960f97b2482530d73cd94
+files js/src/proxy/Wrapper.cpp
+patch 249,316,

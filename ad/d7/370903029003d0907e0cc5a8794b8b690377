@@ -1,0 +1,5 @@
+changeset 339ffc4c6651b310861d585fd4cbfb1fd49064fc
+manifest 33375226e48babbdcb3fcd50d857347e0a906a50
+extra rebase_source:ce8666e747341d203d655e937501806c1646331b
+files servo/components/style/properties/gecko.mako.rs
+patch 446,520,

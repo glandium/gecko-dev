@@ -1,0 +1,5 @@
+changeset f8bf790493a38e23a4aa0efd0fa0f871aff6b296
+manifest ebfc6802c7fc3f7da942830c503f773c9d4c7f5b
+extra source:eaf542a7bdb119fdb0585e149e4827eed185b456
+files taskcluster/docker/funsize-update-generator/runme.sh
+patch 339,406,

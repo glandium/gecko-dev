@@ -1,0 +1,5 @@
+changeset 19e29511c546e968d4d0ef6469a114267f1fa415
+manifest a2107b3187758740b6bf3006f70a824197829660
+extra moz-landing-system:lando
+files xpcom/string/nsTStringRepr.h
+patch 508,552,

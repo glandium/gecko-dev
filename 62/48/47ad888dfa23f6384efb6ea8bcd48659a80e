@@ -1,0 +1,5 @@
+changeset c065b3d802124106d3c69a7d4c1dd90ff4e19002
+manifest 163daf2e72bbb64231f4de95a2d42c116529af31
+extra amend_source:c01006afaa3208fb2a125cc43584eb2f9660d404
+files layout/reftests/svg/clipPath-basic-05.svg
+patch 280,353,

@@ -1,0 +1,5 @@
+changeset e9b94ebee2e77bc24e628355d56a2d3d7133a130
+manifest b89ea10c698c71b67427ff3ce582de1350d99511
+extra amend_source:ff8b715e0f7809b50ebf0998c65c518b25c79196
+files dom/base/test/test_window_define_nonconfigurable.html
+patch 314,387,

@@ -1,0 +1,5 @@
+changeset bc1ce2b7d82a5da457faef2551aa30748f7ac5ec
+manifest 0cdfa2a94c020745843d0813673783ddc1368964
+extra rebase_source:a1fc4907891c7ef02027e3008c82d2034455ffc9
+files testing/web-platform/tests/tools/wptrunner/wptrunner/browsers/firefox.py
+patch 493,567,

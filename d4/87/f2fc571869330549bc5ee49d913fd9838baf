@@ -1,0 +1,5 @@
+changeset 2c11cc7efd341f2781abb7454df3c30d87b4e4c5
+manifest a4ac51848c054a6e647ae443f76616c66f961957
+extra amend_source:7e1d5e8499af8e36994994134bfde86f2d6ee07e
+files taskcluster/taskgraph/util/scriptworker.py
+patch 278,351,

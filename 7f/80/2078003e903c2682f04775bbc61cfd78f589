@@ -1,0 +1,5 @@
+changeset c7979b14d9986775cc126150a57958edf5ec39b6
+manifest 3002bc61c2883e781bf3b8a647a29ecb6b5748d9
+extra rebase_source:f0903adb6b8046b8a69695887de75b876ff1ce70
+files media/libspeex_resampler/src/moz.build
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset db3f44db75c5dbd74c013bc9467587f6d1bec050
+manifest 42f5cc19c9bf7db84b926ae15f95aeb90e7aae86
+extra rebase_source:491013f2aa60ebf41c3198a022d136f7abd2a19c
+files toolkit/modules/FinderIterator.jsm
+patch 339,413,

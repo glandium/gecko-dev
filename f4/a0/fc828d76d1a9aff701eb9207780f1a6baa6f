@@ -1,0 +1,5 @@
+changeset 7bc96bcd3e238f35de6f38c1a73dbdab68fd8d3f
+manifest 494098921b46fcc5a9c97d06b387639a7d250aa3
+extra rebase_source:d4f875f789b7c5dc3777baa44d8bb685aa9a5f15
+files browser/components/downloads/DownloadsSubview.jsm
+patch 304,378,

@@ -1,0 +1,5 @@
+changeset 97904e640fcb227ccb4755ae1afd929a29f028a6
+manifest a5af9b0e21edc757536abca3c65e0e0fdba1e5a8
+extra rebase_source:94c87ab2e057561504bae8bb3b18f7d543743f4c
+files testing/mozharness/configs/releases/bouncer_firefox_devedition.py
+patch 325,399,

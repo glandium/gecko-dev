@@ -1,0 +1,5 @@
+changeset 6b226a670b4892b9b77fd762ba1263e6a128dfd3
+manifest 96003de5c8f4e63a2378d89605c2e29a7f0dfdd0
+extra source:116acc87ff338d2a2e8ca6100455012fbff31061
+files gfx/layers/apz/src/AndroidDynamicToolbarAnimator.cpp
+patch 334,401,

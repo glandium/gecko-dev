@@ -1,0 +1,5 @@
+changeset 4f1362090d31c18e99c05ad7f1d5677aecb176b8
+manifest 557b9ab7e3d06be4a052cf91e0229e38f04f0068
+extra moz-landing-system:lando
+files toolkit/locales/en-US/chrome/mozapps/extensions/extensions.dtd
+patch 326,370,

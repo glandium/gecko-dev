@@ -1,0 +1,5 @@
+changeset 648d56b39b4ccb981c4ea26c284c5efecac32b8a
+manifest 7169926f4657371027e72cee9c963a8cb9aa195c
+extra moz-landing-system:lando
+files dom/webidl/ShadowRoot.webidl
+patch 291,335,

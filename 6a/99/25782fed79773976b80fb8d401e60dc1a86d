@@ -1,0 +1,5 @@
+changeset 88384f2cacf9e087cb9f4903ab3e9cd62c4d180d
+manifest 3c16932ee01826ae843f1eec3395e86cf6c956da
+extra histedit_source:a81e48ffeeb0aecaa949208d398ceead2c670bfb
+files js/src/vm/BytecodeUtil.cpp
+patch 294,370,

@@ -1,0 +1,5 @@
+changeset 507a9e5aaeea48bcf83b11022568a07718ca321a
+manifest 08deca62e9f275b802f987730b690958e70e9281
+extra moz-landing-system:lando
+files widget/nsTransferable.cpp
+patch 346,390,

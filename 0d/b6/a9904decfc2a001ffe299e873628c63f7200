@@ -1,0 +1,5 @@
+changeset 0473a11b473458cb9b90002f366f1664ea4f23e9
+manifest 728f6347dff204cdf0ab7d75675c768b11c216da
+extra rebase_source:deee1b40623e1d7fb285bbe47ee753f4c88a6b5c
+files toolkit/components/resistfingerprinting/LanguagePrompt.jsm
+patch 330,404,

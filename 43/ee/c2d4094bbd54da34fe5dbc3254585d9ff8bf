@@ -1,0 +1,5 @@
+changeset f27de60fff477d7b61b5509fc2c9c9c098f5b953
+manifest 156861018dd5b53479a69dc04b46972b22b19242
+extra source:f1f6e434d3a86d729a39aabf00e8c057c794bed5
+files widget/xremoteclient/DBusRemoteClient.cpp
+patch 301,368,

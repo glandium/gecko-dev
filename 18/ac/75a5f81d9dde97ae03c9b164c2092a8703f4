@@ -1,0 +1,5 @@
+changeset f01abf3b9dd773688f5200d4c7f9705185c6e9b2
+manifest af921ef745d55c2b846f7d71ffefc03e78dad398
+extra rebase_source:a5602fe654f5ac62e33f5277c5d3f632e08d2222
+files xpcom/threads/AbstractThread.h
+patch 258,332,

@@ -1,0 +1,5 @@
+changeset dd0c6edcb03108750b06feaf3d24f5f12e4ef0e8
+manifest 5bf58ece43362a64aff4f3021f681ed0ae9a028a
+extra rebase_source:89ece1d03a99baf3df3d31a96e397f1a5d88ea2c
+files mobile/android/base/java/org/mozilla/gecko/widget/AnimatedProgressBar.java
+patch 359,433,

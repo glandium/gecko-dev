@@ -1,0 +1,5 @@
+changeset 28f22d3e5ce131ca1fada15226163028a39043a6
+manifest a71eed52827144c539beaaef9b85327268498d67
+extra rebase_source:3f40a2483c997690cae40deb10a4aff4305928d4
+files toolkit/modules/addons/WebRequest.jsm
+patch 270,344,

@@ -1,0 +1,6 @@
+changeset a0cf29a08c3d44b62d740cea24f524a9c8fd450b
+manifest fcbcf8d8066f541dfad3fd9bfc6bb1a684fc5637
+author m_kato@ga2.so-net.ne.jp
+extra rebase_source:1ec6bc8cfb1df283bc110292f2ce509a27b31233
+files dom/base/nsTextFragment.cpp
+patch 276,350,

@@ -1,0 +1,5 @@
+changeset f093c57bcc024ad7fbc29b1d00f8352643bfea19
+manifest debe6512671ec5a390e9a8deef1fa494cfe71059
+extra rebase_source:c260923e3c13f8b28e30eaaf6e1bd38f79500052
+files taskcluster/docker/image_builder/setup.sh
+patch 338,412,

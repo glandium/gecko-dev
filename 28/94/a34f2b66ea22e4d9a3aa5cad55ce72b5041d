@@ -1,0 +1,5 @@
+changeset f565a28721bf3a0ea5af7ce5ced737d82c7e8803
+manifest 59a8e41638ea16611d4fb1dcc9827b3db0fa34ce
+extra rebase_source:d1fb530dc5e895173eb0a6f5c5aaad7a26ca7cf9
+files mobile/android/app/src/test/java/org/mozilla/gecko/TestAddonUICache.java
+patch 343,417,

@@ -1,0 +1,6 @@
+changeset b3109db72d872bdf8ab0622a9234db0a02ec99fc
+manifest 63be94d04bea9d7377354f2971b7b8a46138060b
+author Ursula Sarracini
+extra rebase_source:f76bca00e79e5b6e1bfc79e0b67c99ec88b7097e
+files toolkit/components/thumbnails/BackgroundPageThumbs.jsm
+patch 330,404,

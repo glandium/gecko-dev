@@ -1,0 +1,5 @@
+changeset d70846fc23060425046e9fe48f24830dde9bdb90
+manifest afeeeb63a0939ff0d2433a3d337a32b87ab5728f
+extra rebase_source:6dd8b3e820d532a1512bb87e9480845e3ff099bb
+files testing/talos/talos/xtalos/etlparser.py
+patch 593,667,

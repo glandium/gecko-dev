@@ -1,0 +1,5 @@
+changeset ed94dc665071d8d510688ff50bbedad2c7cb33ee
+manifest 8c7b98f61d4845dec19bfd3f9eda197e78d4fb4d
+extra amend_source:bb672cc445179372bb07c05ebf98d15d97139f37
+files devtools/client/shared/vendor/stringvalidator/tests/unit/test_validators.js
+patch 359,432,

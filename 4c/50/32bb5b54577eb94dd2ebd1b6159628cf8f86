@@ -1,0 +1,5 @@
+changeset 726096220356633751136e66c456c4e97b24e1a3
+manifest 68b222e24fa976a7a4f59c90d1b88c295e218c89
+extra rebase_source:30fceb0a393c767a839a554135143c1f235c0121
+files devtools/client/shared/test/browser_html_tooltip_xul-wrapper.js
+patch 337,411,

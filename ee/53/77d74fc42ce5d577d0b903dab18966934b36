@@ -1,0 +1,5 @@
+changeset 678417cd76f48563d6233800e6973a2a7f4d6f9b
+manifest 7b9fd740e78a03a811be47e24ce3c5b96a9cb2ba
+extra moz-landing-system:lando
+files testing/web-platform/meta/html/semantics/interactive-elements/the-dialog-element/dialog-showModal.html.ini
+patch 366,410,

@@ -1,0 +1,5 @@
+changeset d7d3b47d3a775c7fa45d5e0c3a6eba850cc394e8
+manifest 952e518349a268cfe531a8af0dda8ce8f579bdef
+extra moz-landing-system:lando
+files js/src/gdb/mozilla/ExecutableAllocator.py
+patch 483,527,

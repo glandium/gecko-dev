@@ -1,0 +1,5 @@
+changeset ca19ff7f1891dd8a29300d145747d77d6efdd505
+manifest a583bcf8a68eeb32b6a910b258f1c859385f8286
+extra rebase_source:30dfaa452cbd15cfc0b143556f3e031ca93aed91
+files taskcluster/ci/push-apk/kind.yml
+patch 247,321,

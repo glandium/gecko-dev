@@ -1,0 +1,5 @@
+changeset 92b3336f6941f4f75ca1b92366af814596d1ac1c
+manifest 0ff231989e6bddee50834da8860643c56ba49ce2
+extra rebase_source:ee5d1f4bf6ef4d0d2e0a694988beeea88beddd80
+files dom/plugins/ipc/hangui/MiniShmBase.h
+patch 309,383,

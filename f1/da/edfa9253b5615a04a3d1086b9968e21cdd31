@@ -1,0 +1,5 @@
+changeset d77fd67f3722aeb14c7545fedbbd867b24c6493c
+manifest b11eb3a43abbde8ac6360324fb497f072c6b269f
+extra rebase_source:bb2d043215be9e2493ddd5dff452999dd95d1db2
+files toolkit/components/places/Bookmarks.jsm
+patch 359,433,

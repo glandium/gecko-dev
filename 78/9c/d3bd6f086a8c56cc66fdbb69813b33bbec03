@@ -1,0 +1,5 @@
+changeset 5eac7178cb0a4ffd965cc999928a9302ca377f69
+manifest cd651d63a1828d5bad94835c53604307dd62119f
+extra amend_source:95eb9f67cd6308cb9be6be2b6f520a7d20fb2516
+files dom/webauthn/u2f-hid-rs/src/statemachine.rs
+patch 400,473,

@@ -1,0 +1,5 @@
+changeset 14fcdf7cc92060c1b1c9fd2b581b4857252c1fd6
+manifest 09009c7c2534fbf7bff8e818db8a95245367a911
+extra rebase_source:c73a908eca1cbb0e83bc197fafe3ad947cde0e3b
+files gfx/thebes/gfxAndroidPlatform.cpp
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset 9fc3ea5161d685292e6ee17602aee5b159338222
+manifest c818fcbebc7e785b690e2bd4c11ed88546a09b56
+extra rebase_source:d958cf378ac55ee69873565be241f6eac3d0a9d4
+files devtools/client/shared/components/tabs/TabBar.js
+patch 303,377,

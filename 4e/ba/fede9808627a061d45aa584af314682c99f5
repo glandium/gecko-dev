@@ -1,0 +1,5 @@
+changeset d001895822cde6beb0d4c9de120abec43a6d50c4
+manifest 78a93bbd08b9533d0eadea2ca53b7a1d84f1320d
+extra rebase_source:f2db143467752b3ff0c6eaf05a1991c064470a20
+files browser/modules/Sanitizer.jsm
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset ef75b7ebedc350f8f213d7e1298f1bef35f8bf33
+manifest f17e0eadc7e5da083c660cd5b0e4c51b80076331
+extra rebase_source:5289f5664c9278ad4b9239a7830442eda8bd3551
+files services/common/kinto-storage-adapter.js
+patch 297,371,

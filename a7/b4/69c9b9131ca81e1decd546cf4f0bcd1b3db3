@@ -1,0 +1,5 @@
+changeset 7a531716e0734650ce0d5603afd76275724b1116
+manifest 183f1e6294006ff02ddfb85b58891a895f576954
+extra moz-landing-system:lando
+files browser/app/macbuild/Contents/Info.plist.in
+patch 609,653,

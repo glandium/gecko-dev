@@ -1,0 +1,5 @@
+changeset 41875a1f3b59f0e1f71713d30b36fae8e5ac4315
+manifest 8520aa1eda62b2304a53b4dd977410118a174999
+extra moz-landing-system:lando
+files devtools/client/themes/tooltips.css
+patch 406,450,

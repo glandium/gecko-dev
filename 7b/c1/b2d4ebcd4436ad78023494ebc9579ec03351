@@ -1,0 +1,5 @@
+changeset e2a784d8fb27e5c73b7f90cb793d71ceba11993d
+manifest 69f551e3eda882c234b3f5e5a07f707876169877
+extra rebase_source:e08477640d7c2d2f5731e7f091b9f97f3af398e9
+files devtools/shim/devtools-startup.js
+patch 313,387,

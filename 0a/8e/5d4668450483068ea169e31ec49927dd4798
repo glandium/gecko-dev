@@ -1,0 +1,5 @@
+changeset d0054c7c0ed9abd6182f9369fbd64c4bd48a2f04
+manifest 77e2e2662bf2d53e4fee2746a4acbb3adf0f4233
+extra moz-landing-system:lando
+files browser/themes/shared/sidebar.inc.css
+patch 457,501,

@@ -1,0 +1,5 @@
+changeset 5f6fb7f92a7cf07c18a02c0f3ca12d65d8a40bcd
+manifest fed86a7f21f51bb6a5a2695881baacc85c32e6b3
+extra amend_source:4c68fb1a967a7c1b64e9779851573eb29a412908
+files testing/web-platform/meta/dom/events/EventTarget-constructible.any.js.ini
+patch 298,371,

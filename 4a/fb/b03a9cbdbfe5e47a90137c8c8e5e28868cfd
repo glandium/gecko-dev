@@ -1,0 +1,5 @@
+changeset 5c4f55cfabb4fac471a95c0f259114754e4158f8
+manifest 049f3319dc235b2fcf21e2c34c862fb31bde9b68
+extra rebase_source:b32b14c180d94082ae8ecdb6195daa6f44f40209
+files devtools/server/actors/inspector/document-walker.js
+patch 338,412,

@@ -1,0 +1,5 @@
+changeset c385ff88725dd45405c7cd52feb4ed6604946a1c
+manifest a317cb39d8e6e91081a4ae10135c6f4dee21f159
+extra source:967422f569ae46db24ff1b5af41bc8e51de36219
+files toolkit/crashreporter/client/crashreporter.cpp
+patch 338,405,

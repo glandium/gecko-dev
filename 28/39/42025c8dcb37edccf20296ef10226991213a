@@ -1,0 +1,5 @@
+changeset ebecf0ff75be43dba0daa045704e537542d6bc2b
+manifest b068a431e97ddc27096d822e10681efa3cee7e8e
+extra rebase_source:9913c46ebc885ee2de815811bfcb6a39a88f0d71
+files uriloader/exthandler/win/nsOSHelperAppService.cpp
+patch 346,420,

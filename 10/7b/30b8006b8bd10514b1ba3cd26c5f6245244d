@@ -1,0 +1,5 @@
+changeset 367f82686e4d4fc2c91f153b493221160772f4a5
+manifest 1e819e703e1e2d5ce02c8c2db5d4d28649b884b3
+extra rebase_source:0d8ec2491772a0bc2710e1aa9b4adbff57958261
+files dom/media/AudioSegment.h
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset 89cfe2dc3cda1553d2e3556a02132cf872ead2c0
+manifest 622840e847b3171027913cf8c95ac4d0fcb5c586
+extra rebase_source:bcd71b96778a3bbcc141513c9e5b0213accf8705
+files browser/modules/WindowsJumpLists.jsm
+patch 541,615,

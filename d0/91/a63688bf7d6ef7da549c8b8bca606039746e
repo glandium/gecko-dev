@@ -1,0 +1,5 @@
+changeset a9b82d8f9001249c64c13e740a7f7622a7fe5572
+manifest 00cd1a969c5e99e9a70a07508b7ca329882dc447
+extra moz-landing-system:lando
+files browser/extensions/formautofill/test/browser/browser_autocomplete_marked_detached_tab.js
+patch 388,432,

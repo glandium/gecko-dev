@@ -1,0 +1,5 @@
+changeset b724283e3b3129bfe76b5837975dc084cdaaad71
+manifest 5f35367067bde8b2476de9c24994e71731b1285e
+extra source:e8573b1243ee7188d71cd5c22f8b71ef6991f86e
+files gfx/angle/src/libANGLE/moz.build
+patch 270,337,

@@ -1,0 +1,5 @@
+changeset 178da21590bb488edcc696d6131d6c399698d6be
+manifest 0d5128a715c1c1b1969540b69ef76a502c5b955e
+extra source:d601a7f3f97f91d8bad0948e43e083a1926abab1
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/NativePanZoomController.java
+patch 364,431,

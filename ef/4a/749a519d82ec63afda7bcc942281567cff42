@@ -1,0 +1,5 @@
+changeset 43bcbb69db2123e46600f7fa93842f87b70c977a
+manifest 18a1de70f097d9c2985a9e92a6d36dccb54cf90c
+extra source:17ed43c1c76bb9ccf7c274370bed9ce1bce8d0cf
+files browser/extensions/activity-stream/lib/SnippetsFeed.jsm
+patch 315,382,

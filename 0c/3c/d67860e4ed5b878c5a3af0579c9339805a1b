@@ -1,0 +1,5 @@
+changeset 974ec8fa169bfc75ba2128e9407b4619b4bd4f7b
+manifest eba409aceb67e644dbf43aefeeca4716f560586a
+extra rebase_source:dc8e306aa703d4712958b87aad35069d0a6b0007
+files addon-sdk/source/lib/sdk/ui/button/view.js
+patch 303,377,

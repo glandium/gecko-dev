@@ -1,0 +1,4 @@
+changeset 26052518754c2f45bb4f6d2ebf3c6b7a162807cc
+manifest 0d777a0bf8df817bf28dde460432ef6bcfd87882
+files js/src/jit/arm64/Trampoline-arm64.cpp
+patch 229,230,

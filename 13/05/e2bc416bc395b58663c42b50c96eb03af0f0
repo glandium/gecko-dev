@@ -1,0 +1,5 @@
+changeset 8fd83a79a594383e7a3bdf9c7c74a9262e97ee9a
+manifest 6d7c3734e5c17a7e731160a46dc01fafe125436b
+extra moz-landing-system:lando
+files dom/svg/SVGContentUtils.cpp
+patch 975,1019,

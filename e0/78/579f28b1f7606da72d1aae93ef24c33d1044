@@ -1,0 +1,4 @@
+changeset 6bd59f56784388f46bb52a5736a469ce316eef38
+manifest 1f1cd1471a15bcb4863694638e499b1ae4883bf0
+files services/sync/tests/unit/test_bookmark_legacy_microsummaries_support.js
+patch 213,214,

@@ -1,0 +1,5 @@
+changeset 1cbd18a18186c77fec91e0f7275301bc271c040a
+manifest 264e8c62f7ff0c67393485b61790f86766ea75f8
+extra rebase_source:b29443c55dad849d115a19f0f2a76616494c310f
+files testing/web-platform/meta/web-animations/animation-model/animation-types/accumulation-per-property.html.ini
+patch 404,478,

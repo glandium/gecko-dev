@@ -1,0 +1,5 @@
+changeset 1587cf2e6998102aa056c4939645963f595d989c
+manifest 3b0e1cb6ab2e931d1ebff7e63c3c85a0351f192b
+extra moz-landing-system:lando
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/FennecNativeDriver.java
+patch 578,622,

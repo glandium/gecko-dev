@@ -1,0 +1,5 @@
+changeset 5fbd2b93cd79267f4ca2be404447c6c32c54b81a
+manifest 6e435ed5f3ff17bbfc9e0d09ad2889bf0a608df9
+extra rebase_source:719ba8a54c22c09164c7027f178118a2222d609e
+files mobile/android/chrome/content/browser.js
+patch 259,333,

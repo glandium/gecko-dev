@@ -1,0 +1,5 @@
+changeset b473e348c16dce58e340be28203d8e79f4562745
+manifest 2dce0ee2078f4ab0e4f069664e67cfb1c2a37b3a
+extra rebase_source:ac2cbb991cd32cb9961bbc62e995c9c46c124bc5
+files toolkit/components/telemetry/tests/unit/head.js
+patch 293,367,

@@ -1,0 +1,5 @@
+changeset f677f6052b9f03e1b1545580b9c852317825a85c
+manifest 4a6712f3b74684c2c929c66a4069b04565b99749
+extra source:5a49f28a2a6af0ebd47fb927ec74228e559a4438
+files devtools/client/jsonview/main.js
+patch 253,320,

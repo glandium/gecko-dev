@@ -1,0 +1,5 @@
+changeset 109c6162b9c2ad32611016fa680077e0e1dcbb7c
+manifest 1e528562f4a99899bd086d24b28615ae25bf7f46
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/TextInputDelegateTest.kt
+patch 479,523,

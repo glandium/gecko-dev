@@ -1,0 +1,5 @@
+changeset 0032dbb192845302676a49e6decc4fea0948e24a
+manifest b0774b0e5a7747065c7cda7754e97f5d9987c53e
+extra rebase_source:e95c517ec62a28282bca305ffeb72d8d4724004e
+files dom/webidl/CanvasRenderingContext2D.webidl
+patch 292,366,

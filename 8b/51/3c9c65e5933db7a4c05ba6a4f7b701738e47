@@ -1,0 +1,5 @@
+changeset 47d05846b2c1459afec5c222b2328f2b0c4f6a0b
+manifest 57cf1fd983609d9267db13cfe2dd5a8914188d22
+extra source:353a5c7a0bb3e975a299a340692a79342a87adcb
+files devtools/client/shared/widgets/Chart.js
+patch 381,448,

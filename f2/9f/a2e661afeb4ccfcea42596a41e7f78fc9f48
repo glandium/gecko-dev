@@ -1,0 +1,5 @@
+changeset 638f326530b719ce386bb5d1701fed4ae4604690
+manifest bd094df897bc7e025c81557d915f107c6a6dc636
+extra rebase_source:bb8f25d66c2f5fbaec2f344b69bb42c0ef38b7d2
+files netwerk/base/nsFileStreams.cpp
+patch 277,351,

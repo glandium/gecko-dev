@@ -1,0 +1,5 @@
+changeset 8b01a2a2af4d10a54b1d2a322f88fb0e50fcafa8
+manifest d9594a5cf4dccbd21cf6219258982cf79b30d9d6
+extra rebase_source:9d12e228ea47b333e046fc1b1040daee3c332758
+files toolkit/components/places/nsFaviconService.h
+patch 296,370,

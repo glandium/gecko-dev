@@ -1,0 +1,5 @@
+changeset 21d459aa8ca8fcf4bf646d586d15db42660e53a3
+manifest 81bc1a18c2ecb17d29edeff0105ce1703f2f8084
+extra rebase_source:be93186c27bfe290fbaaf3dcd2915f26d93f1381
+files js/src/vm/CodeCoverage.cpp
+patch 920,994,

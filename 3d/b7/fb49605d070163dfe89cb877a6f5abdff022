@@ -1,0 +1,5 @@
+changeset a55f83bca4e4488a0db223c3fde0dced3a01466b
+manifest 04ccda77d89589775e850c18d0877b1e0a5880fd
+extra rebase_source:c7f6ca0264188116f86a6aa63fe0479ae992cf66
+files browser/base/content/test/general/browser_domFullscreen_fullscreenMode.js
+patch 333,407,

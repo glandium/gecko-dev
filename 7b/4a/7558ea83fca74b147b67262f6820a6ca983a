@@ -1,0 +1,5 @@
+changeset 7b163623e961117d5ba5bfccb837b5be1dbcb30d
+manifest 4fdd3c6153f395be0007516a55de5241d9c9477f
+extra source:f1238ac69cfd801abc49b7b0db7ef9a6ee48ecdd
+files devtools/client/jsonview/components/JsonPanel.js
+patch 227,294,

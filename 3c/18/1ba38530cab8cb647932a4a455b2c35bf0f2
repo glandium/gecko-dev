@@ -1,0 +1,5 @@
+changeset afc31a0d40fc4d0d215570891781211066fa8c5e
+manifest 6f48c9cb9a1f0c2db3d5e36367567e251e16f255
+extra rebase_source:55a1fbdbd0003ebce89db4f5e9c62cb1aea0d60a
+files dom/base/nsNodeInfoManager.h
+patch 327,401,

@@ -1,0 +1,5 @@
+changeset 7875d24ddb7aeecc495e12728db89621b4b68cd8
+manifest a2e7f4bc71daf47d736b8c5667635d66717c5b47
+extra rebase_source:da3f562539dbdf267def9095c816b16e12cb0589
+files addon-sdk/source/lib/sdk/ui/toolbar/view.js
+patch 274,348,

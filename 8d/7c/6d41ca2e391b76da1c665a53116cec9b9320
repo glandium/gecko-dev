@@ -1,0 +1,5 @@
+changeset d051864f170d2b5dc670aa8b2edfd9cab47c5665
+manifest 0a470c34fd913cb7546e22f268d2a2345134205c
+extra moz-landing-system:lando
+files devtools/shared/css/color.js
+patch 372,416,

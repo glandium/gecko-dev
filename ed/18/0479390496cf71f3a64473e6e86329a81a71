@@ -1,0 +1,5 @@
+changeset 4c79a5557d7b48f90dc46206d798b277ff8f1606
+manifest aa03fe0684de53d26bfcc3589b9346ba584562a1
+extra moz-landing-system:lando
+files js/public/ProfilingStack.h
+patch 3349,3393,

@@ -1,0 +1,5 @@
+changeset 11f8f004395cf383fdcead9f5faac52634541b2a
+manifest 5c5a5442183ee8284d9ab011f1ae21b8cf144543
+extra rebase_source:737481fb39355c456cf1bbf17b887e35d692c4df
+files xpcom/string/nsTSubstringTuple.h
+patch 463,537,

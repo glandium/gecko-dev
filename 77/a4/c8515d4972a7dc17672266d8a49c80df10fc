@@ -1,0 +1,5 @@
+changeset b7873993686ffeb10a68d7a7bcedae6ec9b21040
+manifest 3f7c95201f9e43ad6a64adc39a0c456ca6e4eb21
+extra rebase_source:cc224240c4f7264ce946faed054f35019e559607
+files xpcom/components/Module.h
+patch 320,394,

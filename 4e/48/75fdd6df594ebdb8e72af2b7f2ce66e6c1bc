@@ -1,0 +1,5 @@
+changeset e846d4b1012d958c701b535d89911f3ac019d78b
+manifest 2111efa687fbcaa626b88fdcfa0241a0edc995d8
+extra moz-landing-system:lando
+files browser/extensions/pocket/content/main.js
+patch 495,539,

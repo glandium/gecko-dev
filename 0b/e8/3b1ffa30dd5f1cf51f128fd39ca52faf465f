@@ -1,0 +1,5 @@
+changeset cfdc0001c91b96a488d9cd6b54ee28dfcf870347
+manifest 69cab8bb60924457ee987a105fca0847dbf04d68
+extra rebase_source:25658d2dcda19f7db0d3df57492d7175833e90e2
+files dom/events/DataTransferItemList.cpp
+patch 542,616,

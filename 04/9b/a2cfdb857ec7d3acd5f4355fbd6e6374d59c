@@ -1,0 +1,5 @@
+changeset 97f0052a4bf942cefef28b1c90e7889e7af432be
+manifest ecccf793bcc83e590da8fcf7bcb6ff0dec581470
+extra rebase_source:d325fe3885ab8e7ff0c06cc9624623e49cbeb685
+files testing/talos/talos/talos-powers/components/TalosPowersService.js
+patch 314,388,

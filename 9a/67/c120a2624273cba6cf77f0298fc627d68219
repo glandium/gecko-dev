@@ -1,0 +1,5 @@
+changeset 4be42c91eaa26c699a2aac9f4bc41213490051c1
+manifest f7fbb8044763c8a39d05405dc93ea07c7401c347
+extra rebase_source:c4088a7f2787eb2b22913e2fa2edb3d925eee26d
+files devtools/client/shared/widgets/MdnDocsWidget.js
+patch 327,401,

@@ -1,0 +1,5 @@
+changeset c748e16d9ec7918ee2877a1986b058cf5aa98b86
+manifest 9afbeafa96dda59b2e91cd36c769d3c4057fa41d
+extra source:41b7e94d14fc3a91c96f67eb5e770eff599bc32c
+files browser/base/content/test/webrtc/browser_devices_get_user_media_unprompted_access_tear_off_tab.js
+patch 402,469,

@@ -1,0 +1,5 @@
+changeset 4fb8cbcedcb130e9f6126c7c222855191dc45150
+manifest 020bfd66052a8bc164c269350be298e1748e7fd2
+extra moz-landing-system:lando
+files js/src/gdb/mozilla/JSString.py
+patch 394,438,

@@ -1,0 +1,5 @@
+changeset 2e4452df31d638985001179030bacb1b4b064c75
+manifest dca444b32b13f6a023504ce5ea5020be413af15f
+extra histedit_source:5449701e1bebec0a1ee036ec18826e897b167c10
+files taskcluster/taskgraph/util/scriptworker.py
+patch 275,351,

@@ -1,0 +1,5 @@
+changeset 2e5b99d12a6daf88e4fffa8f80efb7b874f18379
+manifest 578fcd3ca05797d3bef2f3dcb9a486aa4944095a
+extra moz-landing-system:lando
+files toolkit/components/extensions/parent/ext-clipboard.js
+patch 337,381,

@@ -1,0 +1,5 @@
+changeset e82e444a853a8f3ea5315614ed33b90764e0edc4
+manifest adc6d8c723ac7e5408fe6509fdd5287a3e384cf0
+extra source:1bda868b03a366e0d7122a053477e2090bc789cf
+files taskcluster/ci/test/test-platforms.yml
+patch 644,711,

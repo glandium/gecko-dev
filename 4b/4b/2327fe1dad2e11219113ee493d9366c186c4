@@ -1,0 +1,5 @@
+changeset 1278f30584f6b477ac73744e8e056ee3761727be
+manifest f8ec62a4e964c7e45e9af8a74df42cbba7c0a8df
+extra moz-landing-system:lando
+files browser/components/customizableui/PanelMultiView.jsm
+patch 407,451,

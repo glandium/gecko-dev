@@ -1,0 +1,5 @@
+changeset 084db32e36cdbb972ff5282336f619f6142311a0
+manifest f96e7b57d1e8829a584354f1575421a0d97922c7
+extra rebase_source:2cd2ba1233cdbb875dffa3c4d35d60001b0c6fe4
+files browser/components/feeds/nsFeedSniffer.cpp
+patch 295,369,

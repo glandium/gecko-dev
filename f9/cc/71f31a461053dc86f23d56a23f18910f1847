@@ -1,0 +1,5 @@
+changeset eb673eb63998419a27b3bd1ba1ead82ce43880f9
+manifest 94e6efee457ea8e90c9d195df8d25f9fbe3f5503
+extra moz-landing-system:lando
+files dom/animation/EffectCompositor.cpp
+patch 356,400,

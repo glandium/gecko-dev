@@ -1,0 +1,5 @@
+changeset 1816f74764fe159c6b875f520036c075624aa092
+manifest 766b61804aa70daa4c56fa35a3dbc47ec169d191
+extra source:698ab4eff5bf1efb1af8ea74e0a8f4f2f906e5ae
+files netwerk/base/nsInputStreamPump.cpp
+patch 302,369,

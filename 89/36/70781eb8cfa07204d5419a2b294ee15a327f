@@ -1,0 +1,4 @@
+changeset 7f387e81a4a055d39f30913dc9995107b5e0925b
+manifest 0be12b1c11cfd95e85711d9faef959500b3b3891
+files taskcluster/docker/funsize-update-generator/requirements.txt
+patch 255,256,

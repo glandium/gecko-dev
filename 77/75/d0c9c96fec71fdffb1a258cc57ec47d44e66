@@ -1,0 +1,5 @@
+changeset 8214e23b4408bd918ab0a5ebdf40aebc9786eb64
+manifest 821f24cf2624de792521d6f51af678cb92fdbe4a
+extra moz-landing-system:lando
+files intl/locale/LocaleService.cpp
+patch 294,338,

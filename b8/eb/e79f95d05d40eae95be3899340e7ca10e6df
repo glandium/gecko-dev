@@ -1,0 +1,5 @@
+changeset a684fee00172988f384f79f74814ff9fcbc8069e
+manifest 0804fdc903d1c6fe73d32ab04c3928df87c9ffa5
+extra rebase_source:07e7905c2f23fe4851bae61d00732fdf95fb8c6a
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/BaseTest.java
+patch 323,397,

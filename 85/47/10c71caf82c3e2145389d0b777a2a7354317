@@ -1,0 +1,5 @@
+changeset 637d3f09f285e4631ee4a94e41524a94d3d04a11
+manifest 28a531a0bd4faddcee15ec53f1399a55d4da1d4c
+extra source:cfe4b63ed4f7486877d268e1d78325c11e0eaa2a
+files media/webrtc/signaling/src/media-conduit/VideoConduit.cpp
+patch 290,357,

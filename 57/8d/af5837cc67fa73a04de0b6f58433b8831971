@@ -1,0 +1,5 @@
+changeset 783d4757566b461b718588a0b96a8ed016905595
+manifest 7ebcfbc87eb08cee887fb05073a1fc7070deff4c
+extra moz-landing-system:lando
+files js/src/jit/MacroAssembler.h
+patch 275,319,

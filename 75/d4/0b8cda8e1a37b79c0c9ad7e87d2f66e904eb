@@ -1,0 +1,5 @@
+changeset 4f321d1ee0fd863367672831cb484e7677e72274
+manifest 8b47485351de888a24daa11eec942d2f40c29ad1
+extra rebase_source:fd9f9ab18ddf2c20dde8f516718b63a223212017
+files browser/extensions/webcompat-reporter/bootstrap.js
+patch 311,385,

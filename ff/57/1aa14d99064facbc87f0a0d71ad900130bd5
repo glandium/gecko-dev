@@ -1,0 +1,5 @@
+changeset 5a51a9ef81495ae079fca69fa1ed365f3c204910
+manifest 878f430b7894e27ed64b105bdaf01b23a835688f
+extra source:9c6ee0bd191b7ff7195870b0674d4574b2851b9f
+files js/src/jit/IonBuilder.cpp
+patch 279,346,

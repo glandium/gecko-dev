@@ -1,0 +1,5 @@
+changeset 47d60f29b7cf1fc42621d1f68af36aa1e4e6901c
+manifest f7817b4dc544c482642549281870868d99859ebf
+extra rebase_source:31f60462bfdda50dade44ea9fd9a96bb28e40ca4
+files js/src/vm/JSFunction-inl.h
+patch 296,370,

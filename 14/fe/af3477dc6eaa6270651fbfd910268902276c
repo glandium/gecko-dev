@@ -1,0 +1,5 @@
+changeset ffa3422ee9e2b7075ffbc421f6fa311e25a7994d
+manifest 96b412d3829b9f9e712e2507d317008fffc52a80
+extra rebase_source:a2906eb296975ca689c2c3a019c33062ba17b0f2
+files tools/profiler/core/ProfileBufferEntry.cpp
+patch 526,600,

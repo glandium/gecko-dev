@@ -1,0 +1,5 @@
+changeset 8f6281311d0ba6328cf6db0c1d6d300e7cd44ac5
+manifest 997c026dfa3d84ed311ca82f75e9a2ad83673eba
+extra amend_source:6f9abc41e3ea984c03622d54551ead139a09c7b9
+files toolkit/components/extensions/test/mochitest/test_same_site_cookies_webextension.html
+patch 367,440,

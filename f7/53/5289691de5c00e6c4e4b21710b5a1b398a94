@@ -1,0 +1,5 @@
+changeset b29057e11bc0b8b0a4264d78d69fb584721ef9c5
+manifest 689d69a5b679b0f85efb71db2e951b3ed7de938d
+extra rebase_source:99a830d7deeaa2f8de2692578590d1da8a4241ff
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoNetworkManager.java
+patch 378,452,

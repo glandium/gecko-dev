@@ -1,0 +1,5 @@
+changeset 694ef5b65db8c5e3570e6e1a9bee47608b4d3ba9
+manifest 7d7b5ee1a690a41b4f590bd219ac9ef4851c6b4b
+extra source:741ded5432288db8ea024097cd3e597ddde895fa
+files widget/windows/nsWindow.cpp
+patch 618,685,

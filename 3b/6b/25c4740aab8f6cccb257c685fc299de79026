@@ -1,0 +1,5 @@
+changeset 052c43ad2c91d77428cac9f74e694502a13e3d91
+manifest 97d76d7be959f0934067e67f2dc775b389c9d66a
+extra rebase_source:7c41e153b72fa2925c615e30bf6b6f6692368c10
+files devtools/client/jsonview/converter-observer.js
+patch 324,398,

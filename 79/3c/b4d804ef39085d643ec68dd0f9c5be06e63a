@@ -1,0 +1,5 @@
+changeset 8e54d2f48d4f2a0b50c0fa58642328b898c63518
+manifest e2f2aa349c43f55aacf6355fc5d052606540660e
+extra source:da258499b3878d109f5bb5efdcc18ad83cef3a72
+files testing/web-platform/tests/payment-request/interfaces.https.html
+patch 320,387,

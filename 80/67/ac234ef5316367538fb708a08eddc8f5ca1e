@@ -1,0 +1,5 @@
+changeset 9d46d003fec8a4bbbd3ee04a468f23a09aa9abc1
+manifest 8e24fa1078e607876cd6206b9c1998d22cbf35bf
+extra rebase_source:b7f63bf49034c398d7c3a0f6d6e5f49fe0fd3ec2
+files devtools/client/inspector/shared/utils.js
+patch 402,476,

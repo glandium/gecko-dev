@@ -1,0 +1,5 @@
+changeset dc032a9e74565e6c7222191575e80eb937638a02
+manifest 4488c1928c16d73000c01bea15f4dd2e1de14f30
+extra rebase_source:b4064b3b61f27af4fceec431f5ea13c8d3927f3f
+files toolkit/components/filewatcher/NativeFileWatcherWin.cpp
+patch 410,484,

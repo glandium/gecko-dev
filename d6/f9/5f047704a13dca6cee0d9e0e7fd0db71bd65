@@ -1,0 +1,5 @@
+changeset 5aa8102a8c5a9f0d87579c7eada4671ab94c1e72
+manifest ed999211df879b6f16d54134dbc291ebc7654864
+extra amend_source:6690895a6d265a285e86112f49aa398d0499b2f5
+files taskcluster/docker/firefox-snap/fetch_macaroons.sh
+patch 298,371,

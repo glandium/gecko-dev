@@ -1,0 +1,5 @@
+changeset a8d4a90124562be5adad841cd5fbbca834185f9a
+manifest 90304c6dd5d0fce55477f0f9efda40e91a9a1dcb
+extra moz-landing-system:lando
+files tools/profiler/core/platform.cpp
+patch 326,370,

@@ -1,0 +1,5 @@
+changeset 377ca1419f1aca2b43fbdfe83023c25c2f671ca0
+manifest 154737a3b164b15824def8d77566fe3959397487
+extra rebase_source:69d288802329acf9d422177ede74a37612a75727
+files build/gecko_templates.mozbuild
+patch 283,357,

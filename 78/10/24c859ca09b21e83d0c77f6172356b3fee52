@@ -1,0 +1,5 @@
+changeset b75e728dd2ab83bb8d8239807e3349d3267b9807
+manifest b163087d62bc96ec2cea500d07a5d14d779dc0e6
+extra moz-landing-system:lando
+files browser/config/mozconfigs/macosx64/devedition
+patch 297,341,

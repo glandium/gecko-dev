@@ -1,0 +1,5 @@
+changeset 36c4c80ddc1a12665af8cbcaef716e384caab99e
+manifest 6750e62e3f450f0d6788f04ceda1f72ace9e715b
+extra moz-landing-system:lando
+files testing/web-platform/tests/tools/wptrunner/wptrunner/browsers/firefox.py
+patch 852,896,

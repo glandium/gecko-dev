@@ -1,0 +1,5 @@
+changeset 4caf4cf4cf374868e722b7e02d8c8c9cc759c8ad
+manifest 39a84f669deedc93dfb5f40bc618c5e50525c352
+extra rebase_source:963eca07939e5f0ce808f72262bc8f2dbe353f18
+files browser/base/content/browser-siteIdentity.js
+patch 461,535,

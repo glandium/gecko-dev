@@ -1,0 +1,5 @@
+changeset 0ed0593535e0d6fe78550c0e9f5520e79a164a4f
+manifest 105464c9c0b88bd81499648d7253c2f947eef12b
+extra rebase_source:50156c6dda5601a6437f94a753400ec4ed9c8343
+files mozglue/build/replace_malloc.mk
+patch 708,782,

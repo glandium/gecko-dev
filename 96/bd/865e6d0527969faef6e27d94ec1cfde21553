@@ -1,0 +1,5 @@
+changeset 89f4156c07a5ab35fd1d9a97354341bee9d11e2a
+manifest d3317dd8e302655ca6b9e9ed2ac34310f9f2b940
+extra moz-landing-system:lando
+files widget/gtk/nsClipboard.cpp
+patch 504,548,

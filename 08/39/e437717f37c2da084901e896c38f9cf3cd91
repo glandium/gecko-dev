@@ -1,0 +1,5 @@
+changeset 0ee6a0e96ae92d929285d87961987b73e245a248
+manifest 65b1313c5b82eb85a8e16ad63a670eeeb3b43009
+extra rebase_source:6ac59c5c96b5fb5ddbbe8c60af3a203d02ea9883
+files taskcluster/ci/upload-symbols/kind.yml
+patch 462,536,

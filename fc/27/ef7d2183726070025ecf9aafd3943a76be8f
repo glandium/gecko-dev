@@ -1,0 +1,5 @@
+changeset 3039d8099e943afeb74d056101599b74633b5caf
+manifest 70d4c17eed7fca050ea487dcb73073984b68deb4
+extra source:980f4e0f6dab8ca825d3f34a644dc6db7f37a3f5
+files parser/html/nsHtml5Parser.cpp
+patch 319,386,

@@ -1,0 +1,5 @@
+changeset 81769de2a84960e0ba8b6b432e66d37d9ceab37e
+manifest 08765d9794e095b9d009c50a5d908743173bb187
+extra rebase_source:4f483607884354b9445004529561188522fc0587
+files toolkit/mozapps/extensions/internal/E10SAddonsRollout.jsm
+patch 319,393,

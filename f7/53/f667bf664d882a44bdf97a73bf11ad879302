@@ -1,0 +1,5 @@
+changeset 86e67789dfa793bc51da46ce5eb1dfbe8611cdae
+manifest 6d959b492cc6c6d953eee7352478c59e2c8e1bfd
+extra source:9064f0a3fb629fe5974cd2edd98d8803e28d5a02
+files gfx/skia/skia/src/shaders/SkImageShader.cpp
+patch 273,340,

@@ -1,0 +1,5 @@
+changeset acc39e04d4f0559b796916d5f54a36673708766a
+manifest 134bca9c9cb607a457d98a29087d28416509a902
+extra rebase_source:67bb473d07638f261610c156ef61f38c8d8e38e1
+files browser/components/extensions/test/browser/browser_ext_webNavigation_onCreatedNavigationTarget_window_open.js
+patch 391,465,

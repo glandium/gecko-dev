@@ -1,0 +1,5 @@
+changeset 485647b7e8060ea1005317c790ffa145cd0a24c2
+manifest 3243228924a52acf086940ed144eb515497b6ca7
+extra rebase_source:83aff805bd08c820a9b79aea8ba418c226b32c79
+files mobile/android/components/ContentPermissionPrompt.js
+patch 397,471,

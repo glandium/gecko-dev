@@ -1,0 +1,5 @@
+changeset 28c949ebb06a9190bf00b6b49eaa355a67d43d53
+manifest 1f44d6badb94d62614180e1ec0fbcf04630c8981
+extra moz-landing-system:lando
+files servo/components/style/properties/longhands/box.mako.rs
+patch 312,356,

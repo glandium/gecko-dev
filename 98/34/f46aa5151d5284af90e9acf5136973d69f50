@@ -1,0 +1,5 @@
+changeset 44acbe6acc81f1fac6d52aa94bc1aec9ef1978cd
+manifest 15b42ccad48734a30fe8fc7275cd67a9e73b8d9b
+extra source:d83907ea33abff72b189ad08d055494b6e7866e1
+files browser/extensions/e10srollout/bootstrap.js
+patch 264,331,

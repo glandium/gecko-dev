@@ -1,0 +1,5 @@
+changeset 36f65870a49fabbd0b1ee8d30ca182e68e8b43c0
+manifest 229537764539ea549621bedaad9fd08f298338db
+extra rebase_source:4c44fc79f5d0c4fd34f77c8c14e0888186e2a4f0
+files xpcom/ds/nsIAtom.idl
+patch 262,336,

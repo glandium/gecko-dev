@@ -1,0 +1,5 @@
+changeset f22a918616f8457e25115c54e3517fc18265d8e2
+manifest ce6e3a45de16ca4bf4fc8c8d6c970ac96362aab9
+extra rebase_source:e44a2ce0ed4d02c449664d9b390bb2350fc461ad
+files mobile/android/app/src/photon/res/values/styles.xml
+patch 318,392,

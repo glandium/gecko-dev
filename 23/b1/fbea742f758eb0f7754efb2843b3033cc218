@@ -1,0 +1,5 @@
+changeset 5093b6067a2014ffadef2b3f70fdd3c7d71e6b1a
+manifest d5b79c1f5ed16c8ddbed25e5f6cf94094a103d77
+extra rebase_source:dbdcec159ccf5e4086e710efba882a62877d05f5
+files toolkit/components/extensions/test/xpcshell/test_ext_contextual_identities.js
+patch 335,409,

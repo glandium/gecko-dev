@@ -1,0 +1,5 @@
+changeset f821729d5809661b787ec7c09a95a3639e0d06a9
+manifest ecb5389c9da5da4561b30242bfebd031be077708
+extra rebase_source:afc48dfc7561a1b30a3206bc0df67b67fad22435
+files mobile/android/app/src/main/res/layout/firstrun_basepanel_checkable_fragment.xml
+patch 317,391,

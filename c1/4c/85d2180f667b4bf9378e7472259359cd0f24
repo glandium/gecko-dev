@@ -1,0 +1,5 @@
+changeset 239d24b07fe503146016d86f627da3be7809b05f
+manifest 7ccce1f73c001e698bf8dfdcb04e2159c0976062
+extra rebase_source:a304e15a99f621a41ea5d32c1974542a956e4d3f
+files dom/base/nsContentUtils.h
+patch 364,438,

@@ -1,0 +1,5 @@
+changeset 98009da8586c5f600909dcb3b677984e97408119
+manifest b5bf9777eacec660bc28e8e63ac6ebb774e79343
+extra rebase_source:a8e65e3ff8328e7867812def7339a6374ac9c799
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabsLayoutItemView.java
+patch 331,405,

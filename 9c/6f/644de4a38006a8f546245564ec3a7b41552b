@@ -1,0 +1,5 @@
+changeset bcda392921ff6220f08754461e8290b2bd1c2509
+manifest c495a9063af49a4e2c21b32502baa4add6fa5dc4
+extra rebase_source:23e2489eed328bf0a08358c58c633d527d8a85c2
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/GeckoSessionSettings.java
+patch 437,511,

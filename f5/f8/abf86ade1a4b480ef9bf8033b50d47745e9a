@@ -1,0 +1,5 @@
+changeset 0dec1e86d314c086283c590c2db4d2758ac219d9
+manifest ead20eaff36077cae93ef1f5075862843ecad4c8
+extra rebase_source:ddbdf8c79f49ebb02c9e68dca0be4a6ee9ad11f4
+files mfbt/tests/TestVariant.cpp
+patch 303,377,

@@ -1,0 +1,5 @@
+changeset 56189c70cc8bccd927c71b09fcde036f61f3a726
+manifest 505379cf5f1644dce3318d0403919a3bf460d1f8
+extra moz-landing-system:lando
+files browser/base/content/test/general/browser_findbarClose.js
+patch 315,359,

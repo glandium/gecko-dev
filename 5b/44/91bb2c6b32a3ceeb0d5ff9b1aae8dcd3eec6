@@ -1,0 +1,5 @@
+changeset 0ca74eae6bebe1ddbc4f807e7b20d026a4c40779
+manifest b95b0b7715c045d01857c8b0553a0ee8d456a059
+extra rebase_source:a4eee06580519adf2233f535abfdf50ac8730a19
+files layout/generic/nsSelection.cpp
+patch 706,780,

@@ -1,0 +1,5 @@
+changeset 8dc5062c27111a47431263be1616433cb8270d32
+manifest 2a000855671ad6ae4746f905a5fac43ff4cb7ac3
+extra moz-landing-system:lando
+files toolkit/components/normandy/lib/ShieldPreferences.jsm
+patch 329,373,

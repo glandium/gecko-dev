@@ -1,0 +1,5 @@
+changeset f7a276a267cd292c512e9e8dfb6b14c6f5f9e0ee
+manifest 7389aa65b86ef7fad07ac38c01a2d130ff409867
+extra source:8a2f028e6943d68259be6e3082f07acd67c3b085
+files netwerk/base/ProxyAutoConfig.cpp
+patch 276,343,

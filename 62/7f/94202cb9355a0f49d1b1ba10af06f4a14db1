@@ -1,0 +1,5 @@
+changeset d4517cdd2d9d27edb875ad87a0aa5df0ead404dc
+manifest 0a307030aa23dedb2023983b4dc53530a8fad902
+extra rebase_source:e145dbbecb878d6447e9c1b69288564416a8b7d7
+files gfx/vr/VRThread.cpp
+patch 336,410,

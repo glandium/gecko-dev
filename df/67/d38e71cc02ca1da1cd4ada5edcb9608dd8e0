@@ -1,0 +1,5 @@
+changeset 74882421049068f3fd220a41187b45b885c67408
+manifest 9c261dcb8df499eae27ae2c99102fd52e0a6787e
+extra rebase_source:ec9ea0b79d1afd938f0ecf78d8a7e6543f3e4b93
+files browser/base/content/browser-fullZoom.js
+patch 296,370,

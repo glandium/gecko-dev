@@ -1,0 +1,5 @@
+changeset 42c4fe4f6b401316bee506a18eb7e9a11ac7532e
+manifest 361eba39b0ea0635553cbfa7b26d827210bf7d8e
+extra source:8411ec11c95e00c885d46c6b424438e18df4bf97
+files dom/system/nsDeviceSensors.cpp
+patch 284,351,

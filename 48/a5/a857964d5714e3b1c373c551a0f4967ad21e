@@ -1,0 +1,5 @@
+changeset b234ccaee69afb9abb5e1e176917d660b19e0e53
+manifest 7917eda52dbf9b8858bf8a622cfa93136e8f24aa
+extra rebase_source:5105fad71cd8b80bd6c7aa29a9c42fcb69671ecc
+files toolkit/components/mozprotocol/mozProtocolHandler.js
+patch 320,394,

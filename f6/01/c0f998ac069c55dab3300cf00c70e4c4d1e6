@@ -1,0 +1,5 @@
+changeset 1a3018f828002b511b693f0508cd90a62175acc8
+manifest 299ef445c1d8ea83331dd8a6cf870a0dc44819cf
+extra rebase_source:4b1d0bd8a662311fbf24844f091d8413a88c159c
+files toolkit/content/browser-child.js
+patch 295,369,

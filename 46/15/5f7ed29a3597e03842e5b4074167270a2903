@@ -1,0 +1,5 @@
+changeset bb7c6b3e49c79adb61ab85785e408b0e012b63bf
+manifest 8bfd3c20f25d74196841e456fd2b33c7359ba88f
+extra moz-landing-system:lando
+files browser/base/content/browser.xul
+patch 737,781,

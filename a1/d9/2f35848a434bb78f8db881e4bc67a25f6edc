@@ -1,0 +1,5 @@
+changeset a9fd0a6da9c15dc5cff8bea67c94dc6ca35e9152
+manifest 28025d33601315679a287ed85bbeaae918fe4a11
+extra moz-landing-system:lando
+files testing/web-platform/tests/web-animations/animation-model/animation-types/property-types.js
+patch 355,399,

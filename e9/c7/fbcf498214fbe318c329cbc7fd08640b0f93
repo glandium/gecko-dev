@@ -1,0 +1,5 @@
+changeset ba3a6bce2ba599268ffbe6221e8033054dc09310
+manifest ce292051b08727844fbc04325c5d4e5aa8221bb0
+extra rebase_source:2a42caebc2a80b4d634eb741bbc196a718379e22
+files xpcom/threads/LazyIdleThread.cpp
+patch 303,377,

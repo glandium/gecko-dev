@@ -1,0 +1,5 @@
+changeset 3a93dd337a0ebdd7b0e7e5bbe16c80529e99ae68
+manifest 8c6c4fe3f0ccdd525e7052b8dfeb73cd32e393de
+extra moz-landing-system:lando
+files browser/base/content/test/general/browser_bug767836_perwindowpb.js
+patch 391,435,

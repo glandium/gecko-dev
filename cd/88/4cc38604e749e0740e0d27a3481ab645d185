@@ -1,0 +1,5 @@
+changeset a15b3cd9ec97fe6166d612d08e75a9276b344323
+manifest f20105a2e0d16cd66f4635f07d2ffaa9841012e2
+extra rebase_source:beb7c78c15a941ec3b5de49c52d96dcec5c9c17d
+files browser/components/extensions/test/browser/browser_ext_search.js
+patch 255,329,

@@ -1,0 +1,5 @@
+changeset 68049206869794c62eeed0c56c72b30449ada6a7
+manifest d99917f32aa14788ca80527532126de973fc86b9
+extra rebase_source:386741b3de775c1eb61f406364180e222e9f3011
+files toolkit/components/telemetry/docs/data/update-ping.rst
+patch 410,484,

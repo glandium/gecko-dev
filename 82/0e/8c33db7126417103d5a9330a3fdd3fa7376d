@@ -1,0 +1,5 @@
+changeset bcbab8f89ee7a0e366c4f7d9a747fcec4d006a86
+manifest e1618446ab93b97bee926711afd7a4764b33d37c
+extra rebase_source:42360222fb3abc359d46180dc385c89a4c706cfb
+files mobile/android/base/java/org/mozilla/gecko/distribution/Distribution.java
+patch 336,410,

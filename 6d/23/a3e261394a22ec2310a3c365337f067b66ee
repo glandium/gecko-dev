@@ -1,0 +1,5 @@
+changeset 170e3ed76a389209e79b9f2200ece037950af813
+manifest a0e155272ff045cd7250b6bb3300cd34c2c59ef3
+extra rebase_source:b7d1dfd517eed88df35909c6e2f6785c60bb3301
+files toolkit/mozapps/preferences/fontbuilder.js
+patch 299,373,

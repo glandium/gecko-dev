@@ -1,0 +1,5 @@
+changeset aaaecd6d2062c44199f5294636b625664eecc134
+manifest d66ca5f88bb1837553ef3239acefe67e4b2bb330
+extra rebase_source:fd09814d31285b2a2cda334931812c75b0e3cc4b
+files devtools/client/performance-new/initializer.js
+patch 437,511,

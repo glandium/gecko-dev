@@ -1,0 +1,5 @@
+changeset 2b3e94b9d4fe3abeef4210df388d4b290f5a7380
+manifest 158a643def1d60ea2d79679e8a547f95a3918727
+extra rebase_source:92abf61b4e4638629c4cc0bbfd98dd7a60e7c68d
+files browser/base/content/test/popupNotifications/browser_popupNotification_keyboard.js
+patch 477,551,

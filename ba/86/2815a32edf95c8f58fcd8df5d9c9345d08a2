@@ -1,0 +1,5 @@
+changeset ddb6f7d7a0e3ea350400152da121c9da4ca88912
+manifest b7fadfaf7a0182c44bcb415ab5eb3ba9cbc594e7
+extra moz-landing-system:lando
+files dom/clients/manager/ClientManagerService.cpp
+patch 713,757,

@@ -1,0 +1,5 @@
+changeset c055d7b57071b1d4b71f1b33653dcdc5f2c1b58a
+manifest e90690acbb60af6f4927c4ea64aac8a10e99b59f
+extra rebase_source:2ff14410152493c5bcaa4f0e34aa0a67d66a78ed
+files ipc/mscom/FastMarshaler.cpp
+patch 323,397,

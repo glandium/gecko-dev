@@ -1,0 +1,5 @@
+changeset 45a43c25a3db3e69c57c3bd9281f6d8a9b3e82bf
+manifest a35da2f1dc5c4ac66fa0ab005753c49817dacdf6
+extra moz-landing-system:lando
+files testing/config/telemetry_tests_requirements.txt
+patch 333,377,

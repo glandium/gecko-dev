@@ -1,0 +1,5 @@
+changeset 4ee2c005d4ff7ae67b50f4fe96d6e336d55c2198
+manifest 8d8901ae8e6382f82d00b417308fd0bdf24f30f4
+extra moz-landing-system:lando
+files taskcluster/taskgraph/transforms/bouncer_submission.py
+patch 332,376,

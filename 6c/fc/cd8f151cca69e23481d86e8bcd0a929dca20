@@ -1,0 +1,5 @@
+changeset 9688823d23fd1de1ec3a09fec65082ae562b1a12
+manifest 5e3d02fc1a9bfa383fdd3a991ba00b9006039b93
+extra rebase_source:0a97494b77d8ec020810e88be10889f98b8e6e50
+files browser/branding/branding-common.mozbuild
+patch 293,367,

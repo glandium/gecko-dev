@@ -1,0 +1,5 @@
+changeset fe32678add2bae7fe2a98ae59f78162ff4a2b50b
+manifest b7200602822419f1b5d87559b64d01ec3b75e1f2
+extra rebase_source:897d4a66f5b1da8027180f85c5f5f5284734e860
+files browser/components/extensions/test/browser/head.js
+patch 425,499,

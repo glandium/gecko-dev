@@ -1,0 +1,5 @@
+changeset b446f3bf75e403e1baa30b2b0524be265d76ba8a
+manifest 0220340469e6ed7efde68e50209504596e966b00
+extra rebase_source:b3146ffdb007cc868a45691d098de96340c2bfe9
+files toolkit/components/extensions/test/mochitest/head_webrequest.js
+patch 303,377,

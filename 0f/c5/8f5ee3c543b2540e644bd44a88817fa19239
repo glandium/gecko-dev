@@ -1,0 +1,5 @@
+changeset f626107995b58eb5453c30f223753ea2ae31aa8b
+manifest db7b79eb3cc245b2c3763e0bb87182494e36b5c6
+extra moz-landing-system:lando
+files toolkit/library/rust/shared/lib.rs
+patch 1346,1390,

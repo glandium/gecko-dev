@@ -1,0 +1,5 @@
+changeset 4d66223323b470133b935bb49125c70a0b2f8868
+manifest 608ee1661fa19a6f0f7f3961b8e490093c75953d
+extra rebase_source:7d6f425cc91367f115711b5a2762d2705f31ca97
+files browser/components/preferences/translation.xul
+patch 309,383,

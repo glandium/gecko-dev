@@ -1,0 +1,5 @@
+changeset 16784899765fefccbf0ae64bf0882b4642e8ccff
+manifest da806ea60403e96d8cb1a758db750d5e8298bb07
+extra rebase_source:27ba88a31fccb937ec673ae9e01d9100e709700d
+files browser/components/extensions/test/browser/browser_ext_pageAction_telemetry.js
+patch 352,426,

@@ -1,0 +1,5 @@
+changeset 9a74a8c4a8c05ca6968d90594b86ec8b7d0706d8
+manifest 020c7c9a2a97e287d4d78b87635f6ee22af5a63e
+extra rebase_source:b02c6a061a8938936b40195e166ac2b6c187406d
+files docshell/base/nsDocShell.cpp
+patch 508,582,

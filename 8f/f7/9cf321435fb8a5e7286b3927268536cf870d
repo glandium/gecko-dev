@@ -1,0 +1,5 @@
+changeset 54ba8ee1c9ceefb0607f2a65ea6aedd984717113
+manifest 9b978cd8c53352dd385595c183a15398d8e4bfb3
+extra source:148f7751edadbff34f499baa456f7d95c2345f75
+files xpcom/string/moz.build
+patch 413,480,

@@ -1,0 +1,5 @@
+changeset 78e41b2cfb217a22bf2f41d67f297254a6ba3d72
+manifest 45f8c28cf610d147acb59ca0cdd889e8ea39566d
+extra moz-landing-system:lando
+files browser/base/content/browser-ctrlTab.js
+patch 314,358,

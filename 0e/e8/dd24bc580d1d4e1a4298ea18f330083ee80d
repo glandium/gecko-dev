@@ -1,0 +1,5 @@
+changeset 2b2b76743f2ce1e732f03a57af48c39a096cbc99
+manifest c2344d204fd5f68bc50a4200cfb9b6cd7b5dfdbe
+extra rebase_source:79d3f69096350e67918ae05da6638a3a30cb92a5
+files toolkit/crashreporter/client/ping.cpp
+patch 276,350,

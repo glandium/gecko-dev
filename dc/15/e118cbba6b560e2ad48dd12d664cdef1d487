@@ -1,0 +1,5 @@
+changeset 92c10215a3f6ab857556d37ebcab53a09d65a91c
+manifest 6f5c93ca9d4e06cbd7bc8e7ad869f56a0fee2be9
+extra moz-landing-system:lando
+files toolkit/components/places/History.cpp
+patch 545,589,

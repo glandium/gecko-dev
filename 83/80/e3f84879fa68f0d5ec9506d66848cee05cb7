@@ -1,0 +1,5 @@
+changeset 70fb9299aee568b0d41e75a772a281922a969b07
+manifest 10ed17a2d172de4e65dc08e24c416774301d3225
+extra rebase_source:e470c6e7d0f52577e95afd730337b13b710e93d4
+files testing/mozharness/configs/partner_repacks/staging_release_mozilla-esr52_desktop.py
+patch 335,591,

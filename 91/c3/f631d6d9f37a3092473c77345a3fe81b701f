@@ -1,0 +1,5 @@
+changeset 65f08f1b6fb2b3ed566d153f4d2aa1bad0c525a8
+manifest 1b1219e77f2ad374e054186c552129b9fb8c1f37
+extra rebase_source:24a16261ff037929dc424ddd1c278030a2d09f25
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/repositories/domain/BookmarkRecord.java
+patch 384,458,

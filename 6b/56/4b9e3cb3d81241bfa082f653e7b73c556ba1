@@ -1,0 +1,5 @@
+changeset d2b23d922b73f0ed865bbf877d9bd715c7048043
+manifest fca4447794ce032f278ffaf152cc2680cef7a1e1
+extra rebase_source:2b7f2fedd440db25786cc3f3d07e593edb00b318
+files testing/web-platform/meta/css/css-variables-1/variable-substitution-variable-declaration.html.ini
+patch 391,465,

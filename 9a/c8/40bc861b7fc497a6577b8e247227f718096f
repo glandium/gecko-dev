@@ -1,0 +1,5 @@
+changeset 1249680014b0b4faf9eed339f9716755322bb33d
+manifest c4ca7994ceb5493952ebce6f0142e71bea1bbe48
+extra moz-landing-system:lando
+files dom/base/TabGroup.cpp
+patch 300,344,

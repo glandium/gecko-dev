@@ -1,0 +1,5 @@
+changeset 5f5ccfe856314f31191c1d15e2636daa89d17b17
+manifest 1daeb804cc127d86432acd9b42de5d70fff1bac9
+extra source:7ec7580e43e4a81cd5cdab7b6678947002d2791b
+files python/mozrelease/mozrelease/buglist_creator.py
+patch 367,434,

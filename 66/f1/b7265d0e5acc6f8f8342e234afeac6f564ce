@@ -1,0 +1,5 @@
+changeset 0b6969f89a2aa1b997070fae9b3b7eec7c60c230
+manifest f64108b2939fbffd132a1ffde3d17ac9ba9ce80a
+extra rebase_source:6e0f14bccbafae953c109a48b0417b83c56baba0
+files testing/mozharness/external_tools/robustcheckout.py
+patch 307,381,

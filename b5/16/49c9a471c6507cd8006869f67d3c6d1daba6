@@ -1,0 +1,5 @@
+changeset 8d222af1686c464f40ab77e81a87dc2fdc8145c1
+manifest f6f8831fe1da3fc038ee65659e01fa02e06baa4b
+extra rebase_source:6bee3903f619ec1cb1569ebf1df2ddef9da6b901
+files ipc/mscom/StructStream.h
+patch 452,526,

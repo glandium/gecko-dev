@@ -1,0 +1,5 @@
+changeset 9089083929039ac0dddc5707525b73e9922edef8
+manifest 416a4c12b62e7fe2fb6bf0c585162f7fe0a95732
+extra rebase_source:941a30cb346b6c15f5a02f527063a437ae0c6121
+files widget/cocoa/nsPrintSettingsX.mm
+patch 472,546,

@@ -1,0 +1,5 @@
+changeset 134a3c1bf3d19bbcaf5b275516b5eb74305cd88b
+manifest 92dbd2ce8a64baa7f095ded8c7499c9f393748a8
+extra rebase_source:e1207ce5416d603090bd572ba745a703dadd93bf
+files widget/windows/WinTaskbar.cpp
+patch 373,447,

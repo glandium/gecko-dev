@@ -1,0 +1,5 @@
+changeset 5af44510f9ce21a38065c222fa328da6c6625eda
+manifest f86b21dc8823f1b825369eaa4c79311cbe03c11c
+extra rebase_source:42d4bf3cfdb8849ef333fe5d667a7baaef5bd62f
+files toolkit/components/telemetry/docs/data/sync-ping.rst
+patch 282,356,

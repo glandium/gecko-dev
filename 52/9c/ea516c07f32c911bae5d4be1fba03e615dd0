@@ -1,0 +1,5 @@
+changeset c4a0ff9a5a54fd128303166a1865357ed4c8a254
+manifest dc806e592a372cebada0a9af0d1039915c6d6780
+extra rebase_source:f40b57198949e6751abf82d51d9b3594b33c73cb
+files toolkit/components/startup/nsAppStartup.cpp
+patch 312,386,

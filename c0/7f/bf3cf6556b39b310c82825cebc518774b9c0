@@ -1,0 +1,5 @@
+changeset 8bde5c2445523f301edbafb037f1c10de47ac2ef
+manifest cc4596ac7c036d6ee99302459f60120e4ba37249
+extra rebase_source:ff5ab71fdb2665fda296c0fbb712641151a7b003
+files parser/htmlparser/nsElementTable.cpp
+patch 886,960,

@@ -1,0 +1,5 @@
+changeset c5dfc2e657a4e5e455e73000215c760f29f9c170
+manifest 749bd7da8ca70712c30c21271debc789927dd9b3
+extra rebase_source:f245814808a1714895dc7e83e38f357fbe29a168
+files widget/windows/WindowsEMF.h
+patch 282,356,

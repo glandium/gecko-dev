@@ -1,0 +1,5 @@
+changeset 0cd7b0a6547db7e61dda1a7406fec24f657385a7
+manifest 70a5eec6c60270410c390499b5bf3f482ec10930
+extra rebase_source:1c6a9515a7cc5fd1b5c3482a6806bcc69bbbb5dd
+files testing/mozharness/scripts/release/uptake_monitoring.py
+patch 330,404,

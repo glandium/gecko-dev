@@ -1,0 +1,5 @@
+changeset 91908f42965ca07add4c1a500f5ee142a226842d
+manifest 61451adfececd1d408b2aa75b600834a4faea727
+extra rebase_source:4d7c9f3d8fd304e540d6bc0a306793518005d912
+files browser/base/content/webrtcIndicator.js
+patch 344,418,

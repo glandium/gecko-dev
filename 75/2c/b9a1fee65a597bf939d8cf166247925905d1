@@ -1,0 +1,5 @@
+changeset 8880a286e471cd8c39493dd3b1c3f9f5e62a9a9f
+manifest 8799e6bfbcdf96898bac54d4183670faa4e52958
+extra rebase_source:a0eef98f3635010ef123c64ad56528b616a08811
+files devtools/client/animationinspector/graph-helper.js
+patch 302,376,

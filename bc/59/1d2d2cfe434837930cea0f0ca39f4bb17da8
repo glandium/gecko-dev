@@ -1,0 +1,5 @@
+changeset 0a3a8b70b8bacd012d6165c3e909b0df1f95ba86
+manifest 727735e00da7f00acd025210b1c56831c6721b33
+extra moz-landing-system:lando
+files browser/themes/shared/customizableui/customizeMode.inc.css
+patch 296,340,

@@ -1,0 +1,5 @@
+changeset 9cf5aaf0177240e944a6e2063d7e67f411c75ddd
+manifest 25843bbef741606eec99e2467da1844aed4667d7
+extra rebase_source:e0f9656c293866f1985102bf43c56caa41bfb791
+files toolkit/modules/LightweightThemeConsumer.jsm
+patch 306,380,

@@ -1,0 +1,5 @@
+changeset 48011ca989a24b2eac337b390288951e46df2338
+manifest dd3a40efd0d52991cc1c60e2186c4a52d4ab1374
+extra moz-landing-system:lando
+files browser/components/search/content/search-one-offs.js
+patch 309,353,

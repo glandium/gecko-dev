@@ -1,0 +1,5 @@
+changeset 9882be81c9e458ee7db63788f01ac8a85a47df72
+manifest bf42a8a4ebf29f2acdb45057b3527623d9771336
+extra moz-landing-system:lando
+files js/src/jit-test/tests/for-of/bug1519700.js
+patch 276,320,

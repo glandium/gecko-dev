@@ -1,0 +1,5 @@
+changeset bb3f1daba7d9fdb049fafd3ca4e7cb5318503d38
+manifest 30cd539175372f2789ac58bc8de3d38294e6f17b
+extra rebase_source:8a55ac52b2704c4eeacfc81b0a2f1ccf4a64c4bf
+files taskcluster/docker/funsize-balrog-submitter/scripts/funsize-balrog-submitter.py
+patch 347,421,

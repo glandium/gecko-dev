@@ -1,0 +1,5 @@
+changeset bf0bb0c068781fe2aeef71dea5162bb4da6a9833
+manifest 68c0a6971b23dc60dc13b43b2a6d30aa76bc993b
+extra source:b0328b70458abdb81d3cd40de14b411be0117193
+files js/src/ds/LifoAlloc.cpp
+patch 268,335,

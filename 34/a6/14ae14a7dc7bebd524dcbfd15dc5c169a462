@@ -1,0 +1,5 @@
+changeset a72616d7328085de4bd39a02861bfcc969b21232
+manifest cba53fa739c0618b76e683ffa8e7267a92bfa4d9
+extra moz-landing-system:lando
+files xpcom/io/Base64.cpp
+patch 335,379,

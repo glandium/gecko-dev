@@ -1,0 +1,5 @@
+changeset fee151a11c16a1a6995770aa4c3400b31d2faaf0
+manifest 7bd8a7861f51e6fb492aad2b0fa354cbf23c58b3
+extra rebase_source:3d15b5f3280e9e9fca9b141a14ff379622a718eb
+files toolkit/components/downloads/ApplicationReputation.cpp
+patch 360,434,

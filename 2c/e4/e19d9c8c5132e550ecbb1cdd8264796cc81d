@@ -1,0 +1,5 @@
+changeset acee2bb51c1f9db3544397108c57d94c3ffcfccb
+manifest a610077b3f7ad3a326e7b1301e6ec7717487cb46
+extra rebase_source:ddd6b75bc741fc04aa94d0ec2494eb24a2ef9fca
+files tools/profiler/core/platform-win32.cpp
+patch 312,386,

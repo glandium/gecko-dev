@@ -1,0 +1,5 @@
+changeset 852280fdf31d738951fc5ba339cbacc7397d47f6
+manifest d8ffb6193f8f34edf882b723cbb60534e8a2031a
+extra source:d9489f5df7bea25619d19e2688fd7065cc724bad
+files js/src/jsopcode.cpp
+patch 257,324,

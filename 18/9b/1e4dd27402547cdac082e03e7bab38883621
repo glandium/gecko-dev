@@ -1,0 +1,5 @@
+changeset 27532347bc51331725224b85e82732afa17ae619
+manifest efa18a55643b0ed67f9b1902cf38e269a85d2a9b
+extra source:f42444e2242af260390765e4e1ae8a6f49c9a326
+files toolkit/components/extensions/test/xpcshell/xpcshell-content.ini
+patch 306,373,

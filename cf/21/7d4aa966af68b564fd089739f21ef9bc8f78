@@ -1,0 +1,5 @@
+changeset db057cc9a7c597f63952b7b56eeb434e3298de3b
+manifest 28c4f508f548ec28fef51d8ed1393439240ce7e8
+extra source:a46ca34a6bde20c2493bb7c25ef25a3f887cba3a
+files dom/security/test/csp/mochitest.ini
+patch 324,391,

@@ -1,0 +1,5 @@
+changeset 29ffc266326bffc33dfe8ba03b5c748627f65040
+manifest 184ebb0e8d989de451c6f86112bc104413cf0728
+extra moz-landing-system:lando
+files widget/gtk/moz.build
+patch 1057,1101,

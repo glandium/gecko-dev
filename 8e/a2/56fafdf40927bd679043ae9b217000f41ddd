@@ -1,0 +1,5 @@
+changeset fc5fc58f42a3ebab01c6e83901a2dde2435b0933
+manifest f8fec77f1190253b197f4a08900b020017a090e9
+extra rebase_source:b45efcaeebb19eca0196a823048c5d878b259b0c
+files mobile/android/chrome/content/aboutAddons.js
+patch 334,408,

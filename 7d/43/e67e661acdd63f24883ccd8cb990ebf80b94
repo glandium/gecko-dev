@@ -1,0 +1,5 @@
+changeset 06f6ddcfe8d9020925359210acdcfd3edb787277
+manifest 7f14338e223ccf5320aadb183847a88d27f1ca0a
+extra source:cc0d7de218cb0c260c8ba0cf6637845ad2222f49
+files toolkit/modules/WindowDraggingUtils.jsm
+patch 548,615,

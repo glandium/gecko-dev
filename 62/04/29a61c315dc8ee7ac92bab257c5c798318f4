@@ -1,0 +1,5 @@
+changeset db736300d90f165a1636c35d5dd1cd4e369092e7
+manifest af3a1b477e721b36a2640aa9223cf230b1bb5bf2
+extra source:dfbfb5347dbc42b632ff0681d292af12f9722e99
+files devtools/client/webconsole/test/browser_console_native_getters.js
+patch 284,351,

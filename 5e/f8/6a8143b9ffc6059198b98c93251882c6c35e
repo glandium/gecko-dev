@@ -1,0 +1,5 @@
+changeset 4c05fb631121d80c6c41a9b0ffcf3eeb9cd5459f
+manifest 52b8845011cef53a7696b4c2b6661da2805fbe47
+extra moz-landing-system:lando
+files layout/style/nsFontFaceLoader.cpp
+patch 408,452,

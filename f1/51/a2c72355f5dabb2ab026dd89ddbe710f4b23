@@ -1,0 +1,5 @@
+changeset eaf542a7bdb119fdb0585e149e4827eed185b456
+manifest b1edb1f342d42276651a38fdd9332626b7fb7e32
+extra moz-landing-system:lando
+files taskcluster/docker/funsize-update-generator/runme.sh
+patch 308,352,

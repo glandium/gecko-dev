@@ -1,0 +1,5 @@
+changeset efdcbb705e88111fdf8828cfbcd94665a69978f3
+manifest 04596b517688f0d064dcb404852cfa32c90386c4
+extra rebase_source:7687b1b8a3573965c853a4ad0a5ad9fff9294ba4
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/GeckoBundle.java
+patch 466,540,

@@ -1,0 +1,5 @@
+changeset 92c393ca18d64945bffb0f3a77ee9c9d02b56351
+manifest 99b203c3b72deadb42f655b4e3cb5af057bca1f0
+extra rebase_source:f2a1cb4059f80e7cf025879e09998dff9b49981b
+files mozglue/build/Authenticode.cpp
+patch 262,336,

@@ -1,0 +1,5 @@
+changeset b87d0d68c15a657dad84da7a93d564d228b69387
+manifest f7d24a08bf9219645ac86dae7f37eb1db97b4d05
+extra source:07d7ecbf77e3be59797f16234d357a02bb38ed8b
+files devtools/client/netmonitor/test/browser_net_json-b64.js
+patch 308,375,

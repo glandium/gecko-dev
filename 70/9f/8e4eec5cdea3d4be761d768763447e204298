@@ -1,0 +1,5 @@
+changeset 0dfea3e5927a48c60fd097a699893251a2251953
+manifest a93899b35775ed98122bf413f4dae9c9376f21a5
+extra amend_source:71f93c7a9088f3b90abca7e3cbdfa15c3879b05b
+files js/src/frontend/Parser.cpp
+patch 265,338,

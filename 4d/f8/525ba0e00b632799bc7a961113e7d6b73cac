@@ -1,0 +1,4 @@
+changeset 973d54f232af0074ebb4fd1a6eab4822d43e80c1
+manifest 2f623fc9df8e5ea67beb6100c8474c7da7916013
+files taskcluster/docker/image_builder/Dockerfile
+patch 216,217,

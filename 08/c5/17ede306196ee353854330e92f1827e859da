@@ -1,0 +1,5 @@
+changeset 0c2fc5ab4511f9f2c0a9dc7c4606ad8911daec8b
+manifest 04098643cd875185eafcd7b25da0e238a62f1509
+extra rebase_source:b72967aeecd2a9e397ccd1c1a9bf7d2eec13a328
+files testing/mozharness/scripts/awsy_script.py
+patch 236,310,

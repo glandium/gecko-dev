@@ -1,0 +1,5 @@
+changeset 5acb0074a4b37de8fcc0d727bfc68cc9a0c6bda3
+manifest 16a61b50c9bb9439d14a96b3d518f4c21fef2932
+extra moz-landing-system:lando
+files dom/gamepad/GamepadPose.cpp
+patch 314,358,

@@ -1,0 +1,5 @@
+changeset 38345cd61a3dd70fafc8e8bb3128b0ac8eb6ac41
+manifest 9018458888cdda577cff0f0f2767cb022ba5047c
+extra rebase_source:9bb693e83ec98a8c1bae6476b2c800cf89968bd3
+files mobile/android/app/src/main/res/values/bool.xml
+patch 555,629,

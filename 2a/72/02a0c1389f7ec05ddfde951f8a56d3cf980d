@@ -1,0 +1,5 @@
+changeset edf005cc094685c26a57cb59fa37b82cdd0d684b
+manifest 7fd250bc506a3482d86cfc73cf4c7549e7dd980b
+extra rebase_source:28974307e4e225748c2e866ac6ac8a93af3a50b1
+files devtools/client/shared/components/h-split-box.js
+patch 309,383,

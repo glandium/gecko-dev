@@ -1,0 +1,5 @@
+changeset a7f9d0c2e353bc36a8d447566757e90a0fd8b2ff
+manifest a1bf2bd20145893b08a71c217f62efe7fcda2bc7
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/tests/mochitest/test_fastblock_bug1477046.html
+patch 334,378,

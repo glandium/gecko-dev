@@ -1,0 +1,5 @@
+changeset f36cd1532fdb435c13723cf4804894d821c5fa61
+manifest 3b3a9f163ce274ff2e8b82b722fe4dddfcbfd8da
+extra rebase_source:813b8cb203752e6c63b0a405473f7d0cd9dbc3e6
+files layout/svg/nsCSSClipPathInstance.cpp
+patch 520,594,

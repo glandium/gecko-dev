@@ -1,0 +1,4 @@
+changeset 6e48de2c2065d614a39e5d8c7a0b7bfa23dba830
+manifest 1d06dcaab17abf98253c54e1cfd6f06908a6a5ad
+files build/clang-plugin/CustomTypeAnnotation.cpp
+patch 334,335,

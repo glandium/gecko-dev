@@ -1,0 +1,5 @@
+changeset 691b38288b187376a68e592109c41bdf01a781a1
+manifest ba6d6940885f282b297c535e4a95244f88e97d80
+extra rebase_source:1a2755b66f95ec8f1a6a000d22ed52a2103c3419
+files browser/tools/mozscreenshots/mozscreenshots/extension/configurations/ControlCenter.jsm
+patch 343,417,

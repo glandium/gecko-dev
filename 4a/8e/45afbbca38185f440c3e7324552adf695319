@@ -1,0 +1,5 @@
+changeset de7eb5f97eced4c71a8dc6a9077db34b82e7f7c3
+manifest 0e4b77616b96b31c0dcc58261b865eadb29a4a17
+extra rebase_source:106971c7ab54ac61d3c12feca7ecca961bd4d800
+files testing/web-platform/meta/content-security-policy/navigate-to/child-navigates-parent-allowed.html.ini
+patch 342,416,

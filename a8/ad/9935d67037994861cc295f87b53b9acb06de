@@ -1,0 +1,5 @@
+changeset 53edee7389e5bb34e564a37fa10b8b33edcd7af9
+manifest 1b5d27bb1c00128432c7cd9ef23ba2c64e065194
+extra rebase_source:f18ae340a644cab6cddce3273bc68ccf4a44935f
+files gfx/thebes/RoundedRect.h
+patch 286,360,

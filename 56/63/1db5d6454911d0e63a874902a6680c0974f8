@@ -1,0 +1,5 @@
+changeset a7074da0c89cb90b7b488e540e52390cb1f0f34a
+manifest 240afff425ea035b206d8b81ccf7afdfd74909d7
+extra rebase_source:759b7b4d9e5aa23542a31593674683fbef2dbc47
+files gfx/layers/wr/WebRenderBridgeParent.cpp
+patch 515,589,

@@ -1,0 +1,5 @@
+changeset ae79eeefe39d542fe1321560ec852b58bf37c3f1
+manifest 29db8b56c4dec75bf158de602d53eeee2648aee2
+extra moz-landing-system:lando
+files toolkit/components/reader/test/browser_readerMode_with_anchor.js
+patch 346,390,

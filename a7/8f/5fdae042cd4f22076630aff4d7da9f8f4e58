@@ -1,0 +1,5 @@
+changeset 4943bae05ca61b80853135f16f40365dccfd902d
+manifest 3b064753d7e9fb9dd33311fc69f62df3c5df022e
+extra rebase_source:e574e36b50a28bc135c6d5a48e121466d3cbd1d6
+files dom/interfaces/css/nsIDOMCSSRule.idl
+patch 297,371,

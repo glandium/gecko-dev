@@ -1,0 +1,5 @@
+changeset 13954967540a7d6febf45be7e2a4c197e38a5097
+manifest f4ab4348eda7a247ddc1d6f61f94cfaf6b9db500
+extra rebase_source:152d1b88e602b430a4eaf4e5212f90d756ca8a46
+files gfx/angle/src/libANGLE/features.h
+patch 425,499,

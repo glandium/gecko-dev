@@ -1,0 +1,5 @@
+changeset 07d8a92836d305e8491acef597b230e4ec56ee2b
+manifest d27993d0b1ba2ba8e1513909edbb939a5a9082af
+extra rebase_source:2e3e762c9d9055e7758a16836907426ea27886b7
+files testing/firefox-ui/tests/functional/security/test_mixed_content_page.py
+patch 368,442,

@@ -1,0 +1,5 @@
+changeset 8d09209d2ee1a7baa166dedf8425dcbdfd35cfaa
+manifest 3be86fdc7b6b4922bb207fafa12fd52b80187877
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoAppShell.java
+patch 368,412,

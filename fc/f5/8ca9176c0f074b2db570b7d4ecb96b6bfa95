@@ -1,0 +1,5 @@
+changeset 482d24b7c611bfb3df72e352bc53286f7dd12dc2
+manifest 4ecae7f4ce59b40dab710559b98757b33e162640
+extra rebase_source:ea47c4276306f9dd4d75c6b4c0763adcf95ef2cb
+files mobile/android/app/findbugs-exclude.xml
+patch 350,424,

@@ -1,0 +1,5 @@
+changeset 9878e0378cadb2ac2c3e4a8a591b8eb127a965b1
+manifest 5941192dc7bfb810c36d1103934451aeddfa10f0
+extra source:59ece44fa56e808f25ca45649c937742bc31eb9f
+files browser/components/sessionstore/test/browser_615394-SSWindowState_events_undoCloseTab.js
+patch 476,543,

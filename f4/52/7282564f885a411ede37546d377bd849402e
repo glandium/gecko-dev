@@ -1,0 +1,5 @@
+changeset 84fb749698abd1b1c73e2f0a48dce6a3b60aa5e0
+manifest c7cadf33e4fac814a08974589470b61f3926cbc5
+extra rebase_source:9b5e44b5710b7758c998601f1da79429956ae4c7
+files ipc/chromium/src/base/thread.cc
+patch 313,387,

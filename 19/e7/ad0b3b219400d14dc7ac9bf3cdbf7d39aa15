@@ -1,0 +1,5 @@
+changeset d886212713cfcf05af580f2554eefdf165661b41
+manifest 1bdaca1f222eb9727db25f572b83c2a36bc9e20d
+extra moz-landing-system:lando
+files toolkit/themes/osx/global/shared.inc
+patch 309,353,

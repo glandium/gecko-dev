@@ -1,0 +1,5 @@
+changeset 65eaccbc3cdd8b2a3a8adda505bf998b1e659c6d
+manifest dae9ab674b614c9594cb6029aa1a0a016c5543bd
+extra source:c6ff3a13495eb7143cf2f7ce80db081662686073
+files servo/components/selectors/parser.rs
+patch 417,484,

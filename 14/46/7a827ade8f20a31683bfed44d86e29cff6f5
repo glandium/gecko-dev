@@ -1,0 +1,5 @@
+changeset 34d4a5081960a1623e0ebdf9e4fb60c7b167b8f4
+manifest 5a1d001d300a331f1b58915fef7bc752f547a047
+extra moz-landing-system:lando
+files widget/nsXPLookAndFeel.cpp
+patch 304,348,

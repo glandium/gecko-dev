@@ -1,0 +1,5 @@
+changeset 89b22be1685c2bb3ff3b8ff3c9f5a0e6744b8bdb
+manifest edc70c30ac5c2e4ea71f2b014a9b6115c33dea4e
+extra rebase_source:7f032046b3a81c2b3f2135451af07a1e38e94664
+files security/apps/AppSignatureVerification.cpp
+patch 343,417,

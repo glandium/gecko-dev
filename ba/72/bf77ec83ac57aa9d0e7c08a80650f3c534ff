@@ -1,0 +1,6 @@
+changeset 38793c4f8af1fa51c0f545e0848407bcff84a410
+manifest 56f17cbfcc2d32206709fa7cd5b1e283b571e602
+author Marco Bonardo <mbonardo@mozilla.com> <mbonardo@mozilla.com>
+extra rebase_source:ebb959fa1c0f7c391be4cc421cd61a76f4148281
+files browser/locales/generic/profile/bookmarks.html.in
+patch 318,392,

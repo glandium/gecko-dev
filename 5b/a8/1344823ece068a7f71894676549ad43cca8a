@@ -1,0 +1,5 @@
+changeset e4b70f1fc8d650bcd3f879c1c013ed9b8bf7cab2
+manifest c0f711d35d65d4dc60b8f0ceefaf63e198b3f474
+extra rebase_source:70b2ccfd52030d29c9deea1bda5f27deaf541f57
+files testing/mozharness/configs/l10n_bumper/mozilla-central.py
+patch 298,372,

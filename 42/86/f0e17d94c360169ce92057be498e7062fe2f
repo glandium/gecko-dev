@@ -1,0 +1,5 @@
+changeset 9d7c295d9570e294851908465f56ec0779547d2a
+manifest e27305ea74a03ea31f545f5d6d6abbf46147cc1c
+extra source:ca6b74831ec3db204e024b07f200b0d1ce93557e
+files js/src/vm/Shape.cpp
+patch 278,345,

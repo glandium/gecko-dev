@@ -1,0 +1,5 @@
+changeset e435bf04dfebc99d33abdb7052d48d5b79c44cce
+manifest 64a4c32449162b4c8f6b45036401ebe775adf1dc
+extra moz-landing-system:lando
+files gfx/layers/apz/src/APZCTreeManager.cpp
+patch 346,390,

@@ -1,0 +1,5 @@
+changeset 8eb05f9fc69928b72d96b296c5444927a046d812
+manifest 1b04231cc65fb4a64303a2183ef262445f159662
+extra rebase_source:95cb64f3b7de631411bc16d109d4b3cade1eea33
+files gfx/layers/composite/LayerManagerComposite.h
+patch 292,366,

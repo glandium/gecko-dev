@@ -1,0 +1,5 @@
+changeset f017a427c3cbccf397c9bf960a7b84ae5e801cb9
+manifest b4c14d9cd903e9779c9e5c62a21e2cd31b4b0522
+extra rebase_source:4e020f3403fe955a3a7d5094ab680d713b5f7a8d
+files js/src/jit-test/tests/cacheir/bug1471361.js
+patch 233,307,

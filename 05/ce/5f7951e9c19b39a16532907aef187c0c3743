@@ -1,0 +1,5 @@
+changeset b4a4b9fa2cfc418e6c03294c266c36e0d4a075f6
+manifest ae1339a2d9f9e3de321c1aea39c831ec897f746d
+extra rebase_source:8cb2750225d2e0331b1cfe25e02c766dd631e565
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/stream/StreamOverridablePageIconLayout.java
+patch 563,637,

@@ -1,0 +1,5 @@
+changeset 0617fbf40ce4751e4f9a5565ea7e808c60eb2aba
+manifest 2786b302618a8ec926917c99f39198342c49738b
+extra amend_source:65fce7ddfca64d3ff820e4dfe3138e2e6e5846e7
+files js/src/devtools/rootAnalysis/analyzeHeapWrites.js
+patch 309,382,

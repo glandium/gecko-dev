@@ -1,0 +1,5 @@
+changeset b41545e3d60d879732e79af0701850ff5fae5473
+manifest 4b58c7859fe3d205bebdef670a58f4ddfe62472d
+extra rebase_source:bc159e987ab3d1957c41187e8d6c9689a3f4cd8d
+files devtools/client/aboutdebugging-new/src/constants.js
+patch 342,416,

@@ -1,0 +1,5 @@
+changeset 4760a22b8b89893238fbda27e5b4d9cf3dd014db
+manifest 16ffdb5499283458b2da1428ec346769bc0c3224
+extra moz-landing-system:lando
+files xpcom/io/nsEscape.cpp
+patch 322,366,

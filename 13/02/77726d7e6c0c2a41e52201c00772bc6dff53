@@ -1,0 +1,5 @@
+changeset 893ccda7531fba88b84bfb060772aa405189851f
+manifest 467ac7c46b78f6a0f193841a49b5635026491dbc
+extra amend_source:d3586dd38152286ae9521010fc4ecead35b655ee
+files modules/libpref/init/all.js
+patch 285,358,

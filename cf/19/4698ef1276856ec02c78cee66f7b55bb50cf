@@ -1,0 +1,5 @@
+changeset 57701c371c8de6b2ca9ccaa493a37d65ad1c9b4b
+manifest 8a0120dca167b0a23a3e6d42ed81413414b16630
+extra rebase_source:b270df65d77659c6a318ec13324d9bc5925f1df8
+files devtools/client/shared/vendor/react-dom.js
+patch 282,356,

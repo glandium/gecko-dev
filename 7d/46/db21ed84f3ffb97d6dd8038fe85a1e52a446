@@ -1,0 +1,5 @@
+changeset 1ae7363be20bee66d23e031613249f7b9192d928
+manifest bc0873954b615da57f77f02896cae147ecdc0400
+extra rebase_source:d57f0edea4997d6d522e78aa18da923c5a620665
+files browser/base/content/test/siteIdentity/browser_no_mcb_for_loopback.js
+patch 355,429,

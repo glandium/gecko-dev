@@ -1,0 +1,5 @@
+changeset 6be0203f1a2690e2ae029ea4970363a55865ed46
+manifest fdcffce530ba95c71f365bd5020dfb69c5e12f03
+extra rebase_source:bfaab0bb11459930c88089bba6f1f98088456a0b
+files testing/web-platform/tests/tools/webdriver/webdriver/client.py
+patch 319,393,

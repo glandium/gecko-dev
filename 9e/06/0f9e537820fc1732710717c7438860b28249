@@ -1,0 +1,5 @@
+changeset 73fab5fbc84369a3fd29c592301187f1e445e481
+manifest a5c63304c10277ef7a1e4e6f972c8954bad7ee54
+extra source:ddd9187ed66d5ac229326fd03849ecda1eebf9b5
+files security/sandbox/linux/launch/SandboxLaunch.cpp
+patch 320,387,

@@ -1,0 +1,5 @@
+changeset 2876ce49557ddb9f308a77fce2157e066c37881a
+manifest 90f7f51325ae6aa559f1dcd06943ba95fc1085c8
+extra source:a3f6db75bb07da37512f032485af29f99649dd67
+files devtools/client/inspector/animation/test/browser_animation_summary-graph_compositor.js
+patch 337,404,

@@ -1,0 +1,5 @@
+changeset fedf648d3785496798d361b31c9bdd144e2b5897
+manifest 8df73f542cd3469a6c5f954dfe9caf6f8539afcf
+extra moz-landing-system:lando
+files browser/base/content/test/permissions/browser_autoplay_blocked.js
+patch 362,406,

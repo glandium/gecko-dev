@@ -1,0 +1,5 @@
+changeset e1eb21be77ba723bba7d5ccd461eb65d074cfc35
+manifest 4ef91b81bd4dc890429ef4f0e0305757ef040ef1
+extra rebase_source:3ce026dc6fd6e05ce5f75d9860dc567e846a0cbf
+files dom/media/test/file_autoplay_policy_play_before_loadedmetadata.html
+patch 340,414,

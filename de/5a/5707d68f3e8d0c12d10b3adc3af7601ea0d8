@@ -1,0 +1,5 @@
+changeset 6fc241b06e0b5249702135837506a75de5ed0060
+manifest 57f88640c12d8a962488a16c06e26a6fe45e87c3
+extra moz-landing-system:lando
+files devtools/client/shared/redux/middleware/log.js
+patch 359,403,

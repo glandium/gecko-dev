@@ -1,0 +1,5 @@
+changeset 3b808edbbf3efef96fde54f0388aa087468bed09
+manifest 540ccfdcad8b5f74bf76631fce544d2ca1cbcad1
+extra rebase_source:d01254a2140ad6fc90321c8a5d1f4c439e93f7b1
+files build/macosx/cross-mozconfig.common
+patch 491,565,

@@ -1,0 +1,5 @@
+changeset cf89da716c0b74286e13ed7ca6ef704a5372afa9
+manifest 11e0408b5ac36af7cb4ae30da8ae2e9b61994252
+extra rebase_source:ebb793b3cc4864593d18df1a1b69cc74df0cf2af
+files toolkit/components/downloads/DownloadHistory.jsm
+patch 297,371,

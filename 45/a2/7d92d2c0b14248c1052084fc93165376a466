@@ -1,0 +1,5 @@
+changeset 372b31b33fef91b00b66e2fa3f189dc5efadd4dd
+manifest 21e641e1f14f13aa5b1a2749f9ebb3090588d138
+extra rebase_source:6a4b1442c0d1593322226ad162c421df4f9c7f87
+files modules/libpref/test/unit/test_stickyprefs.js
+patch 574,648,

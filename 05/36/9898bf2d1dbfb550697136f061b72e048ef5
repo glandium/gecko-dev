@@ -1,0 +1,5 @@
+changeset 82ec584ba21dc00124c94aed3807cc0342f5aa42
+manifest ed50fc1c2502503add7d8b0db954c1052632f937
+extra rebase_source:158bb358659bd04e027f3fa07c633641d53d8499
+files devtools/client/webide/modules/addons.js
+patch 337,411,

@@ -1,0 +1,5 @@
+changeset 684d84410d7f92e221ae395959bb7b7d5da33a94
+manifest 5962790025e3fb49eddf1cdeb92df6510f661e42
+extra moz-landing-system:lando
+files browser/components/translation/Translation.jsm
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset 1a0ac57dd3e375329614b504016be5af785b97fa
+manifest 96f72424e2e896758bf6481fdbc201495065ba87
+extra rebase_source:072fe57dd78e2f227703ba194b11156fcfe070b4
+files browser/components/extensions/test/browser/browser_ext_popup_sendMessage.js
+patch 351,425,

@@ -1,0 +1,5 @@
+changeset 9c8923903d734aabb5ff566b0da931cb7ee178aa
+manifest 2e1ab39b46c4e8e0e5b0336070f48a6a76b398f4
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/notifications/NotificationReceiver.java
+patch 426,470,

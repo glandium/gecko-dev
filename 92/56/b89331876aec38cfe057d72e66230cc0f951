@@ -1,0 +1,5 @@
+changeset d962ecbc3fd1c944ed5a7a855252a10224989850
+manifest 42634ff399fce970d10c780316008e403f5bf6f7
+extra rebase_source:9ea290728ba3c6a96c2b46a17055aed6444e56aa
+files taskcluster/taskgraph/transforms/signing.py
+patch 342,416,

@@ -1,0 +1,5 @@
+changeset 5becd53998df95240f317f592bd68993d1f0a76c
+manifest 40757b8a79b6af77fc25790e207eb93affb9256b
+extra rebase_source:4eafb249555128f9bc9fc3ecea13983bfa402aab
+files toolkit/components/telemetry/Telemetry.h
+patch 434,508,

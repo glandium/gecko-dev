@@ -1,0 +1,5 @@
+changeset 632f7d8e2eb5d2cf98cc39f5a2d7948713ea3c2f
+manifest 85a552e0aff3354587c88b98cdf9333bcaea23a2
+extra rebase_source:77b52f775cd050bf07ee90efd3bfe97365d9a06f
+files testing/mozharness/configs/single_locale/jamun.py
+patch 311,385,

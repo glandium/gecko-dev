@@ -1,0 +1,5 @@
+changeset 18faf33e3dc1d324dbc4566e18d4e20cf13b941f
+manifest 4a7b77f9158d14edd9fd577aefc44f2ab66d0632
+extra moz-landing-system:lando
+files layout/build/nsLayoutStatics.h
+patch 272,316,

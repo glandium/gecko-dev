@@ -1,0 +1,5 @@
+changeset 349532d7e21f43f00edabcdcf2c51815647c09ec
+manifest 529703425c195a0d04f2015f9f8895cbe50ebebf
+extra source:0a517babf0a837127109f1037d72f1f4b68de89c
+files devtools/client/debugger/test/mochitest/browser2.ini
+patch 302,369,

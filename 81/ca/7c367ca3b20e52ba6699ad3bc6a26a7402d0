@@ -1,0 +1,5 @@
+changeset 8d070df4285e4eb45015ad5023bb220088d62af5
+manifest f0d2a907d733c36b95a7f3c1692bad9742f6a081
+extra rebase_source:b3eec8e1db10513a37d90893eda3d2d64c1cfe17
+files browser/components/enterprisepolicies/WindowsGPOParser.jsm
+patch 301,375,

@@ -1,0 +1,6 @@
+changeset c0f9393d2197de1592429567a123378189d850d7
+manifest 78262147a8f4a9b92cf8de8bcca9962bb0fbfe02
+author Nico Grunbaum
+extra rebase_source:3c5fc6144f6fa0435fc1ccce1a3fa371b9ffc162
+files media/webrtc/signaling/src/peerconnection/PeerConnectionImpl.cpp
+patch 438,512,

@@ -1,0 +1,5 @@
+changeset 594454d6b1cce40d69e021d5cf6e5aada279a38d
+manifest f2e80f6b93dc018429674977cd5a79bd3e506edb
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/reducers/runtimes-state.js
+patch 598,642,

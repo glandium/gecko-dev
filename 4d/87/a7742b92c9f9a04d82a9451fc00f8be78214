@@ -1,0 +1,5 @@
+changeset 32670a4721d4dac1a14315b16db5847a20749027
+manifest c7d34893b880997c3814790c244585137fe9ff29
+extra moz-landing-system:lando
+files devtools/client/inspector/rules/rules.js
+patch 1572,1616,

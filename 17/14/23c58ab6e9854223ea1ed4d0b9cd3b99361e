@@ -1,0 +1,5 @@
+changeset 60c949b40f469cdb459a1ec9d31efce727593c3a
+manifest 2de8d0b6d1e71094029af4331609af395597ed92
+extra moz-landing-system:lando
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/stage/SyncClientsEngineStage.java
+patch 388,432,

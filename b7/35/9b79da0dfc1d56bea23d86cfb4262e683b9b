@@ -1,0 +1,5 @@
+changeset ed6cf025df1352cf5f9e8f6be8d09debf5b69801
+manifest acf6d043d84c31a04495e3c8dbb720ce2719bc40
+extra rebase_source:a0a042ae1f7af8b09f80cf1b4dc33a58e67f333e
+files testing/mochitest/mach_test_package_commands.py
+patch 488,562,

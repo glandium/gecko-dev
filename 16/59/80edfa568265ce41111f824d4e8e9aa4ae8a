@@ -1,0 +1,5 @@
+changeset 8198bc4c7e3cbdd9ba2e98420a2a167911dcb7a2
+manifest b82a6df7646d33f306449390d3ec0fd0546c77b2
+extra rebase_source:492194ea7914d6f09b349f95b3eeea0bd003256a
+files security/sandbox/mac/SandboxPolicies.h
+patch 332,406,

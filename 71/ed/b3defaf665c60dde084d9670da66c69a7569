@@ -1,0 +1,5 @@
+changeset 97b28c1b8a8595a7e47dc671432ef3d7b3ea8770
+manifest cbd1fb5309de1a7c5d9ccec2ff73830e17fb0d16
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/actions/runtimes.js
+patch 373,417,

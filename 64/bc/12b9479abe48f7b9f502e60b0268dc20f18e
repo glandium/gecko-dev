@@ -1,0 +1,5 @@
+changeset a5d7f9ff483baf1e9c238740518b0a35cc837204
+manifest 3aeafd4579bcfd0483ec63feda9804c80014ed15
+extra moz-landing-system:lando
+files testing/talos/talos/xtalos/xperf_whitelist.json
+patch 693,737,

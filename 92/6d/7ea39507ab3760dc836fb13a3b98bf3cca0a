@@ -1,0 +1,5 @@
+changeset f621f04ecd455fa1571bbc5c76d420624df40512
+manifest d1989fa22da9f0da9dde3705862ee509089d6606
+extra source:1cece7d5df170946f822705ac7b28e2e57c0fd00
+files media/webrtc/trunk/webrtc/modules/video_coding/codecs/vp8/vp8_impl.cc
+patch 875,942,

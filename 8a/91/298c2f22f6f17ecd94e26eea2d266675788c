@@ -1,0 +1,5 @@
+changeset a2d49e9266c31544b2d01e435d84abefad82ff56
+manifest d503cb25f8dfa3fd8e7b8626b84e583087139485
+extra rebase_source:0fda130fa69d6c0a7e7f3d1838a22c4b5f6459b0
+files tools/profiler/core/platform-win32.cc
+patch 314,388,

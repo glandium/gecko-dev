@@ -1,0 +1,5 @@
+changeset 32b8e73c790291f91d03e344057234d16e0b8d64
+manifest ed128a85ff1a2ac8412e36439eaf081899b013cf
+extra moz-landing-system:lando
+files devtools/client/themes/animation.css
+patch 317,361,

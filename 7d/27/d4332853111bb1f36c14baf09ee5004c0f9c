@@ -1,0 +1,5 @@
+changeset 336f511efe6b53efea61c7e7d936510de801b6d4
+manifest cfcb492cda975d2dfb6c7cab4225b3b2a6f6d3a5
+extra moz-landing-system:lando
+files dom/base/ContentBlockingLog.h
+patch 282,326,

@@ -1,0 +1,5 @@
+changeset 70e906a17ad36aaa3aee981daf0a4a6654ab7789
+manifest 4be0329919e53f625a37c86dda22df4bea19e524
+extra source:2c2b09264a82bb21a56620189020e146d80259d3
+files browser/installer/windows/moz.build
+patch 323,390,

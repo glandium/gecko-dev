@@ -1,0 +1,5 @@
+changeset d8e4a86e306a43a3675402068da51ed038d19414
+manifest 88b9dd94d4be7cb6604c87e6247287eb118e6efa
+extra amend_source:3fd0fda02e8d7fabef0657fb3be520e37d59e97d
+files security/sandbox/moz.build
+patch 250,323,

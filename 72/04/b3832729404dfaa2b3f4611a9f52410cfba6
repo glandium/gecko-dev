@@ -1,0 +1,5 @@
+changeset 587615dad57e5336fbb3dc060cdadaad8078fcca
+manifest 8232676cdde2d23d0b68765a66042a2f27dc4621
+extra moz-landing-system:lando
+files layout/forms/nsHTMLButtonControlFrame.cpp
+patch 772,816,

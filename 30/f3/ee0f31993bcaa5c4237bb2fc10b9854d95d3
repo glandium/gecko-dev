@@ -1,0 +1,6 @@
+changeset 74ab1f8f99bbae82bd0ff81f213df4512c48d7ee
+manifest 04ffaaf7289cfe4a92fcd764448d06b7f34647c1
+author haftandilian@mozilla.com
+extra rebase_source:2d750b393b77e23f6ec4e20c322214611f5daea7
+files netwerk/protocol/res/ExtensionProtocolHandler.cpp
+patch 625,699,

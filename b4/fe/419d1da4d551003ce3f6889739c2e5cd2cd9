@@ -1,0 +1,5 @@
+changeset 0e150cf52e59c649eecc6504043b93acf08ae616
+manifest 400c36af2b17ec70223efdc1022f0607645c20eb
+extra rebase_source:0659a1d8e0408d3b4a2a22988a5d394857a891b8
+files js/src/vm/Interpreter.h
+patch 227,301,

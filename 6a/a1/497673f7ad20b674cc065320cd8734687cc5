@@ -1,0 +1,5 @@
+changeset f39a5e845a1df062b3c2a2e880de691693a05038
+manifest b178ec23aec960a7407a8438a7977ca0a57248ff
+extra rebase_source:3eb74758d258e928f6ed25284ecf69d8bef462c4
+files browser/extensions/mortar/host/pdf/chrome/js/viewport.js
+patch 299,373,

@@ -1,0 +1,5 @@
+changeset 5ccd0ffe9bc773edd8745a2aefb7ca85c93e0c74
+manifest 23d767b73e7dd8676428fa47c4be30dacfe46e40
+extra rebase_source:60a5be31cdb5bd66a2b2d9bde5e86671d9a01ffd
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/devices/FxAccountDeviceRegistrator.java
+patch 479,553,

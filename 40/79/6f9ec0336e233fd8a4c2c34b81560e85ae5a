@@ -1,0 +1,5 @@
+changeset 8cd46cc28ae9bafe5956c1d0e0096d089139a9f9
+manifest 6748aba866fb1d58ec5d86dad3e7afa8daf83a8e
+extra moz-landing-system:lando
+files accessible/tests/mochitest/relations/test_tabbrowser.xul
+patch 490,534,

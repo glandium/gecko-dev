@@ -1,0 +1,5 @@
+changeset 3c8ab5a011e3e53fe125693ce8922314ffcf7a8b
+manifest 69d6c878c52bb5da66e9b6293794b651f80af5bc
+extra source:3e55c9eebbbc5b0c6f384aace4c1d5d0626dd685
+files toolkit/components/cleardata/ClearDataService.js
+patch 305,372,

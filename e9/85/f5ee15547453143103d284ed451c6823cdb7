@@ -1,0 +1,5 @@
+changeset e2b466629175004d1b91ba3b9e587bd72b31673e
+manifest dd4f5fa2098ac3327a7fb2c2d93d84b13932baba
+extra moz-landing-system:lando
+files tools/lint/hooks_clang_format.py
+patch 272,316,

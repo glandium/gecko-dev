@@ -1,0 +1,5 @@
+changeset 1fe53fae0f8d5429bea94dced05cc43f2616c8f9
+manifest 3efd7e9377b4dc34d501f8e07363e0cb4524f42e
+extra rebase_source:00736a60200a1a4c6895493836709a5cacb156c2
+files services/sync/tps/extensions/tps/resource/auth/fxaccounts.jsm
+patch 313,387,

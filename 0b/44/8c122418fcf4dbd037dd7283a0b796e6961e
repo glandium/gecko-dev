@@ -1,0 +1,5 @@
+changeset 463ad37994b0fd9b3eec67755e9f6a450af3a1fc
+manifest 4931a50ef1ae24456d4190d8d3d0059d85ad0777
+extra rebase_source:181b592ab503d0545f34d167d7c05428455b6671
+files python/mozbuild/mozbuild/action/symbols_archive.py
+patch 603,677,

@@ -1,0 +1,5 @@
+changeset 8cef663e7653bb1939fa81a0e5ca79ea959808d3
+manifest b13dd1c1afabdfb8fa5b9898b1629273ad1c1384
+extra amend_source:b437275ac711d2f60879ffd0a86ae3e061b1ccb9
+files toolkit/mozapps/extensions/test/xpcshell/test_update_strictcompat.js
+patch 267,340,

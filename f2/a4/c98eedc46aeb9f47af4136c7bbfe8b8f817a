@@ -1,0 +1,5 @@
+changeset 92a0d2f17a627e943a164d840ec4f620772b0efb
+manifest 1f401706a3a02a9b3b44e348f3c0749ee6a4bd2b
+extra rebase_source:91fa84a5b445ce5a09d7118479d9a77a952ca8bd
+files netwerk/socket/nsNamedPipeIOLayer.cpp
+patch 343,417,

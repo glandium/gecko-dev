@@ -1,0 +1,5 @@
+changeset 99e7962464b774ff1b189576433ebc62146efbb4
+manifest 9abf5a2290d9e12986d946e4648920a7faa395e2
+extra source:caa3df341ea8658f713aee3b82570571a1710929
+files js/src/builtin/Promise.cpp
+patch 312,379,

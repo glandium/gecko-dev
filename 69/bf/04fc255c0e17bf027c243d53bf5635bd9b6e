@@ -1,0 +1,5 @@
+changeset b19b455ae87a23f8e9a84b9541f01dfbe20ed8e8
+manifest ca12b2ab49c15012d9326b561911801bdde8de1a
+extra amend_source:44bbf8748ce10982e6a3d96ff9ed42d3dc653f3f
+files python/mozbuild/mozbuild/test/controller/test_clobber.py
+patch 343,416,

@@ -1,0 +1,5 @@
+changeset 2af8e91e49fd81fc80a158e5e34b60824fe7443b
+manifest 60be220984a2a43c7b62450e866519295fe214e0
+extra rebase_source:c27a197ba40d469c94129aaffd5f4b121a88cc27
+files browser/themes/shared/aboutSocialError.css
+patch 297,371,

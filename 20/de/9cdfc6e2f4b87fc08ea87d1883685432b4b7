@@ -1,0 +1,5 @@
+changeset 345436abd34e8079bea0323746d5ed1bd29e0e0d
+manifest df15912ab3c33d755d71bd3f28d87bca278a5a15
+extra moz-landing-system:lando
+files widget/windows/nsNativeThemeWin.cpp
+patch 293,337,

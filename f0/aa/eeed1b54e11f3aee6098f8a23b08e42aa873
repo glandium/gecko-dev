@@ -1,0 +1,5 @@
+changeset 7ac08d9d34640922c7b9593eb9ca3d12f56432b7
+manifest 4c7711f133b96f34db396baa6a6c6ddda5320b9e
+extra moz-landing-system:lando
+files devtools/client/inspector/changes/reducers/changes.js
+patch 327,371,

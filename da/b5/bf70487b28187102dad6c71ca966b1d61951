@@ -1,0 +1,5 @@
+changeset c68fadb2d59673ae59641e00a77bf7ceb5301f4a
+manifest 188d0abdc149a547017fc5ea8c6123bb304e757a
+extra rebase_source:673556cd6bf2403cc9c91d7a1fe99532ced163f3
+files js/src/jstypes.h
+patch 375,449,

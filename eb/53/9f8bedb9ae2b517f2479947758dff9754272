@@ -1,0 +1,5 @@
+changeset 772283005b0d7a4eeed629bfacc21d8530fd0089
+manifest 504aa07666be6b48f1bdfd0038427754c8072876
+extra rebase_source:4a42a080b37104fb49f1f1cfbec884edbab52ba2
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/NetworkUtils.java
+patch 445,519,

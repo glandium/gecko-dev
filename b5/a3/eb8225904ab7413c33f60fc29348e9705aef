@@ -1,0 +1,5 @@
+changeset cb8e3bb177210f9db40e23c7341c7f390fade725
+manifest 20396c248570ac83e0ee6d93772bea0cb6488c95
+extra rebase_source:126a967b3c7d6d999b18b6786d35acd00642c0cc
+files browser/components/preferences/translation.js
+patch 327,401,

@@ -1,0 +1,5 @@
+changeset 2270b8df4dc69790c0cd0b70f2a38621ef652076
+manifest 3ccdf18a18be5f03d57b5554b416938d8fe8308a
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/modules/runtime-client-factory.js
+patch 451,495,

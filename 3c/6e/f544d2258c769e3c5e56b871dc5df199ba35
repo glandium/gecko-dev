@@ -1,0 +1,5 @@
+changeset 187686c0fc83b263b03659edbc1b5051d7df1936
+manifest 225aaccf16ce226f2e99650835e39a62eb4ca53c
+extra source:1de24ca67b864c201f482175c4a986ae8874b48c
+files browser/components/extensions/parent/ext-chrome-settings-overrides.js
+patch 320,387,

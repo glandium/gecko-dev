@@ -1,0 +1,5 @@
+changeset 3a9530f00c6e34de188e71d8832bdf236b37c60d
+manifest 304835b25c195d4b18fb96d7b2e01ba3cf5e66e7
+extra source:84bc19f5cbe5f038f7a60ed75563c7c5a1f0e0ea
+files toolkit/components/telemetry/TelemetryReportingPolicy.jsm
+patch 326,393,

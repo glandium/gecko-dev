@@ -1,0 +1,5 @@
+changeset 17b23e75aceb41443341e8de0802f7b9d40e6040
+manifest 255362146d4ea07980a58adafac934ecf088cf42
+extra source:7a4f627e88ea22e46da8b94f445069317d8784cf
+files security/sandbox/chromium/base/win/scoped_handle.cc
+patch 452,519,

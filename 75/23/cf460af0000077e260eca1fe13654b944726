@@ -1,0 +1,5 @@
+changeset 8bc4c9d724e76360fed82573a18edbd68718d251
+manifest 1707401ee4ee4a6926b3f2380fc05ae1f1883a1b
+extra rebase_source:133b09ba8c995368d2e0dae91dab0504e96c0651
+files devtools/client/shared/components/VisibilityHandler.js
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset f21e2839396e3057ad8bf44bf473447196c5f9f0
+manifest f837d9e56a7dca970b75eae3064f01f94661a3fe
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/util/Callbacks.kt
+patch 379,423,

@@ -1,0 +1,5 @@
+changeset a578e22f77c66a526d59050bd6ff4b274accfdcb
+manifest 76b9caea538dbbc1bfa50ade31e7ac3f2c2c4563
+extra moz-landing-system:lando
+files dom/base/nsFrameLoader.cpp
+patch 292,336,

@@ -1,0 +1,5 @@
+changeset 7002b1d37d0ce38568466a46f20ce425c2c7a8a6
+manifest 27c9a76838ccfec2190ae16873b3982b72987b2b
+extra source:6d595a423fb52766abb5c1d10d4b9d7d6027d68a
+files dom/plugins/base/nsPluginStreamListenerPeer.cpp
+patch 493,560,

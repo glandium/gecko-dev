@@ -1,0 +1,5 @@
+changeset 6af3f537a0632e321bc6c718e780bfb10c41c05c
+manifest e5bc914a20dd2cec53b3c54c1ef6e1f4220a295d
+extra rebase_source:323559cbac6dd877b32f17bdc810975078583934
+files browser/modules/ContextMenu.jsm
+patch 432,506,

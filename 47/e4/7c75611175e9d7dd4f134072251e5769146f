@@ -1,0 +1,5 @@
+changeset 5a5e1801bb364fe3771cc8c14100ca5ca6331610
+manifest 14aa7de16fa28c095bd09111ce68e00dc5b55dc4
+extra moz-landing-system:lando
+files toolkit/crashreporter/nsExceptionHandler.cpp
+patch 311,355,

@@ -1,0 +1,5 @@
+changeset 80144c8b5d4e020c0e17b916e07006a9ecbde1c2
+manifest fe9c847e242f803c9953ef50324872e8c22dcb16
+extra moz-landing-system:lando
+files browser/components/sessionstore/SessionStore.jsm
+patch 353,397,

@@ -1,0 +1,5 @@
+changeset 7cd77e1f06e43733da26b58d331ec52563fa8157
+manifest 41a54e4720cf6abc10a18031dd397ab64bc80277
+extra rebase_source:919bf3b8a455415de400160f6c7781c33cc0dc7d
+files toolkit/components/satchel/nsFormAutoComplete.js
+patch 339,413,

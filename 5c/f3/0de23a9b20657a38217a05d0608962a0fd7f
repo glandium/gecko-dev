@@ -1,0 +1,5 @@
+changeset 3525c92cb5f654f862b964b88983cc8325e34769
+manifest 135c67bcdb4ce42b6d452a9839eb61ee58dfb38c
+extra rebase_source:ef4e0b5505cc85e95e1717d056d38c00d78872c5
+files testing/mozharness/mozharness/mozilla/testing/codecoverage.py
+patch 556,630,

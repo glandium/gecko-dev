@@ -1,0 +1,5 @@
+changeset 82bbee36c7dc5273252d761b6ec66da6f2b0ead5
+manifest b3e51532f40d9622506fd96f0271629785193e27
+extra rebase_source:ec726b7b2a409e6e30dcdee2e5795eabacd56fb6
+files tools/tryselect/selectors/coverage.py
+patch 296,370,

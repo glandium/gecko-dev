@@ -1,0 +1,5 @@
+changeset 8c5b8d43d64f5097f3e70b4fdf789e488a784d86
+manifest 350cd7ae5f8cd1ede79368cfed6421c1cfecca15
+extra rebase_source:60b5877f237644d99e97c19e8086e2302b2aad84
+files parser/html/nsHtml5TreeOperation.h
+patch 269,343,

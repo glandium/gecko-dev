@@ -1,0 +1,5 @@
+changeset b5ad0c384202b82b67d25949bbf6cde061b99cbe
+manifest 15e28a8df02ecb0d8882ffb77ce4395383b7b925
+extra rebase_source:cb690c9af4200276718ec1e07bbd2551d71b5033
+files toolkit/moz.configure
+patch 246,320,

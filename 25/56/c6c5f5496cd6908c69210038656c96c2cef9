@@ -1,0 +1,5 @@
+changeset 34a4eebfa1654dca3cd19e1349cff13e406f2ee6
+manifest 3aaa6cbdeecc122b4c0f711c7560675ba2422ab1
+extra rebase_source:5840b8acc2e0e824d5b4e7c949c344409f3ecbda
+files mobile/android/components/extensions/test/mochitest/test_ext_options_ui.html
+patch 346,420,

@@ -1,0 +1,5 @@
+changeset 0e0d83a0de607d6c30168482f24b02af51bb0e48
+manifest 18dce7f9d1bc96be3adae46fb09dd687f1dc4ecb
+extra moz-landing-system:lando
+files mozglue/misc/interceptor/TargetFunction.h
+patch 534,578,

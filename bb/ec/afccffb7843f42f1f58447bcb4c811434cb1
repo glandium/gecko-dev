@@ -1,0 +1,5 @@
+changeset cf818881916e229084ac2af2bf8a120760211012
+manifest f35866e3aa5fa5c437c1c4d71eb2cd1debf742de
+extra rebase_source:33dc3a3724b8dafc86279e38b9ce87d9e2e13f49
+files js/src/jit/x86-shared/AtomicOperations-x86-shared-msvc.h
+patch 308,382,

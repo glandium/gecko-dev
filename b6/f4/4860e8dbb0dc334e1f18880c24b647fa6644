@@ -1,0 +1,5 @@
+changeset 620be2ce2c8c8f346f4fa30a167e7c6afd995fd1
+manifest 3205ac2c1fcec3ef1be3d74784cdebd2837eaeb2
+extra moz-landing-system:lando
+files browser/extensions/webcompat-reporter/background.js
+patch 363,407,

@@ -1,0 +1,5 @@
+changeset 736a50d4556d358b056ceb79494a2c98a344fbeb
+manifest 053914aaf3ee3d8bc6e73e39ad26bf392e13c529
+extra rebase_source:81e7774d7b1af31ee188b76afdac5062db1ab811
+files tools/tryselect/selectors/syntax.py
+patch 730,804,

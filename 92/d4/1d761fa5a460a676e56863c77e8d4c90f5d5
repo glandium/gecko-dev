@@ -1,0 +1,5 @@
+changeset 06c3ceef79456689c1b53d4bd07f75cfb71be142
+manifest d53490cbad1561f82fb653696bf08d06a3a61537
+extra moz-landing-system:lando
+files gfx/layers/ipc/UiCompositorControllerParent.cpp
+patch 512,556,

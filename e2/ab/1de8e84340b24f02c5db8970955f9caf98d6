@@ -1,0 +1,4 @@
+changeset 48d85433e58bc4a3cec998c39ca492e1f891ddd6
+manifest b282e763bf97d5b24d36ede333a00de6814dc993
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/middleware/BufferingMiddlewareRepositorySession.java
+patch 349,350,

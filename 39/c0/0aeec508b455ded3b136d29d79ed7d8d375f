@@ -1,0 +1,5 @@
+changeset 6f19fdfde8fbfa2652cade5616bac2a6b0d9aabe
+manifest a7efad4a87fb60aea249f31ba71e9d6832d4bcda
+extra moz-landing-system:lando
+files browser/installer/windows/nsis/stub.nsi
+patch 436,480,

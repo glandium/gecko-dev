@@ -1,0 +1,5 @@
+changeset 187838f9aadb406508259dc934cd99f66da7ce6b
+manifest 7e5570695dc93a4e717d3ef08beb07223abddcc6
+extra amend_source:f1b78843b3b3dd5c44067b7519ba0adb52e37721
+files testing/tools/websocketprocessbridge/websocketprocessbridge_requirements.txt
+patch 348,421,

@@ -1,0 +1,5 @@
+changeset 1caceba533ebc4ecf677b434299e37e3511356dd
+manifest 5c2cc2b8f8f0f775b098dae2cfb3df912b64345b
+extra rebase_source:043a2e7c2b1380f29d46dc889b5b299ecccfcec8
+files js/xpconnect/src/XPCShellImpl.cpp
+patch 236,310,

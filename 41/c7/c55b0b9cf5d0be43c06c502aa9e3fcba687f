@@ -1,0 +1,5 @@
+changeset b992c7c7fa043105a405964e5555a6f4ef616efe
+manifest 76785b3ded786ed0600f199075a60662bf01ec87
+extra source:a73bf50396ab6e6756c06bac380ef2bb36edbd41
+files testing/marionette/puppeteer/firefox/firefox_puppeteer/mixins.py
+patch 511,578,

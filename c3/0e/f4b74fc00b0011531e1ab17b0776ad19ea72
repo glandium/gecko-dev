@@ -1,0 +1,5 @@
+changeset 01a517eeb9e6aaa9f5973599976a0dfcebbbbe8f
+manifest b3198e79a42843ead757f34c9cbfd21d2f1eb9b4
+extra moz-landing-system:lando
+files browser/components/search/content/searchbar.js
+patch 437,481,

@@ -1,0 +1,5 @@
+changeset 1f07c08daa416a247b6e5b76ef61a795ce72a406
+manifest 31c52dfbdc5fabcce743a00fda02b0ca709bc7eb
+extra rebase_source:01386c0a91dd5262cbee95ecbd0be6df5539006a
+files browser/components/resistfingerprinting/test/mochitest/file_animation_api.html
+patch 864,938,

@@ -1,0 +1,5 @@
+changeset fb9b6c3665571b702d087dce1bf9e6e024c92131
+manifest 0192729810862ef49ee10a54e877d41f3cf16d3d
+extra moz-landing-system:lando
+files browser/base/content/browser-sync.js
+patch 580,624,

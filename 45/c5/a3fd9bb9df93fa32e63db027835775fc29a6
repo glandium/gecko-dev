@@ -1,0 +1,5 @@
+changeset a10cf3a4d0e6a7d80154fc8bc2ed4f25a1085d8d
+manifest 7e339d6b15c0ddb57f70b9fe203014c0e7b69c2e
+extra source:daa8b0da148401937dc374d527f630b05d88e31e
+files build/moz-automation.mk
+patch 283,350,

@@ -1,0 +1,5 @@
+changeset f60a7c1ec1efb3312ae1ec49b9fbac22ba3a1b2f
+manifest dea89ea32e52dfb99eb8049843d8626910989dd7
+extra amend_source:950b8705896cbe861366f1ea80f657d5debd097a
+files widget/gtk/WindowSurfaceX11Image.cpp
+patch 253,326,

@@ -1,0 +1,5 @@
+changeset 33f88f277d0ba2b04831c1d22970ed6185ae8440
+manifest 26220e531ce9b244e376660c7157d9cea5c05dba
+extra rebase_source:b59ddbe9dd6d2e7335d9a414fa77baf3f78ccaed
+files toolkit/xre/MacApplicationDelegate.mm
+patch 327,401,

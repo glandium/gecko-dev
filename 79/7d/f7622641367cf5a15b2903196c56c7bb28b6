@@ -1,0 +1,5 @@
+changeset 5c4c6942a87a65ea847b0a1b95bda771dcd670c7
+manifest ee747d92acb0af08a7ff70ef0d8bfa755279be2e
+extra rebase_source:44078fa03df8ce7650d71ac0ad401a30827f2d83
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_websocket.js
+patch 467,541,

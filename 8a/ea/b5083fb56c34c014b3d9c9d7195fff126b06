@@ -1,0 +1,5 @@
+changeset e6b2a8854efce7e3fa4befc8af62f3a436850da6
+manifest 9e59083e047d14d26c2426df198d297dcb8351dc
+extra rebase_source:61b8b6c7cb908826835286fac061762d60d2198e
+files mobile/android/base/java/org/mozilla/gecko/home/HomeContextMenuInfo.java
+patch 387,461,

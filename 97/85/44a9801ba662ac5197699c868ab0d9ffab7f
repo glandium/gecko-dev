@@ -1,0 +1,5 @@
+changeset 1ca8ceb7b7fabca08691e54930acf604d3aee960
+manifest 3e01777a6ca53adbad2d8ce1f31fcb11d5a6ab6b
+extra rebase_source:33a652fbf65ccc2c92c8916f2d10b7b19555117a
+files mobile/android/components/extensions/test/mochitest/chrome.ini
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset cb4ac444390794347fa89c101c8743196bf33824
+manifest e93bbf07415d320e4a14021aa8e639e400a79d43
+extra source:8835be784a0dadf488e750e5bd73cdc78d805f79
+files xpcom/io/Base64.cpp
+patch 365,432,

@@ -1,0 +1,5 @@
+changeset bce1b588653a2c8c6884e0dcce569c820b81651a
+manifest c4c000d468bd07a341778b7df46743b0ae6a5b2c
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/content/extensions.js
+patch 320,364,

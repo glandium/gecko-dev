@@ -1,0 +1,5 @@
+changeset 8047901cef0e5c166c1ba26c327f5f5581851f20
+manifest 37d90b4a80ff3a8f04d7bd5ca57b1fdc5e487578
+extra rebase_source:2e8162c142c03647f3bf94c7784e212dc4c8fd55
+files js/src/vm/JSObject.cpp
+patch 236,310,

@@ -1,0 +1,5 @@
+changeset 56aaeff290b7cbe2b9efc43ef8a651049c3fe6b0
+manifest 92a18871daa6c7bfc9323059c3a477966fc6e27c
+extra moz-landing-system:lando
+files browser/components/extensions/extension-mac.css
+patch 324,368,

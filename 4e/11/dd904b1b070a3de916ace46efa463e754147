@@ -1,0 +1,5 @@
+changeset d378f97755ea43ae3474a38e2fbe7e8515c7b175
+manifest 479432662e6640a2b0e78a1827781c30d403f3e2
+extra rebase_source:feadbe7b6a41705e24a76c02bdf1c5c400d001a3
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/AccessibilityTest.kt
+patch 565,639,

@@ -1,0 +1,5 @@
+changeset 5c5c9cc183a0a4cd14a4a16aab4ec228adbffb16
+manifest d14541709ed7b7232dce9267db4c9cc1cf205599
+extra amend_source:c9443b79b1dc55b73424800fe8611d3e4b281392
+files tools/lint/eslint/eslint-plugin-mozilla/tests/use-chromeutils-generateqi.js
+patch 354,427,

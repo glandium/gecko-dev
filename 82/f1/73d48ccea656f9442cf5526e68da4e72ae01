@@ -1,0 +1,5 @@
+changeset 2f8c6602c65033b5df480984c6259a3bc38c81ff
+manifest d16b116a26cdd51bb590aa78a7dd1b27ef891470
+extra rebase_source:4f134f13c06acfec78a2bfb7d9127a27dc21a9ee
+files python/mozbuild/mozbuild/backend/templates/android_eclipse_empty_resource_directory/.not_an_android_resource
+patch 371,445,

@@ -1,0 +1,5 @@
+changeset fb8b790f8f4759c978c6b49ae15b94804a0d89e9
+manifest c71230b768cecd5af3dd503982b92e1ca0c223b0
+extra rebase_source:a6f1942451e5774ab33f003a10cac5fb1d875f9e
+files mobile/android/base/java/org/mozilla/gecko/activitystream/ranking/HighlightsRanking.java
+patch 346,420,

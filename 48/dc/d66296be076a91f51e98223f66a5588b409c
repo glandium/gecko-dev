@@ -1,0 +1,5 @@
+changeset fc97fee911361eecb8ee4ea4bc00ca08020e1ebd
+manifest bd2b3950a3badf8239a7fbb7c4e53088e1dd3783
+extra source:328536bee4f5d9ed12019af804dc78218064fb6d
+files netwerk/base/nsIOService.cpp
+patch 320,387,

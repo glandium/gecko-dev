@@ -1,0 +1,5 @@
+changeset 46af948408eac81a87eefc6b401d4d09acb881d1
+manifest 588d44050110b4144b7a4a88e95947d5d123548f
+extra rebase_source:c2fbe2669ca8a5993e26b357f53dc38341fd6bf6
+files editor/libeditor/EditorBase.cpp
+patch 860,934,

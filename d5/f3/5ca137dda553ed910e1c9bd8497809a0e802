@@ -1,0 +1,5 @@
+changeset 10b8ab80417dafbf54c53b7916b3493e015d2bc2
+manifest afe3b719ba1e5b1970bdbcec5bb0c9f227701cb4
+extra moz-landing-system:lando
+files browser/components/preferences/browserLanguages.js
+patch 310,354,

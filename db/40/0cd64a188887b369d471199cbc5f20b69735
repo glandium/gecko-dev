@@ -1,0 +1,5 @@
+changeset c88acd1ac1b5869e83b257846a2542d6f1a3d8c8
+manifest 654d02d1f943f09e4a54f56d1012dea4c6868bff
+extra moz-landing-system:lando
+files browser/themes/osx/browser.css
+patch 306,350,

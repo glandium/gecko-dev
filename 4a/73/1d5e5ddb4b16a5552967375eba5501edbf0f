@@ -1,0 +1,5 @@
+changeset 25306fd0843955f1a93a930ee77b6a665b97053a
+manifest 432376ea279561134cbfcd485080415344f4c56d
+extra rebase_source:f4e79dd18122b9a7a3af6a2850e36f801a9a1c96
+files browser/components/extensions/schemas/context_menus.json
+patch 306,380,

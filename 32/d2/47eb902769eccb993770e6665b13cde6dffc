@@ -1,0 +1,5 @@
+changeset 4a2b5682bddf10d2a9a2ee6d7d67f8391553c06b
+manifest 27bec0d2e5da8612909eb1e767e50e98c7ec3581
+extra rebase_source:73b9c196ca196d8d1226acb86855ad8b0b5dd4a4
+files mfbt/AlreadyAddRefed.h
+patch 263,337,

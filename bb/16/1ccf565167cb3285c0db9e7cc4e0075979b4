@@ -1,0 +1,5 @@
+changeset 63ab95c187d40e409b8fffb7f24c934fc38fd341
+manifest eef0fb6b8d16cb6ec14d07d5bde0921697d49396
+extra rebase_source:4da6712708a55b2ec32ccb9ee0c14afd56c19661
+files widget/gtk/mozcontainer.cpp
+patch 313,387,

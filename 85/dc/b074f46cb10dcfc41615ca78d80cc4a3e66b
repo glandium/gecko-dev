@@ -1,0 +1,5 @@
+changeset 2fe5a97dd750816987d3534bdba0d5ddccc73537
+manifest 2d5af6a5c6bf558c40d8be40d5e7bc3889418049
+extra moz-landing-system:lando
+files dom/base/Selection.cpp
+patch 731,775,

@@ -1,0 +1,5 @@
+changeset fe8861d79a73ab2a051fccd27bf6707edef89620
+manifest 8757c6794febec2d6fba40428ec89715fa58f5c2
+extra rebase_source:71bea472621901498ad55490d2126568f54abe4d
+files browser/config/mozconfigs/macosx64/l10n-mozconfig
+patch 633,707,

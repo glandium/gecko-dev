@@ -1,0 +1,5 @@
+changeset 31f260db9192b9965b19736b5d5007fa49283807
+manifest 39302c8d503f8583b783fdeefdccf1db0585ee99
+extra rebase_source:59d724dafd8c9739869a70272e2c9d2778958ffe
+files toolkit/mozapps/extensions/gen_built_in_addons.py
+patch 505,579,

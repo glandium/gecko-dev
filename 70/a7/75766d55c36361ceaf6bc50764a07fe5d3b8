@@ -1,0 +1,5 @@
+changeset 7818d19d769d177ed68596d02eb0a10b4d48b7cc
+manifest a6c0d3060fd7e8849cbb3226dbabd8fe37ef107b
+extra rebase_source:a2d204222a7ed509968bbeffa4aa7483ec524796
+files xpcom/ds/nsAtomTable.cpp
+patch 302,376,

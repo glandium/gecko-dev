@@ -1,0 +1,5 @@
+changeset ce4d5be6f3fb01e6f896d7be1ee5a027289b28a4
+manifest 5f5d43470121d9fe99d0660cae27ee5c3f8b2e58
+extra rebase_source:54c777e0f0d730384370dc9afb579b47fbfc3ef2
+files gfx/cairo/cairo/src/cairo-scaled-font.c
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset 1c5bd07226cae0c640d95463b94e60c66db1f5a7
+manifest e385f51872465ff4e9ad8419d307b6921fe0dcbb
+extra rebase_source:50a33bcc59b0321d274ae8649d37b73ef4c57a98
+files devtools/client/shared/test/browser_telemetry_sidebar.js
+patch 352,426,

@@ -1,0 +1,5 @@
+changeset 94a9c739e3293b9de209b28f1f52ba41755622e0
+manifest 97fecbb846e2d902da9dd693fbe8cbd06e5a5038
+extra moz-landing-system:lando
+files toolkit/components/normandy/content/AboutPages.jsm
+patch 306,350,

@@ -1,0 +1,5 @@
+changeset c7f31b684841a1302d98bbe0e45415d15668bd6f
+manifest fb6f755c09d19e4464174dc1b7e9a846d162b0a2
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/content/shortcuts.js
+patch 307,351,

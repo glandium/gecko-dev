@@ -1,0 +1,5 @@
+changeset caafdc0ea4c7ca4fd0e7b2c053c89472fae5219b
+manifest 9ec292e27267ab883e01ce8af50ce43c93fdec7d
+extra moz-landing-system:lando
+files devtools/client/framework/toolbox.js
+patch 326,370,

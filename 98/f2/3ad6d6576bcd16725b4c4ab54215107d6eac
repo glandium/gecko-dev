@@ -1,0 +1,5 @@
+changeset 802042e3b5e061a3e832289021e02e6ac7718377
+manifest 4e7e7ea242609f0c8e0c9333dedaa1962ce3e4a3
+extra rebase_source:9b8e997d059b4d693772255c8cb60694e911e05b
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/HighlightsDividerItemDecoration.java
+patch 353,427,

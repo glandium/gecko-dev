@@ -1,0 +1,5 @@
+changeset cb236dfdd7bbffb31d9fc33e22d9645f768f9a42
+manifest 94e7dd23749bf8772c72063f0a6968f5f4c72309
+extra source:b4f88e70e5965001e76136c780d0c5a01d8e9537
+files toolkit/xre/nsXREDirProvider.cpp
+patch 315,382,

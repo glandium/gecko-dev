@@ -1,0 +1,5 @@
+changeset 63a0d1c2d2b91e9d7ec39d3b0be83e90efe82f06
+manifest 2a711436926dba0d0b4d1fab3c0528cfb7e13cfa
+extra rebase_source:933bf29e3035c961bfc921dec7947dc311bfb70d
+files testing/mozbase/mozhttpd/tests/manifest.ini
+patch 303,377,

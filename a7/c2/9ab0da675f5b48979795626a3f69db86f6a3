@@ -1,0 +1,5 @@
+changeset dbab4e3611fb95778c944fc66ab9edca42c88133
+manifest cd5787eeb964affd636c022f0bf848c3cb310829
+extra moz-landing-system:lando
+files mobile/android/modules/Sanitizer.jsm
+patch 456,500,

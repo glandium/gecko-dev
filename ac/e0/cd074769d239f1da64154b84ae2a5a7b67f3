@@ -1,0 +1,4 @@
+changeset b93c29157feb5f14b7964b7f83ca88560dc508aa
+manifest edf65a5be2f8f5e2bba661bbf04bf2871d55f5da
+files build/unix/build-gcc/build-gcc.sh
+patch 363,364,

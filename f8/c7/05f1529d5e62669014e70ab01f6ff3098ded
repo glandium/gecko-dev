@@ -1,0 +1,5 @@
+changeset f1455bc47683cfb08083e60506a612d190419d1e
+manifest d6f6f6f2aeaef20553ebe0505a9626e84fbae0e4
+extra moz-landing-system:lando
+files testing/awsy/conf/prefs.json
+patch 423,467,

@@ -1,0 +1,5 @@
+changeset 858eaf4e3f0044a5ee9f79dee8b3a0a57a0c3963
+manifest 8b4b0be71bf8f945ed2befe37be73274e36d35a1
+extra moz-landing-system:lando
+files layout/style/nsMediaFeatures.cpp
+patch 561,605,

@@ -1,0 +1,5 @@
+changeset ce3ea20937f70b2c8d4a166b21702b7d6cba0cbd
+manifest 5ec8d00a22e6ae22f77b3b91b77f1c4b8c87e721
+extra source:d0da2be2c9508f48b8e4804bd4a4ca3b37b56d4f
+files netwerk/base/nsStandardURL.cpp
+patch 287,354,

@@ -1,0 +1,5 @@
+changeset d9e71df3d1d7a6dbf8effeb426273cd901d7700b
+manifest 4544baab0dd331a8781e5a62fac043e6eedc915c
+extra rebase_source:c2dac7c675acfbc6697a53ddcdc600f84d4f2253
+files js/src/frontend/BytecodeCompiler.cpp
+patch 403,477,

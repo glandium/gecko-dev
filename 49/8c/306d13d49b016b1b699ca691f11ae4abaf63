@@ -1,0 +1,5 @@
+changeset d5edb89adaa1c2dba98e3323e017373a11d49d1f
+manifest 7df027935fd6cb20dad8b748b80795f6c81dae07
+extra moz-landing-system:lando
+files browser/themes/linux/browser.css
+patch 304,348,

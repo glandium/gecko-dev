@@ -1,0 +1,5 @@
+changeset f9d4885e89567facc7d29ca80138f954138207d5
+manifest 8489c9831f7bdcc293e6156d45c5b20544ab73fa
+extra rebase_source:de392b4a3102e867e67d988da4aa4e0bd0da2bd8
+files browser/components/payments/test/mochitest/test_payment_dialog.html
+patch 342,416,

@@ -1,0 +1,5 @@
+changeset 38faa7d2c936221cd97115488c9940e5c70bc232
+manifest 9d91a463fcb4b6b98e6c02273e38354f8ac6509b
+extra rebase_source:1ace95a6b6b0cc35ff63fda514132471c5a59f6e
+files taskcluster/taskgraph/util/attributes.py
+patch 310,384,

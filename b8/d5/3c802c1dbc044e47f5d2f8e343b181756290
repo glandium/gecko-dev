@@ -1,0 +1,5 @@
+changeset 5176b60155271526be427f6e3ef90e3f2ea8bf2f
+manifest 2d13e4c7f93c56d0848644a26bb7ca37ce4f5e70
+extra rebase_source:e99a49144b7f2c90941efd48eac8d9ff756fb8b6
+files dom/base/nsCopySupport.cpp
+patch 286,360,

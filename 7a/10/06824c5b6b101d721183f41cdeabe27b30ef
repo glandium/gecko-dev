@@ -1,0 +1,5 @@
+changeset 772dea1abb7f7391bb8df72699db4d66919379e9
+manifest 823fd1ab9e2df0ace95a7ddb36d9c22b7ea5767b
+extra rebase_source:1deef9e50a578b4ff24f3d44fafe4992838d0ceb
+files security/nss.symbols
+patch 270,344,

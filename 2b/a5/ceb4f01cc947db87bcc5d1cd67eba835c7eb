@@ -1,0 +1,5 @@
+changeset f833d5220c821a2c19c60c6ac5378c677bebbe71
+manifest 5b7055619a363cebc8c8fcab46f9797c827b3c64
+extra moz-landing-system:lando
+files intl/l10n/docs/fluent_migrations.rst
+patch 516,560,

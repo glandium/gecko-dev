@@ -1,0 +1,5 @@
+changeset c64750c35eb71b273943bac1f4e6e7229842f6bc
+manifest ea0abb64e9bdafcc139e20b1cee86815fd761a13
+extra rebase_source:1ff0c60205cc6c431bdc7a66d6ad91f000a4705d
+files dom/base/nsIDocument.h
+patch 401,475,

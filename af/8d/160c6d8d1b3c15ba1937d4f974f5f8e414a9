@@ -1,0 +1,4 @@
+changeset 79a4bd8ad6ac4ca92e7b482113f731144b0964bf
+manifest 2d252de20a8d5731ed75c870d84e03f68e8a0a76
+files taskcluster/taskgraph/actions/release_promotion.py
+patch 217,218,

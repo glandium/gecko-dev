@@ -1,0 +1,5 @@
+changeset d40fbd0c1a779633e1bd1f0c77cfcbb4f9e6e35a
+manifest d244a864601d23656528d8202ca5688dbff61c37
+extra moz-landing-system:lando
+files browser/modules/ExtensionsUI.jsm
+patch 424,468,

@@ -1,0 +1,5 @@
+changeset 2a487fe0f3d8a0490bb2d6a3bed75b803d062e06
+manifest 9118a1bdc39b502456e2b030c573df7fc761f9a9
+extra source:d5bc4f182ec309b2d9577b5d7a0414d9d4ed7c0b
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/StringUtils.java
+patch 328,395,

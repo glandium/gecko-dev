@@ -1,0 +1,4 @@
+changeset e36e786ee959665028232d8c6dab1e252c296161
+manifest 74b75f1614a7ac47cb1a2a5a3f20692d4fec182a
+files servo/src/components/gfx/freetype_impl/font_context.rs
+patch 357,358,

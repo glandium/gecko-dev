@@ -1,0 +1,5 @@
+changeset 70cc9d6d659f726d328bfd6b529b28adccd62b5e
+manifest ef8413a2a297451c91da2aa755ca52e23f57fb55
+extra source:032ad85ded1f4a4903ffc33aed865f5c968db5d1
+files mobile/android/base/java/org/mozilla/gecko/toolbar/CanvasDelegate.java
+patch 440,507,

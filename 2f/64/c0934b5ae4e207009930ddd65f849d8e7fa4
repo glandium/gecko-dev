@@ -1,0 +1,5 @@
+changeset 711abaf3cd7264ac74f10ae4a1996a400ae81ef4
+manifest eefcc969b0848ac757f1badb66fc695c667e5675
+extra moz-landing-system:lando
+files layout/forms/nsRangeFrame.cpp
+patch 627,671,

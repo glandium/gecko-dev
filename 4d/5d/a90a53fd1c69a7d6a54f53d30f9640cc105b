@@ -1,0 +1,5 @@
+changeset 713ec2a7dc6ca812cd93aacdc6c2ec690db21486
+manifest a78c92c0cb6fc9e7814f74cfd5b1f7812f4ca39d
+extra rebase_source:44758e1f0eabfe0b02b654dd48317f320b79a217
+files uriloader/exthandler/ExternalHelperAppChild.cpp
+patch 766,840,

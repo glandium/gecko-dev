@@ -1,0 +1,5 @@
+changeset efcd26d12ba67440a1bb46cec29992f8b707136e
+manifest e8b17b7a8c47375b75e2ce4f8152a42abb416aaf
+extra moz-landing-system:lando
+files browser/components/extensions/ParseBreakpadSymbols-worker.js
+patch 438,482,

@@ -1,0 +1,5 @@
+changeset 78ac68316644d169dd150132917bba3e58a7f4b7
+manifest 6ed92c9d60614c38d0a638ba7e0069b8143a6bad
+extra rebase_source:f3558973b0153fe2104f0e612120298d711fc491
+files testing/firefox-ui/harness/firefox_ui_harness/runners/update.py
+patch 413,487,

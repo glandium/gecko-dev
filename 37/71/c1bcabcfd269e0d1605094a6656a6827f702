@@ -1,0 +1,5 @@
+changeset ab436fa8add92c153513aa8eedb8ccd5658976c7
+manifest 3c33149df0d07f00bc11fd09c5fdb28a0fcb61b8
+extra rebase_source:516c2a8fb8c9c8dbb2e9927e1906b552d674977d
+files xpcom/ds/nsTHashtable.h
+patch 314,388,

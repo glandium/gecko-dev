@@ -1,0 +1,5 @@
+changeset 35c3aff251f06de9cd80cb5193abc5cb80d33166
+manifest a9f943e288c1b3c34b2381a0e43049c502875d62
+extra moz-landing-system:lando
+files editor/libeditor/HTMLTableEditor.cpp
+patch 368,412,

@@ -1,0 +1,5 @@
+changeset c5ab3b44dbf12b0f1a5c0f740ec630aecac27636
+manifest afaa902df15a41fa42a64b88d35ba9d195e1bb99
+extra rebase_source:c9ed9e5a1d32d38a0c2dcaf1c81531692f5d8dfc
+files browser/components/extensions/test/browser/browser_ext_omnibox.js
+patch 320,394,

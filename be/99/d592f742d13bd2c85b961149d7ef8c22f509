@@ -1,0 +1,5 @@
+changeset a144f70802556b43c56fb9f967b5a2ee7f5feec5
+manifest 6a4c3264032df166435a77ca4426e209fc64ab0e
+extra source:c9bfe1a78bbbc0e2b13d7635dcf17177fcdda062
+files taskcluster/ci/test/talos.yml
+patch 257,324,

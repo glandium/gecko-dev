@@ -1,0 +1,5 @@
+changeset 0fea861352633dba7bb3223be05107561413ce2b
+manifest 850f646b235c249b058483ae262d687d6993e274
+extra rebase_source:4daa2218f57b86a2fcb9f6b3f582bae7dd65b4a4
+files widget/gtk/ScreenHelperGTK.cpp
+patch 269,343,

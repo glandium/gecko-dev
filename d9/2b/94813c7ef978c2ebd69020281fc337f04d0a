@@ -1,0 +1,5 @@
+changeset 04a9320069d7e233b88586151bdceb9c353064b4
+manifest 938a0e071b9a98789dc72114bdd6e1a2659bd96e
+extra rebase_source:b91630234c96cea9d689c57d4430bd4296622d63
+files js/src/vm/TypedArrayObject-inl.h
+patch 444,518,

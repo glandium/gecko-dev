@@ -1,0 +1,5 @@
+changeset 56678d58795c00d89f71d646d9c4055764bdda69
+manifest b9f5c1ed871978bf35dac8a29862b4a01784c0ff
+extra rebase_source:04a140fd7587fe50a98d82fda43e360f64b0632b
+files toolkit/components/satchel/nsFormFillController.cpp
+patch 323,397,

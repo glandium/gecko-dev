@@ -1,0 +1,5 @@
+changeset 2db40e6211b2dfc0f417a7548099ea6930997a97
+manifest 7f42fe424d49cf30458bf42ae97c9cdcad8c8cce
+extra moz-landing-system:lando
+files taskcluster/docker/image_builder/Dockerfile
+patch 807,851,

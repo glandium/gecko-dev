@@ -1,0 +1,5 @@
+changeset 70dea85b00e32cd0710877eba50cc1790e538c71
+manifest beefe8e25d370c04668716c0ccbd97a272bf31a5
+extra rebase_source:0bcc4f8fe5c24ef3cbe8f0384a8fa37ac820f12d
+files devtools/client/jsonview/converter-sniffer.js
+patch 364,438,

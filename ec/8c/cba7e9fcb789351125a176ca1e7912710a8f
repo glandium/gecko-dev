@@ -1,0 +1,5 @@
+changeset 38f4e0426bdd81c0acdce3929e3e3d81370d1273
+manifest 078e19625ddfeb123ce6c48645f1ff1fddf6d8d2
+extra rebase_source:c1864a51269818de7b70c276b53464e6daa48f2a
+files toolkit/components/aboutmemory/tests/test_memoryReporters.xul
+patch 283,357,

@@ -1,0 +1,5 @@
+changeset a381650bea90c7603319b901a5f5e4f8ff4f58f4
+manifest 3e878f438574f0fca5931f428ac339956f3b9f77
+extra rebase_source:446933ac19330b2404f453b91c09b8bb83e191d0
+files browser/extensions/shield-recipe-client/bootstrap.js
+patch 321,395,

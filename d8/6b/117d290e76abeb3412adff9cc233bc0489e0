@@ -1,0 +1,5 @@
+changeset 3ab31d78bc2153a115d7e9a155a92a093659e8ab
+manifest f3372e1e984206f733305b19ea781b2beb0fcf45
+extra rebase_source:c35fa4faba8511954bc76630fbcbdf4919d3bd14
+files layout/generic/test/test_bug470212.html
+patch 245,319,

@@ -1,0 +1,5 @@
+changeset 653b89c61e4946a8ec12f33c9b16d4f751e0b956
+manifest c8c797eedac0f61f341e9795c9850d38d053ca74
+extra moz-landing-system:lando
+files testing/awsy/awsy/awsy_test_case.py
+patch 322,366,

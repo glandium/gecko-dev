@@ -1,0 +1,5 @@
+changeset a1cdfee7cb078b53bbdb06b28039522a7e3da7cb
+manifest 6289696ab0457b97fd3aa12679b66f6d4a12fe8b
+extra rebase_source:cffc588ab789028d1fd0058ebbe765dc5eef69a4
+files browser/components/contextualidentity/moz.build
+patch 318,392,

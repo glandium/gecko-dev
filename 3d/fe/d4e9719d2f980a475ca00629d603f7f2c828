@@ -1,0 +1,5 @@
+changeset 73465281b97cb8ac0757eb2bab86a744bce637de
+manifest 9a56b780c3ff79803644e1e55a07e9d564634fc1
+extra rebase_source:380b209f2b437cfd398b594292e87a1e7d7f78f8
+files devtools/client/inspector/shared/highlighters-overlay.js
+patch 311,385,

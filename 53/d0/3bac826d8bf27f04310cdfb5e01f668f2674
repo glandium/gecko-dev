@@ -1,0 +1,5 @@
+changeset 68b9c1aab81005b7b3225d621f49efa32d3b5cc0
+manifest dec6e21b14bd5fc7e771d0ae857eb71940da0074
+extra rebase_source:3c08a5aab5398eb3b5685b18e5fe06e926db5f85
+files config/faster/rules.mk
+patch 501,575,

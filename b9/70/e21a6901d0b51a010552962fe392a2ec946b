@@ -1,0 +1,5 @@
+changeset e5b43d990d7029f9666225c0fa7eddd3b751a8c8
+manifest 60703840ce58236e7aeedf84fd15ed36f5ab0c5e
+extra rebase_source:60f451e7476f16ed48aeaccb1fc55d3962a2b4b2
+files intl/unicharutil/util/nsUnicodeProperties.h
+patch 362,436,

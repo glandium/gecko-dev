@@ -1,0 +1,5 @@
+changeset 4eb036bf55f0f95d042dbc0ac52fd01fe84eb17a
+manifest ee966e5693c3c32585087bde86e4a22c876271aa
+extra rebase_source:e77e8b1ba70bef6f0ff794b7d066bbbdebe8f58e
+files security/manager/ssl/nsSiteSecurityService.cpp
+patch 562,636,

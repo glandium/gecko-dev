@@ -1,0 +1,5 @@
+changeset 598cfad59614cb1ea27122a66a421da1730c9786
+manifest 0161bb1248f049f9e01b84061c19beea0493d855
+extra rebase_source:b3fb7fd78e1deec27c3ceb2bcc706e2e3e201e9e
+files gfx/cairo/libpixman/src/moz.build
+patch 534,608,

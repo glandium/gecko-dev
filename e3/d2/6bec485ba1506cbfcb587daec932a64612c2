@@ -1,0 +1,4 @@
+changeset e6e01878350e8230f3734a1889e8d45fd3a039ea
+manifest 84fd9dbf07261652d4c4a69c4d8bc4a6990ce8c5
+files testing/firefox-ui/tests/functional/security/test_safe_browsing_initial_download.py
+patch 251,252,

@@ -1,0 +1,5 @@
+changeset 90b1959687b2adc7f5db7d9ea1a388c92ae6cdff
+manifest fb4cf3b78ef1ed08d4acf855af43addd612b81a9
+extra rebase_source:fb47a1aaf1371797cdd131f9157f8fd1d8f06e26
+files xpcom/tests/gtest/TestPipes.cpp
+patch 264,338,

@@ -1,0 +1,5 @@
+changeset 33804f5a3451b67020f421f6d0722c6c7df3ce6b
+manifest e61df2fa4203c1df222eeb5958b5ab3827e56db8
+extra rebase_source:fab5546108b8da29b3b2e3c8ee02e6459e6fc6dc
+files mobile/android/base/java/org/mozilla/gecko/gcm/GcmTokenClient.java
+patch 484,558,

@@ -1,0 +1,5 @@
+changeset 7751d966a700459e772c29432209eb0085a77824
+manifest e3990030383e555c19db305f6b401efb9d97ed34
+extra amend_source:288950c9516dc9ab608a323561e40a91ab30e466
+files dom/base/nsDOMMutationObserver.h
+patch 267,340,

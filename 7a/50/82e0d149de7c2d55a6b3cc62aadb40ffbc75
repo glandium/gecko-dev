@@ -1,0 +1,4 @@
+changeset ebcf1bc3e264fa838fbd980db9c8f9a4506b9af8
+manifest 631ed40b4e93b9095962aef48bc29fc078fffc4a
+files js/src/jit-test/tests/wasm/regress/onlyjsiter-while-wasm.js
+patch 248,249,

@@ -1,0 +1,5 @@
+changeset 528cabdd966511ef04c7045ead69c7959eb3468e
+manifest d1fd643fa91c4ea47b0a3624c771abc9c81c17e8
+extra source:921e4aa179f85855f7c2331a83d8d4aeab0a88ad
+files js/src/jit/BaselineJIT.h
+patch 329,396,

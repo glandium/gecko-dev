@@ -1,0 +1,5 @@
+changeset 1427fb9bbe9662a0bf51ce6434dc9c1ad541828a
+manifest 7023f97d16e160020d66a7333ebf16b180c0f7d8
+extra rebase_source:1d16ed60b575c48d43e2e1928c518bc197339cbc
+files media/webrtc/trunk/webrtc/media/base/videoadapter.cc
+patch 735,809,

@@ -1,0 +1,5 @@
+changeset 60e83456adb9358ed032dc510db0e25e48534353
+manifest 70ecd4e74f81186143977a92f14a64d818887180
+extra rebase_source:cf4f6256baa4446d673b94d97f9497f93d7917ff
+files build/autoconf/android.m4
+patch 758,832,

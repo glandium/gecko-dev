@@ -1,0 +1,5 @@
+changeset ec33377dad653e3d1b0e4c49a26cf37f2663c168
+manifest d86b49c74656c08c63af1ab686d22df48411c7e5
+extra source:b3787ede5d7baf7e6490758ec5898bd94cb9b123
+files toolkit/components/utils/JsonSchemaValidator.jsm
+patch 343,410,

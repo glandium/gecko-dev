@@ -1,0 +1,5 @@
+changeset 2cbbb3db5c533605f8d5de1ef48b2dd6cc285dda
+manifest 91aa8b311b4b78326c6c3869602e45a93c2b3234
+extra rebase_source:d3e60e458908fb621c3608a2a3f2e08eb739d87f
+files mfbt/Compression.cpp
+patch 299,373,

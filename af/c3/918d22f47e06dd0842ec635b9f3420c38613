@@ -1,0 +1,5 @@
+changeset e957efe5d14c0a7a79483b477e9a6c9a8e7ddb3f
+manifest c56681dc448f67adbc8faf7fe26952b222d64f78
+extra rebase_source:10e6f2cb7da18e8e6d410b52a593b7455f0d76fa
+files xpcom/io/nsLocalFileCommon.cpp
+patch 546,620,

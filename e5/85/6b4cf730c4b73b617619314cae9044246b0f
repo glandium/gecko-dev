@@ -1,0 +1,5 @@
+changeset 776414145c58b27c8135d102d71263164f1d329f
+manifest a64cda94f558d4894961847dacf7488e5685cc68
+extra moz-landing-system:lando
+files browser/base/content/test/about/browser_aboutCertError_telemetry.js
+patch 591,635,

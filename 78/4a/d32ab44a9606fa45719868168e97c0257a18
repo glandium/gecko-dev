@@ -1,0 +1,5 @@
+changeset bbc5bcb72208a7ec7c5bf4a54a6977101e154993
+manifest 62104e55fea623729da42832dd9463ad82393581
+extra moz-landing-system:lando
+files devtools/shared/adb/adb-scanner.js
+patch 330,374,

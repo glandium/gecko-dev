@@ -1,0 +1,5 @@
+changeset 3a80d48a9249c162868272af23fa09c5c556bb0c
+manifest beaeb9ecb0ab11795d84709ff89a3d07484b050a
+extra source:d9d5690e22ee0a9826f3b6f177169b6810ce789c
+files dom/xml/nsXMLFragmentContentSink.cpp
+patch 784,851,

@@ -1,0 +1,5 @@
+changeset 595101eb4739f648080e23c5561ff27eb812a4cd
+manifest b7852cfeb11a0c9e32fdf892398943c3133c9ae2
+extra source:dd82a78059af3c47e0961a277bf720cac3210121
+files devtools/client/webconsole/test/mochitest/browser_webconsole_split.js
+patch 343,410,

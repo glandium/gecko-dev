@@ -1,0 +1,5 @@
+changeset 52d8651b683dfcf944e72114a8a41878ce7d6c15
+manifest d44b4409fb218fa82271b3cfc664aa72fcdddc49
+extra moz-landing-system:lando
+files toolkit/modules/Promise-backend.js
+patch 515,559,

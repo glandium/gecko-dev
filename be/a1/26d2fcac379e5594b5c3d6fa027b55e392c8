@@ -1,0 +1,5 @@
+changeset 6cd5181ec29df2d0095316f8b553bb3382c93f61
+manifest 94e795cf4f9eb6c352aa39bec356eec221918e27
+extra rebase_source:c4632eaa6654ac360582f423b7a7f580ba32d9a7
+files browser/locales/en-US/chrome/browser/preferences/privacy.dtd
+patch 336,410,

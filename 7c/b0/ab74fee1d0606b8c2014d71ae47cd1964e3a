@@ -1,0 +1,5 @@
+changeset 905501cadb34fee5cb9d79f2f976f95cbae23e67
+manifest 98e67bd6bf83fa70cff7b811601aedab42bb50fc
+extra rebase_source:3dfdb2e40c95b0eb093f95cf4957343b4a993129
+files devtools/server/actors/inspector/walker-actor.js
+patch 308,382,

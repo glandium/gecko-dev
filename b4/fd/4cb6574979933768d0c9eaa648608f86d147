@@ -1,0 +1,5 @@
+changeset 22f9d84db6dd080de3ee2ecd484a3caa926f5b7e
+manifest d7db46947851b2ea9ddb3deff2c6cbfeb74d747c
+extra source:6854e5bf150dc5a082d6c8b3dd03833bf677b519
+files browser/components/customizableui/test/head.js
+patch 348,415,

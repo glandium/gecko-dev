@@ -1,0 +1,5 @@
+changeset 360a9abdd9eae961b91d79e36f8b94c40d6ba67d
+manifest e7970796ea165f17dcf5aebf9e375ab72e314524
+extra rebase_source:e30d0b97f5372aca4c30fba3d6ba304c7dd24a76
+files browser/extensions/activity-stream/data/content/activity-stream.bundle.js
+patch 340,414,

@@ -1,0 +1,4 @@
+changeset b78c22aa904fb6e348046003c33f735e96651a17
+manifest 74701c24192d79b55b490cf6018d392d1cfbf9d0
+files security/sandbox/win/src/sandboxbroker/sandboxBroker.cpp
+patch 368,369,

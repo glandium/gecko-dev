@@ -1,0 +1,5 @@
+changeset b9a0d600e885107a741ad7e98a9be6aeb0c6d2b4
+manifest dd4f65a31034b7b2587ed740cb0e38586a0ff723
+extra moz-landing-system:lando
+files toolkit/crashreporter/content/crashes.xhtml
+patch 295,339,

@@ -1,0 +1,5 @@
+changeset 8d756cb9754af4e6b0b0eb17d11055460f388b7d
+manifest 33950ed84f5ba65a8054cad4224f77044b313354
+extra moz-landing-system:lando
+files mozglue/misc/interceptor/PatcherNopSpace.h
+patch 330,374,

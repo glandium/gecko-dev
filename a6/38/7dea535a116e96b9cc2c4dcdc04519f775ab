@@ -1,0 +1,5 @@
+changeset 718f560466c613b0eb819d053330839285058ea2
+manifest 9ee670e0a0b901cc22edf72e7b8717a64cb6cfe8
+extra rebase_source:8e8d17afadd6f62a338f48e8496f921b38bf5138
+files layout/reftests/text-stroke/reftest.list
+patch 285,359,

@@ -1,0 +1,5 @@
+changeset 7ed8bedfc83cf65bb55097def9052d705b497294
+manifest d9fe9b38c1ebcf1ab764894ee3b7dfe307552930
+extra rebase_source:ed9189c10dd00badb4bce9982a7ba20b647cef98
+files browser/components/customizableui/DragPositionManager.jsm
+patch 463,537,

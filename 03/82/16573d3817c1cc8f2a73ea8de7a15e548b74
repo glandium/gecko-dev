@@ -1,0 +1,5 @@
+changeset b17bb7f9ada208635cca12264665310c93c058c9
+manifest 0289e13b52787d4f1b1309c629863371623c33e3
+extra moz-landing-system:lando
+files testing/web-platform/tests/tools/manifest/vcs.py
+patch 635,679,

@@ -1,0 +1,5 @@
+changeset 399aa49547430e12d78b9be37007b4aae04a0b0b
+manifest 890ae1842e1778091ac038de00e78d2f81451de4
+extra rebase_source:d5d4cf3682cdfdb199f6d934e2e0d13794780b85
+files browser/modules/TabsPopup.jsm
+patch 294,368,

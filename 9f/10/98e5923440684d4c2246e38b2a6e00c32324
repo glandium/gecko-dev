@@ -1,0 +1,5 @@
+changeset 65cf0b301f18554d3440f25ae0b4aaa3f22d674e
+manifest 2e49a81c64b799e365b8e9939b5bb99ac8e84765
+extra rebase_source:b93c167782c73a4e252cba1226c61a042c0f7875
+files devtools/client/webconsole/console-output.js
+patch 290,364,

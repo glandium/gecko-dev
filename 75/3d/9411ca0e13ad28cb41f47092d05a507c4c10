@@ -1,0 +1,5 @@
+changeset 0b8f6cf95d39dd430297fce89d9ab996361b91a4
+manifest fba24af5b281db526f0d05a8a3d4bfe903824b1b
+extra source:e39a944f310fdc7dfc35b45792ee99f0265c47de
+files browser/components/shell/nsGNOMEShellService.cpp
+patch 311,378,

@@ -1,0 +1,5 @@
+changeset 988c9c017c7041c5843ca396dce68f5f00af7aed
+manifest 01388030203f390ac83478140eaab62dd29c2dba
+extra rebase_source:77005687c079b96f86f7b70ad155b4e5d1faed88
+files dom/xul/nsXULContentSink.cpp
+patch 351,425,

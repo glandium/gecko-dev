@@ -1,0 +1,5 @@
+changeset e40038281727001cf3da186e14a7fa8eb1e79f09
+manifest 6adb4bdab336dc802c61949eba65f206be5aff6c
+extra rebase_source:b225e887b279305043511d8d7be5b92f642e7420
+files tools/lint/eslint/eslint-plugin-mozilla/lib/environments/frame-script.js
+patch 352,426,

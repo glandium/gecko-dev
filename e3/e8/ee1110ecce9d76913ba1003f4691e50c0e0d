@@ -1,0 +1,5 @@
+changeset 1e338cf25fc326d7502faae4a56aa73e4231d994
+manifest 51e63e193748aaae97cb0b0d889091f5a990527d
+extra moz-landing-system:lando
+files gfx/layers/opengl/TextureHostOGL.cpp
+patch 506,550,

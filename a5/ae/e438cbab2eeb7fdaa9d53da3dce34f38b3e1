@@ -1,0 +1,5 @@
+changeset 0b5be505decdb4a09986beed748d9b2cc16f07e5
+manifest 7f97d6a22aed959296f7f9b40fa36d387568b16c
+extra source:b022e81e18232fa351c5fbf4b5b59f1102eb2477
+files taskcluster/ci/release-update-verify/kind.yml
+patch 476,543,

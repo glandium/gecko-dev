@@ -1,0 +1,5 @@
+changeset 1c3d0a6605a39089c6c1b6e84f56a7e9fac7a80e
+manifest 1cbec6536208c0394d1f256e38b17952ba517321
+extra rebase_source:c1c76f5d85e5e8ba52217e012dc5ad42382eb7a2
+files toolkit/components/extensions/test/mochitest/test_ext_redirect_jar.html
+patch 318,392,

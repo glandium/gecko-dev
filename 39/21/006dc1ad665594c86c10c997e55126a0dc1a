@@ -1,0 +1,5 @@
+changeset 326840e3b097c6a36ade7851cf03de8c8fa56b67
+manifest be7ec3d240adf4a33d97b0c826e8e8eb1d33bce5
+extra moz-landing-system:lando
+files testing/talos/talos/tests/devtools/addon/install.rdf
+patch 389,433,

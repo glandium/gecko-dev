@@ -1,0 +1,5 @@
+changeset 47aeeaf1c35bf013d2e97ac40b519e641485b594
+manifest 0f45a57a1c3c16ac2a0699af1656fc12928093cb
+extra moz-landing-system:lando
+files widget/windows/nsClipboard.cpp
+patch 293,337,

@@ -1,0 +1,5 @@
+changeset 584c3716e9638cbb851c03aea3948b70c051fa1a
+manifest 6fad5fcbb2d6979fb55f8e51b8492c1c1926df78
+extra rebase_source:15fa2c0c535589c30599b2e34d22a689a46cc1bc
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/activities/FxAccountGetStartedActivityWeb.java
+patch 394,468,

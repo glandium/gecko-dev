@@ -1,0 +1,5 @@
+changeset 997adbec4c49d42858a05a02b22badfb8a127628
+manifest f62313630cb6dafb1ba793700140e729bfccc2ae
+extra rebase_source:ae8832b6f3cb9d4dcace70a5bbf69aa8615505ab
+files toolkit/components/aboutcheckerboard/content/aboutCheckerboard.js
+patch 330,404,

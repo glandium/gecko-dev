@@ -1,0 +1,5 @@
+changeset 67c3eb947f52620b9b5d53d5562233bf75f23983
+manifest b72d03a2436f85ce6e6849e3e19b247be1098edd
+extra rebase_source:24faa6af1aca4a9c5daab8436968fc33459ab0c2
+files browser/themes/osx/customizableui/panelUI.css
+patch 349,423,

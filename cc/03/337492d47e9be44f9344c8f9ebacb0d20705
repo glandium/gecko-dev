@@ -1,0 +1,5 @@
+changeset d2de0e2a63e1a300b41ed4d9dc7eeda203d59033
+manifest b1ace254b2d089c5185b7af621191a815b189912
+extra rebase_source:48047a82e42dc7688fb3ed484d01794ccbd86763
+files memory/mozalloc/mozalloc.h
+patch 263,337,

@@ -1,0 +1,5 @@
+changeset a4fcddffde4140fc2c0597055ae216eed4c795fd
+manifest 6320d1dc85f34cf74dd2725db4e95a5dd4c4b90c
+extra moz-landing-system:lando
+files testing/marionette/harness/marionette_harness/tests/unit/test_window_maximize.py
+patch 400,444,

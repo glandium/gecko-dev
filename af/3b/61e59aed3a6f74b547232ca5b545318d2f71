@@ -1,0 +1,5 @@
+changeset 0b3b7652756f8242d1bca5ef800b84b765393961
+manifest 4dc8627c516e7752fd91acf5eec59b5068d90e01
+extra rebase_source:7572139f8e2b3df8c6b68123c0a14524dddb3faf
+files modules/libjar/nsJARInputStream.cpp
+patch 655,729,

@@ -1,0 +1,5 @@
+changeset af94af58d1f315f475fbe831bb48aecbeb9a0c61
+manifest 884de871bf6e15ff7931d24f96587860ffe2672c
+extra histedit_source:4f582731032944f2da079b64d7b347a8fb8728b5
+files devtools/client/styleeditor/StyleEditorUI.jsm
+patch 267,343,

@@ -1,0 +1,5 @@
+changeset c47a7f943eabce7b659ed7ed86b6c9cd77709d35
+manifest 213b5ffe1229e056be571c7b86bd9049f46bc6cd
+extra rebase_source:8eb35ebc2a9cbed8629c11173f4e27ce27912297
+files devtools/client/netmonitor/src/components/stack-trace-panel.js
+patch 298,372,

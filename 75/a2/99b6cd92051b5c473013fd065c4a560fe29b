@@ -1,0 +1,5 @@
+changeset c02d08e9dd38e073fe23f50b029a44f572dffbdb
+manifest 4d0823b58781139669d9ae2c3c1977dcbadac67e
+extra moz-landing-system:lando
+files gfx/wr/webrender/src/device/gl.rs
+patch 346,390,

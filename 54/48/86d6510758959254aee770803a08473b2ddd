@@ -1,0 +1,5 @@
+changeset 7c3ed29c6ffb3483b4ddf25a82183480bc013a9d
+manifest 0a70ead6664ae38dc1275daaaed1b9f4db8bc50a
+extra rebase_source:ab1539bec3d74c22b06f00bcb42f8c589bc8433f
+files tools/profiler/core/shared-libraries-win32.cc
+patch 299,373,

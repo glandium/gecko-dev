@@ -1,0 +1,5 @@
+changeset 1bcc72890955ece4a5b54ee17fdffcfb4ed1401d
+manifest cfea3f1685370fbfb178c347d29080a4d208fedb
+extra moz-landing-system:lando
+files gfx/layers/AnimationHelper.cpp
+patch 947,991,

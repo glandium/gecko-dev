@@ -1,0 +1,5 @@
+changeset eb050d2f2790aac967107fe906f516cbfdb45856
+manifest adf600ca86d9e127c1be910de25011483776d27a
+extra rebase_source:2e0c4277f43c0fd0ceab6d7e4c7d4f75d04c6115
+files devtools/client/animationinspector/test/browser_animation_timeline_shows_time_info.js
+patch 359,433,

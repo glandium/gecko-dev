@@ -1,0 +1,5 @@
+changeset eff4be681f2b435380033255ffa7f9e8e88abcf1
+manifest 7a8984eaf1ae180d20943647464fbfc5a9ec5d97
+extra rebase_source:d06a09eb416c75da0121548f90770056a19d48b3
+files js/src/vm/RegExpStatics.h
+patch 260,334,

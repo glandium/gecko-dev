@@ -1,0 +1,5 @@
+changeset 47beb6fad37a97a96db8fbd03f064905b7153a99
+manifest 9a1047471df93e0f29596c1aa61a3e6c5c2268ce
+extra source:392c92c5a3742165c9275b82f5affcde05b08d69
+files mozglue/misc/TimeStamp_windows.cpp
+patch 308,375,

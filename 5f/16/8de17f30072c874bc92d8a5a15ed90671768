@@ -1,0 +1,5 @@
+changeset 3605aff2cad6e562018088a9e662f13b8f6a8824
+manifest da3988462a763a01ec2ca51a663571f098cd0ac6
+extra rebase_source:7ed2401be658abcb15bdae3f8545450983904fa8
+files toolkit/components/payments/res/components/rich-select.js
+patch 503,577,

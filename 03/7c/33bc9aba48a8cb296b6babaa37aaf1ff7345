@@ -1,0 +1,4 @@
+changeset 4b2c361673c66bb1038c32588c5971b40b5dbf3b
+manifest 74ec356b8a1d10ed93ed5261182ec49f950c81ce
+files devtools/client/debugger/test/mochitest/browser_dbg_instruments-pane-collapse_keyboard.js
+patch 322,323,

@@ -1,0 +1,5 @@
+changeset c58ea2229c337e9981ab9d3650b04fd3d249b141
+manifest 206562794370a144b8eeac0a14dfd341618dadc1
+extra source:22da6211feb61217fa832da075ebfd79940dfa52
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/SpeechSynthesisService.java
+patch 312,379,

@@ -1,0 +1,5 @@
+changeset 5c25af0dc813573a8a630f6d6f2db83f5add34c2
+manifest 80327e6251a427d2d3481b62b0157a3defe74c51
+extra rebase_source:3d30edf4b8256a21b11dde5ddc9164c285c14652
+files devtools/client/shared/source-map/worker.js
+patch 297,371,

@@ -1,0 +1,5 @@
+changeset fd078630d6661dfa3cc43dc793c45fda91e4b78c
+manifest e8e5cc9157e18277dc10be323869b130be2e8d85
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/util/ContentUriUtils.java
+patch 807,851,

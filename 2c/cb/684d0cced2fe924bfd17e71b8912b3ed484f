@@ -1,0 +1,5 @@
+changeset 858813bdc9b43c07d48d55fc85801c0b0a65144c
+manifest 09c5859d6247a945de9e8a5202f41035d502f008
+extra rebase_source:dda30eeb18671eb5e9b3418bac4079fdd7632b6d
+files media/libvpx/moz.build
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset c79baa59f78f57c297521e84c58d1025e0e685f6
+manifest 4a6554affc47926d235a943e391fbd1ebe1b9229
+extra source:82e3da06b72f9ef230bd1c7f99df020993ae5c20
+files dom/base/CustomElementRegistry.cpp
+patch 493,560,

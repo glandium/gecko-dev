@@ -1,0 +1,5 @@
+changeset 3c2d759ce46703c74cd8aba573d794c1dd8de60b
+manifest 03ae4423d9fe9bf3c420273a992865c61bf32ee4
+extra rebase_source:d53f3461db931733a7d1e7722d0fa23ad659fa06
+files browser/components/customizableui/PanelMultiView.jsm
+patch 359,433,

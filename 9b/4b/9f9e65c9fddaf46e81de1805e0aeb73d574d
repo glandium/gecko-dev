@@ -1,0 +1,5 @@
+changeset 7fb87e5f9a622b144013d7be5533de064baa95b6
+manifest 2a15b480782967e2c70e3b8bc632fa0fa91c3858
+extra rebase_source:5c6988a9af8392cc5abf54e56060dcf9653edffb
+files dom/animation/test/mozilla/file_restyles.html
+patch 296,370,

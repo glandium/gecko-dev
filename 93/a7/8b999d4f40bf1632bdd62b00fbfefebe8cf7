@@ -1,0 +1,5 @@
+changeset e35c1d17cc9ba97e680551fe291909fa0e2da96f
+manifest f2463758b5ab47ec24f898d743aa2536dbf9fec1
+extra source:f54d14f58ce76c6749f6de78bf6551a8492abe7d
+files gfx/cairo/cairo/src/cairo-cff-subset.c
+patch 303,370,

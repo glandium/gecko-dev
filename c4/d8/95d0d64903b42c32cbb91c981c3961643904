@@ -1,0 +1,5 @@
+changeset a6d60c62fa91a2e8b4429e8850067778a73cb581
+manifest 942daa0d07b00ba394eb5e829096fd598604aa95
+extra rebase_source:0e4e8ac0ce98efb497a62b3abd70b5a7d6914ad8
+files parser/xml/nsISAXXMLReader.idl
+patch 283,357,

@@ -1,0 +1,5 @@
+changeset e65dc2bcc867930d4cadea96aa7c2907b5eea163
+manifest 068429a1128a7851b5a5522999ba5e31ad44f5ba
+extra rebase_source:33489f2b3da755b1a437204c33bb8029f906410b
+files browser/components/preferences/in-content-new/sync.xul
+patch 373,447,

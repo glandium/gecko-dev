@@ -1,0 +1,5 @@
+changeset 8a711f61316bad577bb3008f5612c05a66d68afd
+manifest a8a6824ebf3c3bbe1f81643e84fc199bfc68ce5f
+extra rebase_source:2bbe1232410aed4626d7584deabf198df04610e0
+files mobile/android/base/java/org/mozilla/gecko/Tabs.java
+patch 304,378,

@@ -1,0 +1,6 @@
+changeset c773790077bf23429361cb34df73ca21c7f2bc37
+manifest 0a202382ec1eb3f38bce53edbb67b9f58c0ca66e
+author Dragana Damjanovic dd.mozilla@gmail.com
+extra rebase_source:ed7491b82f2d8f5c907ba3981c0f815218e4ecfd
+files netwerk/cache/nsCacheService.cpp
+patch 241,315,

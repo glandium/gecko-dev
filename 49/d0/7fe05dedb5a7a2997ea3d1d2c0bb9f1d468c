@@ -1,0 +1,5 @@
+changeset e8f0d29cabecc5f6c83573329bbe736cbd6481e6
+manifest d11d70cc9fbb922fce36edc6344fe0b1c990e778
+extra source:e3e146e9bf9c1f9706597c4a656f73618348c99b
+files browser/base/content/test/siteIdentity/browser_insecureLoginForms.js
+patch 355,422,

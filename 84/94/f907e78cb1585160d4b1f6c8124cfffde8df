@@ -1,0 +1,5 @@
+changeset 7d2d020de2ab00fe42cb6ad415e43eb215e2d3eb
+manifest 3d03b25df3eb08946ea94a9acfb34775a5deaebd
+extra rebase_source:7727928abae62aab3f22c24336c57365909d8e6a
+files dom/webidl/ChannelWrapper.webidl
+patch 303,377,

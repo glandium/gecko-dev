@@ -1,0 +1,4 @@
+changeset f401ceab9b91aac791f9ac27b945891e9fe6563d
+manifest dccd3e260bf9f9355b6d7695cb280b010bd5acb1
+files python/mozbuild/mozbuild/configure/libstdcxx.py
+patch 1242,1243,

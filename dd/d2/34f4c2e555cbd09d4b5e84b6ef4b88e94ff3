@@ -1,0 +1,5 @@
+changeset c2d97da8bfedf7396aa3683153164accb580aaf9
+manifest a55fb1ddee3032c15162d2672e024cc2d7e7e04f
+extra rebase_source:cfac47219f63f346e6e7d6fb9bdb52bfdb8c3664
+files browser/components/preferences/SiteDataManager.jsm
+patch 345,419,

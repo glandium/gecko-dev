@@ -1,0 +1,5 @@
+changeset 1304c1c433d324a3bd38700c370d576a6123a4ae
+manifest b04cb230597ef01bb8c99be0021043070bd3d6eb
+extra source:80eb58e9df7856120285b74b4dabd2f13845a935
+files dom/clients/manager/ClientSourceOpChild.cpp
+patch 273,340,

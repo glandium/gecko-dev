@@ -1,0 +1,5 @@
+changeset 0466471b9f67aa6a60bf3fb98515532e8a53095d
+manifest 9160c98ef321cb34351b6b49eb78531c7635659b
+extra rebase_source:f502cd49b128aecce4d8268783377c46a63ad669
+files widget/gtk/nsDeviceContextSpecG.cpp
+patch 533,607,

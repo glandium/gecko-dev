@@ -1,0 +1,4 @@
+changeset ea65750e9e40641366cf0834945f7f87ed781e7f
+manifest abeb1754ba8403520ad191cee218f278c9fd96c1
+files taskcluster/taskgraph/transforms/coalesce.py
+patch 217,218,

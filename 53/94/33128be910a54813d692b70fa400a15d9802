@@ -1,0 +1,5 @@
+changeset 167ac4c7679b9df96920d5c2259226c00dc88e5b
+manifest 6ed667a51766a21357a3d54055fc03c81ac00f40
+extra rebase_source:4f29fd794495e9ca71f0854b9c6e07d2ae6269d5
+files devtools/client/inspector/rules/test/browser_rules_css-docs-tooltip_closes-on-escape.js
+patch 647,721,

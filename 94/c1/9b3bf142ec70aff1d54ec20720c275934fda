@@ -1,0 +1,5 @@
+changeset e7a6fe9f9ce7186e8dc3c7aaeab47362c7060f5a
+manifest 6efb5f4841087a16949aaeaee8766902a89096cb
+extra rebase_source:5de92eb125e1001dd358a5deaa76f626802e3928
+files docshell/test/navigation/browser_bug343515.js
+patch 640,714,

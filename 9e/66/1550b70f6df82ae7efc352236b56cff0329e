@@ -1,0 +1,5 @@
+changeset 59f5d0e5b7c85f6dc18482a279515b3bf26c0051
+manifest f8ea41b48b1f278ac69d81caaef9fac5d155467a
+extra rebase_source:0596528de97d4ae42c13f56d264099c7654d90f1
+files parser/html/nsHtml5TreeBuilder.cpp
+patch 319,393,

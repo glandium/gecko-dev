@@ -1,0 +1,5 @@
+changeset 8f1443ae9fe4cc6bf37b21e7f302816b9b481965
+manifest af8f29dba1542c6729d763e38ee7c3b174f8c20c
+extra moz-landing-system:lando
+files build/moz.configure/tup.configure
+patch 468,512,

@@ -1,0 +1,5 @@
+changeset 7b5c486601e568aaa8538d7286dc3bd8be84ad8a
+manifest 12aad9430d13b68a64e0397c78b1747f17296893
+extra moz-landing-system:lando
+files toolkit/components/extensions/schemas/theme.json
+patch 941,985,

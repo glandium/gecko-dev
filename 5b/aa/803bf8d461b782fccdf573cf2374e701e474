@@ -1,0 +1,5 @@
+changeset 0b7e1a20ab6c646f5271f63385232f65125ed2fe
+manifest dc80838d4439b0de08f64ebb4c18fc2d130faa78
+extra rebase_source:17db54c13bebb97c2d39e2dc0b69b7ad28346385
+files widget/windows/nsWindowGfx.cpp
+patch 393,467,

@@ -1,0 +1,5 @@
+changeset 119fd95b6e842a6cba502cf849fddfe558ee38bc
+manifest eae0ff4e86c54e722df8420dce57d2e3ea20b7f1
+extra source:c0030006cd60597af474e8d342593d8520a66939
+files testing/web-platform/tests/tools/wptrunner/wptrunner/wptlogging.py
+patch 321,388,

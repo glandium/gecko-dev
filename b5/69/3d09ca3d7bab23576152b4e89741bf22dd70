@@ -1,0 +1,5 @@
+changeset 8cdaa33486f47c268f14568896966416eb25d636
+manifest 245326be21628ab27c2f65d847d02f0db610d6f4
+extra moz-landing-system:lando
+files devtools/server/actors/highlighters/utils/canvas.js
+patch 778,822,

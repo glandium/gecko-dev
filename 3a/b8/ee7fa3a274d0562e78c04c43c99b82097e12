@@ -1,0 +1,5 @@
+changeset 649da44e21340ad03bfef7095a0dcbc50836d617
+manifest 800577f5a27e2ad3686cab0f5cfd6a247761cd5d
+extra rebase_source:afea8296041574fb182b278b588a1e3282c68c3d
+files dom/gamepad/Gamepad.cpp
+patch 274,348,

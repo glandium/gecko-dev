@@ -1,0 +1,5 @@
+changeset f9b4f94e04474c50fe089404ecb3ebabdaaeb156
+manifest aca4f3a1ab5f059b638db594f7287c27ffa92941
+extra rebase_source:6f897f823c2d1a1ea8ab85146a197d8c8ed6beb8
+files browser/components/customizableui/content/toolbar.xml
+patch 371,445,

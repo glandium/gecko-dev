@@ -1,0 +1,5 @@
+changeset cba232cb3d7a0284faec9106c37abd1910efd7cf
+manifest 90eb2a665645417475d5ccd212dd05f2f6029818
+extra moz-landing-system:lando
+files browser/locales/en-US/browser/newtab/onboarding.ftl
+patch 296,340,

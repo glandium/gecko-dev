@@ -1,0 +1,5 @@
+changeset a835077cdb631521f58bd833c8b6517cb18b1114
+manifest af7a881f104895b152fe9b02bc2a7720bb95b237
+extra moz-landing-system:lando
+files toolkit/crashreporter/breakpad-client/linux/handler/exception_handler.cc
+patch 640,684,

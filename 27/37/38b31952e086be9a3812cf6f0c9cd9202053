@@ -1,0 +1,5 @@
+changeset b7844162c4fa749d6b0dfe736d646a4406337c4e
+manifest b9189a56b52b07daf0541c8ddc6fe5b3b3dd80f4
+extra source:8592fd84fc79597063b8ea3b19af8f8528bd02b8
+files devtools/client/netmonitor/test/browser_net_columns_showhide.js
+patch 280,347,

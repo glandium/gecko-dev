@@ -1,0 +1,5 @@
+changeset f747aad08cbcc77d2b93dbe2b30a04b2096e79b4
+manifest 2539c15309c175d96dba81175e83b3e9008ff10f
+extra moz-landing-system:lando
+files toolkit/xre/nsAppRunner.cpp
+patch 1168,1212,

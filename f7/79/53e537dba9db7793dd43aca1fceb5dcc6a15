@@ -1,0 +1,5 @@
+changeset 34b75871dd7e7c86f942533a99fd3d62996c7e99
+manifest 1ec92fbdbeb6bd707185b84b0bc57049ada87db1
+extra histedit_source:688262d274fe5e742bd1e008cc58993b61eab47a
+files js/src/vm/Debugger.cpp
+patch 251,327,

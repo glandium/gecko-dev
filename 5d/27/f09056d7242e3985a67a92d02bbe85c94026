@@ -1,0 +1,5 @@
+changeset 4503ff6c5820e361c8acd497f7b93775f0a6dd74
+manifest d66965f88d080353f0c539a5973376bb09884c8f
+extra rebase_source:a9f459f427cbb3d502c7b2aa2be0d49a6d2f9d95
+files layout/base/tests/marionette/test_accessiblecaret_cursor_mode.py
+patch 308,382,

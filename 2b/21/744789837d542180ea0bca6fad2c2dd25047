@@ -1,0 +1,5 @@
+changeset 480c8157839021de247ead74bffb60ffb5c70a8c
+manifest c448f784a23c3cf643217b79a369e599acda39b3
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/unit/test_TelemetryScalars.js
+patch 417,461,

@@ -1,0 +1,5 @@
+changeset 1386a8847bbb0ee94210720163428eaf29ab0706
+manifest b316f973b4b3cbc428be392cf69c53e08d2322fb
+extra rebase_source:b64d0af756c297de42aa2e164ee32ccbe01890d1
+files layout/generic/nsSubDocumentFrame.cpp
+patch 593,667,

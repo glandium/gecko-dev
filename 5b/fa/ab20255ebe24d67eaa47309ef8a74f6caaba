@@ -1,0 +1,5 @@
+changeset 9a38eee8322fc4782bf042b1bde37ccb6af21c26
+manifest 966c2fe2b51647733174c483d8baeb03dded42bd
+extra rebase_source:652cc5728b2be8bd633c65d0ee14f09b51e8da83
+files devtools/client/netmonitor/test/browser.ini
+patch 301,375,

@@ -1,0 +1,5 @@
+changeset 238e334c2c6d68af726ae4ee9b99203a9937472d
+manifest 2efc507ce082745ccaddc029fb407e108f27314a
+extra rebase_source:27743f1ac81799ec879d580d09d0a064dc718709
+files toolkit/components/telemetry/docs/collection/histograms.rst
+patch 402,476,

@@ -1,0 +1,5 @@
+changeset c0467da2b62efb2019aeef358cb942e1586e6510
+manifest 3dd45fc23ebbef138073dd603a9d4216ec854d90
+extra source:aaf54dce048a85806833529a5d53ecc46156ef47
+files js/src/jit/RangeAnalysis.cpp
+patch 272,339,

@@ -1,0 +1,5 @@
+changeset 25c727364e92b35f1a6e7b4f1e23527fb5305474
+manifest 4d29f05d8df597ecaf34b658a78c75b25cc7361b
+extra source:49bbe768f2389958b159bad3db913d1d0a893323
+files gfx/skia/skia/src/core/SkTDynamicHash.h
+patch 287,354,

@@ -1,0 +1,5 @@
+changeset 48c0628a4ef38477f115ef8b6824835970c9e024
+manifest 4fdaf9d3c9067381ccef5a7a245ea8e3f7565ae4
+extra rebase_source:4fad709293b2849bf5de6487dc36dbfd014d8526
+files dom/base/nsNodeUtils.cpp
+patch 458,532,

@@ -1,0 +1,5 @@
+changeset 1b9e4b90413f4250f4544d80a8a61c8e03895121
+manifest b6db4dd95fdc9847315464b423e6483defd1fb84
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/action/check_binary.py
+patch 293,337,

@@ -1,0 +1,5 @@
+changeset 142001babb39d7cce8b88a2103ba8863fce685ad
+manifest 7d5fbac304757c3920813d9ccabdf6acff002779
+extra rebase_source:0d189eb31853f4eb693cc6ffb3188f9104881274
+files modules/zlib/src/moz.build
+patch 261,335,

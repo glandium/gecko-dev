@@ -1,0 +1,5 @@
+changeset 59d830905c61529fff5957c4eb01a33f6b354079
+manifest 0082ca6fa15641359f5cbd5112e0fe82fe19783a
+extra rebase_source:efbe1805a1ad41a478188ca7842f0e5affe52b15
+files browser/modules/test/browser/browser_UsageTelemetry_urlbar.js
+patch 348,422,

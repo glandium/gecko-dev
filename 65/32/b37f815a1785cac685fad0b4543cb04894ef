@@ -1,0 +1,5 @@
+changeset b93b58cfd16ffb6bdd88fcc42a07c0fa3dae9608
+manifest 4dcf70ccfef7b176768de9a4d7f34cf090c7a6fc
+extra rebase_source:86bb1fbd3ac2b8025ecced5feeb058cce7b31ed2
+files toolkit/components/mozintl/MozIntl.cpp
+patch 320,394,

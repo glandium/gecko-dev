@@ -1,0 +1,5 @@
+changeset 7550a6776edd6fd4628678cce2523bcb2400b0a9
+manifest 02559de42b6c22d0baf66f698046206176046733
+extra rebase_source:f33397f95b57dbaaa857faf6335beb4712a0a9da
+files third_party/python/psutil-cp27-none-win_amd64/psutil/_psutil_windows.pyd
+patch 289,363,

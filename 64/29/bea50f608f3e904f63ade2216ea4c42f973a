@@ -1,0 +1,5 @@
+changeset 3afb2a3363dbff281479edcd119f3b991876ad8f
+manifest acb2d6610959b6100878fef5cfd9441e01ec5331
+extra rebase_source:5cc4789e57433b70b45dfa2fbf5220d0127c527b
+files uriloader/exthandler/tests/mochitest/test_web_protocol_handlers.html
+patch 402,476,

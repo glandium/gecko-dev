@@ -1,0 +1,5 @@
+changeset 00bb6658c45ad73d0f71ed8b2b65fb766c173ee6
+manifest dbec76c060ac87db86bc657006ca8d6506659889
+extra rebase_source:39ead8b9323b9c4a6e22043b97d6bbbdee2dfc83
+files browser/locales/en-US/chrome/browser/browser.dtd
+patch 321,395,

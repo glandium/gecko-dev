@@ -1,0 +1,5 @@
+changeset 9aced56a44055a4ec4bd32379cddd6e2cf563c5d
+manifest f407900418899bea97f94cf7ff2751eca849609c
+extra rebase_source:f621d89cb712ac5c13e7636cf2d9d7222a6f422b
+files build/clang-plugin/mozsearch-plugin/MozsearchIndexer.cpp
+patch 399,473,

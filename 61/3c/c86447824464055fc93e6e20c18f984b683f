@@ -1,0 +1,4 @@
+changeset 2219f1fc39029c651659aa996d22d5816ade2d37
+manifest f42d7f34e0cd6a4bfd72d8dc94d3c19bbf7cf8a9
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/ImmutableViewportMetrics.java
+patch 258,259,

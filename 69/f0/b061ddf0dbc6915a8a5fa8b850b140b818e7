@@ -1,0 +1,5 @@
+changeset 5b91b44570f68a66ab48377d74125d0c1b9a73b4
+manifest bb9ecc0599b977fdb5df8b68a280027e38ab1326
+extra source:ce813a77054e99fb848233ce7c51594b387fe50a
+files toolkit/modules/tests/browser/browser_Battery.js
+patch 325,392,

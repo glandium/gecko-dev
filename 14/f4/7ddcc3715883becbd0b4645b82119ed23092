@@ -1,0 +1,5 @@
+changeset 9dc78b12d194ffc0ec9fe9e08626b51dfe02afa0
+manifest 69aac5d9a50fdde3aa05a4db965b703743fa162b
+extra moz-landing-system:lando
+files browser/components/extensions/test/browser/browser_ext_omnibox.js
+patch 1306,1350,

@@ -1,0 +1,5 @@
+changeset bde911a9320ae5844f01f558ffc3670d5c0fe24d
+manifest dc8e80d21f63df44a8be7ca389f70c4570f8695c
+extra rebase_source:e1571297c87b5cc2b24de1e4a8aaba4b15d6ca86
+files toolkit/components/telemetry/geckoview/GeckoViewTelemetryController.jsm
+patch 535,609,

@@ -1,0 +1,5 @@
+changeset 2fa3616b2435ad93015b9928f0e89b95e2a241ae
+manifest 6a5069a674fb4d008203b9c9c12207406b4b60e9
+extra rebase_source:f0ac2cadf4f5345f854e8ad8ca3e7be37485a0cf
+files services/sync/tps/extensions/tps/resource/modules/tabs.jsm
+patch 346,420,

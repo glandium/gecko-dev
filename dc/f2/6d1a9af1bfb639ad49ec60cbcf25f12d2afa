@@ -1,0 +1,5 @@
+changeset 8d62cdcccad47370b23b882f45ee713148f53ce1
+manifest 077ac60828588aa552cc8bf3d25b008c237f8eeb
+extra rebase_source:81a88e2022988d16164c8b384bb89bd5eefca385
+files toolkit/components/viewsource/test/browser/head.js
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset 20d6ddddc2c4742a206b877f618c8a9e5b7d594c
+manifest d9f74b37f5f1eef1e8fc1d496f9dd9d8bc76db2c
+extra moz-landing-system:lando
+files python/mozboot/mozboot/gentoo.py
+patch 615,659,

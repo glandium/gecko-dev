@@ -1,0 +1,5 @@
+changeset 663b37581fef75a2e7f0ee66218062c45ebf5944
+manifest c1f4e094f692cc19a4ff6319e9cdc6cd3dddb070
+extra source:78e41b2cfb217a22bf2f41d67f297254a6ba3d72
+files browser/base/content/browser-ctrlTab.js
+patch 348,415,

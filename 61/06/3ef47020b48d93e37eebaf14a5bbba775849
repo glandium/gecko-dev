@@ -1,0 +1,5 @@
+changeset 6e671db307db8527ed82b365f6050c41bc0e70e5
+manifest 7cf92b1e87b45b36df287bf9196a199dcab4de6b
+extra amend_source:8acc147182e6a4dff7fdb6a324e12628f5211c07
+files intl/chardet/nsCyrillicDetector.cpp
+patch 279,352,

@@ -1,0 +1,5 @@
+changeset 06074f7e890125261d08c88a7769e24acba7ab76
+manifest d57058d638e9247eaa97ed6339848e2c56a3c906
+extra rebase_source:c6631dafa496cb03333ed417c14f1ff1692c8519
+files dom/vr/VREventObserver.cpp
+patch 472,546,

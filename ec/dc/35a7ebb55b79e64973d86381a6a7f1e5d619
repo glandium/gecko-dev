@@ -1,0 +1,5 @@
+changeset 9c47141cd9a174baf145fa97ca45c64c7864fa9f
+manifest 0e4e4a115a1a76f2886de9b7442dc99e23bfac95
+extra rebase_source:15c2ee0e4d6aa812ab8acc3564da0c3e7ba45e19
+files taskcluster/taskgraph/util/hash.py
+patch 331,405,

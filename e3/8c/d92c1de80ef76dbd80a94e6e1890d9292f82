@@ -1,0 +1,5 @@
+changeset f98d084dff6ce1383517d4834f00982384862002
+manifest 6e4d55a0bc7199fe9ea483595a7c813d90f0c579
+extra source:a36553625346a9269e7a345b8b017c9b4fe90a2e
+files netwerk/protocol/ftp/nsFTPChannel.h
+patch 240,307,

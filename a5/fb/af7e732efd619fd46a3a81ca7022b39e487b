@@ -1,0 +1,5 @@
+changeset a0d02ea2773152926486f5b39f6fe83954e5c400
+manifest ee35f0331c50a7bec2892e43cc1bf0a0dc5d7ce5
+extra rebase_source:459eb7b04a48f35d8b747a931d4b5e19d3df1d15
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/icons/preparation/TestSuggestedSitePreparer.java
+patch 371,445,

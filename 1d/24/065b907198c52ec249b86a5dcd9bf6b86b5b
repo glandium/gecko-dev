@@ -1,0 +1,4 @@
+changeset 6e284ab8be90d760f3a8405b251f0ef36f83d7a1
+manifest e695af968b94e76edab19dadfe4cc6bd9001e29f
+files servo/src/components/script/dom/eventdispatcher.rs
+patch 528,529,

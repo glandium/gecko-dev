@@ -1,0 +1,5 @@
+changeset 7e728a2e235fcdfbca3db9a11eca5d66ef8c0d24
+manifest b8bf72f76dfb969b60ffba4b5ab28dae1e9c3107
+extra moz-landing-system:lando
+files toolkit/modules/tests/xpcshell/test_CreditCard.js
+patch 349,393,

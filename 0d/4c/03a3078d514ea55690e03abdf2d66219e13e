@@ -1,0 +1,5 @@
+changeset cf28e3669e474b6e26ce8d0a804819c2ec66df3a
+manifest 010517776c6d6ea469bc4790d8486cef80d2007e
+extra moz-landing-system:lando
+files docshell/shistory/nsSHistory.cpp
+patch 304,348,

@@ -1,0 +1,5 @@
+changeset ab53a96c3b3027d3a8d467c16df1d60182c61bc6
+manifest d70e58b91ca630cd9c4d9dbeb5c50324ab453c99
+extra rebase_source:e514a0190845a6bd7846ff7040457c1677d00ed4
+files xpcom/base/DebuggerOnGCRunnable.cpp
+patch 265,339,

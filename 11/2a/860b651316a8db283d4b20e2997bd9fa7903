@@ -1,0 +1,5 @@
+changeset 77188a492fd226731291aa2e6ed16f1c739218e8
+manifest bcf40e35ebd49ea4ece917422cfcb456cd966ef4
+extra source:fb390c90564859e9e5aa4984c49aa8048dbabe1e
+files toolkit/components/telemetry/tests/unit/test_ThreadHangStats.js
+patch 359,426,

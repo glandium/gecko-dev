@@ -1,0 +1,5 @@
+changeset 07f14f4cf04ac91b2f3070400d299f6918f70c1f
+manifest 92ba44be10f186ea14ff7c6c2ae26d58b37d383d
+extra source:8241272efd6a432caa36ca9b2da4bd8c8cb7e9f8
+files netwerk/base/nsAsyncRedirectVerifyHelper.cpp
+patch 308,375,

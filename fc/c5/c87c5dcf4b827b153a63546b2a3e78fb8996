@@ -1,0 +1,5 @@
+changeset d85d49538117bc902dae505c9ff6de555b9b89f9
+manifest 0998b10b8ce01061ba1c8d48dc65fef82e82c616
+extra moz-landing-system:lando
+files devtools/client/framework/components/ToolboxTabs.js
+patch 742,786,

@@ -1,0 +1,5 @@
+changeset 57661b7187ebd400492b45bc2224c98cd8386856
+manifest 18880c70c5b424953662873d70b23c9f1b0351e7
+extra rebase_source:091d67f68ac8ea89128dc2c5ae233a509a70a6a7
+files devtools/client/inspector/markup/markup.js
+patch 506,580,

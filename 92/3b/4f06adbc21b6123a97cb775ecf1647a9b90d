@@ -1,0 +1,5 @@
+changeset 63cbd79e897de14cb164992d37b15700fec420f0
+manifest d4a5d2c3c700b6aba94308870a5ca3d22a35557a
+extra moz-landing-system:lando
+files browser/modules/AsyncTabSwitcher.jsm
+patch 338,382,

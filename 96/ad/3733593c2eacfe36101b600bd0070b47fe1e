@@ -1,0 +1,5 @@
+changeset c67bdec5c5926fa16bc9d25ba09efd53f340f5e0
+manifest c6e98820434a769e9c9e968b2f8d288d3735d181
+extra rebase_source:e7e11b2eb4565785864fa6c82c043cb811761cb7
+files js/src/jit/x86-shared/Disassembler-x86-shared.cpp
+patch 301,375,

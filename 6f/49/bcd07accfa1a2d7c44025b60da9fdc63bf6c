@@ -1,0 +1,5 @@
+changeset 33d70d37011df8b107629cd8aca2e765729417ea
+manifest 5e263db7c0e89bf45c344b06427aee0ea57a2b3c
+extra source:ba13ada04e711ac26412f2d176a0fa80151455dd
+files browser/config/mozconfigs/linux64/nightly-fuzzing-asan
+patch 292,359,

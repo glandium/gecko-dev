@@ -1,0 +1,5 @@
+changeset 4b7884f2b67033d7fbc7c776dc7bcdda6d15fb08
+manifest 5229cc377d71ef5f44fbf517d6135b297152fc55
+extra moz-landing-system:lando
+files media/webrtc/trunk/webrtc/modules/video_capture/windows/video_capture_ds.cc
+patch 347,391,

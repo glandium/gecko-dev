@@ -1,0 +1,5 @@
+changeset 61ed0546655a0da158a5b5a1c504105c5b998885
+manifest af28426a32a6e0095383f4728df20d7b7d8f4821
+extra moz-landing-system:lando
+files browser/components/shell/test/test_headless_screenshot.html
+patch 570,614,

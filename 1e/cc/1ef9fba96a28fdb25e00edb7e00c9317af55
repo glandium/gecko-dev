@@ -1,0 +1,5 @@
+changeset d119ab830e82a8548e275a47ef2f8f568ac69857
+manifest e3d1849d3c99c61febe7378f10d6c4fbfe0b62eb
+extra moz-landing-system:lando
+files layout/base/nsLayoutUtils.cpp
+patch 388,432,

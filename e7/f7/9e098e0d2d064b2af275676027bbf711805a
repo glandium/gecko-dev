@@ -1,0 +1,4 @@
+changeset 6b91b33444eb0b779bc18da64bb1abc17b5314a6
+manifest c9be2cd6ba9c43618d942a7479de67ed40b1f410
+files media/webrtc/trunk/webrtc/modules/video_render/android/java/src/org/webrtc/videoengine/ViERenderer.java
+patch 548,549,

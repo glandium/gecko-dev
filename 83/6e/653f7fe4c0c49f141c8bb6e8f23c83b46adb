@@ -1,0 +1,5 @@
+changeset 8f82419ac7c802690f0fad59f8d56b20fdcb3606
+manifest 65a9698a7783b9c3ca532d86adc12118a04cc821
+extra rebase_source:c73844f03683aa8adbda93187a01c36185d085f0
+files devtools/client/themes/commandline-browser.css
+patch 311,385,

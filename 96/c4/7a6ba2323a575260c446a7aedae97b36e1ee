@@ -1,0 +1,4 @@
+changeset 48ea20c2e347a01e3d04700744e295936323a7a7
+manifest d9da463421de76a8da78451a30d3fe78e00d92a9
+files servo/src/components/script/dom/window.rs
+patch 324,325,

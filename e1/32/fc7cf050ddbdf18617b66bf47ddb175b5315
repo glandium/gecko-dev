@@ -1,0 +1,5 @@
+changeset be0e99166797e4fdd67f7ae6b62527aeaaedfaea
+manifest 7aa05abb8829107f9bf23d2416f0cf336cb1463d
+extra source:d339e21df154862f4045f19cf50e61a72e387675
+files devtools/client/projecteditor/test/browser.ini
+patch 361,428,

@@ -1,0 +1,5 @@
+changeset c41c9cc44d8aa41e536a2fdf977b817dabed42ae
+manifest 0ef30c32e813b318fb31ffb47aea092be06cc141
+extra rebase_source:92e158193072582b8568d9c9f00ffdefa0af1a9c
+files taskcluster/scripts/misc/repack_rust.py
+patch 687,761,

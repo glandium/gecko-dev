@@ -1,0 +1,5 @@
+changeset d932537fec3ba7fbfb70ff79568f759d6faefd56
+manifest de7ea05be212a5dd7ad98bf35ea3c760e436bcbe
+extra moz-landing-system:lando
+files widget/gtk/nsGtkKeyUtils.cpp
+patch 539,583,

@@ -1,0 +1,5 @@
+changeset 7fdf6a2b180dca64d5581843b5f4d87f71fd0311
+manifest eff115ded01362630004bc8955fbc4cbae1e9f1f
+extra source:f52dcc4f72904042ce684e36b8c3412baea305b9
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoAppShell.java
+patch 350,417,

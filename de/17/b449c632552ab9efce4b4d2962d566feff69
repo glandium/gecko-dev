@@ -1,0 +1,5 @@
+changeset cf71cf4d1e9f4d8ae705a13a4fb774a7c0c8a886
+manifest df35a8c3ceee6e438d12cf0acb86913848e3dfa5
+extra moz-landing-system:lando
+files security/manager/ssl/nsNSSCallbacks.cpp
+patch 301,345,

@@ -1,0 +1,5 @@
+changeset c16f93a95c44b7e2a3d15fc739eac2201c24d370
+manifest b90f9f2d718b6dc26b4d375dc08984a40379725c
+extra rebase_source:e24a6b36cb12731ae4b1c710cb317aecb9de5e0a
+files devtools/client/inspector/fonts/components/FontPropertyValue.js
+patch 325,399,

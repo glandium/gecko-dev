@@ -1,0 +1,5 @@
+changeset 24b9c0eb34c0f030e6d20afb6c7c09272c758a21
+manifest 3e64f83c815edbb1dc8dc97480b102760181d650
+extra moz-landing-system:lando
+files testing/talos/talos/talos-powers/api.js
+patch 459,503,

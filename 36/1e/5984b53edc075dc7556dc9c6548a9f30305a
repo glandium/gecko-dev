@@ -1,0 +1,5 @@
+changeset 6bfe39bf5e4dd380f6caa96e0e65ab9cdb149a71
+manifest 25897062d583008b80f401f31aa42e7285f90af2
+extra moz-landing-system:lando
+files browser/locales/en-US/chrome/browser/browser.dtd
+patch 451,495,

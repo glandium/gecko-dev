@@ -1,0 +1,5 @@
+changeset c88cd3fdf8735993e66f94b4186912e1a2d9b4f6
+manifest dec42bb6d149df644ef2f3fa78acd2747a0eee29
+extra rebase_source:7dde79c7b3032b926ccb3c79ce6c70f192f4bdc9
+files browser/themes/linux/browser.css
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset 25692599e832e823b3f5278d6996531b31ddc90e
+manifest 1a70542c944722613ef15300600037e66e5c5643
+extra moz-landing-system:lando
+files js/src/jit-test/tests/auto-regress/bug690933.js
+patch 324,368,

@@ -1,0 +1,5 @@
+changeset 4df0e94c014b24e2b8866e23f76272b6a65ddbe3
+manifest 0a9b76d7ee111393c0a4cf15200a6564de4d8c6b
+extra rebase_source:94928beff42fc787e954a34e8733d61433c91dc1
+files js/src/vm/CompilationAndEvaluation.cpp
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 75c0470ab2be5ebe088e87344dc33afbbb4f8bb8
+manifest 47a982231cbb9c1286e9a72e6b6246b0ff5ddfb7
+extra amend_source:a8c2fc853b496dae7983ceaca51156f0e85e8f99
+files js/src/builtin/Stream.cpp
+patch 251,324,

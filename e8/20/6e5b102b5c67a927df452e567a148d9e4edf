@@ -1,0 +1,5 @@
+changeset b3b07db99f1533922fccdc19601d20fced45efe1
+manifest bdc340b7fad28892063fd2254227cf2c3f1e0e66
+extra rebase_source:7012a82fa36e806719b689ab8af1012ddb2e9112
+files testing/mozharness/configs/releases/dev_postrelease_firefox_beta.py
+patch 308,382,

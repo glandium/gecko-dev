@@ -1,0 +1,5 @@
+changeset bc0068cb9e0b1338879eed37127bdbb98f497db2
+manifest 3b1d2f2ee16814bd35792b82f296ff299da1612e
+extra source:ef90d25c7a1a51fef80293d7c7a1b6f98081a015
+files testing/mozharness/configs/releases/updates_firefox_devedition.py
+patch 317,384,

@@ -1,0 +1,5 @@
+changeset 3896a24788a7803e853132b0b071834fe7b7de0a
+manifest f9a7b979c77b076fce2454c904d0a399849548e3
+extra rebase_source:b2e7f62a727535912be55c68d6f8b0932e9f1414
+files devtools/client/scratchpad/test/head.js
+patch 567,641,

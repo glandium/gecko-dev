@@ -1,0 +1,5 @@
+changeset 92756fb365faa1e08bf56e6239b786fa860a8e71
+manifest 16211303f4cb7c153894451c8802617df9c0aa60
+extra rebase_source:44017bd34551044e3bcc6c5bd2d9233f0dcc15f5
+files toolkit/components/telemetry/pingsender/moz.build
+patch 296,370,

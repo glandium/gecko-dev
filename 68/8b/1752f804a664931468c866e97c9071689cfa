@@ -1,0 +1,5 @@
+changeset c72c2c5785e8f622c5cc95c2b2d90196c073a506
+manifest 6b23f512373c24267b2bda734287a09f914f7695
+extra rebase_source:db53346f921ec964b0f21b859f4c10dca3013062
+files devtools/client/aboutdebugging/aboutdebugging.xhtml
+patch 396,470,

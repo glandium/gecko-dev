@@ -1,0 +1,5 @@
+changeset f89d84f9b72bfc831903acdcedb1006b50f229ab
+manifest b861b62f8faeb727eac100215566c2dd94f9b0dd
+extra rebase_source:821e606f54bfceba124af9d9c2585296f2ebc40e
+files devtools/client/shared/components/tabs/TabBar.css
+patch 480,554,

@@ -1,0 +1,5 @@
+changeset fa1966cf5f5c2efe0475c5d684f619ccde2e3779
+manifest ba21086c7f700c48d9b947fa7b602c3696c6c0d1
+extra moz-landing-system:lando
+files toolkit/components/url-classifier/HashStore.cpp
+patch 350,394,

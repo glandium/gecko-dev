@@ -1,0 +1,5 @@
+changeset e2102dd028a907e81a9fb109266c35ab491da15d
+manifest 541e9a296d6be9899c7d0e85dfdb7a3663d9d3e5
+extra rebase_source:3b49dda885f315623876f7529a961bba707c7469
+files layout/xul/nsMenuBarListener.h
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset 76264c3da3f9cb4037375a5a3c391e1028398327
+manifest 5a5f0e803e0dc6077367dd865a8d11805c7a98c6
+extra rebase_source:812d09d0d5ebd291d2ddaafe122b4f5d378135dd
+files browser/components/uitour/test/browser_UITour.js
+patch 491,565,

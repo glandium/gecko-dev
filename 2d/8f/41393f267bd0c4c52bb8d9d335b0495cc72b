@@ -1,0 +1,5 @@
+changeset 534f60b7cb2b41b9bc7024b34332521160054c9f
+manifest be064b69f94b72409f66733cb52309c62f37878e
+extra rebase_source:6e3502ddf9deb96b29e3663f5867f852a2912401
+files mozglue/linker/Logging.h
+patch 377,451,

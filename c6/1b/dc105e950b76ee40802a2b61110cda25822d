@@ -1,0 +1,5 @@
+changeset 574cd09aad41972c293a9fc6e9063b0a8aefdeb3
+manifest 646111a9726b46d480a6857810cbbf12266fd46e
+extra rebase_source:a8ada7319ea86ccb6178870510fdbb1dac6bd027
+files layout/generic/nsFlexContainerFrame.cpp
+patch 477,551,

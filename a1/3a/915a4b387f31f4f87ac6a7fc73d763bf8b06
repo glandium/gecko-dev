@@ -1,0 +1,5 @@
+changeset 40c5d3600d35e2d3df7a4f2ab75c64688ee7dc6d
+manifest 09d2e40a9a03bd130f6ad8473734bcf6994cd6c2
+extra rebase_source:5a01b533acd7ceee70c23f063bdc889daf7f8311
+files toolkit/components/downloads/DownloadHistory.jsm
+patch 330,404,

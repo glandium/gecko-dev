@@ -1,0 +1,5 @@
+changeset 3d64edd56425dec02c8ec53d0c36729ab090c08a
+manifest 7ae02a8274207f25fe3d6214e4910c3daad8d755
+extra source:8867228e079635242ecde2b45075fb937b210971
+files testing/marionette/harness/marionette_harness/tests/unit/test_screenshot.py
+patch 315,382,

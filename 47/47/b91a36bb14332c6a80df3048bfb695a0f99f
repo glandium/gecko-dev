@@ -1,0 +1,5 @@
+changeset 68a8bde575ef1669a3c05e8c91b009c20948c27f
+manifest 51c1de97e45f23cad67679e120c4369e1a0c6cdb
+extra rebase_source:d6d1d8388ba722c47069c1b6906309d4535220f4
+files taskcluster/taskgraph/templates/artifact.yml
+patch 341,415,

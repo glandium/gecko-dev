@@ -1,0 +1,5 @@
+changeset 60a10f910397d6eda721528843d11affe2995b12
+manifest c0db3e952daee7cf0dcd381e041ebef2194f8db4
+extra rebase_source:523876c41599975199158700d7d53f096d25215c
+files tools/lint/eslint/eslint-plugin-mozilla/lib/configs/xpcshell-test.js
+patch 360,434,

@@ -1,0 +1,5 @@
+changeset 27b589b9c3f465a64b416b61ff11d9cf23ae5f84
+manifest 04dbb7ab2ee768426b2e849f71ebeb620368b54b
+extra rebase_source:165b72395a28f745c9a4e4b82d72299e648615ed
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/stream/WebpageItemRow.java
+patch 477,551,

@@ -1,0 +1,5 @@
+changeset b6a72be09112ba615f04ac3c8f3d003805efa0fd
+manifest a33ec4c05a306d2d2b7941a66a6d542ee939435e
+extra rebase_source:66b864d9efecb996a5d438b32a3d468c70940a5b
+files devtools/shared/webconsole/screenshot-helper.js
+patch 293,367,

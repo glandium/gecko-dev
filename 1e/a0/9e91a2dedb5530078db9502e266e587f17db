@@ -1,0 +1,5 @@
+changeset fc4a2fff3c89b8691a81a8c101ca94251115f000
+manifest 96439c3ffb1e422cd6d73853f002bd07982a4717
+extra rebase_source:7b15bbbd0876a14259242724836ab90b93d7bb2b
+files devtools/shared/gcli/command-state.js
+patch 291,365,

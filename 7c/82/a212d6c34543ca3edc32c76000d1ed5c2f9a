@@ -1,0 +1,5 @@
+changeset 814bf2e58ade5f5f2d114d1b7decbd1461c872d8
+manifest 030ba4c3b5cfa56706c1b91074036c2ca9b98cfa
+extra rebase_source:d1f76b606cef7b2f4132064ebd2e6c7550b68990
+files toolkit/components/satchel/AutoCompletePopup.jsm
+patch 351,425,

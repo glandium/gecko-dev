@@ -1,0 +1,5 @@
+changeset 28ab0061c2ac1c13e4550117acf466509a6d2dcf
+manifest b54c519bc6f3ec67e3549a06eb5bc6acea929973
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/middleware/debug-target-listener.js
+patch 616,660,

@@ -1,0 +1,5 @@
+changeset 0842f492e64a2fe4b9139fed3cae0fea5a719583
+manifest 4475465afe4fbce13a74fff125aab0d1e18aa023
+extra source:d540146b50b30e39ace04623bf8f7f3e21573b6b
+files netwerk/cache/nsDeleteDir.cpp
+patch 744,811,

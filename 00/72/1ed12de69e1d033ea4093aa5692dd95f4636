@@ -1,0 +1,5 @@
+changeset beb76be8dc465040490e2af053b2651b42b58a5c
+manifest ac9351dd7261fd57c1000888b688379e7ea4a50e
+extra rebase_source:ce8fbbbf2a745395f0986fd76442f72743dc68ca
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/topstories/PocketStoriesLoader.java
+patch 450,524,

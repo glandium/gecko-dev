@@ -1,0 +1,5 @@
+changeset 8a34342120f17e0bca6336b9a7038f481d6b8588
+manifest 20484942650339eeefb9476b8817d94604cfd236
+extra moz-landing-system:lando
+files security/sandbox/linux/broker/SandboxBrokerPolicyFactory.cpp
+patch 344,388,

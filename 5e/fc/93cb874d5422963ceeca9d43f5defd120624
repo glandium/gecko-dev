@@ -1,0 +1,5 @@
+changeset 0968b25b736fbc2456ae99e21580e0f204e9ded8
+manifest fef4d381963c11d1c6a5108584a0dc168a3044db
+extra moz-landing-system:lando
+files media/webrtc/signaling/src/media-conduit/AudioConduit.h
+patch 543,587,

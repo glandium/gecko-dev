@@ -1,0 +1,5 @@
+changeset f3e1fd49ad093f343538a34f826eecb229cdd8e6
+manifest 5b46b98841577cf2d90ab3236c2d19fcd42912f6
+extra rebase_source:a279790045eb91d96d20fca522e1b38c01d72a49
+files devtools/shared/client/debugger-client.js
+patch 466,540,

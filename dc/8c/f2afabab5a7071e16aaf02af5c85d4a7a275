@@ -1,0 +1,5 @@
+changeset 305c7368c03bbead954f726496786bc29716b8af
+manifest b9656b7b5c1a667218571557aebd1f6d2451ba22
+extra source:e29be447ca751eb0fd8b854631c3eee176dba32e
+files mobile/android/base/java/org/mozilla/gecko/notifications/NotificationReceiver.java
+patch 386,453,

@@ -1,0 +1,5 @@
+changeset 54c6397bb3844b170f930425188003d2d35b126a
+manifest bf432e8d642bad7940b448fa5245d982199efb82
+extra moz-landing-system:lando
+files js/src/vm/GlobalObject.h
+patch 276,320,

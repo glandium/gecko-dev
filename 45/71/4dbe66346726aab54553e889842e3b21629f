@@ -1,0 +1,5 @@
+changeset 306f3de7c409ab29dd5c3c14b32a643b5e567b3a
+manifest ab9ab11cc8882f55d3acdcb6a6535fda3d73a7a7
+extra source:43e6105e56e6dbc569934f10d534eb8989161aa5
+files servo/components/style/stylist.rs
+patch 507,574,

@@ -1,0 +1,5 @@
+changeset 627055e30ca40ca5f4f7174dbcd2fb76a4ba73a9
+manifest 383840957fbee833efc859ebadd85f1bd2256df1
+extra rebase_source:4c7296fd84509f71b680a55f513574285e754481
+files xpcom/ds/nsTArray.h
+patch 296,370,

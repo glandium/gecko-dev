@@ -1,0 +1,5 @@
+changeset 8e53e1a9964baa87965e59d53d2882deff62d3ff
+manifest 2600b59114fc35c17844ef3adf2a3aabb3e1f8c1
+extra source:4d4a25991c6436f731b22eb4dc5f2a1f90f21f30
+files dom/animation/AnimValuesStyleRule.cpp
+patch 305,372,

@@ -1,0 +1,5 @@
+changeset 978402f68f3cb038f168299ed40d8c591f827a80
+manifest b31468857298fadaab83216e4bbe7a162489fca7
+extra source:590bdef6b3123a2c7e9676fb88a4b6b65f344d15
+files toolkit/xre/nsNativeAppSupportCocoa.mm
+patch 340,407,

@@ -1,0 +1,5 @@
+changeset df8ca6189da3b8aa9cf830566f42a48ca8009a68
+manifest 0b92a3fe36c6aff1b856f4eb608b214b0eb433f6
+extra rebase_source:fd78b5ece315a27e76aeaa5f003d05228f61aa11
+files mobile/android/thirdparty/com/github/yonik/MurmurHash3.java
+patch 345,419,

@@ -1,0 +1,5 @@
+changeset 9fbfe01ae6f1e578f29f7fb6ae583d2a16d8699a
+manifest 3acbb5049a146c5b82adb9fb76706234419b46d7
+extra rebase_source:070a2872afc8c4163876cc00c347ea26ddd591c7
+files mobile/android/base/java/org/mozilla/gecko/widget/SwitchPreferenceView.java
+patch 352,426,

@@ -1,0 +1,5 @@
+changeset 9293d1417c14870ed1b001e0872bebbc259fc1be
+manifest 75b203ed05559b0372bee8f1329b158250e48fce
+extra rebase_source:dc5e6e070abf92a2ac9b093a76894e175c226ed2
+files browser/components/distribution.js
+patch 291,365,

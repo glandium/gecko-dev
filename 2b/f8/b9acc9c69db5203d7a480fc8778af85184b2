@@ -1,0 +1,5 @@
+changeset 80924717bcc66bce4cc1de04b61c6ea18a283126
+manifest 936ca1ec93bbe9d5c009d1e6c6252f531efd332b
+extra rebase_source:6da46f31815b2938d9a7a984473ed01c35b8a59d
+files mfbt/WindowsVersion.h
+patch 417,491,

@@ -1,0 +1,5 @@
+changeset 55583f395c721df49ef7b19533471948ad0ea3de
+manifest 02dea5a3e67caf8f228949a64927490879a71cd7
+extra moz-landing-system:lando
+files browser/base/content/browser-tabsintitlebar.js
+patch 287,331,

@@ -1,0 +1,5 @@
+changeset b9d6b100ffd90487ca1f3ea6c4a7867db888fa05
+manifest 9d42040d1cb4d8c7c0ef13434566e33a34db5ee8
+extra rebase_source:d6e87698602a9d53ae8dabdadf00fa39a9271e86
+files toolkit/crashreporter/test/unit/xpcshell.ini
+patch 296,370,

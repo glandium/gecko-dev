@@ -1,0 +1,5 @@
+changeset dbacc03200465ecc8a8bff67b40e5b9408335bb0
+manifest 390ac0573bd9c95706962865cf68c98a487640e6
+extra rebase_source:92d1f801cc680f9fde8ecfa46c570e3c562a3d01
+files xpcom/base/AvailableMemoryTracker.cpp
+patch 958,1032,

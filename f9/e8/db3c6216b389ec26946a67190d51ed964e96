@@ -1,0 +1,5 @@
+changeset 2385f24df5c620df866470815bbba629e4c80d37
+manifest f75d37c7455ea89d356f15624bfb8c0de52715b3
+extra rebase_source:3b9f6bbca626abc0a6082cb0fdb8aff39bf62707
+files devtools/client/jsonview/utils.js
+patch 279,353,

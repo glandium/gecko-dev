@@ -1,0 +1,5 @@
+changeset a993d7bc665860b2ea7df689adc6643fa3819815
+manifest 7d4781a38bf38b8f6e7ec1021f817a708f41db38
+extra rebase_source:6afed8e85fcf8801144a1a34ea07f590baa0f5e0
+files mfbt/Atomics.h
+patch 288,362,

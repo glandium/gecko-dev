@@ -1,0 +1,5 @@
+changeset 27cee08fb4207c5f88c748af896cf5ee29be9073
+manifest 48585bfd7f570135f381f342b4ce938c2b20f457
+extra rebase_source:fe220a940b07bc45c10b460c22408eeecf3a3059
+files browser/base/content/test/appUpdate/head.js
+patch 501,575,

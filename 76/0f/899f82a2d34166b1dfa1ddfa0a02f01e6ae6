@@ -1,0 +1,5 @@
+changeset b8d0312c16dcd6884de7a8be5791655f60ef40e4
+manifest 56634b417e44c7dfd8a87e4518d7847bc37fa16b
+extra rebase_source:da8d9a2afa41fc7e55cbbb8737209d7f1d3b0c60
+files media/libwebp/src/dsp/moz.build
+patch 256,330,

@@ -1,0 +1,5 @@
+changeset 655c49c71be0b2f973ffffb168825aa1c0401552
+manifest c6c5979a65c1d9b940d98faafe096075af1dbfed
+extra moz-landing-system:lando
+files widget/cocoa/nsLookAndFeel.mm
+patch 305,349,

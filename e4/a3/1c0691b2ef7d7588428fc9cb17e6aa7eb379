@@ -1,0 +1,5 @@
+changeset 9b7b1057cfc67dfe606e522d19fff53da246dc5c
+manifest 996458760862d1ef9bb7cb6b65dbe9518a9caa3e
+extra rebase_source:de87b3ff00b5af6c863d607209d076145e324669
+files netwerk/protocol/http/HttpBackgroundChannelParent.cpp
+patch 350,424,

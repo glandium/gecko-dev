@@ -1,0 +1,5 @@
+changeset e4b2357330b4d5f20b306f57aa34e8f74dd45869
+manifest 474b4c312a844e179146f75294e38f8d38775f78
+extra rebase_source:464cf36f0dfe217618f992868ee80c4a11ceb46d
+files third_party/python/pipenv/setup.py
+patch 378,452,

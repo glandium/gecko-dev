@@ -1,0 +1,5 @@
+changeset b80453dc653f1242cb4d28e030cda96657278186
+manifest 948fc0a860145eb6221daa70355f1ab75decbf5b
+extra rebase_source:69f97ceeb0c9d4fa633153c8f882802620f416be
+files xpcom/reflect/xptinfo/xptinfo.h
+patch 286,360,

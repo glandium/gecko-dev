@@ -1,0 +1,5 @@
+changeset 45cbc8ce2df1db1311fa5b6e9e505d103ebed1cf
+manifest ed4b8f8c1098da4fcae7cdbe55eed77e1282ec5a
+extra moz-landing-system:lando
+files gfx/layers/d3d11/MLGDeviceD3D11.cpp
+patch 379,423,

@@ -1,0 +1,5 @@
+changeset d3b46f3a0306aaf4dda9f47fb4f02bc66f3ba562
+manifest 7114cb948e8a899090969afff39e18bf96bd2f59
+extra rebase_source:6a76ffad197a9e30fcd34073124fdce50358ec9d
+files devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_system_addons.js
+patch 324,398,

@@ -1,0 +1,5 @@
+changeset aa0c5bc2a99ee57f82ca44da461ebd9870af4275
+manifest be3d3fe49026efd6a8f7f73d78b2bf431fcc31ca
+extra moz-landing-system:lando
+files gfx/layers/wr/ClipManager.cpp
+patch 694,738,

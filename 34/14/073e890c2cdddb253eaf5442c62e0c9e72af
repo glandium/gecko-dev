@@ -1,0 +1,5 @@
+changeset d2a67cf4639a9bbff277421aa5823643d0d5dc05
+manifest 3953312a7fd3a1965d3c5a1229c72e1caecf613f
+extra rebase_source:96ede54cbed7c0bfe84584d5dd21acb1e421f115
+files js/src/jit/JitFrames.h
+patch 248,322,

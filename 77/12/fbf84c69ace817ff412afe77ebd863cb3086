@@ -1,0 +1,5 @@
+changeset bbe7d8bef8ddf664dce4cd9709af3cef60951fd4
+manifest b507b1520f27abb879c68523f42abb9c2d84d3fd
+extra rebase_source:a088c9a9d974c933811334de2415a90dce9e890e
+files devtools/server/event-parsers.js
+patch 300,374,

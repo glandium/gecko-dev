@@ -1,0 +1,5 @@
+changeset 6cbfcebf531fbe916bb6848ecf820b4e4ef7259f
+manifest efb97c8282cf19d599b12c6f737503bf4a9f55ab
+extra moz-landing-system:lando
+files browser/extensions/onboarding/test/browser/browser_onboarding_skip_tour.js
+patch 356,400,

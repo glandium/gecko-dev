@@ -1,0 +1,5 @@
+changeset 89279cd689a3d382792cc0a7f29445b2cbf320e1
+manifest e776ca973004d58b6960da240f97ac7c1b2a361c
+extra moz-landing-system:lando
+files storage/test/unit/test_locale_collation.js
+patch 410,454,

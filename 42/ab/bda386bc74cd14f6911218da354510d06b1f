@@ -1,0 +1,5 @@
+changeset 819875ef9f032c14c574a0abe4a48e94906dca58
+manifest 7061ca2ca91e4c7611b293868bd29a899277a3a5
+extra rebase_source:7795784894bfca6e921d38cedaa4f543317c2165
+files xpcom/string/nsTSubstring.cpp
+patch 426,500,

@@ -1,0 +1,5 @@
+changeset 91ebb584fc063722c6e1ebe2ba48b327aabce8fe
+manifest 7b2f45c677986b561a116cd0d65894a0f0a4a2e3
+extra rebase_source:1674e0510a565aa7e4c50a34e01a6f89336982e1
+files browser/components/extensions/test/browser/browser_ext_browserAction_popup_resize.js
+patch 366,440,

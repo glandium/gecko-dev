@@ -1,0 +1,5 @@
+changeset 33318adf48fcd9b00158dc4e428efcb02df92d57
+manifest e1c6da13da72ff56349cf20a80e3e938362c66cd
+extra rebase_source:55946d08d1d89a8f4b7e44a4ace19d24c2528d79
+files toolkit/components/payments/test/browser/browser_request_shipping.js
+patch 331,405,

@@ -1,0 +1,5 @@
+changeset a1bc7ae8aef007288dee4b8d1b023ad2fcaa0117
+manifest 202ebf4aa1db34c4384a6ed2162d44e58f2b1a2f
+extra rebase_source:b07159d3c590a4051d64a971e86d8fafd7608f6a
+files toolkit/xre/nsAppRunner.cpp
+patch 295,369,

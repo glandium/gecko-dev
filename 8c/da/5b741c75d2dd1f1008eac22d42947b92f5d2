@@ -1,0 +1,5 @@
+changeset 9f3309fa6e35faec63b7ff1233d9f10dcd37732e
+manifest 0d46428a8c8248cd775fb4fcf16f0c5c90be0693
+extra rebase_source:4cbb849eb96800b3aa60ef059cd99a412def44f1
+files mobile/android/geckoview/src/main/java/org/mozilla/geckoview/BasicSelectionActionDelegate.java
+patch 406,480,

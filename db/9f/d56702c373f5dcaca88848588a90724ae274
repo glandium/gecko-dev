@@ -1,0 +1,4 @@
+changeset cb242f1774a5845a104b6d3482232bc6d1bdf21f
+manifest b15ced2a32952a09a66a4cb50ca46439d58eb0cc
+files taskcluster/taskgraph/util/seta.py
+patch 192,193,

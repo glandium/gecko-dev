@@ -1,0 +1,5 @@
+changeset 91e1d8b0cdeb577c888e1522996bc020e57961e7
+manifest 6aa1f19e099319c07898fee13b1a1d352939bcaf
+extra rebase_source:884c00a6a5bc1e2f1afae65047ceaf446e8d2161
+files devtools/client/framework/toolbox-highlighter-utils.js
+patch 490,564,

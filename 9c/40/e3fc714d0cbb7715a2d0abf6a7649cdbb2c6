@@ -1,0 +1,5 @@
+changeset 9b49df8dc9b9ba12db1f83e875df529394b26a36
+manifest ffcb37d19e4b00ac38d0f9560f79dc4071dcfb24
+extra rebase_source:162e3866a521301aacc7ccbc420a068d78a7205c
+files devtools/server/tests/browser/browser_navigateEvents.js
+patch 304,378,

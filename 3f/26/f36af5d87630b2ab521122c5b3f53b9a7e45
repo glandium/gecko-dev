@@ -1,0 +1,5 @@
+changeset a27f8c7557d4eefc9ed75192aff5eba3d1b80d6f
+manifest 1d3c17bab1412cb8b24015fcdce46dd2cf6ae156
+extra moz-landing-system:lando
+files js/src/builtin/JSON.cpp
+patch 274,318,

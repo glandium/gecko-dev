@@ -1,0 +1,5 @@
+changeset 25a0a38597b728663eb1a30ea1d06a8cbd2b462d
+manifest 323e460e761fb3bac643e9f87e3b3d26f60a9c38
+extra rebase_source:9001d5e17fdea20925c08132d09abe54367ae696
+files browser/extensions/formautofill/moz.build
+patch 317,391,

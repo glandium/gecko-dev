@@ -1,0 +1,5 @@
+changeset 12783b5a0fca4162a36a61b45f7b2a5bc2b452d1
+manifest 4788baa79205826306ae6acfe0e4472ae5535efc
+extra rebase_source:1bf32151d3134b3527978934afc4c7405dc60b3e
+files browser/components/uitour/test/browser_trackingProtection_tour.js
+patch 749,823,

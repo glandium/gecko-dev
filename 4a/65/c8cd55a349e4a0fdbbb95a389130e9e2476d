@@ -1,0 +1,5 @@
+changeset 0f30ba8cfeecb4237be48d17b88cc729f993028f
+manifest 7ff55463612da9dbf1c724a6b6790c90a593b152
+extra moz-landing-system:lando
+files devtools/client/debugger/new/test/mochitest/browser_dbg-scopes.js
+patch 328,372,

@@ -1,0 +1,5 @@
+changeset 4f3b16bba67cceea884be0ac9764bc2f8187ea41
+manifest dbb0a9abf080a6f5b60d57612e4e696f413fec71
+extra rebase_source:52a4012baa5ff921fb83fb43988c3eb797ab918c
+files browser/modules/FaviconLoader.jsm
+patch 340,414,

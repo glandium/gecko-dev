@@ -1,0 +1,5 @@
+changeset dfbd7bb8567331d80c5a521641817ae14e757d8a
+manifest c1047e5ffe47531227ad6e5fcdc0dcc6c9e7b99e
+extra rebase_source:52f526f8c8eab86c8ff818f32b27aa5fd9172fc3
+files browser/modules/webrtcUI.jsm
+patch 280,354,

@@ -1,0 +1,4 @@
+changeset 0032560ae945a254053e9a788b41c16967593443
+manifest dda8c34b0d7122e60f5b57c558f52f78d266a7d7
+files build/clang-plugin/tests/TestNoRefcountedInsideLambdas.cpp
+patch 299,300,

@@ -1,0 +1,4 @@
+changeset eb20e16932a20e805a7ab598a8eb8430bebf91a4
+manifest 61cc318d8dfad6334ae9a376299a36360a473d6e
+files servo/src/components/net/image_cache_task.rs
+patch 344,345,

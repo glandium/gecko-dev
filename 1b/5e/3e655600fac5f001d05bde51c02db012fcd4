@@ -1,0 +1,5 @@
+changeset 07930ba778c6807c373f83ddb89da629d9e1eec9
+manifest 77cf4adce609fc1d28cd9a3afb5460ef0a6e68f7
+extra moz-landing-system:lando
+files browser/themes/shared/urlbar-searchbar.inc.css
+patch 360,404,

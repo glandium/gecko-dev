@@ -1,0 +1,5 @@
+changeset 2855ab9fc7e12173d6d3efc7496d5d93bfcdf4ff
+manifest 01fa8255b55e605512bfed7e924899d37aedc59a
+extra amend_source:7b4a8aa77cda9bbe299077b01b976338644cdc3a
+files python/mozbuild/mozbuild/test/codecoverage/test_lcov_rewrite.py
+patch 330,403,

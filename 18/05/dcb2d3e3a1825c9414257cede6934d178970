@@ -1,0 +1,5 @@
+changeset 4b66e3729eda8249fd5ef1f69bae6c3f9ca8486f
+manifest 87cb88bccf0727c65126145d8b1a44fcf0ac4a5c
+extra rebase_source:ee557c78b1c959caa10a7862fbc732b4cf11792e
+files tools/lint/python/compat.py
+patch 309,383,

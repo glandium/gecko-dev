@@ -1,0 +1,5 @@
+changeset 6060c3c5634270024b22c7ef28f29063ce3e35fa
+manifest dd8ffc85719486bc40cfcbc0e5f9cfb8b87e2aa2
+extra rebase_source:adc4764cf7e5e11227db805a7a935c611becc816
+files devtools/client/responsive.html/actions/screenshot.js
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 81e9aa4a4fbc0e72a9872f72f90507c31780cfc3
+manifest 1db2be44664b9dfdc1f50ec4fcdf1a37e1b24edd
+extra rebase_source:3f9d87c762ba324556b3133d64305c17d5305154
+files accessible/tests/mochitest/textcaret/test_general.html
+patch 604,678,

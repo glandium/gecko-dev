@@ -1,0 +1,5 @@
+changeset c922cfb6504d6376cbe5427fc75145341cbb525b
+manifest cf86520f2fc2da32da70ccc87c7537daaf9eda85
+extra rebase_source:87811b7e3ccf1774d2f07d54d0a9662d184b4f0a
+files js/src/vm/JSScript-inl.h
+patch 289,363,

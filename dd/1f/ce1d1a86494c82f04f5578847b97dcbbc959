@@ -1,0 +1,5 @@
+changeset 39b4ff73882ca7e6368347da67454cdd37b13a97
+manifest 10751b9fda9d7bdf1c5d2a8aceff58d530c6f904
+extra rebase_source:da4822c9fb6f41e6fbfeec5a63086c43aeca7944
+files browser/components/customizableui/test/browser_remote_tabs_button.js
+patch 991,1065,

@@ -1,0 +1,5 @@
+changeset b9a450416f051fa67283158076231a1ead46ba1d
+manifest fc0b9550292df290d3e78431f9cfbd2476c5fc44
+extra moz-landing-system:lando
+files toolkit/xre/nsEmbedFunctions.cpp
+patch 267,311,

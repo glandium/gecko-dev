@@ -1,0 +1,5 @@
+changeset a082115925637db8aed7933dee13a8c52870513d
+manifest ff5a02dcbb09a3a0637a40ad6e7dde599130e2ec
+extra rebase_source:8c31af5b1275a6036ff09f062f2b87f3c1e2b300
+files security/sandbox/linux/broker/SandboxBrokerRealpath.cpp
+patch 310,384,

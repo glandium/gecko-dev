@@ -1,0 +1,5 @@
+changeset fe67b30d8534c6a843ea7cc8a496abc2b5a506b9
+manifest c1930b27ce3127db16eac61d761a30fc1d0702e9
+extra moz-landing-system:lando
+files testing/mochitest/BrowserTestUtils/BrowserTestUtils.jsm
+patch 343,387,

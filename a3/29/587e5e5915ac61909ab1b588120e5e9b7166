@@ -1,0 +1,5 @@
+changeset 1ec7f4653e3c67138a7ec3f8cfb78fe275e7c39c
+manifest f6dfbd317dc6550dd536951284713c7ddfac6bc4
+extra rebase_source:af0cdad3a1905bf2e5654a109aa4037ec70b422b
+files editor/libeditor/TextEditRules.cpp
+patch 609,683,

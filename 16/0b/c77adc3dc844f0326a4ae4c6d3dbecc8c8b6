@@ -1,0 +1,5 @@
+changeset 365ac2b9486fdff60e9362012a6bbb13ce80a5c5
+manifest b01704d308d801553a8e8d29956cc96ab1a7cbb2
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/test/xpcshell/xpcshell.ini
+patch 879,923,

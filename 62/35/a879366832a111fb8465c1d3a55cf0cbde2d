@@ -1,0 +1,5 @@
+changeset 05e7fea07c8d4ac68741ae706a35d8905985785d
+manifest b8b695d107561658346d186c6b89796e5aa8c208
+extra moz-landing-system:lando
+files devtools/client/shared/test/browser_telemetry_sidebar.js
+patch 435,479,

@@ -1,0 +1,5 @@
+changeset 8db4f905ae7af3cc59ff0832b4bac21edb810f09
+manifest 098843c85c8af99490f573da11b6481b7ecaab76
+extra moz-landing-system:lando
+files netwerk/cookie/test/unit/test_eviction.js
+patch 479,523,

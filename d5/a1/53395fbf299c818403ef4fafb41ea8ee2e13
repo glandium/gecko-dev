@@ -1,0 +1,5 @@
+changeset 70daf386e9d36a170da95d59009ef953ccb6310f
+manifest b30cc11c5a020c8ed736842450f90a382d2394c5
+extra moz-landing-system:lando
+files devtools/client/shared/widgets/tooltip/HTMLTooltip.js
+patch 664,708,

@@ -1,0 +1,5 @@
+changeset d1a6af0172d9535f91063526c654f7719dc55440
+manifest c5734df8256f571c6bf59534f1ce8115c8708174
+extra moz-landing-system:lando
+files testing/web-platform/tests/webdriver/tests/element_click/scroll_into_view.py
+patch 912,956,

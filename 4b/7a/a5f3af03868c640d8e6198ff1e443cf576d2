@@ -1,0 +1,5 @@
+changeset f128be7d525615bf6164997ce50e537e71c5391e
+manifest c62fcfd3cfc71d889e181c2329db3707680eede8
+extra rebase_source:21482dd9850f1278ca7670cd59f6519ed19da0f9
+files toolkit/components/telemetry/geckoview/TelemetryGeckoViewPersistence.cpp
+patch 640,714,

@@ -1,0 +1,5 @@
+changeset 03132dcf8ae5bf49bf58008bad7f97f0b9d3e4d4
+manifest 3a873ee0397970da59f0f2d6f8f092a2da87bd47
+extra moz-landing-system:lando
+files browser/extensions/formautofill/FormAutofillPreferences.jsm
+patch 371,415,

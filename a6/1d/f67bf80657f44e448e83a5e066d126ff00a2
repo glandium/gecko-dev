@@ -1,0 +1,5 @@
+changeset 27eaf846cbb5b189784447174c0b65f8e1a2569d
+manifest 9d16d1fd08fb59eb0fc59230880dc506268a918f
+extra rebase_source:d21ac0c960ac075e61bbc98f3d9afbb60c470311
+files toolkit/content/globalOverlay.js
+patch 343,417,

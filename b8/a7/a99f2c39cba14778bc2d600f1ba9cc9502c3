@@ -1,0 +1,5 @@
+changeset 717da2199e0ed05b7b6a7f0d7930fa3fb9c25298
+manifest 02b7f6d3376776e281003b7a97fe8732677e5a7c
+extra rebase_source:f5a7dcf4a80eece6270e2757d7c41e5eaaff60e9
+files testing/profiles/prefs_general.js
+patch 582,656,

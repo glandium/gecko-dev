@@ -1,0 +1,5 @@
+changeset d2c963c5022507cb99c74c4bcba9d2c596b4339e
+manifest fb1af2cc466655c843eace5e57152e6c5992140f
+extra rebase_source:726f566eedaad6b0037369b60e25acb471f97933
+files toolkit/components/printing/tests/browser_preview_print_simplify_non_article.js
+patch 545,619,

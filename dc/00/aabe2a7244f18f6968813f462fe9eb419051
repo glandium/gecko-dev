@@ -1,0 +1,5 @@
+changeset 0f40b745a66919b09fe289c797a2cb7fd6b9079b
+manifest 9804347de40db6c5eb4aa1417207817fb1993b3e
+extra rebase_source:43ea9e68e3e47c14b15c4a2c61ee7d7186760a90
+files widget/GfxInfoBase.cpp
+patch 298,372,

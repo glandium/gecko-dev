@@ -1,0 +1,5 @@
+changeset dbcd25d63842ca202a8d640bd3baaa225d771e86
+manifest 18ba1327c3761ead97499856a7bf44ad982782e8
+extra amend_source:cdb7ffad8626284d5d173f986460a9d704b20d57
+files js/src/tests/non262/extensions/regress-346773.js
+patch 275,348,

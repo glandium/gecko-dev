@@ -1,0 +1,5 @@
+changeset 183b5d2173b57f7b631e20acbfbe9d835dc39c81
+manifest 59a503944aca656e1365d2897e3c8236fb2b5e96
+extra moz-landing-system:lando
+files browser/base/content/test/permissions/browser_canvas_fingerprinting_resistance.js
+patch 415,459,

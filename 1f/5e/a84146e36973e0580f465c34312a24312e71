@@ -1,0 +1,5 @@
+changeset 93a43f1d8ea0fa0f545e962a4b361b137fa55830
+manifest 362eb98cef92d18ed130c1d4891c4dbbf1044ee7
+extra rebase_source:a1015ed616a4b0f4e6e33c6ac4d5bd3f7a47f60e
+files toolkit/components/normandy/lib/ClientEnvironment.jsm
+patch 301,375,

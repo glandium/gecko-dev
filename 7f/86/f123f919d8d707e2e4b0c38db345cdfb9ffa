@@ -1,0 +1,5 @@
+changeset 2f968d0631f513abd33a76f564a9c2b32377216c
+manifest 01773b7ce455f0c2c907073b668221aa603e9dc2
+extra moz-landing-system:lando
+files devtools/shared/security/socket.js
+patch 772,816,

@@ -1,0 +1,5 @@
+changeset 31e9bd2f1ef71bb9241dda415bb4f1e12bb9c59c
+manifest 9fab0110f8c3770c6dabd0542aa8a51f7f88e3e3
+extra moz-landing-system:lando
+files security/manager/ssl/security-prefs.js
+patch 407,451,

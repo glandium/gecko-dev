@@ -1,0 +1,5 @@
+changeset 3a7473bd9db5f2741725b436cbcb976b7922a937
+manifest 0d9809fa399775957ef5287996787017a4055bf0
+extra rebase_source:8c42ebb5418f9b6e993d1c3e4b7c0140ad92ae1c
+files browser/extensions/formautofill/ProfileAutoCompleteResult.jsm
+patch 343,417,

@@ -1,0 +1,5 @@
+changeset d71a9ebb920ac0d2eade586c56502852cc14da46
+manifest 406053dc2237d3590999a46c12f9c495e8e5b3c3
+extra amend_source:a80f50f754c9be171e9262b13136e95005bc62af
+files accessible/ipc/win/HandlerProvider.cpp
+patch 511,584,

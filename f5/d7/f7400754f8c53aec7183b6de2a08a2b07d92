@@ -1,0 +1,5 @@
+changeset c3a3d5aadad26e7a4d97cd034871c94b2371c375
+manifest 95090ef8b659bc030ec301a6aa88121d9568de6d
+extra source:3ef29704bc3d34cc4e3b4c804f5547d5527c2564
+files testing/web-platform/tests/webdriver/tests/set_window_rect/set.py
+patch 383,450,

@@ -1,0 +1,5 @@
+changeset 143af10f6e44656bf48b6cf63a3a7adda3c393c9
+manifest 11e889d98100537054daae2edcf1b1bcb8ddc61b
+extra rebase_source:a914dd5e54017739e1c4565b0b7d40c2df3b31d9
+files browser/components/touchbar/MacTouchBar.js
+patch 319,393,

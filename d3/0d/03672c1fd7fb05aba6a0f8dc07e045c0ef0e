@@ -1,0 +1,5 @@
+changeset 8d7dcc765725f1073501e4b2c44faae8ad2a26c8
+manifest d4c6671e1f5ecbe27b8b9119e91a01fe9b03256e
+extra rebase_source:b9c1612b5b2bf66e9f7c457364d175adc79ff062
+files toolkit/components/extensions/Schemas.jsm
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset 77322ec672080042e7f88411d1aeed829444972d
+manifest c77b38f7f4f3b35aef170a4678c2fab958554795
+extra rebase_source:b151d1152014f32bc2a3019275d769f907d50145
+files netwerk/protocol/viewsource/nsViewSourceChannel.cpp
+patch 307,381,

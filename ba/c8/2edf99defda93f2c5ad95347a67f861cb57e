@@ -1,0 +1,5 @@
+changeset a1827dca2447b9db46cf0c72a704ab76268e018a
+manifest 48e8d66421d32fb235ac432dd7988fed10aee78c
+extra source:6994cbd66d9751acd87d5005f9eb67e7eea62af2
+files js/src/shell/OSObject.cpp
+patch 232,299,

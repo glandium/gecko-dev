@@ -1,0 +1,5 @@
+changeset 82ed0c46ac34d5786c3b058ad5c104f77f42274a
+manifest c294cb345c2d3d5f800e53ba7652cf588c93496d
+extra rebase_source:7bc6c5ac9043d7db00cdbf528d8faa8885ee0da1
+files mobile/android/app/ua-update.json.in
+patch 281,355,

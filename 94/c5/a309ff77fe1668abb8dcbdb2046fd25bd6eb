@@ -1,0 +1,5 @@
+changeset 8be55a86ae3b06ce9edce3df2ee8caafd5188e4b
+manifest 4ead6afa6ce7d0fe16233e80a9e29c97ae5027e3
+extra amend_source:7d688058489eb094105c230bc08ee96d6566cbc1
+files devtools/client/inspector/fonts/test/browser_fontinspector_copy-URL.js
+patch 350,423,

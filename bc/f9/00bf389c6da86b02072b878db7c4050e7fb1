@@ -1,0 +1,5 @@
+changeset 92a5018d1ecfd58024a55a6d30348caf095aa7b7
+manifest 1c6efdcb634e9d56a2615dda587b334243785a47
+extra rebase_source:a000d27774f224d37f981d6683d96c65846b8a32
+files testing/mozbase/moztest/moztest/selftest/fixtures.py
+patch 549,623,

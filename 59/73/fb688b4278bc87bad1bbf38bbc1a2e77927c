@@ -1,0 +1,5 @@
+changeset c5c9652c6ef3507b0fc844a7b7416e21f9faed20
+manifest 99173caf46cedd63df87045a144e9bb1846aa496
+extra moz-landing-system:lando
+files browser/base/content/browser-data-submission-info-bar.js
+patch 324,368,

@@ -1,0 +1,5 @@
+changeset edbbd00906426ed221f277f44bd7b8fac70e450d
+manifest ab7f1abb090b44949f1b534cfd386e40d1a59c91
+extra rebase_source:f50a186d5e78ca808d6c8873ec982663f4bbbde5
+files widget/cocoa/nsMenuX.mm
+patch 527,601,

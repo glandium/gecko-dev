@@ -1,0 +1,5 @@
+changeset 3c697557546a791ba786a58478113d10f939c25c
+manifest d1ebbeea165fda919aa2a95e8b8d364876f5db3a
+extra source:bc5282261728d4a3c7b171f3c55579687654dc6b
+files gfx/vr/service/OculusSession.cpp
+patch 312,379,

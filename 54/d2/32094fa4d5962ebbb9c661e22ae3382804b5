@@ -1,0 +1,5 @@
+changeset d10651944d76db8519d7a317f576377bc83f6d8e
+manifest 05601a6772f32e5561864ae0a6608ede4eb54a27
+extra rebase_source:017933bd5f53e1e3ea6c082e2240519b25168255
+files toolkit/components/extensions/ExtensionXPCShellUtils.jsm
+patch 395,469,

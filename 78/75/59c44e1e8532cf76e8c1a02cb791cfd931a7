@@ -1,0 +1,5 @@
+changeset 87b6d99a490bfe892b84883e391ea3a5d35a38ab
+manifest 884b9d506d6438db65e23d7815f0aa975bc63f80
+extra rebase_source:ad1ca345da1c0636e9304645766055ba4fe9ff1b
+files mobile/android/geckoview/build.gradle
+patch 329,403,

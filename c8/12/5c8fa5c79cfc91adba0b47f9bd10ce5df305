@@ -1,0 +1,5 @@
+changeset d36983c749994d5ed2f1bd67e16bbf72236fef63
+manifest c4da3947da3b01fe407405460fe1889e05c2fdd9
+extra amend_source:2c3908432283fb2124f1fae4d602e02c3d2aae08
+files toolkit/components/extensions/WebExtensionPolicy.cpp
+patch 313,386,

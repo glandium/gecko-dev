@@ -1,0 +1,5 @@
+changeset 9df7b65b7e2ed026534155b1d21c6613154a3757
+manifest ce9c6c77eb10b1f52bad6872d27bc8ed7ab1cc33
+extra moz-landing-system:lando
+files docshell/test/mochitest/test_bug590573.html
+patch 294,338,

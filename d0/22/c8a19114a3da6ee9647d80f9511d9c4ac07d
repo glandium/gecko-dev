@@ -1,0 +1,5 @@
+changeset cc84eaae17daa2f7bd36accbe6cd7988f78fbcc5
+manifest 3339290516e678dc5aba2b691065e84ad2ff73d6
+extra rebase_source:2e168a9151f734c9c4802b5d9a10381cbd20d870
+files toolkit/components/find/nsFind.cpp
+patch 289,363,

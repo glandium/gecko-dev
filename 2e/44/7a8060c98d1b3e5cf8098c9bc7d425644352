@@ -1,0 +1,5 @@
+changeset 13c1ef2b98591d59428237930946069782ff5075
+manifest 194c8358a3aa968e5e59a7b77fb52851690dc403
+extra rebase_source:4887f634ecb5f1be182bfe0acd5d139d95847844
+files browser/components/privatebrowsing/test/browser/browser_privatebrowsing_aboutHomeButtonAfterWindowClose.js
+patch 403,477,

@@ -1,0 +1,5 @@
+changeset a6969ea95a4a1d7efa02df583a4344ec71f968f1
+manifest 3276523444705008ff23fea1f0b19563360587d1
+extra moz-landing-system:lando
+files browser/components/search/searchplugins/list.json
+patch 318,362,

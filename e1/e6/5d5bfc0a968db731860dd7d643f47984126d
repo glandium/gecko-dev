@@ -1,0 +1,5 @@
+changeset a4300932758fe498cd1862405537cb31f03ac721
+manifest 005e06579047bab4dfec82f1965e7f9bebcdae7e
+extra rebase_source:f1913a477458ec9696ff343b0e3db2371377d08d
+files browser/locales/en-US/chrome/browser/sanitize.dtd
+patch 359,433,

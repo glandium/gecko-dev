@@ -1,0 +1,5 @@
+changeset bf65e06c840775b0a8c9a97253cd4006b3d33b64
+manifest 9b5d5b02eff262aca634e3bb0db78f93f6b73712
+extra source:d85a801d244f0a39e34f6e1c723af19dde728867
+files browser/components/extensions/test/browser/head_pageAction.js
+patch 342,409,

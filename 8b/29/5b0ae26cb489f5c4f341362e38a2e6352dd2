@@ -1,0 +1,4 @@
+changeset bf027affe85c3383cc475186d1209d756194ce31
+manifest 10e196ca24ac17b5c24c1d7b448a4586fd377d86
+files servo/ports/glutin/window.rs
+patch 366,367,

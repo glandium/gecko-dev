@@ -1,0 +1,4 @@
+changeset 2186f168ab69f70ca131e0699b0251e5cd0a4950
+manifest cdfc60ec125dac62d274440aeac01c4e1dfd836e
+files gfx/layers/apz/test/mochitest/test_touch_listeners_impacting_wheel.html
+patch 336,337,

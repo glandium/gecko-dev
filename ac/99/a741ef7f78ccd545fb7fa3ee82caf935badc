@@ -1,0 +1,5 @@
+changeset 4a88ba63269cb0460cf9dd658ed4298399d453fe
+manifest 3103fb864dd04fdb02af9d3a2f0bdfafb09a1e7f
+extra moz-landing-system:lando
+files dom/push/test/test_has_permissions.html
+patch 340,384,

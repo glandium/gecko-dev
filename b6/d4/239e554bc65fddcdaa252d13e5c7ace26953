@@ -1,0 +1,5 @@
+changeset 1ee4283fc4df2d02b13da2d9565728bb09af4175
+manifest 43bfd78fa936d66472582fd10a813a331db45e86
+extra rebase_source:944354d8dee60504836cc754fe60541f09ff3937
+files security/manager/ssl/nsICryptoHash.idl
+patch 280,354,

@@ -1,0 +1,5 @@
+changeset dede96ad1e4fd5a5327a50bdf28e75fd8d7fec35
+manifest 332fd3b98fc1bce9b528ba5e44ee81753088725d
+extra source:3c15a3b3c85a5520f524ad88268774d50ed56b23
+files mozglue/linker/ElfLoader.cpp
+patch 294,361,

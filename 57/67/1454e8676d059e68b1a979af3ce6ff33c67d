@@ -1,0 +1,5 @@
+changeset 49568655692e579b5a9575014ebbf15f15d98c60
+manifest 3d59fc924bb2f0370712ad91eb7ada31e3cb885a
+extra rebase_source:2dd6d4f58cc30e599132b5a9f727730d0208b227
+files testing/mozharness/configs/beetmover/win32_to_win64_partials.yml.tmpl
+patch 345,556,

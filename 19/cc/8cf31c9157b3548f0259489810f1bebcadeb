@@ -1,0 +1,5 @@
+changeset 1c366e594aebfa832090d289208c47356857663f
+manifest f996ee08448e90622dbd936580ad431dcd720353
+extra moz-landing-system:lando
+files browser/themes/shared/incontentprefs/privacy.css
+patch 438,482,

@@ -1,0 +1,5 @@
+changeset a6c99402d0015024878eabdfca34dc79af89eb8a
+manifest 786c1bbce73f6f61e83f9eebaed776c9cd90b36a
+extra moz-landing-system:lando
+files devtools/client/inspector/animation/test/browser_animation_keyframes-graph_computed-value-path_easing-hint.js
+patch 594,638,

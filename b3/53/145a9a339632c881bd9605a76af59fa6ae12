@@ -1,0 +1,5 @@
+changeset 66f49bef247d98991fcad31c35054815ccc95612
+manifest 15a3abb3234ffb7a0eec6cafe5aaa48df506f7f5
+extra rebase_source:8c4fafc63502ff795e1ec6a9990bcb1a622f8a1b
+files browser/extensions/activity-stream/data/content/activity-stream.css
+patch 333,407,

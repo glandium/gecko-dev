@@ -1,0 +1,5 @@
+changeset 65e2ad9a6e302ac46df7fc9b0dd2ed54cd6878c1
+manifest bd2277d7e5b30596845e608e6470a867b7b14edc
+extra rebase_source:6980d1fa69681a9ba1b3092a391729b1f56a38a2
+files testing/geckodriver/CONTRIBUTING.md
+patch 298,372,

@@ -1,0 +1,5 @@
+changeset bbbb9e3c793d7f9ea29e24aa23b46ee2d7e2b49d
+manifest 2ddb77d578f6d949352ef7628b26ea18c4d3ea5e
+extra moz-landing-system:lando
+files mobile/android/chrome/geckoview/GeckoViewScrollChild.js
+patch 773,817,

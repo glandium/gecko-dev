@@ -1,0 +1,5 @@
+changeset 0dd4c63082dd9eaf9d0800a34eb575e05c8627fc
+manifest 586a269816f5f5ddad7f2216de77c997be2f3f99
+extra rebase_source:42779c16fc6035b25141c7ef86ef42c48ad28ebe
+files mobile/android/base/java/org/mozilla/gecko/telemetry/TelemetryBackgroundReceiver.java
+patch 378,452,

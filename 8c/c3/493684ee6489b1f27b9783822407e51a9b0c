@@ -1,0 +1,5 @@
+changeset 74b93a29d034530c5de1dd6336a30e151f7949f9
+manifest 7e5a388d915c94bc4591907e78dbe1ea139bc9b5
+extra source:8b5024ea181ab7d0a6bfd6a7da72e79f9f406506
+files xpcom/build/IOInterposer.h
+patch 337,404,

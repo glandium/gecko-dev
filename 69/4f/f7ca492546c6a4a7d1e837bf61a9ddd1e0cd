@@ -1,0 +1,5 @@
+changeset 209ecda9242cd997e7ddb14ee9203ecc46068f38
+manifest 6430372045f6cea61caaafbb0c354f76d2b1352f
+extra rebase_source:9df6db9f17e14eff2f79cd29599b03619068cef3
+files xpcom/ds/nsArrayEnumerator.cpp
+patch 242,316,

@@ -1,0 +1,5 @@
+changeset 898739a110fc55d8868d239a62d161fde1138df5
+manifest 4014fc104324bcf6ea055bf4246522166bf0b661
+extra rebase_source:973f4cfe2fe83366bc9cb217e95264ddebfd3d72
+files devtools/client/themes/firebug-theme.css
+patch 323,397,

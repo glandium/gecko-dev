@@ -1,0 +1,5 @@
+changeset 21e6767af2852d98ac4b6082b34f3f642aeb7699
+manifest 0e1386e4a0d0e334699fafb6013808725d0749e1
+extra rebase_source:96f83e6b312dabd3c5573d73c1ce3f01e53055e5
+files layout/xul/nsSliderFrame.cpp
+patch 364,438,

@@ -1,0 +1,5 @@
+changeset 45b0a92887e4bc705de7081430b0b1d9a432df24
+manifest 0fb1de54d63e3b2153f886defa1869acb634f159
+extra source:94a5ac2157687d91f036212ce9f29fbab3e0334f
+files devtools/client/shared/components/tabs/tabs.js
+patch 308,375,

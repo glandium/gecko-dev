@@ -1,0 +1,5 @@
+changeset 4fa0e33621e398a08243851c72c6b5415decc722
+manifest 3a6d5cdd4ff5924688020133fc3a17f64895511c
+extra rebase_source:a46a935e7886e81d7e39fe2d606305bba8bdddac
+files browser/extensions/formautofill/content/autofillEditForms.js
+patch 336,410,

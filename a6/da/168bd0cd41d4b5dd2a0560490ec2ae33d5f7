@@ -1,0 +1,5 @@
+changeset 5316b09380776ef8cc826dc6cc326f92f49d4965
+manifest 1edde4f59df4b55cc40d800e79b8fdc35cfc2ad2
+extra amend_source:eb16da96ca097d02864ae5a4b1d68c119e175619
+files js/src/jit/x86-shared/Encoding-x86-shared.h
+patch 317,390,

@@ -1,0 +1,5 @@
+changeset c6a68b5804d5085febdea4345ba75c635b4d93a0
+manifest b8de9894984dfc11bcc3ed6d9f0ba2922ba995d4
+extra rebase_source:8a7822b5289fbb67e74dfa3cb42aa31206ee0e16
+files docshell/shistory/nsISHEntry.idl
+patch 352,426,

@@ -1,0 +1,4 @@
+changeset ec5af0067ac2e8320d0e178ba4f100e5aa26dccf
+manifest 2557617859b86297229ebe8150c215779102245c
+files taskcluster/taskgraph/transforms/partials_signing.py
+patch 195,196,

@@ -1,0 +1,5 @@
+changeset 09aca1c164407ceaa529faf1cb59d60fb1e0ce08
+manifest bcab606bc88b9c4a90d6ac8e01207d37bef3fe41
+extra rebase_source:6648f7aa31ee0f72f1f610d73d8d60cff2731f67
+files mobile/android/base/java/org/mozilla/gecko/MediaPlayerManager.java
+patch 351,425,

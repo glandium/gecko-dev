@@ -1,0 +1,5 @@
+changeset 04e69f74afe1562a0518f825f8d4a583805cb59a
+manifest b291f16d5c6dec9b63361521e85860367ff52d55
+extra rebase_source:4dd027b9bc62fa33072d8d910d033865e9643f08
+files browser/extensions/screenshots/webextension/manifest.json
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset 227a0a6ae1dfbadd73f96c64a307d001fb351108
+manifest 4c3e1ab2a025df9ff50879f038c86a66b33d3ea2
+extra moz-landing-system:lando
+files gfx/layers/d3d11/CompositorD3D11.cpp
+patch 325,369,

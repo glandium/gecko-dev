@@ -1,0 +1,5 @@
+changeset 9111407305df22f431365dcd891609a4582c90e9
+manifest 78e9154e911fb846d23a550b06cec2860de9ce78
+extra amend_source:c372a317177d03386d57cfc175da41cb1c0028de
+files toolkit/components/extensions/webrequest/nsWebRequestListener.h
+patch 301,374,

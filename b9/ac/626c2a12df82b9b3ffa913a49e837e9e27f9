@@ -1,0 +1,5 @@
+changeset 27f608825f9b06148d980d28eb934a01fc1e0070
+manifest b71bcf153d223186373feeccaf48f913df68c4e9
+extra moz-landing-system:lando
+files js/xpconnect/loader/mozJSSubScriptLoader.cpp
+patch 352,396,

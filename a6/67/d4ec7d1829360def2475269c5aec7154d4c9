@@ -1,0 +1,5 @@
+changeset 73eefb81f8e15845cf63cd809047c80b7ac8e3f5
+manifest 9eaa9c85e3104b6e77d999993bfaa18643d23661
+extra rebase_source:7230274a34900896237e2ccc89d1d94ecd9757e1
+files widget/PuppetWidget.cpp
+patch 315,389,

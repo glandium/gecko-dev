@@ -1,0 +1,5 @@
+changeset 0f4b8b37bf95445e6feb5d9473c2ea61e20190f7
+manifest 825f3bd6eb09bc05d743570a21440af6f51a0c9e
+extra rebase_source:d35ed221d05d1d56b96604b931c22b700c10e476
+files python/mozbuild/mozbuild/export_telemetry_schema.py
+patch 888,962,

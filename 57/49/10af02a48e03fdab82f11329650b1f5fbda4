@@ -1,0 +1,5 @@
+changeset 6838edf96b1c84c89c65f3265b44d44e1308db1d
+manifest 0e6527ebd925bbf0f1c9ef3c02804e834cfcdd85
+extra rebase_source:183a2172f6d32a029dc7d19908873bddea66c711
+files media/webrtc/signaling/src/media-conduit/CodecConfig.h
+patch 301,375,

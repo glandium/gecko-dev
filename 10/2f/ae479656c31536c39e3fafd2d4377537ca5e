@@ -1,0 +1,5 @@
+changeset 40fcae3eee184f7338cf52d2c887f0261f093697
+manifest fea27eb6176eeb242acc9148a7c10914acd71598
+extra source:8390fd802191d5d8cb650e4cebead17b1c20ad3d
+files toolkit/components/url-classifier/nsUrlClassifierDBService.h
+patch 311,378,

@@ -1,0 +1,5 @@
+changeset c36876c20dc89b8926e43bed3a277af2ff52cf85
+manifest 76309a2530822e49ee85411b2f7b9ce7a2c8cc11
+extra transplant_source:°ÒC:z2¢N,YÒÕÏULj
+files taskcluster/taskgraph/transforms/release_generate_checksums_beetmover.py
+patch 326,408,

@@ -1,0 +1,5 @@
+changeset 0f0431504aa352ba328923d4f39aeb1cf0a0f5f2
+manifest 98fe36af85363da323a98fef5434e189d5f14a9c
+extra rebase_source:d1243f6a84c7393a3e9f18c5de9ec796ba57d54f
+files browser/themes/shared/sidebar.inc.css
+patch 282,356,

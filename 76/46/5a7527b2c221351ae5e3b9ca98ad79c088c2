@@ -1,0 +1,5 @@
+changeset f7507d0db7a0da0f65e64c0572a1f89f233875b4
+manifest 6f4a6db5d0752f863bf892dada434c6788fc5c37
+extra rebase_source:b9d2fa9548a149057efd724082d432e4e48f9934
+files devtools/client/jsonview/test/browser_json_refresh.js
+patch 268,342,

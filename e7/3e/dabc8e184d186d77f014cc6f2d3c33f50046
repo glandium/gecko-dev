@@ -1,0 +1,5 @@
+changeset 8de1df1879492c846ae8af65f1b26c773068a031
+manifest 17b4d83d74b8e2fac7a3b9215e47b4bd6cc098d9
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/unit/test_TelemetryController_idle.js
+patch 390,434,

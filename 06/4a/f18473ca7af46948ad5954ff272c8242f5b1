@@ -1,0 +1,5 @@
+changeset 6f62a6e41778e168988f2f5366ee72cebce5b1e1
+manifest f5186de17b308288c9b815563ea59ad61b2f382b
+extra rebase_source:aa5f6e4557be6abd6117b7566c2e3d87c5062fd2
+files toolkit/locales/l10n.mk
+patch 271,345,

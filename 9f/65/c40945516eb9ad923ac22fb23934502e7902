@@ -1,0 +1,5 @@
+changeset ba7e52e5c26a5d56e72afd2b00047df8bd8f0cf9
+manifest c4a7aaede1cd6dbda8eb16f26ea76b4b1ab27cbc
+extra source:37c22fd0475e9ecddb207d5eed729ab4a1945ad7
+files gfx/harfbuzz/src/hb-ot-layout-gsubgpos-private.hh
+patch 288,355,

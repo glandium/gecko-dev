@@ -1,0 +1,6 @@
+changeset c7f071262fbc3862dd41c8bc7d89999e2926126b
+manifest b88bd3f9cf289395bdcfb95867bdd04a47bb8aaf
+author stefanh@inbox.com
+extra source:d5ffc2a28d39c6274a639d002006216c0b668677
+files widget/cocoa/nsFilePicker.mm
+patch 243,310,

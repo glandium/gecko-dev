@@ -1,0 +1,5 @@
+changeset df0f954838461455e28c86e7279332cca1afb39a
+manifest 7e993297d8cb00d573dd26dfaac9e24bf166dbeb
+extra rebase_source:873cb1408c76770fbedee7f3be3fce95e8552388
+files toolkit/components/places/nsTaggingService.js
+patch 290,364,

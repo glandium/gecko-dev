@@ -1,0 +1,5 @@
+changeset f01b2181fe13a8bb94450faa7c231971507a15d6
+manifest 3543dc532d4fe9d9f7af45f6fe45426381559ace
+extra rebase_source:052317a7075c7325cba7edc9390d0b8d04273ae1
+files xpcom/components/nsComponentManager.cpp
+patch 339,413,

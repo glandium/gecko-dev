@@ -1,0 +1,5 @@
+changeset 86bff7bb38dfc514fb51d5aed9584fa3cd2f748e
+manifest cb88aaa999dc8f296830ba38a81392d5d9c9050d
+extra rebase_source:05bad5a3cc60c26391b52e21b4390db321ad6dc4
+files image/test/reftest/downscaling/huge-1.html
+patch 291,365,

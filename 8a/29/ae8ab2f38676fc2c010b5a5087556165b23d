@@ -1,0 +1,5 @@
+changeset a1098c825a9c5e07f03ec4ad7a760c868bf20d75
+manifest 3a95bd4090daa7e89160062c7edf6e7205268a22
+extra amend_source:6115334f9cfa2616391f82f7f2dd9936cca1b203
+files taskcluster/taskgraph/transforms/release_generate_checksums_signing.py
+patch 344,417,

@@ -1,0 +1,4 @@
+changeset f2eebe34cd1aa205570f0ff30734c3f0a8cab705
+manifest ffe43beec3dde6ef399cdb29e6c28fa8fadf6442
+files browser/components/extensions/test/browser/browser_ext_browserAction_popup_preload.js
+patch 281,282,

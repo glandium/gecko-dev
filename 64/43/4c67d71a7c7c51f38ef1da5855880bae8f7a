@@ -1,0 +1,5 @@
+changeset 7e3858b7462da432ea225c79c64cab96c6b3f5b0
+manifest f5210bbdc09e45b623e53fca1f95a4448bcf15a2
+extra source:ac8fcfa12ddbd126ae57620db7bcf2a8657c49eb
+files gfx/layers/apz/test/gtest/TestPinching.cpp
+patch 312,379,

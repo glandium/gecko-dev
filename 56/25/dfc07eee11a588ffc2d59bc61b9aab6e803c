@@ -1,0 +1,5 @@
+changeset 678233880a0fa57811e4a1965ddaea17e6912c32
+manifest 56a8090375c2fd428d75985e8c4e43fd4b5a6d2c
+extra rebase_source:b1df1b4b7ac108f3ecd6c3890b165112f89556bb
+files widget/gtk/gtk3drawing.cpp
+patch 337,411,

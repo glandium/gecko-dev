@@ -1,0 +1,5 @@
+changeset 6598cfafc16242e19a616b138af4e142ece943c9
+manifest d17fa15773c3f7c61dc7e005950b3455bfdd6e53
+extra source:bc2f290531d77b94cc5f120607de7d80b8f29e14
+files build/unix/elfhack/test.c
+patch 605,672,

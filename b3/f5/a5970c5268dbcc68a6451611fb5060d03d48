@@ -1,0 +1,5 @@
+changeset 7c4f5978d9dae436b58446cf5523d1730821d9c0
+manifest 4b21d541f340fe2b850e28453f20168fbee31a93
+extra rebase_source:ec28609972d25de265c514dd9322bb31b759937c
+files devtools/client/shared/widgets/ShapesInContextEditor.js
+patch 333,407,

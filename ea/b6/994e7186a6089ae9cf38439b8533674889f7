@@ -1,0 +1,5 @@
+changeset 1dfbedb54c39abae38da9329f4a79571fee74661
+manifest 01307fc867ab40862ad94f6407e7898413769583
+extra source:6b4e98424f0dcc024fcad48608ada351e4075e59
+files media/libvorbis/lib/vorbis_codebook.c
+patch 225,292,

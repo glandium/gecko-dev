@@ -1,0 +1,5 @@
+changeset 8c7ce2d0a95fc949c21992c887f408986e2d3d43
+manifest b69ac95793e32195dc3e0a68e9b4ac3c67210771
+extra moz-landing-system:lando
+files dom/clients/manager/ClientNavigateOpChild.cpp
+patch 1379,1423,

@@ -1,0 +1,5 @@
+changeset 6211693ad32cc7ecc3a580e9c9939c001896567d
+manifest 689592c2d92f5a1a53534e53432c6a011514b9db
+extra rebase_source:6ebe2c992665d7c6f2f9d1f88044c5d476784ff1
+files browser/locales/Makefile.in
+patch 297,371,

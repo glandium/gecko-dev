@@ -1,0 +1,5 @@
+changeset 2a131a0c2d11563c36a513599a138c0e6a2ab277
+manifest 4734ff3b354090563343bb436aaabdd5bbf61dd3
+extra rebase_source:9a39511e67be1d01014ab4c6e29c1019b57b2c14
+files devtools/client/framework/components/toolbox-tab.js
+patch 314,388,

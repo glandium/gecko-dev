@@ -1,0 +1,5 @@
+changeset 01d64b7442cd23657d1135c9da9b254ba5317116
+manifest c82522ffab583bd2bfaa147bc83fd1e048707e73
+extra moz-landing-system:lando
+files accessible/android/DocAccessibleWrap.cpp
+patch 307,351,

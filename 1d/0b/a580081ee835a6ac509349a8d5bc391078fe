@@ -1,0 +1,5 @@
+changeset f8fe981dd967ac0435af743aff48b9743df719ad
+manifest da139c2918971221a8e16d7e800e88881455336a
+extra moz-landing-system:lando
+files testing/specialpowers/content/specialpowersAPI.js
+patch 300,344,

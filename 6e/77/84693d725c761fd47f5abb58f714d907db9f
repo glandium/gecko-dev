@@ -1,0 +1,5 @@
+changeset 619c20245f8fe3a65775699a27d21918eec0c1c5
+manifest 0d880e11ca1e3dcfd23899c91544bd831799654d
+extra rebase_source:10314b78650ff161a21ff1076ae501ea1f7f5b6e
+files toolkit/modules/SelectParentHelper.jsm
+patch 299,373,

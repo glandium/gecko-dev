@@ -1,0 +1,5 @@
+changeset acbc1d6c38c5ca5d53d20955315573d2c9693c35
+manifest cdc4eda70b2ca3e2b8a43ae875287c4f3ce0e1a6
+extra moz-landing-system:lando
+files mobile/android/app/src/main/res/raw/topdomains.txt
+patch 312,356,

@@ -1,0 +1,5 @@
+changeset a5179bc214fb1c94305c72692cc692ac67118f27
+manifest 1d52c779a884dd94a6a93e11d8734310bf6c5a24
+extra rebase_source:10edf5c7c726659be04670b01f607f7099624322
+files mobile/android/stumbler/java/org/mozilla/mozstumbler/service/utils/Zipper.java
+patch 282,356,

@@ -1,0 +1,5 @@
+changeset 4ad5b70956abbf9c183b1494108273fdbe9ad3a1
+manifest 188eafc252bcf631eeb680b6bebf1a3e22c7bbeb
+extra moz-landing-system:lando
+files dom/animation/PendingAnimationTracker.cpp
+patch 329,373,

@@ -1,0 +1,5 @@
+changeset 2985d2ce41ad650a55e3b4204fe5e483d2e56b1f
+manifest d683ce00a73a164ce86b0d2a7294c13078612ba2
+extra histedit_source:fb13804cd558861c9a483a10e8451c571c4325c4
+files browser/modules/BrowserWindowTracker.jsm
+patch 280,356,

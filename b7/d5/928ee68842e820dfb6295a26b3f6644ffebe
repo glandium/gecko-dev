@@ -1,0 +1,5 @@
+changeset 4b5906a29b0cd71fbb9bbacf8640b00892878ab2
+manifest 890a52c7b0baef9e26c48f95619bccc9ff494132
+extra moz-landing-system:lando
+files editor/libeditor/HTMLEditor.cpp
+patch 494,538,

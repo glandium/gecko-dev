@@ -1,0 +1,5 @@
+changeset b7ea2fe0db27a131f65879a6d1b23b852e2cc064
+manifest 733df7c69807a5bf8b606b5fb5df2f5d6cc4e2e4
+extra rebase_source:da83d1c3ca52da1b74001803d0a8ee4fa675b348
+files devtools/client/netmonitor/shared/components/params-panel.js
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset ca83110136c9cbc46bdd71ddeb65fac48f1022e1
+manifest b100e95cb5d35e192797744b3026be6feef8947d
+extra rebase_source:7d52b78212ae7973cbf6e68debdcce4c5336f7c3
+files config/external/icu/stubdata/moz.build
+patch 266,340,

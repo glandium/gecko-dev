@@ -1,0 +1,4 @@
+changeset 62a639250c76bfa93d88d18f8270808fe337b847
+manifest 1e2ed91dd425e89abff15d6d446dd2f2c8d45572
+files netwerk/protocol/http/nsHttpNTLMAuth.cpp
+patch 197,198,

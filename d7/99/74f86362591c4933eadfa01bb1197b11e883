@@ -1,0 +1,5 @@
+changeset f91d1b072f469003a466f9de9ea0d0e30c4c57f3
+manifest e5bceb2f4c2852d4ac4ee6f727346d27a11b961a
+extra rebase_source:80cca9b2e784341fdca6461ef8171db349d95f80
+files devtools/client/webconsole/new-console-output/test/mochitest/browser_webconsole_object_inspector.js
+patch 592,666,

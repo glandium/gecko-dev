@@ -1,0 +1,5 @@
+changeset 98972a72031fb348d5b4f33d5c1efc43c79e3caa
+manifest db3608106c20efd4f25433c0afdd22ba9ecae4dd
+extra moz-landing-system:lando
+files devtools/client/inspector/boxmodel/components/BoxModelMain.js
+patch 380,424,

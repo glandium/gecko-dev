@@ -1,0 +1,5 @@
+changeset 55570b34ff7c29a1159145007380745ea50cec4e
+manifest ea844327eddcdb21fd3bd83b444ca69408ecd5bd
+extra moz-landing-system:lando
+files devtools/server/actors/addon/webextension-inspected-window.js
+patch 349,393,

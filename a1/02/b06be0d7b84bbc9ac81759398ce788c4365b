@@ -1,0 +1,5 @@
+changeset 655570f6b2eb5bcc1683e8846e2b90d6e81a7d54
+manifest bed343ae5e61cc014262c3412a5d48aecec5956b
+extra moz-landing-system:lando
+files devtools/shared/webconsole/client.js
+patch 296,340,

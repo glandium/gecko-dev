@@ -1,0 +1,5 @@
+changeset b790f9291cdbad093bb033390f6724cfe8719ac4
+manifest 506c7a512d01489932db6778b5c0585825738e13
+extra rebase_source:3b0efdc90aeb1ee17e10a75493af51f2878bfcda
+files gfx/layers/composite/FPSCounter.cpp
+patch 512,586,

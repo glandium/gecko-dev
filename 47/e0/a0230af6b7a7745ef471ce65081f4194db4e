@@ -1,0 +1,5 @@
+changeset 78e4e2c9f11f93731185abfe2b7bec353037f86f
+manifest 22ef4e832c4b91453919f6c238db53463496715d
+extra rebase_source:2c75a2aa8e18e1563f210aba8bef686e117793e0
+files netwerk/protocol/device/nsDeviceChannel.cpp
+patch 330,404,

@@ -1,0 +1,5 @@
+changeset 1bbe0f53ca4fe6abbe623bf169dc5b3af0b54715
+manifest 29a4bad1e60972c35a16114cb2a50ec761196d5f
+extra rebase_source:05a09b571f4ba034327e8ef1de4a7d712238c525
+files devtools/client/framework/test/browser.ini
+patch 328,402,

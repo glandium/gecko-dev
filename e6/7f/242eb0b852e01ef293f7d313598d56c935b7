@@ -1,0 +1,5 @@
+changeset fdb31d77a4e956944ed305584f741482c08faa0f
+manifest 16d6efdbaa191276d90d49d22a914a3a8226a553
+extra moz-landing-system:lando
+files browser/components/controlcenter/content/panel.inc.xul
+patch 337,381,

@@ -1,0 +1,5 @@
+changeset 8f64d3c436b3cf9298777aa2c8272e040b73da49
+manifest 112a045e6b8c753b7d8703f002c2c04f542bd505
+extra rebase_source:456364f47d22436069595725debdffe718201359
+files browser/components/enterprisepolicies/Policies.jsm
+patch 316,390,

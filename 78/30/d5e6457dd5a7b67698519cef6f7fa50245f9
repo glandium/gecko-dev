@@ -1,0 +1,4 @@
+changeset 4c6710d8da0292d78a1f74adc8b04fdfb00089fa
+manifest e004bdff4ab7cdbfd602741dd7cb8cb2689106b0
+files taskcluster/taskgraph/transforms/build_signing.py
+patch 258,259,

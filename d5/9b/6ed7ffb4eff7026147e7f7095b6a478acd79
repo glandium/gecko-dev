@@ -1,0 +1,5 @@
+changeset eb30b172486507530e930cecbb9bc96dc48493f8
+manifest 81b924559c939961cc9ad975fa5d9b0397f29553
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/tmp-locale/en-US/aboutdebugging.notftl
+patch 356,400,

@@ -1,0 +1,5 @@
+changeset 8a60c20c3dcac04e4dfa79230dfc619e4e07e6e8
+manifest 17199dd802c75985b91ec9efdebcf5e3ef1a0896
+extra moz-landing-system:lando
+files xpcom/base/ErrorNames.cpp
+patch 433,477,

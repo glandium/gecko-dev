@@ -1,0 +1,5 @@
+changeset 84091f931dff9e1253b0cfa96b4197255a94ddb2
+manifest 9da519c0dcb7be2e2c45b564606f24ed7ce4d250
+extra rebase_source:3d9289cee054737c136b304682563d59aeaecb6a
+files tools/update-packaging/Makefile.in
+patch 432,506,

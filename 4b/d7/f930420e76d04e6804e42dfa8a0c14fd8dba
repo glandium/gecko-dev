@@ -1,0 +1,5 @@
+changeset f5e373fc941f0e450678d7f1507a02772d607658
+manifest 53b14e3b956dbd9d1795f9a67642c47fd1c112d7
+extra moz-landing-system:lando
+files layout/style/FontFaceSet.cpp
+patch 328,372,

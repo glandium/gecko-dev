@@ -1,0 +1,5 @@
+changeset 8461e2f532eddcaf4cc68c383c6c92bdbbd4b12a
+manifest 7c374ce5871868dc4c0735417180bc4662d0e8e5
+extra moz-landing-system:lando
+files testing/talos/talos/xtalos/etlparser.py
+patch 580,624,

@@ -1,0 +1,5 @@
+changeset 4d792e8bdc7be4444528ec090f6eb3b93cb2f056
+manifest 6c66ac03bc826227b405c4c9ca1b05ea589179b0
+extra moz-landing-system:lando
+files servo/components/style/properties/longhands/font.mako.rs
+patch 371,415,

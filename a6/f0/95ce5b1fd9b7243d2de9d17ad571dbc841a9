@@ -1,0 +1,5 @@
+changeset 59ea9b4671d0bd8491e03f2c735d402ef6d7fc23
+manifest 058ebbfe2ef752556adfcd6fa28215907324bd91
+extra moz-landing-system:lando
+files netwerk/base/nsPACMan.cpp
+patch 1225,1269,

@@ -1,0 +1,5 @@
+changeset d4ca2c8982afbcac4494d91b65cff5c64e59498a
+manifest ed133f023bfb47dfc99c761d12fa02ed7275a699
+extra rebase_source:8635d8b0365c36fff73ec6eb5d934578185d70c0
+files devtools/client/framework/components/MeatballMenu.js
+patch 409,483,

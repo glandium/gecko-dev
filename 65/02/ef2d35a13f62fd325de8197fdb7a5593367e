@@ -1,0 +1,5 @@
+changeset f1625f41dda7a51114cc0c51dc6b468897a01622
+manifest f912e813b467fa41ff4deb1819a98fbd7c717c23
+extra rebase_source:1349ddc36b146b2d44904a9d261f7f9fbc1a65d6
+files toolkit/mozapps/extensions/test/xpcshell/test_webextension_install.js
+patch 355,429,

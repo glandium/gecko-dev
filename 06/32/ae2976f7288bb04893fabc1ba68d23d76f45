@@ -1,0 +1,5 @@
+changeset 7b06c843caadf7145926cc420f5f6fe3924f6201
+manifest 9234a0ba8b802a31d70af79e82fd140f6def71c1
+extra source:9a835f056d253215f23b3d086307e40d4c7dc833
+files devtools/client/aboutdebugging/test/browser_service_workers_status.js
+patch 328,395,

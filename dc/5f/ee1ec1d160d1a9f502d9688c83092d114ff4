@@ -1,0 +1,5 @@
+changeset dbd03e7e1bc5aad3148a1b1ef69361bf30e041ef
+manifest 52ce68188693e1b6ca2f25703a07158a825c4fbb
+extra rebase_source:d9cda8d4af63af795e8f66d3bee7e442bd78d939
+files devtools/client/framework/test/browser_toolbox_dynamic_registration.js
+patch 619,693,

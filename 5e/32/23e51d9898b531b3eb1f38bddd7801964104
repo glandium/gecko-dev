@@ -1,0 +1,5 @@
+changeset 4a0c7dd5e1acf4e3f517eeee51b6483de04af949
+manifest 4ddb31645dbcb83f6133c8087693dc3a5debe368
+extra rebase_source:66388f2c1fb8499da7cbcb2c3bd934a5cf04452b
+files toolkit/recordreplay/MemorySnapshot.cpp
+patch 288,362,

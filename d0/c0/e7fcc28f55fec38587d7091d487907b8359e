@@ -1,0 +1,5 @@
+changeset 48f065cc3a348100793f72decc1fed3a58d47911
+manifest c7226f00d5e93e7941efc09dbe530f7c00ef12c8
+extra rebase_source:94bc7e01750a7373419d6824a3d98f8ae54a050c
+files toolkit/mozapps/extensions/Blocklist.jsm
+patch 293,367,

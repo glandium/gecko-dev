@@ -1,0 +1,5 @@
+changeset 4a81fd6046965751585ae7b85740417bb542aa04
+manifest 1ca74caf7de3f033c245996a058799fd843ac875
+extra moz-landing-system:lando
+files taskcluster/docker/google-play-strings/Dockerfile
+patch 345,389,

@@ -1,0 +1,5 @@
+changeset b843a34fdc23d8b7bb630f16903742444c194525
+manifest 49f06875a5aba1faf11868d0c3a090f9862e1925
+extra rebase_source:3d47cd863f5ce833e379cf1ad5e065453450ff84
+files mfbt/Assertions.h
+patch 734,808,

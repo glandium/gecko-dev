@@ -1,0 +1,5 @@
+changeset 49f8263e9220a1d0f56597609dc3b9f94e6051a0
+manifest 2e1618318e5eb988b7e92f02ec24d649101c3ba4
+extra rebase_source:921bf342b138505a7808c00b62d527db72d06ac2
+files layout/reftests/svg/as-image/reftest.list
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset 0ea5c21eb4c5baa1d06a4e12ba92a5e818ee7721
+manifest 11e76d8c1f62da872e4e2775c7682ded4d664c33
+extra rebase_source:aa591a18c0d525ff2490016186b5b0776a6489c8
+files toolkit/components/windowwatcher/test/browser_new_content_window_chromeflags.js
+patch 840,914,

@@ -1,0 +1,5 @@
+changeset 20abab774cd1356eaa21cfb8ea53480c31bcf05c
+manifest ff4e6050ae401a8f3206f5dec549d3388b1c3d23
+extra rebase_source:95fe63562b88c61ee5915e28a3a8b89c985042db
+files xpcom/build/LateWriteChecks.cpp
+patch 336,410,

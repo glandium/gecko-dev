@@ -1,0 +1,5 @@
+changeset f266aa4cd4b04f7cec1fffeec4fccd1baafdf244
+manifest 765ff76e799621f1f3becab4315490a5701226c5
+extra moz-landing-system:lando
+files devtools/client/webconsole/test/mochitest/browser_webconsole_network_messages_expand.js
+patch 635,679,

@@ -1,0 +1,5 @@
+changeset 221137d1c2de7988bfcb63deb258737fe8fb29ce
+manifest f1e966502b53645cee1ca4bb52948372251ae48d
+extra rebase_source:03daf9a71dbeb6e27699dad0030a8baf831cbb56
+files security/sandbox/win/SandboxInitialization.cpp
+patch 296,370,

@@ -1,0 +1,5 @@
+changeset 9e44b02e94ca5f7e896be3eb02b6d27a40d7054b
+manifest e1d10db38816a158bbbc57510d6b4ffb525afacb
+extra moz-landing-system:lando
+files dom/serviceworkers/test/test_privateBrowsing.html
+patch 527,571,

@@ -1,0 +1,5 @@
+changeset 3575c52180c438aa9689e3522e235272fbd1fc2c
+manifest 4b7aadcee022c7f6a009466117f4977afbdc4f9d
+extra rebase_source:3f1d5c54eefd3f56c5513ec2737a1883f31d91ee
+files browser/components/payments/test/browser/browser_dropdowns.js
+patch 369,443,

@@ -1,0 +1,5 @@
+changeset 28c558b52ec02e29e96bf1bdbe8e1f5aae9d22c9
+manifest 4ef2eb87b9211faaf7e38b6add27b48b03b448c1
+extra rebase_source:7f6794e29e8a62b0887bc127bd05c142e28e2c89
+files toolkit/components/extensions/LegacyExtensionsUtils.jsm
+patch 319,393,

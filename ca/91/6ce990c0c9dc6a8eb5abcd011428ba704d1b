@@ -1,0 +1,5 @@
+changeset de6dc315e29ccc541a324e6f596a4a9a869bb42d
+manifest 62e76f2e6004d3c68119577f6b5038f7e0f8416c
+extra rebase_source:ddf209961e618c90da7c80f8a2d6952923b56ecb
+files gfx/config/gfxVars.h
+patch 271,345,

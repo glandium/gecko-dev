@@ -1,0 +1,4 @@
+changeset 03b477c00c4f5ca4321efdc32bffa43bcae510d3
+manifest e20a7d5bb3a93f779c3340b2acf4e278986294b4
+files browser/components/contextualidentity/test/browser/browser_forgetAPI_quota_clearStoragesForPrincipal.js
+patch 262,263,

@@ -1,0 +1,5 @@
+changeset 9b82f16618b9db57726acac18a6a440e9df770cb
+manifest d0b49e67623ae08634a1ecf2eacda693777a3f5f
+extra rebase_source:381adad8fb2388e7b6603bf4f473cd47f927ed7b
+files media/webrtc/trunk/webrtc/modules/audio_processing/echo_detector/mean_variance_estimator.cc
+patch 374,448,

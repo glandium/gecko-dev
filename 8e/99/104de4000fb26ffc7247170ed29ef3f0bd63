@@ -1,0 +1,5 @@
+changeset 9fcf87cdfb395004c885f581b59dcd1999316c9a
+manifest f4c04cb2aa90c56b2eb71120177fcff760795067
+extra rebase_source:6c912b096ea0c5419c1baeba51476f8577a0fec5
+files js/src/vm/Compartment.cpp
+patch 323,397,

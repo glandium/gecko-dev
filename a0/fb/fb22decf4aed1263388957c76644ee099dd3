@@ -1,0 +1,5 @@
+changeset d7b5ac6d584471ee32562c27a6460d2d98cd89d3
+manifest a1e3c7a41bc9eb0bd03f198a3a515c94e64ff963
+extra rebase_source:eea7c019e873f48dfb69fb0297d690919d75b9fd
+files devtools/client/shared/components/tree/tree-cell.js
+patch 320,394,

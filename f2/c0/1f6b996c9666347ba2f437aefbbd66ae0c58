@@ -1,0 +1,5 @@
+changeset 73c786971ec0525d496003ee2b2b996e4d0a8769
+manifest 76119004157def191aae981708dc504a6533f7e2
+extra rebase_source:2a1d5b4684e2fba9913e7d185738c3f5d711da8f
+files ipc/mscom/InterfaceRegistrationAnnotator.cpp
+patch 322,396,

@@ -1,0 +1,5 @@
+changeset db6afcdb09c0e90d0e3b6f83836466f3464c4683
+manifest ea1a96e29765dd2766a9c22296ad0c96d41fb099
+extra rebase_source:0b3eb4b9cdd4828f8c04ec7f06b0feb46d5b3b39
+files js/src/jit-test/tests/wasm/regress/bug1392105.js
+patch 254,328,

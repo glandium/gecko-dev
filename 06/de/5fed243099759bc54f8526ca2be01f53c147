@@ -1,0 +1,5 @@
+changeset cc2cb08f3759f4c0250c081c5696d13c5a86725a
+manifest 7d7aaedbcb3f32586a2ab7286251f8b6336c935f
+extra moz-landing-system:lando
+files netwerk/base/ProxyAutoConfig.cpp
+patch 940,984,

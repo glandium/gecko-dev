@@ -1,0 +1,5 @@
+changeset a09e3d9416898c6812da3358cf0a3cf2a971c286
+manifest 651f52fdb7948c4c32893cb926cdecae02dcb836
+extra rebase_source:c7a6795a2b9b007aeddbee1044f94168a03cd761
+files mobile/android/chrome/content/Reader.js
+patch 458,532,

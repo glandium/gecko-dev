@@ -1,0 +1,5 @@
+changeset 5af446b476769cf5f6c45d6c6623ae9a5b02da99
+manifest 28182697fa2e70264fc2882aea58df8e0a192198
+extra rebase_source:bb9d813a39a080c69c1db7524557bfaf786ed0c7
+files devtools/client/inspector/computed/computed.js
+patch 402,476,

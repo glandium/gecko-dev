@@ -1,0 +1,5 @@
+changeset 0a0f9c8ff5415373506e0547481755fc558c5546
+manifest d97906c28c014321a28f468a8dc293447d71f8e3
+extra rebase_source:e7df61a4200e088dba0b5f85d59669e99d35476f
+files media/webrtc/trunk/webrtc/voice_engine/channel.cc
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset 978d4f1f9c4125b9785472c202f341df93fb8a0b
+manifest d941d4d13409ed6ced702104983474383ed6b312
+extra rebase_source:f36e05a66f19d5ba65feda304225be65f1e80fb0
+files tools/lint/docs/linters/eslint-plugin-mozilla.rst
+patch 307,381,

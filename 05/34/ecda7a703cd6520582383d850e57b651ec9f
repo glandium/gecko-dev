@@ -1,0 +1,5 @@
+changeset 2039119836eafbe19e47a9db193141e5f1da355d
+manifest dc5b2b41da9ef651b78def14a559682c2b2108d5
+extra rebase_source:91e280e8325b0c2e333ce450d626306e65af7f98
+files toolkit/components/extensions/test/mochitest/test_chrome_ext_contentscript_telemetry.html
+patch 359,433,

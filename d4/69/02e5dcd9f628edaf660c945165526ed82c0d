@@ -1,0 +1,5 @@
+changeset 4dbe6c1bea4db5f0ae77a3487328c32ec240a5d7
+manifest c6fb40340c7bfbce6e81747064819a71cad076bd
+extra rebase_source:9bed76436a458b680695ccc7ff9e19dc8497a80d
+files widget/android/bindings/moz.build
+patch 460,534,

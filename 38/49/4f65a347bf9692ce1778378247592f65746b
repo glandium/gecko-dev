@@ -1,0 +1,5 @@
+changeset 56f9de9da69ae1fea95ae18be730b65f5386de59
+manifest 4941d311f319874050e0fde3552435e4d237bc90
+extra rebase_source:c2567ca292d91a65e23c5a22729f3eb20071575a
+files browser/extensions/pdfjs/content/PdfStreamConverter.jsm
+patch 410,484,

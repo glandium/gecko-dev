@@ -1,0 +1,5 @@
+changeset bc8f24ca5bb3abdab417af45017b91a9a44a0745
+manifest 2597ccc87bb956d73cd5627291ead07ca056a517
+extra rebase_source:923b2b1df78544c2322c423c1c0336176e8dace5
+files toolkit/components/payments/test/browser/head.js
+patch 322,396,

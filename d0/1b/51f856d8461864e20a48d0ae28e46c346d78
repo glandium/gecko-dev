@@ -1,0 +1,5 @@
+changeset b31ecedca670b2f54948dc1800a97e3daea7d282
+manifest 263f62b7eedd309601ae467f83c063b182dc87d9
+extra rebase_source:a4944796952934dd62bf5828adf3330e1b64dffd
+files dom/base/nsAttrAndChildArray.cpp
+patch 314,388,

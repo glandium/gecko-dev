@@ -1,0 +1,5 @@
+changeset 17626f41c0e5bf764b7021f240787bee47d2c393
+manifest 5fcb9048a307089268bc4f781d3ab10bb227e787
+extra rebase_source:51e91fd9fcac54decd083bd0943d4af9bcbd539e
+files mozglue/build/WindowsDllServices.h
+patch 306,380,

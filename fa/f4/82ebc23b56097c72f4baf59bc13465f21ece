@@ -1,0 +1,5 @@
+changeset 9bc30bb0382636e6ae32bc3c75b673045bb395a1
+manifest bc127c6580576fb563b696e18109254710e54d5e
+extra rebase_source:5938f6053879fcd8777ae9d2454995152b78e4a2
+files dom/webidl/DOMRect.webidl
+patch 259,333,

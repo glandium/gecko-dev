@@ -1,0 +1,5 @@
+changeset f05ca536673199af9256016b6f7ed34296f2c897
+manifest e7aeb8d3126f2a08308d9e6220d257826d01574b
+extra rebase_source:914b4a6d139a7b82ef121609ff86bc730d751b6f
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/authenticator/AndroidFxAccount.java
+patch 358,432,

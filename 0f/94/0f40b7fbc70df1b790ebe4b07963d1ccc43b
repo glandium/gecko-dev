@@ -1,0 +1,5 @@
+changeset b31613e5658a595f9b6943aa596660dfb24c4b6b
+manifest 0e2c3f5c93cd4261897f28c57b74949b2a62771e
+extra rebase_source:bf88130eb8e92b2bf29dac5024f0dc49f727e9c7
+files devtools/client/webconsole/components/JSTerm.js
+patch 370,444,

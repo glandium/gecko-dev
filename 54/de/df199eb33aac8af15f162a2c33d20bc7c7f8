@@ -1,0 +1,5 @@
+changeset 130c60233efa84ffb5f6814ea709d9913ee6fbcc
+manifest 8fb4fa682b539c94c3fc6906d344dfbdbc0c608b
+extra moz-landing-system:lando
+files widget/gtk/mozwayland/mozwayland.c
+patch 303,347,

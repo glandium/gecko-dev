@@ -1,0 +1,5 @@
+changeset 1048c4b6af7c64df9bf5997d1ec9da7e1e5d01d9
+manifest f05f0a7260dfb82198204826a970c84ef266565e
+extra rebase_source:8f2bb788d20c419072c49a5ec910001bc9cd9508
+files dom/chrome-webidl/ChromeUtils.webidl
+patch 379,453,

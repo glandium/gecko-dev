@@ -1,0 +1,5 @@
+changeset 615b84cd4c5f5923b78ffa1d335e51a6a74001f5
+manifest c50955e13b6d0e08b15c54f7927e1a33c312164d
+extra amend_source:09b217d6df01723c1e4728195f2c316ef0abb179
+files toolkit/mozapps/installer/packager.mk
+patch 281,354,

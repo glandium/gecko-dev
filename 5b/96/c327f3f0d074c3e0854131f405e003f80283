@@ -1,0 +1,5 @@
+changeset 3e7bec52b1431c8dfd56c86ec5062514434fa788
+manifest 6dc0e251a8c71a8b8a6bef2c6286d9674cc28b97
+extra source:6be5a45a855e2af656477c53ee1d6f9a9f518212
+files js/src/vm/List-inl.h
+patch 260,327,

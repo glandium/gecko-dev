@@ -1,0 +1,5 @@
+changeset a054ee2f2a0411f80807a95b980ccc3509711016
+manifest b62912cf4078443b2a100b052ff2dc1b87847408
+extra rebase_source:bf64d00cb41281ebc4009eb9c9d8245b3438114d
+files toolkit/components/extensions/ExtensionChild.jsm
+patch 660,734,

@@ -1,0 +1,5 @@
+changeset cfef69ffbc364c4401ffad973866bf70cffe115b
+manifest fc4a1615a0d8c07aae6765647e1c3afec9e142a3
+extra source:e63c4c18678707060aa1834bb899e4d90f2f0a75
+files modules/freetype2/src/sfnt/pngshim.c
+patch 335,402,

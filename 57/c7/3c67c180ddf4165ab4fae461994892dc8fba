@@ -1,0 +1,5 @@
+changeset d55f73f1c890b02fb033accdcaf285633f93648e
+manifest 18c852fc1533c3b08fdc2ef51c9fd9a32bd610d9
+extra source:0feeb8b372b74c294ada4c4587b8e1254800ba51
+files dom/xml/nsXMLPrettyPrinter.cpp
+patch 295,362,

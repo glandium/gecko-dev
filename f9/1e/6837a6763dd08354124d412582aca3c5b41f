@@ -1,0 +1,5 @@
+changeset 9185ecc725220ff44c3b20c85c421e44abdf3439
+manifest dda3ffe8cd38c940465de2f84a5db38224ec3d0c
+extra source:9a6f5e359f1d3a281253b5cfa18f4f7502dd4d5e
+files devtools/client/webconsole/test/mochitest/browser_jsterm_content_defined_helpers.js
+patch 393,460,

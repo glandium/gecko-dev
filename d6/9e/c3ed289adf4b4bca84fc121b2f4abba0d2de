@@ -1,0 +1,5 @@
+changeset 3dcae3969da1e95cd18b79c43fa70bd44ea105c1
+manifest c4a35d2d3e316e4dbf42cec2878a1e3e9818e3c1
+extra rebase_source:f538720b67d54cb9755e7cf8a60441aa0c3b2389
+files build/moz.configure/warnings.configure
+patch 305,379,

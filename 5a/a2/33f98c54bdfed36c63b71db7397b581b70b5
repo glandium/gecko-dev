@@ -1,0 +1,5 @@
+changeset 00c04e6496edb2d94b4fd2528c6ae90c55733fbf
+manifest d6482b9d68fd4f0d1d199f521b91c4707becb936
+extra source:03f93e71d64713c927cdad19982df2322f4007ae
+files devtools/client/netmonitor/src/assets/styles/netmonitor.css
+patch 304,371,

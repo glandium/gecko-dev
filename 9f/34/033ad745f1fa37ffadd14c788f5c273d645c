@@ -1,0 +1,5 @@
+changeset 89f3908b2c515cabb0dcd92caa5ab9eb5aecf1a2
+manifest 481331af80991955ad8cd8cc5f7170f58cc869f2
+extra rebase_source:6bd5872b59d964c3246708f0e6f549bb74dcc0b3
+files media/webrtc/trunk/webrtc/modules/audio_coding/neteq/neteq_impl.cc
+patch 526,600,

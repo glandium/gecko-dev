@@ -1,0 +1,5 @@
+changeset edd07c36dc0dc87e587fbfc61aec8916d4226661
+manifest 430ade298eed6b7df19e456adbcd890fb729899d
+extra source:80ead4d0839f5d7017d4b3bf89523f032fc535e7
+files media/webrtc/trunk/webrtc/modules/desktop_capture/screen_capturer_mac.mm
+patch 569,636,

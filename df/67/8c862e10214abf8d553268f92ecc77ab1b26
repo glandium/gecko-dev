@@ -1,0 +1,5 @@
+changeset 5203edd6ea29e4b73681674d2a5268dd6a310102
+manifest 1760c6643170e8b61dd3596e2d12d323c296b1ef
+extra moz-landing-system:lando
+files widget/xremoteclient/DBusRemoteClient.cpp
+patch 309,353,

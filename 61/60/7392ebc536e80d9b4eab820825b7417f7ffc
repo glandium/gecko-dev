@@ -1,0 +1,5 @@
+changeset d8bfa9b99692a46f2875901c63ae5c2796f0f80f
+manifest bcbc3d14e9628ce50a7d5b9add61de804d9dea9b
+extra source:8d074598b6caa5c59453e933da5d64e72e10a842
+files testing/web-platform/tests/webdriver/tests/navigation/get_title.py
+patch 320,387,

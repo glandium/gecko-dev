@@ -1,0 +1,5 @@
+changeset 9728b79f2ff41f879452ab78e565896f3de431b8
+manifest d0c440812cd292f7b301371e27a582325026bb1e
+extra moz-landing-system:lando
+files devtools/client/accessibility/accessibility.css
+patch 329,373,

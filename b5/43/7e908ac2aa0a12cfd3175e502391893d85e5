@@ -1,0 +1,5 @@
+changeset c05ea3d4321bce6c8d6ab8460eec44b277710f1b
+manifest 4eeed4ebdc58b0ade906fb15d1405e192e3dcf86
+extra histedit_source:376096c73367f93125d49b44ea231fd8b43fc185
+files gfx/angle/src/libANGLE/renderer/d3d/d3d9/Context9.cpp
+patch 282,358,

@@ -1,0 +1,5 @@
+changeset caf7b122907df2ac56a6d92d28f8b2c8dc9de118
+manifest f5c11225f4359ba25bca041660c0d9d665c2a89e
+extra rebase_source:dd122be19197614bf3a048b235eb857647456fde
+files docshell/shistory/nsISHTransaction.idl
+patch 323,397,

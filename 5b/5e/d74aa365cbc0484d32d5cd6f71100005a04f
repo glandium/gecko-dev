@@ -1,0 +1,5 @@
+changeset 6a28c6d2c2f5c48b8ffccd7989dd95a9163fe2e4
+manifest f140b35f7f6548242d7643ccb4f25e218d98518d
+extra source:63daa5635269736a0b91d76c041d28c75a023fc9
+files toolkit/components/commandlines/nsCommandLine.cpp
+patch 336,403,

@@ -1,0 +1,5 @@
+changeset 66e711359af5799d9f133f59fab3d730cf8a20cb
+manifest febd7ca26f510627bcd10f2a811cc0c8b6c98666
+extra source:c61b11debf423499104a9c547590850f63a56fa4
+files layout/svg/nsSVGImageFrame.cpp
+patch 670,737,

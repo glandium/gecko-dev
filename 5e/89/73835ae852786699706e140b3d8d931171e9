@@ -1,0 +1,5 @@
+changeset 64767e9197dffe57e1f5f10839048cf7fb5e11b8
+manifest 785faed38fc99e2e810bf273d0d203010dc5c1c7
+extra rebase_source:46910026bafed11c9dafffda90ea65e5ba3a8991
+files mobile/android/base/java/org/mozilla/gecko/widget/FadedSingleColorTextView.java
+patch 337,411,

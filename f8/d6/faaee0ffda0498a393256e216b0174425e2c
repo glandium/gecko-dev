@@ -1,0 +1,5 @@
+changeset 0762efbcf2e8f9d3bf410e678ee2fa3f3f23db3d
+manifest 5d6449935ea6b70b2f88b31a60c8c14a1f895a32
+extra histedit_source:8ab338329ec413bc9f5269d25ffe65c6ce644c9c
+files js/src/devtools/automation/variants/fuzzing
+patch 274,350,

@@ -1,0 +1,5 @@
+changeset d5f982689c717bba98621154f5dde808319eaa91
+manifest 4c233a63dd8df05aaf8ca311acf491c8353a2441
+extra source:52c3825548143cae3e878e49c53fc1a28eb78fa8
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/process/GeckoProcessManager.java
+patch 404,471,

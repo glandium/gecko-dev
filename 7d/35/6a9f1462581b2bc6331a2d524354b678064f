@@ -1,0 +1,5 @@
+changeset 1ac08c6d837380fe4be3db71d3e79636f11cf1e6
+manifest d42219477fdd6c118d71ab9e24d3c1bd8f1f0093
+extra rebase_source:b7a3a47114680dbb69c9d0f17fa75ebbc8f444dc
+files xpcom/threads/SynchronizedEventQueue.cpp
+patch 407,481,

@@ -1,0 +1,5 @@
+changeset 68d3c804b45a115f89c252a4e10b28feb713d9ba
+manifest 5682feb35de5897330ec5634fd75bf24ada425f3
+extra rebase_source:7bb97075619f5435705d369a695d37aa1c972278
+files gfx/layers/apz/util/APZCCallbackHelper.cpp
+patch 1067,1141,

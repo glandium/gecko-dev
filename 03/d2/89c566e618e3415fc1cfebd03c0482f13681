@@ -1,0 +1,5 @@
+changeset d442c34c8ef762d9f32b175017c8e07bdb0bd1c1
+manifest 8b36c8f59e43718580fb017058f0bc0a6e621631
+extra source:cce1c1845bbce89339b2e8761bb45026c800cd18
+files devtools/server/actors/network-monitor.js
+patch 496,563,

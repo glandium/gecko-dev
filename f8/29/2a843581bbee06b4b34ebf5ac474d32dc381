@@ -1,0 +1,5 @@
+changeset ae99a39d649760c62a7f83a729ff0a4a8c5cbfb5
+manifest 7147eaaf1222c7ff986f5e60e01ad8ed892f3c25
+extra moz-landing-system:lando
+files taskcluster/ci/static-analysis-autotest/kind.yml
+patch 467,511,

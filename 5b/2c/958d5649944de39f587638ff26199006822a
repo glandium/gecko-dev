@@ -1,0 +1,5 @@
+changeset 646821b070fd06d06647334f7b576a3eee25f622
+manifest f5920a5b0077aeedc9f1a6ff5835edb5bc738bf5
+extra moz-landing-system:lando
+files browser/locales/l10n.toml
+patch 288,332,

@@ -1,0 +1,5 @@
+changeset f2fc9e7b66db6733edcc85fb08a21e6933e1888b
+manifest 04219215b5c5f100c493aa64c577517af26d2d67
+extra rebase_source:bc5880af95dc9934132d0e9251d9060ad9c6871a
+files security/manager/ssl/nsSTSPreloadList.inc
+patch 461,535,

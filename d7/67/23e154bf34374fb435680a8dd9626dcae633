@@ -1,0 +1,5 @@
+changeset 38b4e5c32e5a7cccdb710bd372c3d3691b6008c3
+manifest ae22eee7a3eaaccd572def503300a60b480224c0
+extra rebase_source:024244627c215de2d35e2f4595b7612eb1723996
+files mozglue/linker/dladdr.h
+patch 454,528,

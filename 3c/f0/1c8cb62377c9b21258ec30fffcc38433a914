@@ -1,0 +1,5 @@
+changeset 23c9c6b2dc81eb29930487af76d48cb2332e84a2
+manifest 7eff78d05616313af176987d23668373ba584fe4
+extra moz-landing-system:lando
+files toolkit/components/places/UnifiedComplete.js
+patch 391,435,

@@ -1,0 +1,5 @@
+changeset 8c3c5e856c836db4169b68dc799062fe2de54cd1
+manifest d060fadab56d680eb842a311b5e58975c8f3fbf4
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/marionette/harness/resources/easyscreenshot.xpi
+patch 376,420,

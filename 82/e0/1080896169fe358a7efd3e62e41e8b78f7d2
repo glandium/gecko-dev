@@ -1,0 +1,5 @@
+changeset f31efa9dfa8fc6161df364ee6bcd7a7469582ed3
+manifest 945c6a8190789f79985b72f817e921471c1de169
+extra source:d300dade1d499efbb83b58b7bce948f0703f496e
+files mobile/android/search/java/org/mozilla/search/SearchWidget.java
+patch 307,374,

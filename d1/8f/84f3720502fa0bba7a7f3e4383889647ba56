@@ -1,0 +1,5 @@
+changeset 811510fdb51a8fd65dfb61ba4297efa797756208
+manifest 7fb1be579ee44e718ba6ac9f038d430f6611edcb
+extra rebase_source:f446efc285096bf3700e02090044ae9d4ce2a5b4
+files dom/webidl/WebAuthentication.webidl
+patch 530,604,

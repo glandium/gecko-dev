@@ -1,0 +1,5 @@
+changeset 104219e32a5cab99a4d4adf24f4716f3deff7fe1
+manifest 43c702ec9d304de653f1762e3cadc15f7c27d563
+extra rebase_source:f6b7998f9edf69d96c8fd2c312c84b3b8bf071e6
+files browser/components/migration/ChromeProfileMigrator.js
+patch 336,410,

@@ -1,0 +1,5 @@
+changeset 518c959486b0aac7200055d75b5d2175cbb28d6c
+manifest 1f1c44ecec97cdf2e92646a01d5b5051fe08ee66
+extra rebase_source:55227dd71cb089ab4759fc145a02f65d131faa22
+files mobile/android/chrome/content/ExtensionPermissions.js
+patch 460,534,

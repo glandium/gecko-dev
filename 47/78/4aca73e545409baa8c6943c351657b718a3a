@@ -1,0 +1,5 @@
+changeset b3f3abb09c3e591f22cf94bb2bc6f3e14448f6c9
+manifest 818945a82ff9201cf50a1141188b8daa5483a15a
+extra rebase_source:f7f6fd7e179e23d4bfabe528092710bcbe9a1892
+files widget/xremoteclient/nsRemoteClient.h
+patch 365,439,

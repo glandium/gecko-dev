@@ -1,0 +1,5 @@
+changeset 274953221bdfcec279aa53c02d1aa96d441a4359
+manifest c5d4f56619600dd587297482ce65a2f0a3d684d8
+extra rebase_source:580ef086e8d9ce12c42724c6671d9de87038beb4
+files widget/windows/nsAppShell.cpp
+patch 430,504,

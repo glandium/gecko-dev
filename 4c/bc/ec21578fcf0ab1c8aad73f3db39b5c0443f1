@@ -1,0 +1,5 @@
+changeset 6087ce1bca595b2599d835c3e991060a3e368d11
+manifest f3c0335340387ab0ca9f21af1b12336598d4c60f
+extra rebase_source:3745175e106ea8c6be9271d8135d43ba359434c7
+files build/autoconf/compiler-opts.m4
+patch 521,595,

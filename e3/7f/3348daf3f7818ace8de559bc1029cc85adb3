@@ -1,0 +1,5 @@
+changeset 8d644de8941b6fec72deda5826976d6b07f87c90
+manifest f3ea1c82b16ba5b74027f2ede8ca879917fba65d
+extra moz-landing-system:lando
+files dom/base/nsXHTMLContentSerializer.cpp
+patch 309,353,

@@ -1,0 +1,5 @@
+changeset c79892fcf1bb158013bd1e83d2b1ad758e46a0e1
+manifest f56af68f2318d9e10aecc91e722b433f48567263
+extra rebase_source:52d3f1f59a76e59059aec80b7f2290b84c45a4dd
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/helpers/RobotiumHelper.java
+patch 343,417,

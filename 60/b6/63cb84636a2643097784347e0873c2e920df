@@ -1,0 +1,5 @@
+changeset 1770d65a34281a5a8ee16b2febc9b017a5d1ed6b
+manifest 6ef7045ff21695f12ec2647537be8b7b887dc810
+extra rebase_source:1f3150737df3724dae3fd11d2c0d81e1e64daca9
+files browser/extensions/pocket/skin/shared/pocket.css
+patch 637,711,

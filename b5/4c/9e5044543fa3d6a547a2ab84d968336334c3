@@ -1,0 +1,5 @@
+changeset 803ff4b978c45629e313b4277b575a12c86c75ea
+manifest e9d060854e11b4825c4eab6b020dd89058176f2c
+extra rebase_source:74e0d2d7685c69ddcbf2313ce14e4886d904432b
+files dom/base/nsPlainTextSerializer.cpp
+patch 415,489,

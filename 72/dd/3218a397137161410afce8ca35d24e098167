@@ -1,0 +1,5 @@
+changeset eba0d9962ef4dbe0ce46027981350e6ecaa2bad5
+manifest 726fb099b507661a9c2850dd4c10f4416da7873d
+extra rebase_source:b0dd78f3895bb34c4e916bc0441dd9ae5e643dfc
+files testing/mozbase/mozinstall/mozinstall/mozinstall.py
+patch 435,509,

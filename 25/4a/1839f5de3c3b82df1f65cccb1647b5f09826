@@ -1,0 +1,5 @@
+changeset 275ccc8b8fe7b89f1958a49262b896ba833c6fb5
+manifest 1bc0548e3e139319d18560cb00aa7d4a55ee6a8e
+extra moz-landing-system:lando
+files taskcluster/taskgraph/util/signed_artifacts.py
+patch 386,430,

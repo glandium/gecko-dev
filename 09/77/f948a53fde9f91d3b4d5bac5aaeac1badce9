@@ -1,0 +1,5 @@
+changeset dc75242f84a4faf86dbfdb5c6d0bc86b80d79ac7
+manifest 1d1fc52e9499e602a332c1b98466bbec393b9051
+extra rebase_source:9e894b4edea52a75c9a13c523679039d7ef0d59c
+files testing/web-platform/meta/html/semantics/text-level-semantics/the-wbr-element/wbr-element.html.ini
+patch 529,603,

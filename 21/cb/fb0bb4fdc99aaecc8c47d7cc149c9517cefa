@@ -1,0 +1,5 @@
+changeset 35295d2aeadfa0c1dfa35c715f0345833011388b
+manifest 5045a71a4391d7432d4d9863c9d7de6f06a8943c
+extra rebase_source:7fa93fe9b0df2bdbc89aaf87988ae961a539d551
+files security/manager/ssl/CryptoTask.cpp
+patch 290,364,

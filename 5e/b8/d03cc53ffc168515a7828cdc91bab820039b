@@ -1,0 +1,5 @@
+changeset a6004a75d2d3e5fe04b4d9920cd2e90080784c59
+manifest 55dfc03a0bbba64148c003568312b8dcefdb8501
+extra rebase_source:9c66389037c34a6a433af514bc81ed4ee040bfe0
+files browser/modules/ReaderParent.jsm
+patch 800,874,

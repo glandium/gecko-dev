@@ -1,0 +1,5 @@
+changeset 043b3b44cd5c8d07140588c2c614b022c4e162f8
+manifest 38aa7090d16e133db65fc5d6f973b42179fb0a10
+extra source:5f820525e90d708f0c6d3eacfe3b155eec30cb13
+files ipc/chromium/src/third_party/libevent/kqueue.c
+patch 305,372,

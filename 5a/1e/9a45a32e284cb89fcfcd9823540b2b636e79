@@ -1,0 +1,5 @@
+changeset da3100049ef2c03f287fc700b620f6b622aa4749
+manifest 239ef6e6d216610806c18b7a61d0895b40536ec3
+extra rebase_source:f5dc3e44c395ee31dbadefc6a6a06e8b152561fc
+files browser/components/extensions/test/browser/browser_ext_addon_debugging_netmonitor.js
+patch 329,403,

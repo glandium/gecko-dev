@@ -1,0 +1,5 @@
+changeset bb39d23d1da6547ad386ad94bae1a76938862f02
+manifest b37873c2db8d374ef839845a241cbf8530edeedf
+extra moz-landing-system:lando
+files browser/locales/en-US/chrome/browser/preferences/preferences.properties
+patch 314,358,

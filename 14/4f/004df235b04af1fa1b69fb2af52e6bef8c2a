@@ -1,0 +1,5 @@
+changeset bb489c82da39c75dd044a9cfab3258078396d794
+manifest 6545f8eb9743525ec12e0870862cecc6e2fe829c
+extra rebase_source:44fcdacb2fd031f14634b6f3033f8230e9a183ce
+files browser/components/places/content/bookmarkProperties.js
+patch 336,410,

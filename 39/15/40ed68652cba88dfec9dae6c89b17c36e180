@@ -1,0 +1,5 @@
+changeset c3e3315e68fbd39e8f3c1588b8f770c3067edbfc
+manifest dc175ae9887637bf1cd4e0fa40be6d70c1c787d4
+extra rebase_source:7e8230c64bbd6cbdc535fea724795618df73a43d
+files servo/components/style/properties/longhand/inherited_box.mako.rs
+patch 319,393,

@@ -1,0 +1,5 @@
+changeset 4ef59b77d1cbaeae823261ea84dcba5801057c0d
+manifest aa9ce767243c0b2508e54c657aa81f70fe748bc2
+extra rebase_source:343f25d553fccb077952db835ddf8fbc25a3c91a
+files devtools/client/framework/source-map-url-service.js
+patch 329,403,

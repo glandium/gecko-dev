@@ -1,0 +1,5 @@
+changeset 77c7e6536a32bc849151fe864b269de719f831d9
+manifest 4816ac94d50d5af720558c5da445b3eadc9457fd
+extra source:8c5a1943d169227e68598870bbe2fd3ee1d6dbea
+files devtools/client/shared/test/browser_dbg_navigation.js
+patch 385,452,

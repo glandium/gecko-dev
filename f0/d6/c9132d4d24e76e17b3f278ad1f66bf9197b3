@@ -1,0 +1,5 @@
+changeset bc4cbd826553b01fa2bd27d1a3c1cb5c90a2c784
+manifest e4f632f1b9a259b53f02fffae2f276681ef25dfa
+extra rebase_source:38e5e769adec5699de5d946e07aa9e387bc2023b
+files devtools/client/animationinspector/test/browser_animation_detail_displayed.js
+patch 328,402,

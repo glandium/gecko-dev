@@ -1,0 +1,5 @@
+changeset 550aa5330baf471ec1b9c6a05f4a598bec88ebf6
+manifest 92ee832841a82259ce088e827c1670d7e3f4911b
+extra histedit_source:03f59268c220297040c1c5186e62a05710d468b9
+files modules/libpref/init/StaticPrefList.h
+patch 651,727,

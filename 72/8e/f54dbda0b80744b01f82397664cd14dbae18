@@ -1,0 +1,5 @@
+changeset b84dd92d6dc93b51ccc09c5bb84eb1df32a80d1a
+manifest 2be4404d9a52413d3da1409c6c0263820567c672
+extra rebase_source:a0b301a2b72322ef08b67ec1c54d2c1024d67358
+files gfx/src/nsThemeConstants.h
+patch 297,371,

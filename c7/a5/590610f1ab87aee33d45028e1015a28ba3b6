@@ -1,0 +1,5 @@
+changeset abff79205da29ce27f639310457007e69dcdb138
+manifest 77475f51a904ab06cedf6dd15b00b8061f22b496
+extra moz-landing-system:lando
+files mfbt/TypeTraits.h
+patch 384,428,

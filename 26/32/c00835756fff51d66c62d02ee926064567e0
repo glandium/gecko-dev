@@ -1,0 +1,5 @@
+changeset 9856974e03e254a3eef27e3ad874af8863360a4d
+manifest f46de3d8153d8932ff519e05b8ccfcc02fbf23b1
+extra amend_source:a414b42a33c443faf443b7f7b412e72eab15e34e
+files dom/html/nsTextEditorState.cpp
+patch 697,770,

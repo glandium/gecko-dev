@@ -1,0 +1,5 @@
+changeset f9ea3f389c6adf43d289aac1cd7e6e8be2ec2683
+manifest 956d03d49e7e67c09a3e5d00ee9abd20f854ee60
+extra rebase_source:75030551b17eb8e30eb482a9adc8fd840c853614
+files devtools/client/netmonitor/src/connector/firefox-connector.js
+patch 329,403,

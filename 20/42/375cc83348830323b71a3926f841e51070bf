@@ -1,0 +1,5 @@
+changeset 26d556a0f07ccd041ff5e28a53a3c7e38b4c2802
+manifest bf9256affa827d6b79b5be3466f44491847e2355
+extra rebase_source:1cb4c6698575dae1c8d0e1b3894c2670d095cf75
+files layout/reftests/svg/smil/style/reftest.list
+patch 273,347,

@@ -1,0 +1,5 @@
+changeset 5c5acf59e04cae2eb9ee453b42bb9308273676c8
+manifest 0689e501ee9194078606e8b9373e38fe6c23f427
+extra source:506fe32bb763e18d7981378c79d59c5b214a2f3e
+files devtools/client/inspector/rules/test/browser_rules_add-property-and-reselect.js
+patch 388,455,

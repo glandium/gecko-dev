@@ -1,0 +1,5 @@
+changeset 550a527e90ee52ce0ec3095b2fd977446ee2f5f2
+manifest 29c3c1e266779b22bd774b828a5c8f098812b55a
+extra moz-landing-system:lando
+files build/unix/elfhack/elfhack.cpp
+patch 587,631,

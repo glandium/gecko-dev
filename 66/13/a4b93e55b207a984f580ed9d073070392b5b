@@ -1,0 +1,5 @@
+changeset 7c022a5e28f2500145eb4eaef8676f91fb9bc13c
+manifest c622a9f3d954ba22c210d3cf680a39310d674f7a
+extra rebase_source:a5be58d0cf10c2b4d7cbda95174793439af3fc5b
+files dom/vr/test/mochitest/mochitest.ini
+patch 296,370,

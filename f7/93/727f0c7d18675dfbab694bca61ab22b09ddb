@@ -1,0 +1,5 @@
+changeset baf9a0e8573052ae16156ea97de1af344406eb7e
+manifest 9bab5d2d9ad890675eb59696e17eb4d015a29de6
+extra rebase_source:9502f99cf2891305b4c5b5f0af4d4cd08bd88fcf
+files browser/components/shell/test/test_headless_screenshot.html
+patch 299,373,

@@ -1,0 +1,5 @@
+changeset dcbb7762dc2fa3afbbf969016c29b125d97b52f2
+manifest fcf4025c8a2e99e22e90c114d0af0be26ad4da6c
+extra rebase_source:57a6f3eb569224a9e432803ef67d80f57219f7ab
+files dom/base/IndexedDBHelper.jsm
+patch 415,489,

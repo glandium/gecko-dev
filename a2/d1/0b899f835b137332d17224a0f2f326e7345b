@@ -1,0 +1,5 @@
+changeset 33ee338152e6d2e3a0eda514e04506ddb36030b1
+manifest 5add5c67e25ca00687772a7c75ad9e6d4829c439
+extra rebase_source:2a3d4d1243366dcb35ee61d4320d6b9a80b08291
+files testing/web-platform/meta/dom/events/EventListener-invoke-legacy.html.ini
+patch 310,384,

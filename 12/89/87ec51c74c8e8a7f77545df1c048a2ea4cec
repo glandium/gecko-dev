@@ -1,0 +1,5 @@
+changeset 5b642e09aacd450f7ea2b667d2d453a701a30e15
+manifest 6d255df173c6cffd40059c24d76b425168e44279
+extra rebase_source:b5da3129547949d49a465e7553b0b4d2d2098d5a
+files dom/xul/nsXULElement.cpp
+patch 672,746,

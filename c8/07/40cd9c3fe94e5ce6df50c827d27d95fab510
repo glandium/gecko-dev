@@ -1,0 +1,5 @@
+changeset f92210c5643b451bf8d773861836c92e70bf0347
+manifest 66beea4e8bf608dc39b1d3af44ffa3980c434f52
+extra moz-landing-system:lando
+files browser/components/extensions/test/browser/browser_ext_getViews.js
+patch 947,991,

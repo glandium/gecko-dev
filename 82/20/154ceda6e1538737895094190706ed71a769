@@ -1,0 +1,5 @@
+changeset 02d0ba8567f3de09c9df0a95138d0c4e7b5a57a0
+manifest 1944b54bc8892b00bc8dff499d3307b72fb27ba0
+extra source:6b716be52be01188cd7c5f82538c55f83d9dad27
+files xpcom/io/nsPipe3.cpp
+patch 239,306,

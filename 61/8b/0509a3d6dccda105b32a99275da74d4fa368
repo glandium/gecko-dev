@@ -1,0 +1,5 @@
+changeset eeedadb5ca269707088aad583fa986f77b619269
+manifest 5bc66100c45fb47ff95322f3069610f4cd0ac497
+extra rebase_source:64ba6f05d5e53a7b06b468b51ff080b0e6b1913f
+files browser/components/extensions/ext-devtools-panels.js
+patch 320,394,

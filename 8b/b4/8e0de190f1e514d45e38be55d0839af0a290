@@ -1,0 +1,5 @@
+changeset 2060621594c27e40d21e12e3e4347cad15834f54
+manifest 64d676dad2128fde1acbbe4011556b49911edcc2
+extra rebase_source:3f78b6a1d73f4d59d3aac4b2da79c27cae404897
+files xpcom/threads/Scheduler.h
+patch 364,438,

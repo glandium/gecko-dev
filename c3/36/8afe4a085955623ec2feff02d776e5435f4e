@@ -1,0 +1,5 @@
+changeset b1ff16c658636afb61c07765ea3c6470857bfefd
+manifest 6b2a9ff3651812f2bcf7a80c7a65311c59e7a015
+extra rebase_source:8872b15c63d39473aa39c9e58a70fd363c0fc031
+files layout/generic/nsFloatManager.cpp
+patch 307,381,

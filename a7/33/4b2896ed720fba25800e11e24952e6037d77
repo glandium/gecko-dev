@@ -1,0 +1,5 @@
+changeset ce69b6e1773e9e0d0a190ce899f34b1658e66ca4
+manifest 44935dd15c59bb5c9a8304de7c28447eb3d032c1
+extra amend_source:465b881899a40cf29d0f3d7dbdd883d8a61edb2c
+files tools/lint/eslint/eslint-plugin-mozilla/package.json
+patch 364,437,

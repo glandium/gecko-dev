@@ -1,0 +1,5 @@
+changeset 0bf2574ad9ffb9561f25d52912b5e0283efb6b79
+manifest dec8ae214b971881af91b18d98f5044799ccc512
+extra rebase_source:1f310ec7b7556451b65b973e1d6ae2368bb3aa43
+files devtools/client/aboutdebugging/test/browser_service_workers_multi_content_process.js
+patch 371,445,

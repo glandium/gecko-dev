@@ -1,0 +1,5 @@
+changeset 8e6b53822f7cff83403d0225be8e305440f952fe
+manifest 42fd3ca5df6080890146ef64698e06382f2447c2
+extra rebase_source:572f5279dc8cd67712fd596d2f913d6131003ff4
+files gfx/thebes/gfxRect.h
+patch 280,354,

@@ -1,0 +1,5 @@
+changeset 9c5151a55ae9bcd0012e4267efbeb93767c6a0ec
+manifest 68f11f59b0be3c5e37deeaec2262ed832648b84f
+extra amend_source:f84c2e30200b9afe42defa8eeca1dcbe828061b1
+files dom/credentialmanagement/tests/browser/browser_active_document.js
+patch 409,482,

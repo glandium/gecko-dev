@@ -1,0 +1,5 @@
+changeset 105f53375b21d592a65f89f5d661d448f20354c2
+manifest a1e5f25e5277041e4da3c4069266f9b10c7da1ac
+extra rebase_source:cc8bbf93c8f0e6e7c1823d360c71272d0da5ee00
+files browser/extensions/formautofill/bootstrap.js
+patch 355,429,

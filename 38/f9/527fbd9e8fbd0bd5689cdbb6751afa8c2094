@@ -1,0 +1,5 @@
+changeset 0c40ca38958fc08fb4289dd1eb45b7fd7258ff99
+manifest c491727c1aed6dc786672fb171d551a10bb481e7
+extra rebase_source:bb3c6af51aa6f20b4ab4a3f8d538fd71b8f0b0bc
+files netwerk/streamconv/converters/mozTXTToHTMLConv.cpp
+patch 311,385,

@@ -1,0 +1,5 @@
+changeset 3b7e842e7b5f83252b3f1cf41245abf6946a7e84
+manifest 827fa90a698089df5ac20173edbc087656324232
+extra moz-landing-system:lando
+files taskcluster/ci/bouncer-locations/kind.yml
+patch 375,419,

@@ -1,0 +1,5 @@
+changeset 6ca3b97b5e421f5e3069c7d4823c62e27fc5f1d1
+manifest e2ae9a2dae3b556a68646bac3ec3444051cf38f1
+extra source:1cc3dbae3b31066949a250f74313d77769956036
+files dom/bindings/DOMString.h
+patch 412,479,

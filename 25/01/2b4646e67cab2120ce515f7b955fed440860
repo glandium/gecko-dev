@@ -1,0 +1,5 @@
+changeset f329799b4fae58129f88797ec4ade91b9d7cb9cb
+manifest b5d139a681097d2f3631116e8e39365a077a29f8
+extra rebase_source:364124793597b70e811d81941d6bfcb496e2c160
+files tools/lint/eslint/eslint-plugin-mozilla/lib/rules/import-browserjs-globals.js
+patch 356,430,

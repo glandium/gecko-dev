@@ -1,0 +1,5 @@
+changeset a86c91c947de4cecdd884479d1c30398c0acfaac
+manifest babc5f24ab02ade1e32d369e8c025ed0dab7f765
+extra rebase_source:c5cf6fda38082ed0fc722907b3f307cea757b77f
+files toolkit/modules/Preferences.jsm
+patch 303,377,

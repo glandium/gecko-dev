@@ -1,0 +1,5 @@
+changeset adfa3b56cbdc68827ad9603fd338ab321632858b
+manifest c7ffb9e73ba71810ab47d88b5bc66f2099383d48
+extra amend_source:8488291f7f06a368cc8baa30a6b0a970b4679f98
+files dom/workers/WorkerRef.cpp
+patch 319,392,

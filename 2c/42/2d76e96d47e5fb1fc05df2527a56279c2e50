@@ -1,0 +1,5 @@
+changeset 3a33e3beb0cd41e0080a63f153a24e0230033578
+manifest 63d36fbadfef5c00559fcec1f6d2a5237bf30da2
+extra amend_source:b0ad2f6f3922dc3f7de98f7434b32e8abcee122c
+files toolkit/components/extensions/test/browser/browser_ext_themes_alpha_accentcolor.js
+patch 309,382,

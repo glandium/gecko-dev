@@ -1,0 +1,5 @@
+changeset cfce78c33f60e67a6c2068002e38721047eb3ba8
+manifest 5b49bdc3b9fe0319b5a5834fd19f2413d93d870b
+extra rebase_source:b97350d6c7eb1339b9203889cb4f02c47bec272b
+files js/src/build.rs
+patch 276,350,

@@ -1,0 +1,5 @@
+changeset f8e2d2010c07418ea0916bb6a5679e872958d6e9
+manifest d8a6c563b586b8d22236d7a702400d60c2b5a598
+extra moz-landing-system:lando
+files intl/l10n/Localization.jsm
+patch 267,311,

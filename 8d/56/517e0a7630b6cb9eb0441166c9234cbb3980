@@ -1,0 +1,5 @@
+changeset 24b1d36cd71070d9a8b7b6b719139351d62f5167
+manifest dbff19983721b42464a57b8267e97dd30462cb79
+extra source:dd361e3ebf4d5834d2647f9c98e305375ca06a66
+files dom/media/webspeech/synth/cocoa/OSXSpeechSynthesizerService.mm
+patch 482,549,

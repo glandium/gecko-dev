@@ -1,0 +1,5 @@
+changeset 135ecb6cf04a9a88254a248a191f7c9cc8a349d9
+manifest e52a289cf3ee1d1c13c9206040af098d0cb49a05
+extra rebase_source:16c168c048ee14db93d4df66c6dfa761952c3577
+files browser/modules/ContentCrashHandlers.jsm
+patch 308,382,

@@ -1,0 +1,5 @@
+changeset fc2516eb942385a7c65549123b416e7e1d4d9b6f
+manifest 0423b334ff1ee33bb84ca72a2d7680eab5fdde52
+extra rebase_source:69c572ae0df1a16ae0866e5e04ed3d3764e8a72a
+files addon-sdk/source/test/test-clipboard.js
+patch 319,393,

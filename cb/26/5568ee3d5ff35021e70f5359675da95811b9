@@ -1,0 +1,5 @@
+changeset 320c0b7ee698dda1b0f7f75fbb00e02d82055270
+manifest 5f09c203dd7d9f36e5bfd6e887f9c8ab0c4ab21f
+extra source:c00506e039838edc821cbf1f8b904d391e4cd346
+files devtools/client/webconsole/test/browser_console_history_persist.js
+patch 295,362,

@@ -1,0 +1,5 @@
+changeset 1a23ce5a17c338a9ef902d4f30e586ad4444af36
+manifest b547a5a5f64bb177186f133cac7fea2da1e773e6
+extra rebase_source:8574ef48e52a1d0f6fe51d80026265e7461076c0
+files toolkit/modules/addons/WebRequestUpload.jsm
+patch 328,402,

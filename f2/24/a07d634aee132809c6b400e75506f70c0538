@@ -1,0 +1,5 @@
+changeset 5fbf1ba06cace4c10fbde0805b4da66931bae769
+manifest d7e175b8621159e9fb0a1c625aa8b1c6e1f3d606
+extra rebase_source:3cf9d9119f68fee648aa1b1143ca251240ddf417
+files devtools/server/actors/highlighters/utils/markup.js
+patch 323,397,

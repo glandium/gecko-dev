@@ -1,0 +1,5 @@
+changeset 69e6247fd71006908a8f37fae9f445f715e3e360
+manifest 312fba272c5c8e0be46c18b7814e8bb0ff5335bf
+extra rebase_source:86f19379b242658243a26e5e3fcac90c0a06cd63
+files browser/base/content/test/tabs/browser_pinnedTabs_clickOpen.js
+patch 299,373,

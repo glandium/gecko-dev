@@ -1,0 +1,4 @@
+changeset edef0c031724fd5f02e75815d1f0f1d763a95efa
+manifest c62bf1eab95fa0bb1cbdd2f0c8c275b0fe6122df
+files js/src/jit/arm/Simulator-arm.cpp
+patch 197,198,

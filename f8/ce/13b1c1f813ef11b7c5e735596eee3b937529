@@ -1,0 +1,5 @@
+changeset 98f9763349183966441f448a83f9684412f4ff30
+manifest 94e0906d12a73297c6ef25be2cdae99366677f72
+extra rebase_source:9e1a030eca43e3ef43efd1233c35425ec999b829
+files toolkit/components/extensions/test/xpcshell/test_ext_storage_sync.js
+patch 1085,1159,

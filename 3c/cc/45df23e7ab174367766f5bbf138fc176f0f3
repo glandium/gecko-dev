@@ -1,0 +1,5 @@
+changeset 8a1206836aa4b38d37f2f5ab9843cf939929512e
+manifest 74756ed012ec4f5051448846162c948657e8836a
+extra rebase_source:780f49bd3b6dcf0682f9368c53c0a04c03e0616b
+files netwerk/base/CaptivePortalService.cpp
+patch 332,406,

@@ -1,0 +1,5 @@
+changeset 05c2e92032a42acc08cbf772ed0264423b5d5afc
+manifest b736ccfe50e50aad8021a84ac9a2189407d2490c
+extra source:ee147ca3314ded6e94f2cf5f521571d119d6864b
+files dom/indexedDB/test/browser.ini
+patch 294,361,

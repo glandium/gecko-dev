@@ -1,0 +1,5 @@
+changeset c3b33c36ffe052a33db41ace51c8378842d12dde
+manifest f9b7e5ffc7cd15d31e57c6f4724dfecceb1cb150
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging/aboutdebugging.css
+patch 292,336,

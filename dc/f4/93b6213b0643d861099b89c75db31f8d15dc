@@ -1,0 +1,5 @@
+changeset 3c562a1430861a1f06cde3e312e1867e97384a0c
+manifest 8367aed6f55556e2387b0f4b0069a9ef83b14604
+extra rebase_source:6da75d42d7d937b628ef1d9c0d4e349fd76eda36
+files tools/lint/eslint/eslint-plugin-mozilla/lib/configs/recommended.js
+patch 517,591,

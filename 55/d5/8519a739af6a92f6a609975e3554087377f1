@@ -1,0 +1,5 @@
+changeset 16e495b2c1b5fd0b22129a6d8eaefe9c333ac6b3
+manifest 1c1ef36e5a978575762db0eb5b14e378f6e71449
+extra moz-landing-system:lando
+files netwerk/base/nsStandardURL.cpp
+patch 308,352,

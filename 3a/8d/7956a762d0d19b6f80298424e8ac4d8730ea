@@ -1,0 +1,5 @@
+changeset 17e25e31838cdefa5f010ce3f77450e4d4dfeeb9
+manifest ee2c4b9e2698c48605f6cf0f5e18d945fffb22a6
+extra rebase_source:3927c1da8963cc9219237bc6b4e906c3d4085407
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/testActivityStreamPocketReferrer.java
+patch 397,471,

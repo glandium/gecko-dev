@@ -1,0 +1,5 @@
+changeset eead32dddd0222c20c4527cbda8639a9cbcc7e63
+manifest 2cc05382f50dae247374b4fccd20a5496ae969c6
+extra source:bf285f58e643f3f283fcfe0c53c419dae49709f0
+files python/mozbuild/mozbuild/action/langpack_manifest.py
+patch 1246,1313,

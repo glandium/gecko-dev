@@ -1,0 +1,5 @@
+changeset 3022e88f7a8fe80945ad5a82a94e735b0af2ce2d
+manifest f9c8d521141564dae561888ad433e607fad7c4b4
+extra rebase_source:e53ed34aed0c59b1495581562901b4e7cc78e3b0
+files media/webrtc/trunk/webrtc/modules/video_coding/video_sender.cc
+patch 297,371,

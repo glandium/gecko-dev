@@ -1,0 +1,5 @@
+changeset bafb20dd3221beb50523cbe731ac5c0cc6375e87
+manifest a4f8eea408219a2f3618f7f45c68ab78426ebee3
+extra rebase_source:00e78dc0214557bd53b773e918a56de8a56e9682
+files dom/media/test/test_streams_element_capture_reset.html
+patch 348,422,

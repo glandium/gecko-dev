@@ -1,0 +1,5 @@
+changeset e0f0467f930f5eb4ca1ec4cd1c5506fb96442aab
+manifest e7d3897e9f540c51c63c1a01491317534c031a16
+extra rebase_source:0910f0ae6af68ae6660b0dd2af19e57b40413275
+files toolkit/components/telemetry/.flake8
+patch 293,367,

@@ -1,0 +1,5 @@
+changeset f29c950fa2262e1bbae4072f3056a4662648727a
+manifest 9517fb974bfe66fe7749aa9703b4118630130ce0
+extra rebase_source:56c448b6eb9b3e9c582e001e93bec0d18ab5b07f
+files toolkit/mozapps/extensions/test/browser/browser_experiments.js
+patch 336,410,

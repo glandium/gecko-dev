@@ -1,0 +1,5 @@
+changeset b3dc668bebb9fb28fc5b6365cc03ab6688db449b
+manifest 44dd7655cf1c56d306dae99bb6b6b518e97db2a9
+extra rebase_source:d2bc458886705d5234c408205b413208f4962be9
+files browser/config/mozconfigs/win32/mingw32
+patch 322,396,

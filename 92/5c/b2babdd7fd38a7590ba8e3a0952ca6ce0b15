@@ -1,0 +1,5 @@
+changeset 1e1af624dfd6c9de1ca7f1c8a583793a585a3dd8
+manifest f43d433a01a7196c8107e66855e7f5b64a5014dd
+extra rebase_source:6b7330a7edfc2c0504171828526221dcccb6f8c5
+files dom/media/platforms/wmf/WMFAudioMFTManager.cpp
+patch 522,596,

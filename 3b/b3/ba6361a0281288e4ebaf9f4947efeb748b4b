@@ -1,0 +1,5 @@
+changeset f35fa6e7fb463ce848beb3df1550a12089527974
+manifest 8be4797e8043dd5b18354475984301fb52f3114c
+extra moz-landing-system:lando
+files browser/components/extensions/test/browser/browser_ext_popup_select.js
+patch 1461,1505,

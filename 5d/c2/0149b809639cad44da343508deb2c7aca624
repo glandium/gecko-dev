@@ -1,0 +1,5 @@
+changeset 63632d8680a0f966234bcbe8836b12ae00a41cc4
+manifest daacb5a61ec34329d32c7df48152a466272629a8
+extra source:c8895f095ee2632029dbe9cab3652a6355574a28
+files intl/locale/nsLanguageAtomService.cpp
+patch 569,636,

@@ -1,0 +1,5 @@
+changeset e1cafd30a69afeef3e2ecbb557cd87c77e52b3f6
+manifest 4caaa1551473db560203eba73f5a7585274035cb
+extra rebase_source:94254e2f24122e52010eb7ac484fd0764a68ad65
+files browser/base/content/test/tabs/browser_new_tab_in_privileged_process_pref.js
+patch 363,437,

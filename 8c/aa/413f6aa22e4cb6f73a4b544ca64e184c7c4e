@@ -1,0 +1,5 @@
+changeset 39754f1db01c95a58e08ac1ef0628763614f7f89
+manifest 5f3bf4e7b5696dd07a8d60491437f6656c927d5b
+extra rebase_source:f458dc411c331a752c62fd3aaa6688f930df9993
+files browser/components/extensions/test/browser/browser_ext_tabs_onUpdated.js
+patch 395,469,

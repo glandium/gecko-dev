@@ -1,0 +1,5 @@
+changeset 04e37b6c85d5b86926a5e90e3227a726a50af397
+manifest 8990436efd3de63a4f22ddcc59f3787a1d3e3d9d
+extra rebase_source:f6d0488f06d9fda42ba01e78e70ea64d389b0294
+files browser/base/content/test/newtab/browser_newtab_focus.js
+patch 807,881,

@@ -1,0 +1,5 @@
+changeset 1b381ddb9779e2e0bc2be4f9382ca8560862b409
+manifest dedf4734b982aef653b636299e576bedd4259ff6
+extra rebase_source:8c5bc93282ba09ad10161d5f5ac4dc0d81704d8e
+files browser/themes/shared/downloads/allDownloadsViewOverlay.inc.css
+patch 335,409,

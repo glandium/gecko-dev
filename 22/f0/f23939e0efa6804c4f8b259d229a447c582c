@@ -1,0 +1,5 @@
+changeset 410f4e7ae2feb52dc23db8892829e1b767477849
+manifest ca45c7b27314a50504e51944c48aab021f7f926a
+extra source:1fafb01078dbb3602bcdac29d40f91f67f71fba3
+files mobile/android/modules/geckoview/GeckoViewTab.jsm
+patch 706,773,

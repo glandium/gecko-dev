@@ -1,0 +1,5 @@
+changeset 80b491577ef9c29be320e9eb79b3297fabff522a
+manifest 0cdbd717c6c9d3156357e811375a5e88fdcc19e0
+extra source:c6ad03aa476f436c607a574e4def1d82baad03cb
+files mobile/android/tests/browser/robocop/src/org/mozilla/gecko/tests/testSessionFilePreservation.java
+patch 646,713,

@@ -1,0 +1,5 @@
+changeset d7e6aa1a29de50f1543fdaa0d738289274c4ce2f
+manifest 5e14451bf8798c921bf7ca608bdfecb487a9c73a
+extra moz-landing-system:lando
+files browser/themes/shared/urlbar-autocomplete.inc.css
+patch 303,347,

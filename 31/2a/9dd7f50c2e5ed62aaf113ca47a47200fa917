@@ -1,0 +1,5 @@
+changeset 1b2e6b7ea43a6517ffc46cdbe2a746256cce3ed8
+manifest 82e4509da28f3c503c067e0f124eea8d3e4cf6c5
+extra rebase_source:0297376918f141cc7fc36b17192deb4f85e9cf00
+files security/manager/ssl/tests/unit/test_sts_parser.js
+patch 360,434,

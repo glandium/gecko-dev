@@ -1,0 +1,5 @@
+changeset dafac4d5bfdbc7b3766e7d5ba9ce965d78eb5333
+manifest fe63d269a46c387331cc16c59d10a4c52200a283
+extra moz-landing-system:lando
+files devtools/client/netmonitor/src/components/RequestListColumnFile.js
+patch 303,347,

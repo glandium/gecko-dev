@@ -1,0 +1,5 @@
+changeset 719e52d35af4895d234aed241123eb40021615e2
+manifest 7d777b55513b27a77c138b2d50d15f63bfbf8402
+extra rebase_source:d6dcdd07aef58e3077a4ad1dd8b17bbcae1c6505
+files devtools/client/inspector/grids/components/Grid.js
+patch 316,390,

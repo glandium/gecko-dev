@@ -1,0 +1,5 @@
+changeset ca6af5d8156575a85c8efdb9e11d6d3219e9c988
+manifest 51488e5369f99711886621dd69b6fcc4e2f2f68f
+extra source:a76755db1f3c804e8a08c1f0365db417acc5cf77
+files devtools/server/actors/webextension.js
+patch 409,476,

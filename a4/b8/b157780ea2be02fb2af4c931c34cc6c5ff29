@@ -1,0 +1,5 @@
+changeset e1903f1d75e0146b451c8da9d237a83ede2e0fa9
+manifest 5d44f6a296b9c289e98d6520c02979c3c8221be9
+extra rebase_source:c49f8b2bdbd459c459d257c27a6fbf8588bcd130
+files dom/plugins/base/nsNPAPIPlugin.h
+patch 313,387,

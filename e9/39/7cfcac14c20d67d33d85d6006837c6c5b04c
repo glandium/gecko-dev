@@ -1,0 +1,5 @@
+changeset 023c546c01cd2d3c4d382ab5e9245a48f138e934
+manifest 525c86e7e5823c5a58d631b5698c2fb00f17ede7
+extra moz-landing-system:lando
+files security/sandbox/linux/SandboxFilterUtil.cpp
+patch 547,591,

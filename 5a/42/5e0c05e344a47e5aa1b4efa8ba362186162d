@@ -1,0 +1,5 @@
+changeset 462a889b96ca175b528d6d5a00966dd68ae66fae
+manifest 13b55397d226080b926570635f9c86b5c3c9b3af
+extra moz-landing-system:lando
+files devtools/client/webconsole/webconsole-output-wrapper.js
+patch 388,432,

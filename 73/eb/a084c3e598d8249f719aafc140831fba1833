@@ -1,0 +1,5 @@
+changeset 4c96fc4ec2b0a3686a4d12e7c675a423ad223829
+manifest 496b6f8d2012e71bd9d0145a2ed7b283a0ca6fa9
+extra rebase_source:c31ad9891b4eb745cdc6a9a774a163defb773162
+files js/src/jit/shared/IonAssemblerBuffer.h
+patch 618,692,

@@ -1,0 +1,5 @@
+changeset 5e53d393c722f451c0e8dca642dbb1ace5331f6f
+manifest 7afdaa7cea17cd4a3072e09bd02572b42e7f0f86
+extra rebase_source:229d543ba8aedfc9ff5b7721ff9f254a8add1b70
+files browser/components/extensions/ExtensionPopups.jsm
+patch 753,827,

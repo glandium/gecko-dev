@@ -1,0 +1,4 @@
+changeset 1976ff94b12a14e32cac357c1ef2cf7caca8ff7e
+manifest 3ba5d1cebb6d3808eaac4be7a5a53d3d901e1f64
+files toolkit/components/extensions/test/xpcshell/test_ext_webRequest_filterResponseData.js
+patch 279,280,

@@ -1,0 +1,5 @@
+changeset 0d61bbcd24d8eb49d2beea278859da868186f783
+manifest 37c1fbc0b029dcd181815874cf59ae341ff0bb16
+extra moz-landing-system:lando
+files servo/components/style/gecko/global_style_data.rs
+patch 334,378,

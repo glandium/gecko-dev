@@ -1,0 +1,5 @@
+changeset 176e3dc6dc949bb4136817b1f11bb1716045406e
+manifest bb44fcf6af3076ffe97e81ecc61c894042566dec
+extra rebase_source:beb312634f4956be6588b7b537911082a2bb0942
+files devtools/client/webconsole/test/browser_webconsole_shows_reqs_in_netmonitor.js
+patch 348,422,

@@ -1,0 +1,5 @@
+changeset 5084bccfd9ac480180a8b512568345ed1de605d6
+manifest 870dc18f3abd7dba2e7361d95006decf1aecc3b7
+extra moz-landing-system:lando
+files testing/mozharness/scripts/telemetry/telemetry_client.py
+patch 371,415,

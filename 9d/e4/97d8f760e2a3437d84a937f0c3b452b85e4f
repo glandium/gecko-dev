@@ -1,0 +1,5 @@
+changeset a9a646d4a15837e3e19f4f68253f953de3c30cbd
+manifest 3dfb226cbcf17170f5967e2814fc5749f12e3322
+extra source:93217373996cd1eb22c8b611c3daacb56dbe2243
+files dom/webbrowserpersist/nsWebBrowserPersist.cpp
+patch 364,431,

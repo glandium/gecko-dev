@@ -1,0 +1,5 @@
+changeset 557a4ad274edd02d4e9a9b09c427c1da44d4adfd
+manifest 15a5d140968cff1ed65610dcbad449d42f9fe150
+extra rebase_source:ce0a2a5e68b60514a4ec847df176ea4dd9452588
+files testing/marionette/element.js
+patch 288,362,

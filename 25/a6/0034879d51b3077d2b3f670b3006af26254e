@@ -1,0 +1,5 @@
+changeset 31785307b29f901bc858c7593c90d311efd5f4d4
+manifest fa1d34998efe30561629552b8d913e260ea05236
+extra rebase_source:6825094b2914b8705a0b331718ab3c780b31b4df
+files toolkit/content/aboutTelemetry.css
+patch 277,351,

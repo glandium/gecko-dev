@@ -1,0 +1,5 @@
+changeset 9ce985c92f22f5696a9e12094adec45dbb46fbdc
+manifest 441ab2fd7a1612eaa6a30e92915c71254caa53e3
+extra moz-landing-system:lando
+files toolkit/components/telemetry/docs/collection/hybrid-content.rst
+patch 359,403,

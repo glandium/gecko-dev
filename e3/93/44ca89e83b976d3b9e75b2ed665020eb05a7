@@ -1,0 +1,5 @@
+changeset 4ac4ad3ba687f03839cfbed2e5dc3ee6ac1a97b7
+manifest e3721ef6489c6ef92aa7ea304cf8c4d6a2be434e
+extra rebase_source:ff746cedf31b0bd3f8eb51af6fe5add86ffe2c3b
+files gfx/thebes/gfxPrefs.h
+patch 297,371,

@@ -1,0 +1,5 @@
+changeset af0263577e4d16da5c44df23ef5a44685c07a4d0
+manifest 9416754408152a2c970ec5e863b9324e4a4982e8
+extra moz-landing-system:lando
+files gfx/gl/GLContextSymbols.h
+patch 448,492,

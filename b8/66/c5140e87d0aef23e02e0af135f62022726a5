@@ -1,0 +1,5 @@
+changeset 36b7bb1dd72b97e292bd07de44125d1e9e9c11db
+manifest 4801bddd8b6adf18b86f27e5c475feffc4058afb
+extra moz-landing-system:lando
+files devtools/client/netmonitor/src/connector/firefox-connector.js
+patch 357,401,

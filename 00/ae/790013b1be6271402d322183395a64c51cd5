@@ -1,0 +1,5 @@
+changeset bec038e5f354f4194db9c2d66f859104cd3df875
+manifest 90c1d671f05060d422595a504d2d52a030bd74c6
+extra rebase_source:f6ab8766c323ca52e49935f565404ae073e76747
+files taskcluster/taskgraph/actions/add-new-jobs.py
+patch 292,366,

@@ -1,0 +1,5 @@
+changeset d509047f7935f8cdd4f5bad571c52966fa95ba3b
+manifest 77bf62f0908fa7beebabb7f8fbd13ecd0823f21b
+extra rebase_source:e875e54bf1dcf787c582fa8ffea771309bdb6704
+files mobile/android/app/src/photon/java/org/mozilla/gecko/toolbar/ToolbarDisplayLayout.java
+patch 324,398,

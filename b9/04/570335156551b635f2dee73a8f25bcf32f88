@@ -1,0 +1,5 @@
+changeset 83e7c9bfbd76715d6e6a73f0ac45bb3cd4305d7e
+manifest 9ac9ccc13d02aebecfa723e56400b935f2e66549
+extra source:3e70d2516749bbb586b419d71c298bc6cfb365c4
+files uriloader/exthandler/nsHandlerService.js
+patch 374,441,

@@ -1,0 +1,5 @@
+changeset c023ee4298c4560a25b4075964ab18dc92065c8d
+manifest 1665f2b0977598d6e22408dcf6d02b425f31edc8
+extra moz-landing-system:lando
+files browser/extensions/screenshots/test/browser/browser_screenshots_ui_check.js
+patch 443,487,

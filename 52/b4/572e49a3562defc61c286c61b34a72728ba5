@@ -1,0 +1,5 @@
+changeset fb07be80c0b7dc5a74a90764489759b6851f1d5a
+manifest dffd4fc0e0e66573f691a78d3531df3dd34bf9b6
+extra moz-landing-system:lando
+files modules/libpref/init/StaticPrefList.h
+patch 301,345,

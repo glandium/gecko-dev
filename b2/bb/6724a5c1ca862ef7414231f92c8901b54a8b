@@ -1,0 +1,5 @@
+changeset cf4cc2623a5b273ae0672ee83f83a72042652b77
+manifest ff01f65ed7f5c2f9442297d6214236f99da3baf0
+extra moz-landing-system:lando
+files servo/components/style/properties/cascade.rs
+patch 351,395,

@@ -1,0 +1,5 @@
+changeset 02892fb6feaba4654eb127812b8a43147cc6690b
+manifest 9653924023c16148a6edff7bddd1c44ac9b32e6e
+extra rebase_source:04a1ac846d362d184cdfa89c625c27a0051888a7
+files browser/components/preferences/connection.js
+patch 217,291,

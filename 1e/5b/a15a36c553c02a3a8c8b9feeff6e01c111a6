@@ -1,0 +1,5 @@
+changeset 0eb0c348396bce080ba91a102c23c7e651bad6e2
+manifest e6e1e7cfbccd77086ac523414310a8fbffc2a126
+extra moz-landing-system:lando
+files gfx/layers/wr/WebRenderBridgeParent.cpp
+patch 337,381,

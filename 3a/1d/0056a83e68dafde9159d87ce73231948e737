@@ -1,0 +1,4 @@
+changeset e5bae89cda1b43e1ef40cac4daf1d680c1acaaa8
+manifest 67b4f2f1d5d3c42faddff6b128e29609d575388e
+files js/src/gc/Verifier.cpp
+patch 296,297,

@@ -1,0 +1,5 @@
+changeset 98e5104b3a9493145cbffbe3f56e3bd5bc8a544e
+manifest eb7cde0380811fc21ab6208384c235f511b379cf
+author "Brad Lassey" <blassey@mozilla.com>
+files xulrunner/installer/debian/prerm
+patch 223,224,

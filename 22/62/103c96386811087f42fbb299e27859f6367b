@@ -1,0 +1,5 @@
+changeset 6b2cd0154296a0264c0a2efc762f59aec2c20862
+manifest 0eaa4f44d7ef06a251a54c2c59a625fbe17f70e9
+extra rebase_source:0b237e73a11eed11d05e7c572583362fe52eab70
+files xpcom/build/XPCOM.h
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset 2e6cd6aa34e68ee538110f6875e55c5553310745
+manifest b1a43f8672663572c026d9f0f5e2b058214a912e
+extra rebase_source:e12c223f532e5f5672f103dd20e8c19339f139a6
+files browser/components/extensions/test/browser/browser_ext_devtools_panel.js
+patch 344,418,

@@ -1,0 +1,4 @@
+changeset 062c4b37d9ab0653df560445c12ab5b951cd917a
+manifest 9321ce1df1ab0eafc889c169b38f86f1a87839a1
+files mobile/android/services/src/main/java/org/mozilla/gecko/fxa/devices/FxAccountDeviceRegistrator.java
+patch 427,428,

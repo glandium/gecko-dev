@@ -1,0 +1,5 @@
+changeset 3649c96fe2be361914e6b476c14d8e618273a420
+manifest ddab0b4926760aaf7d433a0b0f1d19e782996c27
+extra rebase_source:48f7caa80dfc6cafc778269b12e9e69379111c56
+files testing/mozharness/configs/single_locale/mozilla-aurora_android-api-15.py
+patch 354,428,

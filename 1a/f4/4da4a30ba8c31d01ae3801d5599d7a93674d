@@ -1,0 +1,5 @@
+changeset 02851079c45121b002966c61634bb2334817888c
+manifest 8e660edc5e8821e570ee4b6f0889cd2cce54939e
+extra rebase_source:9a9e8d93afc1f883454b4533a13c8239c2608c31
+files toolkit/content/tests/chrome/test_bug437844.xul
+patch 286,360,

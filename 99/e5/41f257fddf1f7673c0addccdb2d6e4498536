@@ -1,0 +1,5 @@
+changeset 70c46487e5132963906f5caab8e0181e7b5e772e
+manifest 84cbae2f02b8cd09255a11482ad8d9c0d2b8efe3
+extra source:5404016c6d164a29c8dccdce58363d5b893af565
+files toolkit/components/search/nsSearchService.js
+patch 289,356,

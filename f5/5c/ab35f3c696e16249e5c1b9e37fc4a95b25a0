@@ -1,0 +1,5 @@
+changeset 4dfb623bb11e7fa244e66ec5fde83414c29f4736
+manifest 5943d129bcc5f4956ef4cd15ff52c8b8350ad378
+extra moz-landing-system:lando
+files netwerk/protocol/http/Http2Session.cpp
+patch 327,371,

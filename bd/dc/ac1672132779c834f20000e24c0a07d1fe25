@@ -1,0 +1,5 @@
+changeset 75efd06afb04f1defe9fcbb6130a8fbe73f24617
+manifest 06cc31b6751ed9669397830f99b5a5fa16159577
+extra rebase_source:5943924d6fb073cb2375df275665de206aaf857b
+files devtools/client/webconsole/new-console-output/test/store/ui.test.js
+patch 428,502,

@@ -1,0 +1,5 @@
+changeset 83ac6900567dabc05d16a03599e03d309a53126e
+manifest 72d3bd304c2c1b888a7a7611f28420cc8ee922ec
+extra rebase_source:882f244a810f0880bd7f166620a2c872fe1cc0e2
+files browser/components/enterprisepolicies/tests/browser/browser_policy_extensions.js
+patch 334,408,

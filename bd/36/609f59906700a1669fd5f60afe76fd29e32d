@@ -1,0 +1,5 @@
+changeset 1598dc35d16af3bcb77e855190b47df1992dc6e3
+manifest 3908c134718aaab46275e93f722baf9a3e5d3c49
+extra moz-landing-system:lando
+files dom/base/nsStyleLinkElement.cpp
+patch 690,734,

@@ -1,0 +1,5 @@
+changeset d423ef2806096b924ae4f88889b8abf05d509fff
+manifest a8256266d97c31b5592c64e843d9791f20225fe1
+extra moz-landing-system:lando
+files devtools/server/actors/inspector/custom-element-watcher.js
+patch 331,375,

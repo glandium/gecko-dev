@@ -1,0 +1,5 @@
+changeset 6c0f7c05449874df8bd1ee6affa0a0312d1bdc17
+manifest 55190256e1d44888fd350fdfc48d8a1d71322f8a
+extra moz-landing-system:lando
+files browser/extensions/screenshots/bootstrap.js
+patch 744,788,

@@ -1,0 +1,5 @@
+changeset e96d9b255d52bb341617eb34a6f2f8996b7a0033
+manifest f1816c58a3262de3c63c64ef408401296587cada
+extra moz-landing-system:lando
+files browser/components/enterprisepolicies/Policies.jsm
+patch 316,360,

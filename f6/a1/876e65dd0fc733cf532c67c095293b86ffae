@@ -1,0 +1,5 @@
+changeset bd44f53ae6c4cbd7f72cebcaa797f9af153fb061
+manifest 8ef61766cc61cfd4921b7285d8673d81c0463679
+extra moz-landing-system:lando
+files toolkit/components/telemetry/geckoview/GeckoViewTelemetryController.jsm
+patch 343,387,

@@ -1,0 +1,5 @@
+changeset dacdf390c6947e636dda22afdbd085d6fbb24bcf
+manifest a79cfdd457af6d75012aa55a9015cab5b401d2fa
+extra rebase_source:0dfc61605f8f8efc416f3d04bd3b3f43eed438b4
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabsListLayout.java
+patch 350,424,

@@ -1,0 +1,5 @@
+changeset 9986e21cfe36076928268ef8064e72225b77bfaa
+manifest 3607c0aae72e192e5ca1bdc513697aaeff4666db
+extra rebase_source:2f2c6c5b8ab1d105bd8b699678a6e96da5add6d9
+files testing/web-platform/meta/content-security-policy/navigate-to/child-navigates-parent-blocked.html.ini
+patch 385,459,

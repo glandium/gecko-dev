@@ -1,0 +1,4 @@
+changeset 34a407da29ea5489e073b68b580096712db279e0
+manifest e1bac07f3dc0fc2407d70f71e7cf22e8092d5da9
+files browser/base/content/test/tabs/browser_new_web_tab_in_file_process_pref.js
+patch 259,260,

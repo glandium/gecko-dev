@@ -1,0 +1,5 @@
+changeset 8c24b93ec66fab8af2274076eee397c56ccd389e
+manifest 42786ba14373741b9bdf429642d46f639af8ff7d
+extra moz-landing-system:lando
+files js/xpconnect/src/XPCWrappedNativeScope.cpp
+patch 340,384,

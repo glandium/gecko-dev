@@ -1,0 +1,5 @@
+changeset ecc77355ba3ecc4ff1e9e8b8053356724b02428c
+manifest e2065d9a9a777ce8e7e6d459e2a8386617da90e3
+extra moz-landing-system:lando
+files dom/base/nsViewportInfo.h
+patch 277,321,

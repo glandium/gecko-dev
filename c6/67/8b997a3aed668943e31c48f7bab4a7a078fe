@@ -1,0 +1,6 @@
+changeset 4a9388153442d6b27f2f7d65bcc2e4238751c3cc
+manifest 8d8ecd88aa9db16ed1c3b858cab28396f9d3adb7
+author Dragana Damjanovic dd.mozilla@gmail.com
+extra source:f129d307ce4bbfafc2241288033c4f13b7951f59
+files dom/webbrowserpersist/nsWebBrowserPersist.cpp
+patch 313,380,

@@ -1,0 +1,5 @@
+changeset adb9c07370c6d6c7cebb1cfb2baf4cbb9c0e6b8e
+manifest f3673062b3c500528589468e387dbbd06ac73bb9
+extra rebase_source:68a151e0eafee0069495d44247ac0b48c4508892
+files toolkit/components/extensions/Extension.jsm
+patch 280,354,

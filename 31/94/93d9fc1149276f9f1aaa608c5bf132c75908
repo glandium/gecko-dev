@@ -1,0 +1,5 @@
+changeset 389edd54ab0f254aff479f5101627639510f9ee7
+manifest 710ad6fbb3f8f8bbfff03cccc2ddb3df90ac0ca6
+extra moz-landing-system:lando
+files dom/animation/KeyframeEffect.cpp
+patch 853,897,

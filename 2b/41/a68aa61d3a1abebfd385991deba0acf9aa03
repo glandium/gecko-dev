@@ -1,0 +1,5 @@
+changeset 168e1fcf6ac48152cef8d52f27ce09aa7d9c2ffd
+manifest 58ed891b60e97a89c6721927011c0ad3928ff1d1
+extra rebase_source:65a400de4d4cf98392bc2c3d20fd2088aeeab0fa
+files browser/installer/windows/nsis/shared.nsh
+patch 326,400,

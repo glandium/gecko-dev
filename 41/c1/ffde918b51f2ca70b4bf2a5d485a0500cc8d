@@ -1,0 +1,5 @@
+changeset 50b3268954b1300941453d11934d032478425a55
+manifest d604c18f804ddcf01663d9f673efd64928bdb0d6
+extra moz-landing-system:lando
+files widget/cocoa/nsMenuBarX.mm
+patch 300,344,

@@ -1,0 +1,5 @@
+changeset b74c46c59b207b6deb3addcdb98b3d136f6dffe7
+manifest fca0f84f1bdc0b08c0621810f96a42a0af9189af
+extra source:dd04bc03bb5ef42e178e9ecaeb202f78281f0f26
+files servo/components/style/invalidation/stylesheets.rs
+patch 610,677,

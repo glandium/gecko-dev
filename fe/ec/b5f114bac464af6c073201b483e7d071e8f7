@@ -1,0 +1,5 @@
+changeset ad01b1eb62fcf6b66c002f8cbcfe10565db056f1
+manifest 5164690a1b7e1cec3050466efaafbcdf7e736d12
+extra source:698b0748f7f7a779cfc371d6a073b71641ad18a5
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/repositories/android/FennecTabsRepository.java
+patch 436,503,

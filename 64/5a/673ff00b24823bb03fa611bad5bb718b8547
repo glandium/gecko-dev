@@ -1,0 +1,5 @@
+changeset 3bf9f045d452667c73dca317118fb56202437c41
+manifest 8e56d3c25ef504a9265b50d9f737e183a3b88a02
+extra moz-landing-system:lando
+files gfx/wr/webrender/src/picture.rs
+patch 463,507,

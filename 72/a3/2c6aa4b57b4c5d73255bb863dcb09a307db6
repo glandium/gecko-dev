@@ -1,0 +1,5 @@
+changeset 5deec145c04d2a6555e484985939c43f45b2a2a2
+manifest 9c4c2cd285d1cece2c491d8a1b3303e39820f2b6
+extra moz-landing-system:lando
+files browser/base/content/pageinfo/pageInfo.js
+patch 294,338,

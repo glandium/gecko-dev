@@ -1,0 +1,5 @@
+changeset 26719c685fd34be70dc98012b393525036e83335
+manifest 874e095a27bc979ba346adceb077fc456a3d3c38
+extra rebase_source:819cbe927428893f832d3bd1dd330d53596e2c8a
+files devtools/client/aboutdebugging-new/src/modules/usb-runtimes.js
+patch 604,678,

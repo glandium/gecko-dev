@@ -1,0 +1,5 @@
+changeset 73cfb79f183ac786b56dd97e63e969642ed0919f
+manifest 222bab7a7bb176e31dcaeb3c0a31fb4a681dd0f2
+extra moz-landing-system:lando
+files mobile/android/base/java/org/mozilla/gecko/IntentHelper.java
+patch 709,753,

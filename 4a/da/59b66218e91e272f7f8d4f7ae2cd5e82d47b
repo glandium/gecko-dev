@@ -1,0 +1,5 @@
+changeset 167ed7d3545b6b8ff0c8fee6593a505bd181b08b
+manifest 5d4f15863e1f0f283ec4f6f3a7249ca6a2d4e287
+extra rebase_source:e893e9b2ea1ef2cbfe1cfd8e92af71e79f1615a2
+files python/mozbuild/mozbuild/codecoverage/packager.py
+patch 348,422,

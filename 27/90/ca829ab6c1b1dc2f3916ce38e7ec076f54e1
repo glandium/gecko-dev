@@ -1,0 +1,5 @@
+changeset 7fde6d8f818288f648f077d83ee1f200b580e1ff
+manifest 1e9b7a018a7133d9d099d53d17294d66babe89cb
+extra rebase_source:6238ba74796e650b3a6cb9ce4c8d8354db976ab6
+files toolkit/components/extensions/test/mochitest/test_ext_webrequest_hsts.html
+patch 327,401,

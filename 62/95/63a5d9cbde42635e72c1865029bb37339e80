@@ -1,0 +1,4 @@
+changeset 78d5dcabf8b2790543fbb3a4d74dfc68dd9200d8
+manifest 6f945d182a0ce4197258d43240b70f64cfe38d73
+files servo/etc/ci/check_dynamic_symbols.py
+patch 345,346,

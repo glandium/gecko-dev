@@ -1,0 +1,5 @@
+changeset 639a9dcab2bbef7d2ffe8b888a595145242ec1b4
+manifest 265e4acedd5b0f4d9e4dbe14aa23e0ec2d39509b
+extra rebase_source:9c23a461dbd2ebe3c61ee08e066af51d3b6fe249
+files mobile/android/base/java/org/mozilla/gecko/mozglue/SharedMemBuffer.java
+patch 317,391,

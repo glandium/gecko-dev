@@ -1,0 +1,5 @@
+changeset 75e36b75f56470e2b6e84b41953ef71682f9ba2c
+manifest a6dcbfc65e7c417dafd7f8d98f80a3efe7176804
+extra rebase_source:95b377eda3befeed66f37e6833a680ae4333303c
+files xpcom/threads/EventQueue.cpp
+patch 347,421,

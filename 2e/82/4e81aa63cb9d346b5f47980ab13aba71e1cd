@@ -1,0 +1,5 @@
+changeset e13b9d48a99abd6713fc0b557e6731f08e9adc37
+manifest a05dc69342c262bfad5fbb4009454d3d63e979c5
+extra rebase_source:f22fb850c919a25dd14b46e6dec558e8e8998d7b
+files mobile/android/base/java/org/mozilla/gecko/util/ViewUtil.java
+patch 867,941,

@@ -1,0 +1,5 @@
+changeset 72dd828f24817614cd30c1156b99b58b73f9f5e7
+manifest 292c0062632da118e47f2aa34586bdecd07a222f
+extra rebase_source:9d279d219cfeedf6ae2b81c34d5a592e56e8648e
+files toolkit/components/extensions/MatchPattern.cpp
+patch 313,387,

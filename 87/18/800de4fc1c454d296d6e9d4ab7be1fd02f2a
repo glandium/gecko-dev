@@ -1,0 +1,5 @@
+changeset 40fb4831d16ca04337bd517f4848592362c1170c
+manifest f79bdd8b22a40fb99a3f6c7d510cffa5a92193cf
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/components/ConnectPage.js
+patch 358,402,

@@ -1,0 +1,5 @@
+changeset fb2400aa811674b277a7a950215adbba697158b2
+manifest d65f50140dc5dcf12f7127175da4d72babd5503e
+extra rebase_source:c5dad547255c65558bda692b3de9a7719b5b1716
+files widget/cocoa/moz.build
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset f7a9145afd3779bfdedae9c9af5667cde1f5507b
+manifest 5606535b76880f09a73ab3b9e6af57ade86c18bb
+extra rebase_source:ef431fe6b036da8286f8483de1035861255d89ff
+files toolkit/components/payments/res/mixins/ObservedPropertiesMixin.js
+patch 355,429,

@@ -1,0 +1,5 @@
+changeset ea6e77985629c598335d142b6511b1361df290d9
+manifest 8a0549f7d936f16f3b75251da9b2a2d22b0e86ae
+extra amend_source:764d4a20231a3262bda1dd463d82fc018815ab7b
+files mozglue/misc/Mutex_windows.cpp
+patch 261,334,

@@ -1,0 +1,5 @@
+changeset 056ccdf7f0591772ca073e6e16bf46a5fbafd156
+manifest c12a8c82eb3cd3c5c82d509e5635d5ca75715ec2
+extra rebase_source:97a18b49d3810fc85951a29667fe6945f8a36259
+files media/libav/libavutil/x86/cpuid.s
+patch 301,375,

@@ -1,0 +1,5 @@
+changeset e479bda148a0cc897f9466b5c1e394a356230b36
+manifest ece50567a42216152701fcf5761eedeca7b50196
+extra rebase_source:aac970456b9bd9aaa1fbef707494455321c22324
+files mobile/android/components/HelperAppDialog.js
+patch 340,414,

@@ -1,0 +1,5 @@
+changeset 6f3df7ea04aa672f91f3f80cf52eb67114b0c2fe
+manifest 665254f5da0a97eb0b66633b86e45966904fe583
+extra source:ca7b77362ad3f1740eb866e3435cd3acddfe3ce9
+files xpcom/io/nsLocalFileWin.cpp
+patch 275,342,

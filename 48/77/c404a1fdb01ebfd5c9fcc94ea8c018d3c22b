@@ -1,0 +1,5 @@
+changeset 2fa2e8bb83b61e6a6a777c4c65fbb02e2d4d20d6
+manifest cd2092ca542524aea0ab693eaf6915f4712d8f01
+extra rebase_source:1b5cd166c0eabfcbb2fc4734139c29ab3cd30291
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/TextInputDelegateTest.kt
+patch 428,502,

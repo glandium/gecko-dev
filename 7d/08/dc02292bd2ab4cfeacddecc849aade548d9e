@@ -1,0 +1,5 @@
+changeset 0731f1b72c49a63e7c943808c0cf95fcf356f9ba
+manifest a83d0e142175be99b96fb5f796f7310d34438dec
+extra rebase_source:a63798968be1c5a55ee9d4b38d3b835b506d7849
+files browser/modules/SitePermissions.jsm
+patch 336,410,

@@ -1,0 +1,4 @@
+changeset b393ec48b4d01e83c5eae7234542d51fc169d7db
+manifest 2c82595dcf621bbb1b87839a783efd539b60519a
+files js/xpconnect/tests/browser/browser_dead_object.js
+patch 364,365,

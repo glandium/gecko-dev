@@ -1,0 +1,5 @@
+changeset c2459c0a6ffaf894b80c1e77f7d875cc6c0824ed
+manifest 1f8f1a946a24bbc1e8ab3c15c2cb695558069ebb
+extra rebase_source:b3739565acd9874a2fd91f97481cf6cba13185d4
+files addon-sdk/source/test/fixtures/test-addon-extras.html
+patch 292,366,

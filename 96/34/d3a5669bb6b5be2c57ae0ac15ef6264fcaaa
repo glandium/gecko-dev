@@ -1,0 +1,5 @@
+changeset 67c8cedbfd4eeaf7ab6a85296340e1db9c5afe86
+manifest ae2bff8375b74ee3e543280868a9d86c8f0e355d
+extra moz-landing-system:lando
+files gfx/webrender_bindings/webrender_ffi_generated.h
+patch 317,361,

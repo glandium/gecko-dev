@@ -1,0 +1,5 @@
+changeset d241949106e88ef4313aa66e069ee94660bb27ee
+manifest f6a9ad4dd72cfc74f4a0691cf97f80f61690a4e5
+extra rebase_source:2f048e8e8aa7e9b9212c6cfa31f3589b73e0087c
+files devtools/shared/adb/adb-running-checker.js
+patch 479,553,

@@ -1,0 +1,5 @@
+changeset 514e421ea3c371bb6c0fa0f7f8077337bb9e29b7
+manifest 1935a032b85c35f15068ca511433cb7cb9a54c93
+extra rebase_source:3f7482268b02b39d1a57a68502c8e10660df6280
+files browser/extensions/formautofill/test/mochitest/mochitest.ini
+patch 339,413,

@@ -1,0 +1,5 @@
+changeset 06bc20bb4712d384f9d2a00ad253e58894fc7dda
+manifest bd782e617b6bd3178ab0b188085ddc0b6771c0be
+extra rebase_source:ae7c721938626a3a3c12d1aff084bf54cce62e81
+files taskcluster/docker/funsize-balrog-submitter/runme.sh
+patch 298,372,

@@ -1,0 +1,5 @@
+changeset d41d2bd78ecfd7ba1c106ed329f126b530880a5b
+manifest 37d1d3b39d6f9ae935c750067f35bef93eb2dac1
+extra rebase_source:8a493fc9efcdca64420e1b132e39b11f681047c6
+files browser/base/content/test/general/browser_extension_update_interactive.js
+patch 333,407,

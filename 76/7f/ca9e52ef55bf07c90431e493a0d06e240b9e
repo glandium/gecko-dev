@@ -1,0 +1,5 @@
+changeset ea180e6624d84b154178bd36daae496f93ad0d15
+manifest 1a2694a27ab397914ee69b253648368dc0fa6621
+extra source:0d61bbcd24d8eb49d2beea278859da868186f783
+files servo/components/style/gecko/global_style_data.rs
+patch 367,434,

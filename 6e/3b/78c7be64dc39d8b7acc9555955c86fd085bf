@@ -1,0 +1,4 @@
+changeset 3bb7c3956a86a97eeff75a4b9b32a0655dd11b30
+manifest ac1a09c803061f04692adfc233212f9a3ace2355
+files mobile/android/geckoview/src/androidTest/java/org/mozilla/geckoview/test/ProgressDelegateTest.kt
+patch 304,305,

@@ -1,0 +1,5 @@
+changeset eb4996243c5e9a10346995acc3ce982b9158bbe5
+manifest aa2ed10495db56f8221073866c11d18eeac1daa8
+extra source:ed872853ea602f4975db034ff974efae8836ca4d
+files devtools/client/inspector/test/head.js
+patch 357,424,

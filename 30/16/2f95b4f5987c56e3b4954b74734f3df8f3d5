@@ -1,0 +1,5 @@
+changeset ab0fd6d075a606d41e668036687d2232d71783db
+manifest c8ad64de7a08e1292548a71fcb11618c5e548cfb
+extra amend_source:45fde4c391814faed5c27475811be6eb8f8135b5
+files devtools/client/inspector/extensions/test/browser.ini
+patch 319,392,

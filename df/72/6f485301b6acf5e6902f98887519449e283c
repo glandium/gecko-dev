@@ -1,0 +1,5 @@
+changeset f6264884db15464ccef643630e426c81a1236296
+manifest dfdce0683d902c0cfe420d7c80f686483111baf3
+extra rebase_source:3d320a9d7a54e3df94366ac6fcd68a8e588456ca
+files devtools/client/sourceeditor/codemirror/old-debugger.css
+patch 324,398,

@@ -1,0 +1,5 @@
+changeset ab1bfb032425503fe0b2a4b9abd888e40882d2cc
+manifest 1d5470d6a688d9d2ccf7a55f9491aa45c9fc178c
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/src/modules/client-wrapper.js
+patch 507,551,

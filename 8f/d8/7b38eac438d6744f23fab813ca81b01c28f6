@@ -1,0 +1,5 @@
+changeset 7ebf334c8ed4fd51c3dc738a2274ed7485f7e5fc
+manifest 9a6e11efddb0fccd73a64f8357c99003edea7ff8
+extra source:edd996f2588cc5fc5f9f396ba79a6640597e3e5b
+files accessible/ipc/win/handler/AccessibleHandler.cpp
+patch 683,750,

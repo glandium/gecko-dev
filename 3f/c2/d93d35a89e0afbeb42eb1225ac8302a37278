@@ -1,0 +1,5 @@
+changeset 79ce2f9f2dd4ce0e68205c171ebd04a420130092
+manifest 4009394626fed9f8f345dc790b96c4ec6fcb3943
+extra moz-landing-system:lando
+files devtools/client/webide/modules/tab-store.js
+patch 313,357,

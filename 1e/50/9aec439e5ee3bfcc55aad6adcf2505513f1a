@@ -1,0 +1,4 @@
+changeset b0e263db0edfe55fb69c5dd6015f73d6b52a2d23
+manifest 114048c6cce48283b67cdf195b09d908b6ee7f7f
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoSystemStateListener.java
+patch 259,260,

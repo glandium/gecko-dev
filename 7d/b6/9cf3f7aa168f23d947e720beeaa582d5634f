@@ -1,0 +1,5 @@
+changeset 22ebbb5d30d470415a729d5b4e9764998023cf07
+manifest bdc7b64aa3f1ddd4d329cdedeb584a0579c6c9d6
+extra rebase_source:287498e8c336d24b1c95d29caf97e5febb56063b
+files python/mozbuild/mozbuild/action/process_define_files.py
+patch 463,537,

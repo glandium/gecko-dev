@@ -1,0 +1,5 @@
+changeset cec3942679044e0372823429292aada0157a8875
+manifest 93ac32a4dfc3eca0f37f1579fc9377cbaaefaba6
+extra moz-landing-system:lando
+files toolkit/content/contentAreaUtils.js
+patch 289,333,

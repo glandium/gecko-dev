@@ -1,0 +1,5 @@
+changeset 5665ddd649a5a7704ba7fb61082734af06fe06bf
+manifest 6305754c4f6a355707c3e51fa48b19800c94fab1
+extra rebase_source:f78c9247263816ed4572aa5748ab7cf776238e74
+files tools/tryselect/vcs.py
+patch 295,369,

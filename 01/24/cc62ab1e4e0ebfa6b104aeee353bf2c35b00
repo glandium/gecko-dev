@@ -1,0 +1,5 @@
+changeset a90b3d91f1a442866f0cae3a350701f48056c895
+manifest e5907e2639ea0d982b5ff21439dcd56c06258dde
+extra moz-landing-system:lando
+files js/src/vm/UnboxedObject.cpp
+patch 674,718,

@@ -1,0 +1,5 @@
+changeset 69b45c7df6807aa0fc18e5f6d50f6437dc1ad8ed
+manifest 7de0ccd4348083ba0b2acf44502d972eb7ab12a1
+extra moz-landing-system:lando
+files xpcom/build/Services.py
+patch 256,300,

@@ -1,0 +1,5 @@
+changeset 50357f08249dec5b1160b42d7ec1049213572d19
+manifest 9fdf57b82f20b4901347a245181a875c6a811a32
+extra moz-landing-system:lando
+files devtools/client/framework/test/browser_toolbox_telemetry_activate_splitconsole.js
+patch 363,407,

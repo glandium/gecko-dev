@@ -1,0 +1,4 @@
+changeset 361aba6e9e4203797dc59d701590d20677d6e298
+manifest ba633c99d1890258898f5e16414d01c3360a6a22
+files taskcluster/scripts/misc/build-gcc-mingw32.sh
+patch 188,189,

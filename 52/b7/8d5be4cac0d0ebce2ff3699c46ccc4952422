@@ -1,0 +1,5 @@
+changeset 79e7ee0f6d6a5edc24e57643ac7da1a407f3caca
+manifest 7229a2cd3cf1b158a7998d45395446663c8daf70
+extra rebase_source:12fc72011a4dc7d39d3acea6ff0b33a78002113d
+files dom/media/systemservices/CamerasParent.h
+patch 268,342,

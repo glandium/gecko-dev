@@ -1,0 +1,5 @@
+changeset 365687db6288738e30dd76d926790e1cd16df651
+manifest f10767bca3fd8c48e64b4ecb60ab213300e4d248
+extra rebase_source:121c3d2b88d1e44d7a35058c8fe689f602cf6425
+files intl/uconv/nsTextToSubURI.cpp
+patch 274,348,

@@ -1,0 +1,5 @@
+changeset 45ec9d0af14b0be23316c7d74f6d3df5e12b84eb
+manifest a0403f1acec2c109f9ccbe16c5011e727cd5f7c9
+extra rebase_source:0eb771c4a9472436f990d53a042656a60bab22f6
+files dom/media/test/test_video_stats_resistfingerprinting.html
+patch 728,802,

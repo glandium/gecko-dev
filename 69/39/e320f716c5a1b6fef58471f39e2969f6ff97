@@ -1,0 +1,5 @@
+changeset 441b39c104871120f15cd958e0caba69d082fb21
+manifest 4fa35f0979ad55be741e04d1b4621823ff24802f
+extra rebase_source:8870b0d92cc7c7ff0e52148197c46de99d597773
+files layout/reftests/svg/clipPath-polygon-elementFromPoint-01.svg
+patch 537,611,

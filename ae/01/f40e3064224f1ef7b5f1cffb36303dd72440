@@ -1,0 +1,5 @@
+changeset 4e299229305882c2685e8f8286eedec7255e4855
+manifest 39a0f1fe049ffb3e77817fa70a2a52e126bc7ead
+extra rebase_source:45097a948b6a26cf1dbc1ed53741cd180d22b34a
+files gfx/layers/apz/src/AutoscrollAnimation.cpp
+patch 306,380,

@@ -1,0 +1,5 @@
+changeset 86ae6ed07c1a93c10945de0d321c7749641bba57
+manifest 91de767c2577570ef5859e1a1d5b8e1dd4f16d7d
+extra rebase_source:062500eb1ab1aadc32383da296b16da69cf72e4c
+files devtools/client/inspector/extensions/test/browser_inspector_extension_sidebar.js
+patch 769,843,

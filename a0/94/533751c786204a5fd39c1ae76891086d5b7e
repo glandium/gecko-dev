@@ -1,0 +1,5 @@
+changeset c85e7e5c007e65af7ce35fb818f52aab689e5aba
+manifest 72d862335e4760cf0f9739b65e43e806aac930fe
+extra rebase_source:8f717e1cb660103be4eb8b3f479252fb95050a41
+files toolkit/components/feeds/FeedProcessor.js
+patch 289,363,

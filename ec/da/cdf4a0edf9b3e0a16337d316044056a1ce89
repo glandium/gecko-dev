@@ -1,0 +1,4 @@
+changeset e65c63e20f93eda01cee102363f61cc5d50e55f6
+manifest 6c4e950a5b016bcc3ae5f0c243e375a67cc7e168
+files dom/webauthn/u2f-hid-rs/src/android/mod.rs
+patch 169,170,

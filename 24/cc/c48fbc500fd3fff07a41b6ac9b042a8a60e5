@@ -1,0 +1,5 @@
+changeset 3eff39403c8c53f2a0871be7740e1957f2f45ff9
+manifest 4275df62583dbb99e7034f6e37855d1d3ac96d66
+extra moz-landing-system:lando
+files dom/xbl/nsXBLService.cpp
+patch 308,352,

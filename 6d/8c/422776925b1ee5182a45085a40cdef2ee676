@@ -1,0 +1,5 @@
+changeset 9cecb0eb3c5bc74afdc8e1c88034689c727f83f5
+manifest ff5e0e3d0539764f3fb8536fdb162e8290e2c3f9
+extra rebase_source:2b8d7a8607a14b5af6672bf833126cc94f0b1853
+files browser/modules/E10SUtils.jsm
+patch 337,411,

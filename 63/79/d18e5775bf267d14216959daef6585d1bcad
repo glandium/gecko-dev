@@ -1,0 +1,4 @@
+changeset 97a987d8875dac5dae5c4724747009a8e8018b32
+manifest 7f7b008aa8e0c2ee34f87180b068df1345e62f8f
+files taskcluster/docker/funsize-update-generator/Dockerfile
+patch 186,187,

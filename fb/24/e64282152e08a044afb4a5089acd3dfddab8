@@ -1,0 +1,5 @@
+changeset f7c20de04f4d0a6966e43a77dab3a44fea733622
+manifest 2e81286b86a18409264ff954b489241c6be9d3bb
+extra source:d3b95f808e2878849127b8f4fc43527202eecf2a
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/gfx/VsyncSource.java
+patch 366,433,

@@ -1,0 +1,5 @@
+changeset 9580ad0dbf28d111353331ab799e7b2a01749609
+manifest b0a2085f73cc019de9bde58e060d9c6fa4a5580d
+extra moz-landing-system:lando
+files mobile/android/components/FxAccountsPush.js
+patch 489,533,

@@ -1,0 +1,5 @@
+changeset 7897af38e4650329ab5e7b85fda7dccf067d0391
+manifest ad757267c18c9630e39b7e4f5ffe6f81417c784c
+extra source:1928d891a3f31f4b18dbd640f14efaaa5872d0d8
+files browser/base/content/test/trackingUI/browser_trackingUI_state.js
+patch 406,473,

@@ -1,0 +1,5 @@
+changeset 414efc66b026b328dc661aa5edd1c1df8c26ae5f
+manifest c385fa5995f95ee4692fbf2832df11656e991fe3
+extra rebase_source:fdc69c58cacc12a246918010fb9aa272dfb8e0f1
+files xpcom/ds/nsInterfaceHashtable.h
+patch 571,645,

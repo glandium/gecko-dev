@@ -1,0 +1,5 @@
+changeset fee2788f109a4e898ddeaa74d63f5a877676afa4
+manifest d119989122be38ec4e01317c548a48f83ce898e0
+extra rebase_source:2cbf3cccd3fd7b9584086a814a0f834267c5b2f9
+files xpcom/threads/nsEnvironment.cpp
+patch 268,342,

@@ -1,0 +1,5 @@
+changeset 41625f3d3a6af421e4a837a633e623b491208614
+manifest e76648a2f7894a8ea8d572034cf6a8f054b76575
+extra rebase_source:336e5a31e691ab175f75370727b0f1f856bc9088
+files mobile/android/base/java/org/mozilla/gecko/bookmarks/BookmarkEditFragment.java
+patch 360,434,

@@ -1,0 +1,5 @@
+changeset 4c417b678b5d8337879cbc5929bb16ef85093da0
+manifest ebc82c8a36b525580c7897090b552700dd3e6dd1
+extra rebase_source:14fd68abc8bf3f706bbadea155b841a5331644e3
+files gfx/layers/apz/src/FocusState.cpp
+patch 280,354,

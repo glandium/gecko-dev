@@ -1,0 +1,5 @@
+changeset 94a77d42df2c872b236fcaf2f17027262d80c461
+manifest bfd668a438fe741b947673afcbf029db2850c0ab
+extra moz-landing-system:lando
+files services/fxaccounts/FxAccountsCommands.js
+patch 307,351,

@@ -1,0 +1,5 @@
+changeset 319854ead97929d37dba8011a991ae0d23aa385f
+manifest 4cc5b05beeee623c603849f5af7af181ab3c009a
+extra rebase_source:84e01ed8756013f68b440cb890be00a32fc19eab
+files devtools/client/webconsole/panel.js
+patch 427,501,

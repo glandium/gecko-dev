@@ -1,0 +1,5 @@
+changeset ad3802ffb7801531817412215c5fe8de27f91d9c
+manifest 84baceda0c673ca4b02f246f95524f4341400213
+extra rebase_source:83271e841a84fc2ac7a2fdd5cc66812fb09f61f1
+files widget/gtk/nsAppShell.cpp
+patch 290,364,

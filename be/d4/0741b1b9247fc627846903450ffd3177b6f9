@@ -1,0 +1,5 @@
+changeset e388fdc06380d4689d5a914fa7708452cc223e8b
+manifest fd656885bbaa548e65ca4b193fd8fe9393a09843
+extra source:f5e2e02ed7d23468a18e78ffebd934e0a5d5672e
+files editor/libeditor/EditorEventListener.cpp
+patch 570,637,

@@ -1,0 +1,5 @@
+changeset b86fec2a2ed8f2f5ca5f5f71f794decba6e15b74
+manifest e3179b90c000223ceb658030fc7d371edf642873
+extra rebase_source:92ce033a5d2629b8ab57884cb24ab1a546d9d6ea
+files browser/app/profile/firefox.js
+patch 275,349,

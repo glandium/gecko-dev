@@ -1,0 +1,5 @@
+changeset b3af8fd8abe87f41452162724c1416ba3a82a460
+manifest b660d1e8cd5a8247222a92d7140598aa11f71f17
+extra source:62adae0f5df21dd911dd6d817af362037b18b08d
+files mozglue/build/WindowsDllBlocklist.cpp
+patch 262,329,

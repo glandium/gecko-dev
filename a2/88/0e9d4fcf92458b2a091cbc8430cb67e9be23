@@ -1,0 +1,5 @@
+changeset a2ecbcdcec39d0d478213034aa0fd4cd20e32552
+manifest c22f407a48cd880653ea6f7e732b6d7410f0c394
+extra moz-landing-system:lando
+files layout/reftests/css-animations/continuation-opacity.html
+patch 1064,1108,

@@ -1,0 +1,5 @@
+changeset d7bf437cc217eb9e3591950ac54c2653f8c2f07c
+manifest b6a2f3ed9409534fa34d1419d08cb9fe3fca1941
+extra source:bd30cc25e44bd60e3c4eb832b5689cb76cd11105
+files toolkit/components/extensions/test/xpcshell/test_ext_idle.js
+patch 302,369,

@@ -1,0 +1,5 @@
+changeset 3003e634d6d2f5059051c53961471d3471ada7a5
+manifest a795dc20def6d9341187cdf20b1249ec647f1843
+extra rebase_source:e0215b01548b75cdb887329d3b5643eb3687ab57
+files devtools/client/framework/connect/connect.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 1e5e53f0cfa87604766058f51d2c82057edad5da
+manifest 69e70c34a3331444e5ced0b7b262eab61173960e
+extra rebase_source:0d97ae57600b239a4beb48580f74bf20d6137be5
+files layout/base/AccessibleCaretManager.cpp
+patch 425,499,

@@ -1,0 +1,5 @@
+changeset 877169d8ef4956d37ccbabe37abe163115b65072
+manifest a77c48745a1a202ad1dde5ed2eec7b51d42d4838
+extra moz-landing-system:lando
+files toolkit/components/passwordmgr/content/recipes.json
+patch 301,345,

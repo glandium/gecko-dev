@@ -1,0 +1,5 @@
+changeset c3433c49b31df89338e43b660e4e1d1f1d9c8083
+manifest 8fab90c6ece6baa683a3afe8a0530c90603e137d
+extra rebase_source:b1ff0d240df87b2cbb415183dc93acc8bde7960a
+files xpcom/string/nsTLiteralString.h
+patch 355,429,

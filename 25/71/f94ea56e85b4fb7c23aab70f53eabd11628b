@@ -1,0 +1,5 @@
+changeset fc02bb9606166dda0cdbd96d4f8b4ba37c48338f
+manifest 22f806f444a438e2fe56ad34c450cfd46307f0ab
+extra rebase_source:0ea9277b3e576668940b2abaf082a1cd86a0b213
+files devtools/client/jsonview/converter-child.js
+patch 329,403,

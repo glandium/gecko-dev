@@ -1,0 +1,5 @@
+changeset d5b67af192ba8b8d0abbdb0f03bde9809da626d2
+manifest fbf23794bac1fa88265b982b5383553c4d4dc077
+extra amend_source:72ad8cb816202e8e3f234157bae092cea004d34a
+files mobile/android/base/java/org/mozilla/gecko/dlc/DownloadAction.java
+patch 482,555,

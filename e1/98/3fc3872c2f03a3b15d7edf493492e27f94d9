@@ -1,0 +1,5 @@
+changeset 6ed39e3766f213317d4fd7cced1f07f2d793e10f
+manifest 8f342fb6b3c0f62b57bcaa384574626d9c17d557
+extra rebase_source:4a41b2f96eea45d3eefa2734900603b6e6ee0ea5
+files build/unix/build-hfsplus/build-hfsplus.sh
+patch 486,560,

@@ -1,0 +1,5 @@
+changeset 172f8f653720f399c8ff8a6e49161b1fd6121475
+manifest 6847344fe581b26f575d7f37ad61a6a166e984d4
+extra rebase_source:4eaa41f9653bf6b08e066c28d1b8bb2212fea138
+files js/src/jit/mips32/Simulator-mips32.cpp
+patch 269,343,

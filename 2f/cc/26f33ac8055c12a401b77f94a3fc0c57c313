@@ -1,0 +1,5 @@
+changeset b11b0b91fb0a5a3dc7b8c6769a6945b579624e18
+manifest 4347692dd7a61c5c55db2ee0d3de52cfd001c8cb
+extra rebase_source:17feb3934435746fbe37f3c734feab2253747e53
+files devtools/client/responsive.html/components/ToggleMenu.js
+patch 314,388,

@@ -1,0 +1,5 @@
+changeset e0c93b49a7732684f2007df7d67faa803f21f760
+manifest f2f29c045c05a000fc8b0773361b75bf8394bf75
+extra rebase_source:3a9a8d657619f877f0d17e8f5870113dfd87da0e
+files mobile/android/thirdparty/com/booking/rtlviewpager/PagerAdapterWrapper.java
+patch 346,420,

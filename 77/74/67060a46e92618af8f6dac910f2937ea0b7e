@@ -1,0 +1,5 @@
+changeset d0b89a730143d4590aba70d7890342ba3883bab7
+manifest 6e151c2c592a6e826ca163eeb54f9c94bd399ffc
+extra rebase_source:09b9cce4f6053b78cf617abbe71d54cc1b842f4e
+files devtools/client/webconsole/hudservice.js
+patch 617,691,

@@ -1,0 +1,5 @@
+changeset f8e617bb6473f549c51f4f1b4b5239d34cf29c12
+manifest 8d9717fd829ce887a85beca2252e94b5ba4226ba
+extra moz-landing-system:lando
+files netwerk/protocol/http/HttpBackgroundChannelChild.cpp
+patch 616,660,

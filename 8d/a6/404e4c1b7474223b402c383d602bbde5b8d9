@@ -1,0 +1,5 @@
+changeset b45de18ed2405c923fac17d8c666d2cfe3a96b39
+manifest 914230180de1aaae40b73f3a2adbb795b4a2f7cc
+extra moz-landing-system:lando
+files devtools/client/shared/components/menu/MenuItem.js
+patch 1134,1178,

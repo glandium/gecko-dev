@@ -1,0 +1,5 @@
+changeset 74678fd44d13ca673fe223dbb22a89e53d619e9c
+manifest 284cddd6f82e3eff219d189757e4ef5f036d0639
+extra rebase_source:abed84a8628b229cedc17780152683f8ec8db79f
+files taskcluster/docker/firefox-snap/runme.sh
+patch 291,365,

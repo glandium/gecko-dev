@@ -1,0 +1,4 @@
+changeset 90698c3884f2c03bb800e57969affee40cee3866
+manifest 3da83ee938b36ede52f1bd7a6370782e9793e9ea
+files testing/web-platform/tests/tools/wptrunner/wptrunner/browsers/sauce_setup/safari-prerun.sh
+patch 675,676,

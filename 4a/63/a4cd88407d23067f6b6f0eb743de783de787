@@ -1,0 +1,5 @@
+changeset 22ebb890e8ede5d3b87c2e600bbd01c2fa9281b0
+manifest 58476ea73bb6294c4a2901b62b00aa8f5cb15a77
+extra rebase_source:6ab46b1114dc824f29d0bf21ffa784cd14651447
+files browser/components/extensions/test/browser/browser_ext_connect_and_move_tabs.js
+patch 486,560,

@@ -1,0 +1,5 @@
+changeset b173e620243ebbe9f0cecb19cff82c065f5f8ce1
+manifest 1d14c07472cb4d03e669310a3f4196398d04c6e9
+extra moz-landing-system:lando
+files browser/themes/shared/customizableui/panelUI.inc.css
+patch 313,357,

@@ -1,0 +1,5 @@
+changeset 32baae2a838a68061b1a72bfbe980ab79c8e176a
+manifest 73694893f42007ec29ed9be4214362fec5be670d
+extra rebase_source:e141bbcefd75d90b836668f710350d4362d66c76
+files editor/libeditor/TextEditor.cpp
+patch 450,524,

@@ -1,0 +1,4 @@
+changeset 5520fcaf93d2c53d2348831451af20ca0999ff87
+manifest 8f4b8255ecdef383a9c4e0a468648e3655beb25f
+files devtools/client/webconsole/test/mochitest/browser_console_error_source_click.js
+patch 590,591,

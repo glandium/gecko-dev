@@ -1,0 +1,5 @@
+changeset f85469165de7b49990358a697f9735d1b0c934b3
+manifest b54faa4a5640bcb53afc7cef3f6cd16b7fb4d46e
+extra rebase_source:ee31ed4e9a8fe0b734a5961c8b0d47d75ccb6703
+files dom/tests/browser/browser_beforeunload_between_chrome_content.js
+patch 671,745,

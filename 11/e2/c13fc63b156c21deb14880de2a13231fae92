@@ -1,0 +1,5 @@
+changeset e596de179468ecd1dd504747efc076b9f58269c6
+manifest f8877e1dc09777ca4d5dad8f182e7f9da272632a
+extra rebase_source:1bce93cdb44fe6718289a86314bbe8ab4afea6ed
+files dom/webidl/DOMException.webidl
+patch 558,632,

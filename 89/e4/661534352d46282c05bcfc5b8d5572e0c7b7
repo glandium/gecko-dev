@@ -1,0 +1,5 @@
+changeset 79526c87b4708f38d19f0c340f23a49a6907baea
+manifest b6ef25ad9fd6d8afb80f429b18c035b35937eba2
+extra rebase_source:5b9fdb66a482e89e3d70fd5e8fd9a86c055f7044
+files mozglue/linker/tests/run_test_zip.py
+patch 288,362,

@@ -1,0 +1,5 @@
+changeset 53d735d834049453a5883e6d3ccbbd60ef06b218
+manifest 214e4c0b78b3963c6e3d35f183791f2df632e2cc
+extra rebase_source:225bfafa51c2626b98bc540cd907f7ce408f78bd
+files xpcom/io/FileDescriptorFile.cpp
+patch 296,370,

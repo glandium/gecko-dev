@@ -1,0 +1,5 @@
+changeset b18cad4e3274cb2a6b92eb95779f099b79c4fd5d
+manifest 9b9c7041896f26e555ad255df2d6621786dd89d7
+extra rebase_source:f7f311d266d75c505bb8871a567ac96d39f1b1cb
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/repositories/android/BookmarksDataAccessor.java
+patch 2068,2142,

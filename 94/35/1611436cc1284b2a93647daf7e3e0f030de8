@@ -1,0 +1,5 @@
+changeset 30bc4d350ba3a5f84455a48c1c252717b366614c
+manifest 366a865f96ff8fa095236e86e319364d2147c646
+extra rebase_source:167fd38a59fa11f0f3d3a11a899f255b54c0313c
+files js/src/wasm/WasmBaselineCompile.cpp
+patch 491,565,

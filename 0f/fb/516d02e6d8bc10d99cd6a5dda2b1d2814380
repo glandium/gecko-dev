@@ -1,0 +1,5 @@
+changeset fac0c84719b7184da4d04e11f2d6e2c629327fe3
+manifest 0fb0f0652d4644241edfdd079e5681a09ef05b19
+extra moz-landing-system:lando
+files testing/talos/talos/startup_test/tresize/addon/content/tresize-test.html
+patch 710,754,

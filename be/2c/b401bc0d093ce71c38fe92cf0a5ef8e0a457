@@ -1,0 +1,5 @@
+changeset 6780969991ed697b03b7a8b2cc80d46fc41d9828
+manifest 5fa1a905d85197ef3f99444640f3bffed8dfeacb
+extra rebase_source:e137df3bed9573efdc26e5d5b47bb5e08f0d2dec
+files js/src/jit/x86/Assembler-x86.h
+patch 271,345,

@@ -1,0 +1,5 @@
+changeset 8af400f42d91df8395890d7967c1f5d94476c078
+manifest 963d6ecb96b7f9356f4c94b27aba2a782d086d58
+extra rebase_source:cce8fa45ddbe6024e57b9dd43044d3eb4dcc148c
+files browser/base/content/pageinfo/security.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset ae0851148022bf6c4c35c60f87af0440588f6bce
+manifest 5e7870e9209e80b9d8dc7d4ce7081fcc6b15e3dc
+extra moz-landing-system:lando
+files toolkit/modules/Troubleshoot.jsm
+patch 298,342,

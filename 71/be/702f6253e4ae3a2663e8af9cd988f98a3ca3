@@ -1,0 +1,5 @@
+changeset 0fb0a03bae20bc6444c4a1976f82d9be257c922d
+manifest fc7bf8b1d75d35a1e7d7a8d08d556ef56b37ce6f
+extra moz-landing-system:lando
+files gfx/2d/DrawTargetSkia.cpp
+patch 473,517,

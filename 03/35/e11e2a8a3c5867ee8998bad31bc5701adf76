@@ -1,0 +1,5 @@
+changeset 0319dd2d58a9161baceb8d91e023573f4d40c279
+manifest cc8e1ec97b9ed00d7e88c4e6668068cdffe1ce77
+extra source:6f509e2dd704908cfcb5e06514d01130e0722145
+files servo/components/style/invalidation/element/collector.rs
+patch 539,606,

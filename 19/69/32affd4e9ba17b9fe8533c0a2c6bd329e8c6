@@ -1,0 +1,5 @@
+changeset c8fea1a40065b9cd9c68266cbea408f9cb1bb305
+manifest e2e8f25495327dc6a7b3a616fa983359d82e4eb5
+extra rebase_source:08f423ba2829713ae21544485b6676b13f3adbd5
+files toolkit/components/protobuf/moz.build
+patch 819,893,

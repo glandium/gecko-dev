@@ -1,0 +1,5 @@
+changeset 7d02aaf267cb74221eb13bac4a55df3c38b4281f
+manifest 8f49fc6c72241edb9fd939c3d887b24544755b17
+extra rebase_source:e881022bc486e3a8446afff6e3014dad6a79d292
+files editor/libeditor/HTMLEditRules.h
+patch 401,475,

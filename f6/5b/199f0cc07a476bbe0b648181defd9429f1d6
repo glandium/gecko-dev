@@ -1,0 +1,5 @@
+changeset 36437844d6941739cc36302d71e9b568edeb5fb9
+manifest 84974b35c394ae79a314c50c1b57293a9f34a5f6
+extra rebase_source:85bad58439dd9514acc6aac4977799f102777026
+files devtools/client/framework/menu.js
+patch 565,639,

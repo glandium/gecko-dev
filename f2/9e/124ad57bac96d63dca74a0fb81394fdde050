@@ -1,0 +1,5 @@
+changeset a28c7f13b6a6f5d1471cb98de79a59316cd25475
+manifest e67e47ea20667143edf12101752296809124bd43
+extra moz-landing-system:lando
+files devtools/client/webconsole/test/mochitest/browser_jsterm_accessibility.js
+patch 364,408,

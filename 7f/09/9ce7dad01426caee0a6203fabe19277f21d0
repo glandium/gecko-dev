@@ -1,0 +1,5 @@
+changeset 5b2e9e337fff0b0837a6d2e52f17d08d97b87453
+manifest d0cb241ae96b3c34fd4cc06603c6dc26332ff364
+extra source:348610d9a937ddb6d676236d6eddc85d89906c20
+files testing/web-platform/meta/fetch/cors-rfc1918/idlharness.tentative.any.js.ini
+patch 312,379,

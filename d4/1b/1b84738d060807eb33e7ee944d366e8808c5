@@ -1,0 +1,5 @@
+changeset 07075ab8d9275a81e08c8d365c982ecdb03f90af
+manifest 0174992e2907e53c45ef5e24eeb6c3e39251bd5f
+extra rebase_source:d2c0035cc52fa2a41829c46a7b0abea44c06e30d
+files devtools/client/locales/en-US/netmonitor.properties
+patch 318,392,

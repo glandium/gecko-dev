@@ -1,0 +1,5 @@
+changeset 39ffede63e69d05fcff9800004c1d03457837221
+manifest df236d08f96ee372434b0e245f66a905730c0717
+extra source:c854f53ff107e8489c98ca2449265212d914a772
+files toolkit/components/normandy/test/browser/browser_about_studies.js
+patch 375,442,

@@ -1,0 +1,5 @@
+changeset c64dab018c9085aeb3cb4ce7ab4910da8d53d0d4
+manifest c92d27303c1ff8a96c7fb96a1dd79d3f797a6d25
+extra source:fc1af61ec6deccae5f6b4b2b36592b84161f0040
+files devtools/client/framework/devtools.js
+patch 331,398,

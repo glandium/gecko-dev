@@ -1,0 +1,5 @@
+changeset af5755fcc4882a24fa25402a7035796dc9a6258c
+manifest dfcea89ae18468806b4cb2a322967123f3228f5b
+extra rebase_source:f9e3db043a1ce9c1a903c943663f22245febf101
+files build/moz.configure/init.configure
+patch 616,690,

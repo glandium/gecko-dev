@@ -1,0 +1,5 @@
+changeset 6ad72b5a43e15125e1baf4a88183b467c042894e
+manifest b2bde517802e269a2f19ee831aaf149c69a3877e
+extra source:265a8f035aded631fc9826a1352d7b253310171c
+files browser/base/content/test/general/browser_parsable_css.js
+patch 346,413,

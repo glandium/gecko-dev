@@ -1,0 +1,5 @@
+changeset 1014c8e695a6ea680917717b4caf9c8c26eab563
+manifest fcb26e48466c8fa5695a2af9a16cb1431e597aad
+extra rebase_source:00cb0d2d0732b55ca39d22adc819d9aabb547a5a
+files devtools/shared/platform/chrome/stack.js
+patch 319,393,

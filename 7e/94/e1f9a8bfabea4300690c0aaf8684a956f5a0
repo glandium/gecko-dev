@@ -1,0 +1,5 @@
+changeset 609976e5c798f029adf1339e4298d0747fb360bc
+manifest cb102847423bf5603a9d300025058f7e85cc0a59
+extra moz-landing-system:lando
+files js/src/vm/Iteration.cpp
+patch 443,487,

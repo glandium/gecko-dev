@@ -1,0 +1,5 @@
+changeset 3644693a32c89e9cc05ca27527968b4558a87c4d
+manifest 5e65dd171ded120e69c3db1654068311ce3b0951
+extra moz-landing-system:lando
+files devtools/client/shared/test/browser_dbg_listaddons.js
+patch 345,389,

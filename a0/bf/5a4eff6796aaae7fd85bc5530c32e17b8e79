@@ -1,0 +1,6 @@
+changeset fd4481cbbd2958bd2b6339f1bb58ab8ef33b11bf
+manifest afd7b9c5f78bb325e3bd2864653feeb9f8d69c5e
+author sebastian@ifyouwantblood.de
+extra rebase_source:c31aa7ce731ba325993f463b79b446ae67c932dd
+files widget/GfxInfoX11.cpp
+patch 356,430,

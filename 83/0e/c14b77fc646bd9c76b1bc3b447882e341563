@@ -1,0 +1,5 @@
+changeset 7f5e205a73ed5a46cee96379bf1d13d1079b1a4c
+manifest b63439fbcc92c35060a9e9af2fce68a773709e80
+extra rebase_source:7f94ef8feca57fb1f73ff0039df286b14f162de7
+files mobile/android/themes/geckoview/content.css
+patch 284,358,

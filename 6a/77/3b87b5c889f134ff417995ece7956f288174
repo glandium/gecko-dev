@@ -1,0 +1,5 @@
+changeset 1012971212db75b269ad9ad1ab646b31b4c6cec4
+manifest 0ec33b0b8e86ea5ba3d065c2e6cb5de1adbd64a9
+extra rebase_source:5fd7836c9a00cef69da34efd76b4cc74efdfb59e
+files layout/style/nsCSSProps.cpp
+patch 267,341,

@@ -1,0 +1,5 @@
+changeset 3577a2b44698cc443a23b883f3eba75bec6839bc
+manifest cb4b26975b9b98881c7e52a6226b71b2d589f42f
+extra rebase_source:21a483c304607d6fd3876ddd52e14376c771578f
+files mobile/android/base/resources/drawable-nodpi/firstrun_tabqueue_off.png
+patch 594,668,

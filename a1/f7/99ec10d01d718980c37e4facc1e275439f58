@@ -1,0 +1,5 @@
+changeset 7d7d8043d20c98f9dc62153654fdc5ee7dc335d4
+manifest e32f714bf78c2ec0b7406be56c97b9cd3936edcb
+extra rebase_source:eb188ebf84ee9ce6c7fe8bf69b6b156ee9f14956
+files build/moz.configure/toolchain.configure
+patch 536,610,

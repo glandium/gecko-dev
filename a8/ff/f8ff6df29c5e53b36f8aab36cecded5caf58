@@ -1,0 +1,6 @@
+changeset 5f5a87b7958692cc9713194f1d2fea0675dd1926
+manifest 6eb82e2367810db68b42d7ab86c9674330aa23fb
+author Dragana Damjanovic dd.mozilla@gmail.com
+extra source:8e55fa4da0cb3213d24aca8326792f6346594ed6
+files netwerk/streamconv/converters/nsUnknownDecoder.cpp
+patch 250,317,

@@ -1,0 +1,5 @@
+changeset fb51ef38b61ba4989e4b178b8984c1376e57eaf3
+manifest 1b7004796a5c44df1f31b2f11a1073594e795306
+extra moz-landing-system:lando
+files toolkit/components/telemetry/tests/marionette/tests/client/test_main_tab_scalars.py
+patch 368,412,

@@ -1,0 +1,5 @@
+changeset c8a216c42434250f626a6cfe2975fba30e9de40c
+manifest c3e7e6ae4f4572f66f771b1a17e739e3d32e36c3
+extra moz-landing-system:lando
+files dom/media/tests/mochitest/identity/test_fingerprints.html
+patch 369,413,

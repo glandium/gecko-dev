@@ -1,0 +1,5 @@
+changeset 52569b2e27a8018e945ea0e2ade37b0b325458c6
+manifest 947eedd3989ca6d82cea1fb282cda7a329e50a5d
+extra moz-landing-system:lando
+files toolkit/mozapps/installer/windows/nsis/common.nsh
+patch 329,373,

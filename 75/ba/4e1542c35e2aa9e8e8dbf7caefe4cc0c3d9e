@@ -1,0 +1,5 @@
+changeset 243733368484c9c41548d6acef5b6273be5f7948
+manifest adf93f0ca658a140aa08bac311b2478bc1d1df47
+extra moz-landing-system:lando
+files security/manager/ssl/TransportSecurityInfo.cpp
+patch 364,408,

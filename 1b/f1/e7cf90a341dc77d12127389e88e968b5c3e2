@@ -1,0 +1,5 @@
+changeset 5729da1055e8a464e9d062a71084e3983033721a
+manifest b2c8dc2212daaf6e8ab3ec13a28431fad1c3fc52
+extra moz-landing-system:lando
+files devtools/client/aboutdebugging-new/test/browser/browser_aboutdebugging_sidebar_usb_status.js
+patch 377,421,

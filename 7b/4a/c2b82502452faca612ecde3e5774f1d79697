@@ -1,0 +1,5 @@
+changeset 2ad148a42f6c5a73e385197665c63309867fb164
+manifest ad8aaf5785b3c7574af76f6b0dcabdc655441f83
+extra rebase_source:170966e0b0839729ce3ab25b4647af5de84dbda1
+files devtools/client/inspector/fonts/fonts.js
+patch 325,399,

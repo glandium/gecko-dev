@@ -1,0 +1,5 @@
+changeset 16688b4caeaf8aaff4ce987118ef7b74fd289ea3
+manifest 7037c3126d69de740d2ba08e87a329f111c6e857
+extra amend_source:965b0b3fef3429760dd05bd9f198b4c1315e8c8f
+files taskcluster/ci/release-binary-transparency/kind.yml
+patch 258,331,

@@ -1,0 +1,5 @@
+changeset c812e3810b9451c4080a39c6d0fa1c06dfad7d7e
+manifest 50bfb78c32d09c405974602ec0adecd1b53a36a0
+extra moz-landing-system:lando
+files testing/web-platform/meta/webdriver/tests/maximize_window/stress.py.ini
+patch 666,710,

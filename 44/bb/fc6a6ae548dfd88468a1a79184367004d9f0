@@ -1,0 +1,5 @@
+changeset f111ecab40ad2216074d878b21125fd5d4994994
+manifest 253be743ad22de9e0b477d8a2a6e5d4b05f23473
+extra moz-landing-system:lando
+files layout/base/RestyleManager.cpp
+patch 430,474,

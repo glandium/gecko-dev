@@ -1,0 +1,5 @@
+changeset affeef3f9bfa52619ab64ebe4e9253a4e4486bcf
+manifest 55ee9bd784f3e4d08ff6f490c0884ac779f341d0
+extra source:50357f08249dec5b1160b42d7ec1049213572d19
+files devtools/client/framework/test/browser_toolbox_telemetry_activate_splitconsole.js
+patch 397,464,

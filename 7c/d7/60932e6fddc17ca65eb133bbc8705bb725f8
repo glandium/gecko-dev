@@ -1,0 +1,5 @@
+changeset 7fde7d6f3628dd5f0769c5523666a0a43e457fdc
+manifest 4fc3c2a2c0acf4a3993eb7fbbca783f3c4b28a86
+extra moz-landing-system:lando
+files dom/base/DocumentOrShadowRoot.cpp
+patch 298,342,

@@ -1,0 +1,5 @@
+changeset bfd9bdaf70d72e381285311f48ff9381f67fbb13
+manifest e0a518314a8a8dda960b9e883a862a4e8a068714
+extra source:9bd96538fb1fc3d033f520131f5792e647085903
+files browser/extensions/formautofill/test/browser/browser.ini
+patch 322,389,

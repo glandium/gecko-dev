@@ -1,0 +1,5 @@
+changeset d8d0e4665d0bd561b11e195476fc802638aa9e02
+manifest bed2181968299ee80f59cb3cd304fc4ccc798897
+extra rebase_source:bb491998735fcfb8ce37605b3be9a88673d7d415
+files taskcluster/taskgraph/transforms/repackage_signing.py
+patch 294,368,

@@ -1,0 +1,5 @@
+changeset 7d121c076bc72759290367bc86a18e995c8716a4
+manifest fc45b16a0bee10df11d12a4051b0238092b6b475
+extra source:caee2a50492816af81ad1ff35221b4bdca47b4ac
+files toolkit/components/aboutperformance/content/aboutPerformance.js
+patch 306,373,

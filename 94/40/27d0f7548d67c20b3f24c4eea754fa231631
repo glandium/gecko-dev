@@ -1,0 +1,5 @@
+changeset c094ca2c2a1d36bda4f96523d68b3b53f06de24d
+manifest 46cb459e8246dc3c91a66d361e317db8c053e279
+extra moz-landing-system:lando
+files extensions/spellcheck/src/mozInlineSpellChecker.cpp
+patch 340,384,

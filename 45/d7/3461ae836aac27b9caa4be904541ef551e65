@@ -1,0 +1,5 @@
+changeset 30444454a15daf46f447dba3a353409f929c81a7
+manifest dd3cb6e225887b615cb7a1b7ea13f5035757b5bc
+extra rebase_source:c107fd170cea6c08e8d484d29ed66de7e0557ae9
+files browser/base/content/test/general/browser_e10s_chrome_process.js
+patch 312,386,

@@ -1,0 +1,5 @@
+changeset 7ba8dff4a242a7ddaf6da214e5fbde8fb95e9b12
+manifest 1ffc8fdfc8f3f2566151a88fc511637e7ca00b34
+extra rebase_source:999994d96cd1c7bd58ef2b0ec3ef5ef3248e85e5
+files dom/base/nsContentPolicyUtils.h
+patch 275,349,

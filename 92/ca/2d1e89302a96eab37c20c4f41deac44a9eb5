@@ -1,0 +1,5 @@
+changeset 351f159a3fd8b9bdd6916fb99c795501f1f261e5
+manifest 252b40e29cf954adb994963704c9b78fb34acc54
+extra moz-landing-system:lando
+files security/manager/tools/PreloadedHPKPins.json
+patch 475,519,

@@ -1,0 +1,5 @@
+changeset 45ae214ae1598baffb483acfc2f10121c6461d18
+manifest 273ae268e1dcebc03b39b1887e07442ea6143c35
+extra moz-landing-system:lando
+files mozglue/build/Authenticode.cpp
+patch 292,336,

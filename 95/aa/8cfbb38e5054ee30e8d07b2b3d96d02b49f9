@@ -1,0 +1,5 @@
+changeset 2166b03540e9f4973c3f0de347c8a9ef4e555e27
+manifest 47354faefdb98a314eb38ae084da802a99b3ad80
+extra rebase_source:df3b1120ba71a83adb41852e9003ef08af98b662
+files netwerk/base/nsIURIMutator.idl
+patch 472,546,

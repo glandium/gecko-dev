@@ -1,0 +1,5 @@
+changeset 46bb2a2ba36f639a81098d8264b8a9d48dbbd315
+manifest 484f16d53344b09f8901310ed250e459e9e0ca8c
+extra moz-landing-system:lando
+files browser/base/content/test/sync/browser_contextmenu_sendtab.js
+patch 320,364,

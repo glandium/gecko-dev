@@ -1,0 +1,5 @@
+changeset 6bff957177d230950b59c95bc8d126809c71ce39
+manifest e8645df735a56eb90d4685338d38aae1edaaecda
+extra amend_source:a6da9ed96de9d80dbe7c932a22583343808904e4
+files toolkit/components/telemetry/Scalars.yaml
+patch 287,360,

@@ -1,0 +1,5 @@
+changeset dc59646d36a4f959343ccdf155685d7cbe3a06c6
+manifest fb7db8a225eda38f63bbb8a0183c733e4042b121
+extra rebase_source:2717a671af8a75ce97d7eba16f37929cbc645db6
+files toolkit/content/aboutTelemetry.js
+patch 299,373,

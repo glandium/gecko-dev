@@ -1,0 +1,5 @@
+changeset 1a13549c696a08ac5a37c2a6b1dc73b9c0ad77d8
+manifest 8679a84def0dacef347767bfbb4ec3539f83b11d
+extra rebase_source:c1a12c3d019b932c7c850f3843ac5105f5cebc1e
+files dom/tests/mochitest/localstorage/test_localStorageQuotaPrivateBrowsing_perwindowpb.html
+patch 330,404,

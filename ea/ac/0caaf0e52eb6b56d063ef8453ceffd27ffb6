@@ -1,0 +1,5 @@
+changeset 2fc7e2060d1f66cd9600f6c890578b3a1641738d
+manifest bccfaae0219c8453dd4639045d4371438fb7dbcb
+extra rebase_source:344a533cd548dc9d8809752fa19deeea80f30fe6
+files gfx/webrender_bindings/src/bindings.rs
+patch 293,367,

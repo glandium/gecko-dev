@@ -1,0 +1,5 @@
+changeset 316317e8a1855a857229c12b3df2eb1386cea83f
+manifest 5c70e46a29ec333cbcd3e71e097b7f41d8572791
+extra source:044a5b82b056e9fc39c77c4356687343c8777d16
+files mobile/android/base/java/org/mozilla/gecko/home/PinSiteDialog.java
+patch 348,415,

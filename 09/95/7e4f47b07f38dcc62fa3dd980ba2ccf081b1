@@ -1,0 +1,5 @@
+changeset fba5a40806a6f8c636e0a91bdc4460c126e75555
+manifest 6cffef1f76b5d2f4161a4c208e8f976984dc62e2
+extra rebase_source:c97ac371054a54eabc07b3ec726b924d6be61e25
+files editor/libeditor/EditorDOMPoint.h
+patch 778,852,

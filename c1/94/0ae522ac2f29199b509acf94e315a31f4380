@@ -1,0 +1,5 @@
+changeset be38838a55ffaec394abf754e30d4fcc76057451
+manifest 7c708ed4c76d5f471d94b2ed06d74f4e75d270ee
+extra moz-landing-system:lando
+files widget/gtk/mozcontainer.cpp
+patch 297,341,

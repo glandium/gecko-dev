@@ -1,0 +1,5 @@
+changeset 59fd099d38fc72b3435c6808fd26c3593b8f9bb6
+manifest 18b9a9ebf6080b74032a506373366e9bb1573717
+extra rebase_source:d380d4975f8480b65d44c07c099ef6f166228e01
+files taskcluster/docs/kinds.rst
+patch 310,384,

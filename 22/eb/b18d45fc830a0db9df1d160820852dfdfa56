@@ -1,0 +1,5 @@
+changeset 05540974692724ccf1b1c59e21237b544f245065
+manifest 1739a2e64b21de21d992007cab47d871496de759
+extra rebase_source:d1d91e737d0c6000d0431aa21eef8aa6a1704aa1
+files devtools/client/netmonitor/src/assets/styles/NetworkDetailsPanel.css
+patch 394,468,

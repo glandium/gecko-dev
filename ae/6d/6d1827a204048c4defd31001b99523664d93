@@ -1,0 +1,5 @@
+changeset ffa678d05ff52183eb3f56a61234248cbd51a9cb
+manifest ef826e71464757c804833d0bf8d5a233392e3733
+extra moz-landing-system:lando
+files toolkit/content/widgets/scrollbox.xml
+patch 334,378,

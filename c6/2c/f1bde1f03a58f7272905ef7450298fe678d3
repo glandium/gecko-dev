@@ -1,0 +1,5 @@
+changeset 03507304881cb1d4d734bf967685ef912381bcba
+manifest 6edcafb6e1221c9be47e4be23d0daa73742c892e
+extra rebase_source:42017c10d13c30880f80c81b0d7487bb0d05fd44
+files mozglue/android/APKOpen.cpp
+patch 544,618,

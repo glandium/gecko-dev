@@ -1,0 +1,5 @@
+changeset 1325a6954b87e898271f78d15d10c231363afe57
+manifest 6d0798637d01f606c1966d14e4ec8ed88362136c
+extra source:eb92888e989b91994e24af4bc1685b9babf04cb6
+files xpcom/reflect/xptcall/md/win32/xptcstubs.cpp
+patch 410,477,

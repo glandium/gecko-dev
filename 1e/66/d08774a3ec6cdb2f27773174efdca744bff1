@@ -1,0 +1,5 @@
+changeset adfc65d1acc67ea35d74d28a8aab7b7bc21bc4c5
+manifest 97c7e0f0f5c29612f4c2487cedd7df9a4753f364
+extra rebase_source:61d0daf8f14f1a36623967d9d63648a8a88e25ae
+files intl/unicharutil/util/ICUUtils.cpp
+patch 414,488,

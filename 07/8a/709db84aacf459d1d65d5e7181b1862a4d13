@@ -1,0 +1,5 @@
+changeset 8647ba30013ab5466fdb6afa82259a162e9f3ad1
+manifest 6c912dce511f83cd3cd72b9c8a67ba14d8d9e0b9
+extra moz-landing-system:lando
+files js/src/jit/JitSpewer.h
+patch 274,318,

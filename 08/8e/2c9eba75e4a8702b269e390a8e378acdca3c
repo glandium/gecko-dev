@@ -1,0 +1,5 @@
+changeset 5790215bddccb498e1cad255fde2cf3754e64ddb
+manifest 2cd998564fecc6b7ef31e877165102220de3ff52
+extra rebase_source:cc3aeefedde21dc8eaaf37c67710980b0204f4dc
+files toolkit/components/remotebrowserutils/RemoteWebNavigation.js
+patch 551,625,

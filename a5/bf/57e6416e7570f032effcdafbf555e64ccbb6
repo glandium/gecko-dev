@@ -1,0 +1,5 @@
+changeset 0385d9f3f878c6eb5006083a6824a14acf10807b
+manifest 75478b6fc75c4c7973d02763720cc798b93d1489
+extra rebase_source:ed1fcd37ca79b0ed8a3b209789313f26fb76906f
+files taskcluster/docker/periodic-updates/setup.sh
+patch 389,463,

@@ -1,0 +1,5 @@
+changeset cb9f55dd42570c4568d45c54ceb5176c3543df1c
+manifest ed1a6ed2bcf5064f9a299c2eec17624e107a6cc0
+extra moz-landing-system:lando
+files devtools/client/webide/content/addons.js
+patch 524,568,

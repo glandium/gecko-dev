@@ -1,0 +1,5 @@
+changeset f9b6904e3e1071f868efc335d9139e082a31a9f1
+manifest e17c10b29ef000a4d4bd4ad187f15b7a9ced2765
+extra rebase_source:55e3be75bb4325de6431e636ef815bc870bcad94
+files layout/style/nsStyleContext.cpp
+patch 377,451,

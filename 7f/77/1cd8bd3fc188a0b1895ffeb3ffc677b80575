@@ -1,0 +1,5 @@
+changeset db1c93401cde19ac055567252be6b81509517bc6
+manifest d3a39712a4b2c2df87240068fe58b55a8fd59c64
+extra source:f79fefb42d5ed588485b799943e4196d62f7f53c
+files testing/web-platform/meta/html/semantics/tabular-data/processing-model-1/span-limits.html.ini
+patch 353,420,

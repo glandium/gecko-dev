@@ -1,0 +1,5 @@
+changeset 575a62160a0cdce4d6c5c7779e5f551b2458073b
+manifest 588dfea951020c5619ccf9c7e5fa993e8545b166
+extra rebase_source:8c134f49b5e69150c0a9e6ca69bebdad7a788b0c
+files taskcluster/ci/static-analysis/kind.yml
+patch 300,374,

@@ -1,0 +1,5 @@
+changeset d59e82481c869123324aa0f25fb03f3dd9c60aad
+manifest 1e56093b9458d8b40e09ffe9d297b18ce3367821
+extra source:25a53a6b7aa16f57825487dbaa17302ab1a4fb21
+files gfx/skia/skia/include/config/SkUserConfig.h
+patch 291,358,

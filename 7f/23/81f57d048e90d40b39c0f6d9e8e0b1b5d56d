@@ -1,0 +1,5 @@
+changeset 0ab056dc26a8334daba227f5c9b2bb67f99e51c1
+manifest 07161f4ca23f4e78c525fce24f2f6d334254395e
+extra source:4bf1c95a5db3496554813b3c333296e759138510
+files mobile/android/chrome/geckoview/GeckoViewProgressContent.js
+patch 560,627,

@@ -1,0 +1,5 @@
+changeset 72b573571f722d34fc7e91421f19884f5afd7718
+manifest 4747206d674332ad8fb1da8ac37091f1679a6d70
+extra rebase_source:100ddf6c09f229baa2334d11211c6fb28d643c3b
+files tools/lint/eslint/eslint-plugin-mozilla/lib/environments/browser-window.js
+patch 398,472,

@@ -1,0 +1,5 @@
+changeset 6d2fe35e5c6347e9fbdf85f964f563bb8898bf2d
+manifest 9ab195ea806d51e3f34a2d0541c3630c09bdb503
+extra rebase_source:e09fbf3a95ea445180d24c0ee81b153a57441b97
+files widget/cocoa/nsColorPicker.mm
+patch 353,427,

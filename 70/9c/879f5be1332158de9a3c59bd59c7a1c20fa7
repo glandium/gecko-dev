@@ -1,0 +1,5 @@
+changeset 35bb80a39be676fa3f0854a867d15dc96868bb91
+manifest 55fdae5f79e6322cfcba39233dd0c0ae4c79746e
+extra rebase_source:19ccbfad81ebb30f51928af2492845c75182502a
+files js/src/devtools/automation/winbuildenv.sh
+patch 281,355,

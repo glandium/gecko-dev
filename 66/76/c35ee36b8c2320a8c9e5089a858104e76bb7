@@ -1,0 +1,5 @@
+changeset 23841605d322bd069d28d5dfdd73e96247d1f130
+manifest e788f879750582ae0709967a56e5178d758405c5
+extra moz-landing-system:lando
+files browser/components/preferences/in-content/tests/browser_applications_selection.js
+patch 389,433,

@@ -1,0 +1,5 @@
+changeset 5e01d4124eaefeb0702f31689a9223f14351368e
+manifest 93bec1849db109335c648b1f0f50ac68c528a6ee
+extra rebase_source:a7b7c94ccb8f8369f09ca85a9137ef97fcffe84f
+files toolkit/xre/nsXREDirProvider.cpp
+patch 260,334,

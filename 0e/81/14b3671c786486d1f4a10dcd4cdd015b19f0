@@ -1,0 +1,5 @@
+changeset 37d735e5ed3bdea17e3017c26bef8fcd381f9f3a
+manifest 0e5594f9b059b9b9f724fe160fabbe51f3384407
+extra source:b80368bd2236368c5d605b9ea91c7ec9ed6137e4
+files widget/windows/AudioSession.cpp
+patch 476,543,

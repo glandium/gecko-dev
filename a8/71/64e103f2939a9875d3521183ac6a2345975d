@@ -1,0 +1,5 @@
+changeset f155e109bb419696beb422b5afbfd7299b2b2500
+manifest 9b29af6fcb7d408d2218024e6941ff97d288b7c7
+extra source:bb9035ea4c09d304f62af7f9613fbdde50eb15b2
+files testing/mozharness/scripts/release/push-candidate-to-releases.py
+patch 311,378,

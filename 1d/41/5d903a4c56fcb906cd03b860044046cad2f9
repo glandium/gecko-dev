@@ -1,0 +1,5 @@
+changeset a3d322392d3ff48865a98dbac7f0dd8de2d51d9f
+manifest 862689c0aca7f6f9d49f20a7bfee4f7767ab5652
+extra source:0bdc597c59ef8f27c0808388c73dd8022823270a
+files services/sync/tests/unit/xpcshell.ini
+patch 301,368,

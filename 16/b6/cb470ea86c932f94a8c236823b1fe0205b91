@@ -1,0 +1,5 @@
+changeset d31b10aff686c1d97af8a64c751f3966b73d97e1
+manifest 54fc9a725ec01f93d717733eef9d4843d42bbe40
+extra moz-landing-system:lando
+files servo/components/style/gecko/selector_parser.rs
+patch 288,332,

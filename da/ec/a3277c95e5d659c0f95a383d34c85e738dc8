@@ -1,0 +1,5 @@
+changeset 4b5b2e44447d306db37a1fef263894d8afe78b47
+manifest cd7c2a48c1e56c369590384d11fcb2aaac8d7c4a
+extra rebase_source:c46a54f9fc811aace20c54c4a3e468a83c2530d2
+files editor/composer/nsEditorSpellCheck.cpp
+patch 728,802,

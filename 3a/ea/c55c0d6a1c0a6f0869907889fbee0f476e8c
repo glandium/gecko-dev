@@ -1,0 +1,5 @@
+changeset 845bc8316b05f3186d87e143c110f7f768625836
+manifest 1ae43232d50899f1b0caa1ce3c106a7349e5dbc2
+extra moz-landing-system:lando
+files layout/base/PresShell.cpp
+patch 319,363,

@@ -1,0 +1,5 @@
+changeset 03556f5a85d788fe55eed017d807b2d14fc7c1cf
+manifest fe059c88cc5144ff57eefb1ab4108e4658bd2534
+extra rebase_source:0c0e81ecc6c6a1469b2b53b8a898bd27e52b054c
+files browser/base/content/test/permissions/browser_canvas_fingerprinting_resistance.js
+patch 339,413,

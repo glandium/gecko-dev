@@ -1,0 +1,5 @@
+changeset 39b5d20116857f2c8d6e99e16941a11ff441bad6
+manifest d30c7130a97ecc6671e73db02739c37d664623a1
+extra histedit_source:f5cded2f6c3d7f7a3ea62b2e2d3394c07805f9be
+files taskcluster/taskgraph/transforms/build_signing.py
+patch 315,391,

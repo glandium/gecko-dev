@@ -1,0 +1,5 @@
+changeset 7e6da74099fe44de96396783c43b8e3e0c5b70a4
+manifest 051352476c0311e723978f9566bc7c1d45350ad2
+extra rebase_source:8ff5e64c1acbc9c925cc9bef1e0253d94d326a0a
+files toolkit/modules/BrowserUtils.jsm
+patch 473,547,

@@ -1,0 +1,5 @@
+changeset 7159d52385062d380dcb944b6546a8f1ac225697
+manifest 47c8d990500a909907970f2a3f124f4050bcaa53
+extra rebase_source:d2cccfee36d3fd6894652d13eb8426af0e9699ea
+files browser/tools/mozscreenshots/mozscreenshots/extension/configurations/LightweightThemes.jsm
+patch 468,542,

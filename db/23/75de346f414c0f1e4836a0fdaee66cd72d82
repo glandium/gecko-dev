@@ -1,0 +1,5 @@
+changeset 098585dc86fc54509885626fc7dcf6c451e8d808
+manifest 48adcd9bb5a9144b3041904590e66be2373736d4
+extra source:56590b88c0412e04dd182a9500ba83bea8b86d13
+files media/webrtc/signaling/src/peerconnection/TransceiverImpl.cpp
+patch 351,418,

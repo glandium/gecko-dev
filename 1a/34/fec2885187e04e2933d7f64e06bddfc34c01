@@ -1,0 +1,5 @@
+changeset cd20a5a8658bb5bb119ba77dfe3db38b5c1820e6
+manifest 23cbcfcdfd7f931d81019c5d4d34468a06605f28
+extra source:8030bbd5967ff282099b46d12c0258e36fd4764c
+files toolkit/components/downloads/DownloadIntegration.jsm
+patch 328,395,

@@ -1,0 +1,5 @@
+changeset 4fab7126c17f4b66026fd291a9e0c1c45ad86233
+manifest 93742f2af6a3c1e8c95f1750107f1f8cb6675d58
+extra rebase_source:c32d602256391866c7cbfc447d9e6f127a48313e
+files dom/canvas/WebGLContext.cpp
+patch 267,341,

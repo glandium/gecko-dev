@@ -1,0 +1,5 @@
+changeset f92327a6d1f74408aa09ae1ec4e06d8bba88c718
+manifest 7983dd18e0bdad4650a7d212ea66ed1a00e03e19
+extra rebase_source:53ca8e2d0424eaeb539d50510c441c8a3252c819
+files build/unix/stdc++compat/stdc++compat.cpp
+patch 1125,1199,

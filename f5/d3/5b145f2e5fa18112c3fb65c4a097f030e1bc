@@ -1,0 +1,5 @@
+changeset bff1af3da43332085f4c862c9d8718c17c193e8d
+manifest c1ea70e4cec1be92ac70e075c0b3e139469f138a
+extra moz-landing-system:lando
+files gfx/vr/VRManager.cpp
+patch 298,342,

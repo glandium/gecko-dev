@@ -1,0 +1,5 @@
+changeset 142b78b61216d7e4a4d8dece7c897af38dfbd429
+manifest 336161e693c3b94d751ff620a2a631ea613a8bce
+extra rebase_source:626a67c021eafa7e0ba5e1022d52d19f1acdf157
+files browser/base/content/browser-allTabsMenu.js
+patch 290,364,

@@ -1,0 +1,5 @@
+changeset 8ab52e7cb30c4cf0898c1a82c4236b91b4eb656a
+manifest b72fe2bcd78aae6d9f88138a3a9f9c1d448e9dae
+extra rebase_source:50e0d425691c4dd8d88415e674a2d919891b455f
+files uriloader/exthandler/win/nsMIMEInfoWin.h
+patch 321,395,

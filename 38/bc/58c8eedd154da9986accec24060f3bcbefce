@@ -1,0 +1,5 @@
+changeset 9484bc0662465437abf4b57055936c8d3aed0321
+manifest e0b3d4149a39b175aface568807263aaafe705f2
+extra rebase_source:9fac3b14115a9f2f54bc8180bed6c0442e0da3f0
+files devtools/client/webconsole/new-console-output/components/Message.js
+patch 524,598,

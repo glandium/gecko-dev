@@ -1,0 +1,5 @@
+changeset e1ebad5d89c5b5c7cc54951ce81cd03a805a8d45
+manifest 1394ab231df7d4736547190ca5887dc9f93c73c5
+extra moz-landing-system:lando
+files taskcluster/scripts/misc/build-libdmg-hfsplus.sh
+patch 316,360,

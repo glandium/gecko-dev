@@ -1,0 +1,5 @@
+changeset 77d4d9eb87cdd939e579fb780562faebc8968f31
+manifest 992016a1a7b4459a0c9b21ea6125f3d4c2fd473e
+extra rebase_source:63cf32067e97d556fa9ef37f0560efac0030e26e
+files browser/extensions/screenshots/bootstrap.js
+patch 287,361,

@@ -1,0 +1,5 @@
+changeset 2e1139a478b4d9182234b1d3027f526bbeaf0d8c
+manifest 6686b927c19e924b4c53556647c92ff959320e35
+extra rebase_source:195365fae2ebb8878ec14e88749a9a56d11784e0
+files browser/components/extensions/test/browser/browser_ext_sessions_getRecentlyClosed_tabs.js
+patch 499,573,

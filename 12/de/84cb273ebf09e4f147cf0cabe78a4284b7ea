@@ -1,0 +1,5 @@
+changeset b47ba60052e504f1b376c6deb165ac8e3857a133
+manifest f0a3002cab465ec5a3f4fca4162f1241d0898b4e
+extra rebase_source:b09f46c86beaa5c38cd2bede9e3aac7e02bebb2e
+files toolkit/components/places/SyncedBookmarksMirror.jsm
+patch 345,419,

@@ -1,0 +1,5 @@
+changeset 0f8a467c6c83f3e71e841f49dff92573d3e01fc6
+manifest c58a3233374ef4e4158805763e7681dfe47c4efa
+extra source:e6698ef51a7e2f049350b09d67fa7338d2bd405a
+files gfx/layers/basic/BasicPaintedLayer.cpp
+patch 286,353,

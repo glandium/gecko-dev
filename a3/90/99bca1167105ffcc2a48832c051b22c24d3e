@@ -1,0 +1,5 @@
+changeset ae2ff08a40b08c7d4712d22b6d830439ed1058a7
+manifest 8b16eb96bcec9efe4f4178b2a9c3c3f968d32c2f
+extra rebase_source:72cf22b38f7c4d3ef5c315351f0eca942345b752
+files media/webrtc/trunk/webrtc/modules/video_capture/windows/BasePin.cpp
+patch 323,397,

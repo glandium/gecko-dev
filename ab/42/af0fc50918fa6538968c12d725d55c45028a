@@ -1,0 +1,5 @@
+changeset bdc39d29d0146275ae6ee009eca80ebc4733ba23
+manifest 7dc587260f59d622dfcc4e6a195edab60b6c48aa
+extra rebase_source:b940dff3c84a47e98526714f90c61a76f04c833c
+files layout/style/test/file_shape_outside_CORS.html
+patch 336,410,

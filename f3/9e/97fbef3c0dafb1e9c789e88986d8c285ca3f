@@ -1,0 +1,5 @@
+changeset 0d33d81b075fc1cdc2c497efdd43346b89864604
+manifest 73e357aa5f7920ede7cf2f2fc14c8244fd466dff
+extra rebase_source:2681b65a2c0911398c16058b991ab0c948d10208
+files devtools/client/shared/widgets/tooltip/SwatchColorPickerTooltip.js
+patch 327,401,

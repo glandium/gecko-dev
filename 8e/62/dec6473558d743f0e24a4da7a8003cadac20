@@ -1,0 +1,5 @@
+changeset fedf8f5b79e57be608f1bf82f6bbe4728692f42b
+manifest 4d4d67bf3d2f448c0d896d611c4d105aaeefe6ca
+extra moz-landing-system:lando
+files python/mozbuild/mozbuild/backend/cargo_build_defs.py
+patch 316,360,

@@ -1,0 +1,5 @@
+changeset 79b23ac343622a80c73cd80ada6d80f3df15a070
+manifest 2c271a750222172e9fc62e5c6c2eef68326a5887
+extra source:4f8d83753276618043f65d91951744af685bc591
+files devtools/client/animationinspector/test/browser_animation_mutations_with_same_names.js
+patch 344,411,

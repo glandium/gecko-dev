@@ -1,0 +1,5 @@
+changeset 477570df41953e901f7a23428cae92cfc857b41d
+manifest 5671efae11e47e540e94b5bead15a21d54c53fc8
+extra moz-landing-system:lando
+files dom/base/nsWrapperCache.h
+patch 289,333,

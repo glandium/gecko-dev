@@ -1,0 +1,5 @@
+changeset a2bee09f932b9c34cc0b45a36b7b7491cb94d9fe
+manifest 0d0c7e14dd440915bc7bbdf950446e38981922dd
+extra rebase_source:2ba145505b9ad2187e50c0aafff46ecd26640dca
+files browser/branding/nightly/content/aboutDialog.css
+patch 306,380,

@@ -1,0 +1,5 @@
+changeset b4af8690942566c964ee6a11be297c556a17c423
+manifest c7f3545bbb9695e66a2e677750b2ec388ea00129
+extra moz-landing-system:lando
+files services/sync/tps/extensions/tps/resource/quit.js
+patch 334,378,

@@ -1,0 +1,4 @@
+changeset 57f7d2058ce2ef621dcf298b6415bbb829a1cb56
+manifest 778c1106bbc15b9d652a19e36f06ab9ef457ebbb
+files js/src/gc/RootMarking.cpp
+patch 214,215,

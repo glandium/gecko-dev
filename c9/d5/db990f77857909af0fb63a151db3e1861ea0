@@ -1,0 +1,5 @@
+changeset 87b1cf3284da174c339b00c8d4054151d265fb53
+manifest de68099cd6a95d217e37dad410bbebc9dc2936a3
+extra moz-landing-system:lando
+files dom/clients/manager/ClientOpenWindowUtils.cpp
+patch 398,442,

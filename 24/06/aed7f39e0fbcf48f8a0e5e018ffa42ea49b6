@@ -1,0 +1,5 @@
+changeset f7fafed0e4a9c1d8e1895ddaf0b21f6a6a160c0e
+manifest 24dd03c1fc9d282d72409c4f3cd31275c69ea5d5
+extra moz-landing-system:lando
+files widget/gtk/IMContextWrapper.cpp
+patch 1741,1785,

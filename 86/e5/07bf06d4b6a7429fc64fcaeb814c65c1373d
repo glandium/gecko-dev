@@ -1,0 +1,5 @@
+changeset b581fa3d8e7a2b853d171c4dc6ae1ecdf2ad44d3
+manifest 7efc7b4e846481a4df818779432e746ec0354c33
+extra rebase_source:5b52caffa1d523964ee485859dd562919f5f971a
+files browser/components/customizableui/test/browser_widget_animation.js
+patch 359,433,

@@ -1,0 +1,5 @@
+changeset 7ca25ca26db3a2f77698bc709c6fb0651e68fa0e
+manifest 697ffb9a1f69b0905f138055942f6c4b6fefd79e
+extra source:057879e7de425ead7b54f1e8e4922cc6f7248240
+files gfx/skia/skia/src/gpu/GrResourceProvider.cpp
+patch 273,340,

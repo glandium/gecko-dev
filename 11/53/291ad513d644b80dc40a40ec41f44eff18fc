@@ -1,0 +1,5 @@
+changeset 69ecf79f0dcb00e595d982a5122c8656ae20c4c6
+manifest 4a1c80f02d9d0ad384318d01bdec65a488626aec
+extra rebase_source:62f959f1d8d93d7a12be46f1bbe4b2fd75dd882d
+files js/src/gdb/mozilla/asmjs.py
+patch 293,367,

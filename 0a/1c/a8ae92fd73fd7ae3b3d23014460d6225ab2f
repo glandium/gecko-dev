@@ -1,0 +1,5 @@
+changeset 8187454076214de198981aa7044b3d47dc3225a0
+manifest ce23d771f1d7bc32a45d590fa93045860abed1c6
+extra moz-landing-system:lando
+files devtools/client/framework/components/ToolboxToolbar.js
+patch 514,558,

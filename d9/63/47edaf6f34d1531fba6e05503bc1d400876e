@@ -1,0 +1,5 @@
+changeset 5b661188c6031eecf6e0088af7e10afec1310301
+manifest 5afefa14de0a525c39a0025c07b70d57ace0ea6d
+extra rebase_source:296239e3cdbf74e9dc19d3c89e7ecdb68b13e4d4
+files layout/generic/nsAbsoluteContainingBlock.cpp
+patch 486,560,

@@ -1,0 +1,5 @@
+changeset 66d602064c8b59aec1d2f4337dac6003e8445ff3
+manifest 3224d577dc0ce8de673efbea4bc31ffdd1cbaba2
+extra rebase_source:9c249323612995278007b2ecfc9a3ca991dcd81b
+files devtools/shared/sprintfjs/sprintf.js
+patch 275,349,

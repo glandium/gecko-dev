@@ -1,0 +1,5 @@
+changeset b0b5718ec0708b8c843b6d444f9857d2a0fb7621
+manifest d0e140cbb723e41983ea7e2143181818685c14dd
+extra rebase_source:5f83c6a6aed89c03d824020edb71f88f185ed3ee
+files testing/talos/talos/tests/devtools/addon/content/tests/inspector/mutations.js
+patch 341,415,

@@ -1,0 +1,5 @@
+changeset 25ea434bd55e0c01a84c3cf7cc3a69765ec5e37b
+manifest 0db1cc1b6d0f2381093417c1f22b0c76c79d9d56
+extra rebase_source:d9e13f10576960e7773c2cf1847b5b35859808d1
+files taskcluster/taskgraph/transforms/upload_generated_sources.py
+patch 301,375,

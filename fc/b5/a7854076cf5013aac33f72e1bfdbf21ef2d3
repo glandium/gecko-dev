@@ -1,0 +1,5 @@
+changeset c8f7369ca8f9e247073da3e683bc7cd37c380411
+manifest e27a24f8412221ea4265b1c76e02ea8fa31531f2
+extra rebase_source:501e958ce50e95ae1171acc10fb07c28834195d2
+files security/sandbox/chromium-shim/base/win/sdkdecls.h
+patch 345,419,

@@ -1,0 +1,5 @@
+changeset 0eeed34e22e43b12834f6619689827896b41a50c
+manifest 526b7068d8c22ded56530d7d6dfd04fd44e43ac3
+extra source:fc1d94a3195dead36a75a5f203fa90b19ecd551e
+files xpcom/glue/Observer.h
+patch 244,311,

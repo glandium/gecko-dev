@@ -1,0 +1,5 @@
+changeset 935520f6cfdd2100c922cad7a5192189c93f35a8
+manifest 308df5c85157ae4b1ad2fa3307e273702d068027
+extra moz-landing-system:lando
+files browser/extensions/screenshots/experiments/screenshots/api.js
+patch 320,364,

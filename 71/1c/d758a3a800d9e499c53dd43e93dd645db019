@@ -1,0 +1,5 @@
+changeset 706a35d8549e9abc807580e031fc15d1f28c3967
+manifest c3214cebd32008f216fc5e6f92c8e81e6ec03f14
+extra source:a0899eec8a9324edbfa23325ec7bc04477a81895
+files mobile/android/tests/background/junit4/src/org/mozilla/gecko/browserid/test/TestJSONWebTokenUtils.java
+patch 506,573,

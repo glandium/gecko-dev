@@ -1,0 +1,5 @@
+changeset 746fce6799db11cf405da734ec34225e6fa64beb
+manifest 6dfd003d14d55b9382d7be4f57a7de57a28fe560
+extra rebase_source:8873ea89b93b82559750b72933298247552ddd65
+files devtools/client/netmonitor/test/browser_net_view-source-debugger.js
+patch 297,371,

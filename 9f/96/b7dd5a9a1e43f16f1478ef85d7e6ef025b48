@@ -1,0 +1,5 @@
+changeset 52f4568a2ccdd01efc60d4a70655282b826d2e09
+manifest 10ab1a371f3385bc73ac2b39e97a220998cf66c0
+extra moz-landing-system:lando
+files tools/rewriting/ThirdPartyPaths.txt
+patch 472,516,

@@ -1,0 +1,4 @@
+changeset 950ce58bfb243aa18223151e390685d88ccd7370
+manifest d0fec6e8698cc8fc8af191f1d04ad77a79719bce
+files devtools/server/tests/unit/test_promises_actor_attach.js
+patch 383,384,

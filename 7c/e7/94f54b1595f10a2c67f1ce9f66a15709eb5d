@@ -1,0 +1,5 @@
+changeset 0344daf0fe0cd3903aa872b22f6820e8c40b1b56
+manifest 89c9c3d4542a32df83a8661ec7d9c674a92239ca
+extra rebase_source:408ce9a8efc91bd727ace9f393df9f4527f50031
+files browser/base/content/webext-panels.xul
+patch 279,353,

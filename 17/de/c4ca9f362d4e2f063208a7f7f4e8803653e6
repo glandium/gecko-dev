@@ -1,0 +1,5 @@
+changeset 8617fed7a3e0d618482ca4534bcb3926a278747d
+manifest 6f69455dc0ef3b384d78463aa3aee54ac626f2bc
+extra moz-landing-system:lando
+files gfx/vr/service/OculusSession.cpp
+patch 306,350,

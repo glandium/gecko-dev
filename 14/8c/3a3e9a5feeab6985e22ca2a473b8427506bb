@@ -1,0 +1,5 @@
+changeset 2d861e4e01ef372c9ae1bdabf379c8658a79a4f2
+manifest 4f532390fb6c0d2baca5bc6b4805761047656ce1
+extra rebase_source:bea5c441cb87645f53ea9f830cee020e24e3f14a
+files xpfe/appshell/nsWindowMediator.cpp
+patch 291,365,

@@ -1,0 +1,5 @@
+changeset bd79850d10f8da83f0af64408418dd0dbb9a7bca
+manifest 6def57c004fafe1af442b50005d9c443db55b97c
+extra source:44ae071a453f285f841d4c3cc13e0b21427ace92
+files media/webrtc/trunk/webrtc/modules/video_coding/rtp_frame_reference_finder.cc
+patch 326,393,

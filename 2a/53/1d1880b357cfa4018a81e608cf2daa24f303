@@ -1,0 +1,5 @@
+changeset 850ba65481806e61c909a22f9bb0f5b781f79691
+manifest c7fe47e52f22b56aae2b74d1b8b13517eabc7a46
+extra source:bcae431edab2c42d7e1a3dd49631ca9ed334d74d
+files media/libstagefright/binding/H264.cpp
+patch 338,405,

@@ -1,0 +1,5 @@
+changeset 20e04b1355dc3f265435feaef946682834f74b46
+manifest 5bae4ebb50a0569f7b96b0c29d61ed33b8fdc6e6
+extra moz-landing-system:lando
+files toolkit/mozapps/extensions/LightweightThemeManager.jsm
+patch 338,382,

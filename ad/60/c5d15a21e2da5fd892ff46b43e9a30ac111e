@@ -1,0 +1,5 @@
+changeset c3ec222e17196a96e4a94b98ac36b5c0c4b2da2d
+manifest a6f9c25b184650ad07ecede5bbbdb4c13bee5f93
+extra source:8fbfe8c77eaa41c79aaf48a07666986d300dd0cf
+files toolkit/crashreporter/google-breakpad/src/client/mac/handler/exception_handler.cc
+patch 379,446,

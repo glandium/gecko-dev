@@ -1,0 +1,5 @@
+changeset 03dbca049b641830d4e24edecfd997893383d5d2
+manifest 2a833cf9ccc4ef3c2cd0073a6d092b22e90c59e1
+extra histedit_source:78b8d93e45de9ba3d54cb46255b05464ea0322ad
+files taskcluster/taskgraph/util/partials.py
+patch 278,354,

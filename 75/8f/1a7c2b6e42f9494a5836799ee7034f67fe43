@@ -1,0 +1,5 @@
+changeset b0805a8cf6eb120525408dd486ca2c362afb2db3
+manifest 4671878e824d1fffeb209679b14315d4a61f7192
+extra moz-landing-system:lando
+files testing/mozharness/external_tools/robustcheckout.py
+patch 485,529,

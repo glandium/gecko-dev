@@ -1,0 +1,5 @@
+changeset 93e4994a892c527c2203e7a650d184ede98a000d
+manifest 67864eb82b478560e8517b31c540fecc36668aed
+extra amend_source:a63ff16f6c8afeee7d25fa86171e23e28eaab112
+files netwerk/base/AutoClose.h
+patch 239,312,

@@ -1,0 +1,5 @@
+changeset 31949068fe2c9cf147f00df0b8ccda57d74a337f
+manifest 964bb007795b1dd60f3b0b5fd3951156f83afa12
+extra amend_source:a154f9457ef3380d9741e99b2ca40989a4c2711e
+files testing/mozharness/configs/releases/bouncer_firefox_esr.py
+patch 327,400,

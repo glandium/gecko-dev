@@ -1,0 +1,5 @@
+changeset d717ad76e6169d7d48c1c89ee02603af4eaa21e4
+manifest 0838186d61e103ba3390a98ff531b30f7a54e702
+extra rebase_source:9980f4f0fc57cccdbee3b248a94666f3e288be63
+files browser/components/payments/res/components/basic-card-option.css
+patch 356,430,

@@ -1,0 +1,5 @@
+changeset 534bbc15b9940ee0bdd25050e1b0d58fc78beb8b
+manifest 7d9305afdb932ac1d904bbad7953d9139ba062ec
+extra source:f27de9758107421b8a08d86f67f6a950280505b8
+files taskcluster/ci/google-play-strings/kind.yml
+patch 323,390,

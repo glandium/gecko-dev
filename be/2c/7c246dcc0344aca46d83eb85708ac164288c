@@ -1,0 +1,5 @@
+changeset 8d7006b65a2c454f30966697cef9ef71b2e59af9
+manifest 999079490195ac0989716504d687dbb6340628e7
+extra rebase_source:5a0e422b685330005aa29c3785adee8fabccd73c
+files toolkit/components/url-classifier/HashStore.cpp
+patch 352,426,

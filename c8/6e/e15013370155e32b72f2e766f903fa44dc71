@@ -1,0 +1,5 @@
+changeset 061213ccc62a5898157c50ab3c246314e057e45b
+manifest a2b9d5c87ba79c34fe2cb27380a26386e44c6eb5
+extra rebase_source:deb1761dd017108c9dba1d831a996baf54c7f425
+files extensions/spellcheck/hunspell/glue/RemoteSpellCheckEngineChild.cpp
+patch 388,462,

@@ -1,0 +1,5 @@
+changeset d45ba87773a0b93f946b61748c711c616e9b7f2f
+manifest dbe1ba024375e04773ff0a4e66a6b93bebfbfa41
+extra moz-landing-system:lando
+files parser/expat/lib/xmlparse.c
+patch 323,367,

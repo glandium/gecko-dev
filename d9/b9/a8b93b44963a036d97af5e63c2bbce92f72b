@@ -1,0 +1,5 @@
+changeset 70ae129e43a4c1b70ff684705c0814147b5a0f24
+manifest 62a492dd6cc878452611dbd65cb6a5370ccac571
+extra moz-landing-system:lando
+files editor/libeditor/tests/test_middle_click_paste.html
+patch 969,1013,

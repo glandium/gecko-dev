@@ -1,0 +1,5 @@
+changeset 6e9980bbb079c59e20495ec1161eb86f0f88d706
+manifest 2d701f7cae367f0197bc8c4eed4e82e28ee0b89b
+extra moz-landing-system:lando
+files testing/web-platform/meta/websockets/__dir__.ini
+patch 488,532,

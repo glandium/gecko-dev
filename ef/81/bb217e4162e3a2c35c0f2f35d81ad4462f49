@@ -1,0 +1,5 @@
+changeset 8d42de3d92450c461967fe102959dba7b71ff663
+manifest 7b795d207f82e684cdbc23d21ace1862661242b8
+extra rebase_source:07711a0f00e4f1c7f3201db250f7c1f455b83e6b
+files browser/base/content/test/webrtc/browser_devices_get_user_media_anim.js
+patch 432,506,

@@ -1,0 +1,5 @@
+changeset dad020b0bb45903972c2856cc3a2968f39a27635
+manifest 579916db7b163107dbac517eec9bda1869b129df
+extra rebase_source:7afa2f98c2ac57a28d32d8936251e78af37df216
+files extensions/pref/autoconfig/src/nsReadConfig.cpp
+patch 307,381,

@@ -1,0 +1,4 @@
+changeset 41fb2e562f99f5bb884ba41ed97fbcd37f0d8a48
+manifest e5ec223c03e76cac7262731d2bf6d32e04c4b155
+files devtools/client/debugger/new/test/mochitest/browser_dbg-sourcemaps.js
+patch 344,345,

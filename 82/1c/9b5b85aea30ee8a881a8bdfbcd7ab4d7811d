@@ -1,0 +1,5 @@
+changeset da39be9798ad66987d684506b69a249f1257d55e
+manifest 7223ce67df08b663eb1869be061f6335e48deb18
+extra moz-landing-system:lando
+files browser/modules/test/browser/browser_BrowserWindowTracker.js
+patch 340,384,

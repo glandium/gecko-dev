@@ -1,0 +1,5 @@
+changeset ede85397f7d14961de8903538e7bf8c0a0e0e34e
+manifest 483f60446e49a98189c7214cf6f7a6f6189bbbad
+extra rebase_source:94434d61f0c84c9427216137facebe04abb163f1
+files gfx/webrender_bindings/src/moz2d_renderer.rs
+patch 291,365,

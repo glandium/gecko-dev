@@ -1,0 +1,5 @@
+changeset 1297ded6a01da759b6a2daefaad1d7bbc38bc352
+manifest e1baa0553a31af6dccb55ac80adbdbdc37047c90
+extra rebase_source:350ec2fbdc535a72eed34dc20d67765e4602da4b
+files xpcom/glue/nsThreadUtils.h
+patch 301,375,

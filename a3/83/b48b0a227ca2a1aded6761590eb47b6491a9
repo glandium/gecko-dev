@@ -1,0 +1,5 @@
+changeset 4021b54225626c9b2e52db192b30d94d833be924
+manifest 92beb82afdda25dc5226b857cd000e5f2d31380d
+extra moz-landing-system:lando
+files xpcom/base/nsMacUtilsImpl.cpp
+patch 398,442,

@@ -1,0 +1,5 @@
+changeset 6607cf5eb6837ecef3d0041fe479128529fffacc
+manifest 117ba5b5c1c0e0d7c455efe8658c305deb47c172
+extra rebase_source:b719aea283275305e51dbf9cdfa30ffce2145bb7
+files browser/extensions/pocket/content/main.js
+patch 313,387,

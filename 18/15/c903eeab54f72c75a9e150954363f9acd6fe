@@ -1,0 +1,5 @@
+changeset e524e3cf3a116cdcb8d2c04eb7aacac3a26d85df
+manifest ad89bfdd92198ea110400521b1695311e3cc6f5b
+extra source:47fbdd127336308711e081faa3a88446f94872ae
+files netwerk/protocol/data/nsDataHandler.cpp
+patch 302,369,

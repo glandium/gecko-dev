@@ -1,0 +1,5 @@
+changeset 7d987ede1c798afe693d700258aa8d18ab89cde7
+manifest 8d7287b4dc93243298bd110874d9a447a57e18e7
+extra moz-landing-system:lando
+files js/src/vm/JSFunction.cpp
+patch 280,324,

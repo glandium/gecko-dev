@@ -1,0 +1,5 @@
+changeset 4c40ad65f4724f1e647002dc0f84b6b71cae5f50
+manifest af68072f617712174f3b2e4aface0e9208939076
+extra rebase_source:0ee9d510de5cd8ab20daa1709c7425ca95dc8793
+files xpcom/rust/gtest/xpcom/test.rs
+patch 368,442,

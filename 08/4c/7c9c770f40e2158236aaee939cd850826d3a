@@ -1,0 +1,5 @@
+changeset c92a04d86490eb208e45511ea306c6272be82037
+manifest dbee7e68ceb3550d703ab6fa2f83202585475b2e
+extra rebase_source:7c0a4c3bd3ac364078093f6d98d2c59117c66bef
+files browser/base/content/newtab/grid.js
+patch 286,360,

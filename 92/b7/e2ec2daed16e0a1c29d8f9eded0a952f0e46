@@ -1,0 +1,5 @@
+changeset 13e59d71ac7e0e9430ead70b7016b0b5b5d143da
+manifest 2c3eea959b63acadecb0404eebb57a183abfd378
+extra rebase_source:40c9410ff346085ef597fe21454d24fb779a095b
+files devtools/client/netmonitor/src/components/TabboxPanel.js
+patch 285,359,

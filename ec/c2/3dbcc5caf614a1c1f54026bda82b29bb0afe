@@ -1,0 +1,5 @@
+changeset 343e3f2f6764cc70cdce84e67cc2e383d8600641
+manifest 9b96b2aa28f099c68e1a4ed21dea055c090d84e9
+extra rebase_source:d0d559d52dd09d8f4ce5a08e33dc0680b3ed62f1
+files servo/components/style/gecko/non_ts_pseudo_class_list.rs
+patch 327,401,

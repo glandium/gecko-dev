@@ -1,0 +1,5 @@
+changeset 980a5c4e312ae995737628f5631f71b0c0b8a3aa
+manifest 964ef0633e5b3089a7bc9f4bf0f46bd6eebd0172
+extra rebase_source:4b2b2ecfe10d25f8c982b7781793a421dafb6275
+files devtools/client/netmonitor/components/request-list-item.js
+patch 299,373,

@@ -1,0 +1,5 @@
+changeset 79479820561019d20b344650b7b3c72fb0321aaa
+manifest 2d7064a07ff98e72a30524f12f22cce09508d70c
+extra moz-landing-system:lando
+files widget/windows/nsWindow.cpp
+patch 284,328,

@@ -1,0 +1,5 @@
+changeset 52612b2979b19ca4a0207833645d7f9b58c0d028
+manifest c42e49801f01aa60de0e9e86c1a161d2e3ce1598
+extra rebase_source:d953ad95de93c7de196db655bc85b0ebe5fec42a
+files toolkit/components/normandy/lib/RecipeRunner.jsm
+patch 305,379,

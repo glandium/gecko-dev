@@ -1,0 +1,5 @@
+changeset ee49e510bc537e858ff68398d8a18140545c6689
+manifest 4e934550f1bef3a549033f7ddc3128f1f236f689
+extra source:0afe480c164213fcdb3c438fad934dc504cc35de
+files mobile/android/base/java/org/mozilla/gecko/MemoryMonitor.java
+patch 517,584,

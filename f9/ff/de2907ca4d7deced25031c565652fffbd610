@@ -1,0 +1,5 @@
+changeset 468405fee195426301644c0843303ececb77bece
+manifest 70d2d71d54747dfaf0bc69abd8aa563bd050e4b0
+extra rebase_source:c930c3f2fd8a7c71c8347872607389d4321e4171
+files devtools/client/webconsole/new-console-output/components/variables-view-link.js
+patch 327,401,

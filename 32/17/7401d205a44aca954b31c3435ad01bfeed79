@@ -1,0 +1,5 @@
+changeset 19508ed3af00749d7dbdd3664643a5985066de99
+manifest 81f6d39e3bb050150cff2f7f1d3d91cfd29c745b
+extra rebase_source:01b563546fc76890a100010871b2f7c7d0704e8e
+files services/sync/modules/UIState.jsm
+patch 283,357,

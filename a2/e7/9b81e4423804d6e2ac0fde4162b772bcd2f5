@@ -1,0 +1,5 @@
+changeset 846d96d2edb40886b016b3d1a478c3a7389c9c4d
+manifest 7bf00f0a3925d3339d59018d14b626d4d5af1464
+extra rebase_source:a55544f1b6bd55627ae7ba781f3919efd5bc35ea
+files toolkit/mozapps/extensions/test/browser/browser_dragdrop.js
+patch 293,367,

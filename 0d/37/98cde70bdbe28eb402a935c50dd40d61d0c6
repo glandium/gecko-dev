@@ -1,0 +1,5 @@
+changeset 661e35b83224d2962961d955c834d4c08ce8320d
+manifest 646563e2ba0f23d7bf25a83f5984463428d211b3
+extra source:1bcbd44a34a82c9c96b8e651c867fc94f1690f82
+files intl/uconv/nsNCRFallbackEncoderWrapper.cpp
+patch 289,356,

@@ -1,0 +1,5 @@
+changeset 43aea4af4a2005f96c4b4deb6b1dd5942b91c13a
+manifest 4641a0b6be6c11b9f60019f8e8bb238ee456f72f
+extra rebase_source:671e137b61718e798270782476487aad29aa1f3c
+files browser/tools/mozscreenshots/mozscreenshots/extension/configurations/UIDensities.jsm
+patch 339,413,

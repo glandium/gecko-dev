@@ -1,0 +1,5 @@
+changeset 8d4bac2ca4dace70a1388b0791aaa4774ef73513
+manifest a1b840ad87637c04367561af4060cd94c6a81608
+extra moz-landing-system:lando
+files build/autoconf/expandlibs.m4
+patch 308,352,

@@ -1,0 +1,5 @@
+changeset 8c52db0efc889d18a9254610a35abc50cdd0f796
+manifest 0a07102b1c59e543a0cc4fd35cbbe1cfb08440ab
+extra rebase_source:8f21f469894deb5ae815582dcb7c50625c7b50b8
+files toolkit/content/tests/browser/browser_autoplay_videoDocument.js
+patch 277,351,

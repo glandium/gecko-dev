@@ -1,0 +1,5 @@
+changeset 003ea7d3924f1c439c859d178e64e24a8fffeab0
+manifest 25fcdc806490aed55959eb3be45cfa93fdc708f1
+extra moz-landing-system:lando
+files toolkit/content/widgets/remote-browser.xml
+patch 295,339,

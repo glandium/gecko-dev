@@ -1,0 +1,5 @@
+changeset aab493106146630334cc8e33eb4ca2a0c1c31a9e
+manifest d0ad80bb5d4aa15416b1c446829772468752b68c
+extra moz-landing-system:lando
+files tools/fuzzing/libfuzzer/FuzzerExtFunctionsWeak.cpp
+patch 297,341,

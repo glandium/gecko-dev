@@ -1,0 +1,5 @@
+changeset a2ff82d51552f3e8724b72e7801f88a993c536f6
+manifest 3e24c16219606c3cd74505bbb4fe2c5a2795bf92
+extra rebase_source:80cb04473677db7f3edc9377b2fca4c72eb63b71
+files xpcom/base/nsMemoryInfoDumper.cpp
+patch 699,773,

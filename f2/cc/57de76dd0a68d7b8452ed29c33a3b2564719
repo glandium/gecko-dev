@@ -1,0 +1,5 @@
+changeset 6ac8adb83f39278fe8e3dad9134fde133e142c62
+manifest 02219db975ac8ec8d17e7d2cc6365d33b26e4e37
+extra rebase_source:b8aec435ca9ed6d1432a2ebe91313acb79bf71e5
+files modules/libpref/nsIPrefService.idl
+patch 304,378,

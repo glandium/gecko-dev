@@ -1,0 +1,5 @@
+changeset b7d7c8b1dcb2ade208515c15cd56784df02b19ef
+manifest 1f701d172a09d2b2b16c29d589db7e1cc807331a
+extra moz-landing-system:lando
+files testing/web-platform/meta/webauthn/__dir__.ini
+patch 336,380,

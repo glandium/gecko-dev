@@ -1,0 +1,5 @@
+changeset bacf04be0a480e4d7ea94de3c2677de3e0d5e10c
+manifest d01a8427656703c2e0badb2282645ffb2fb6393d
+extra rebase_source:abbb25f945fa4d04944000934c5d8c88ff08cc90
+files python/mozbuild/mozbuild/frontend/sandbox.py
+patch 287,361,

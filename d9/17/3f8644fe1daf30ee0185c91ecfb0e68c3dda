@@ -1,0 +1,5 @@
+changeset 4e654e9222bd7d2e16ab62bd3d3441059b25d0c8
+manifest b99dd9919adf5944880486f7119d7dcd58f352ee
+extra moz-landing-system:lando
+files caps/nsIPrincipal.idl
+patch 424,468,

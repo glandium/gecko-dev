@@ -1,0 +1,5 @@
+changeset 8e1af99ab1adb64ba631d81f67942dc9b6c48df5
+manifest 923bc0976549cce532f13abb71107efbb13eead4
+extra moz-landing-system:lando
+files docshell/test/chrome/test_bug789773.xul
+patch 419,463,

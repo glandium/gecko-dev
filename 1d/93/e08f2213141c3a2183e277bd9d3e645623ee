@@ -1,0 +1,5 @@
+changeset cf70ea17f0d114e16f362f4e4271c89aeb7ce786
+manifest 74925f1c24e0be3f6f16cc9f31808dc1230a4e68
+extra rebase_source:7336c5bfceaa4286bf3f5b95d4d3bd5727c0745c
+files netwerk/ipc/NeckoMessageUtils.h
+patch 291,365,

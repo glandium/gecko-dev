@@ -1,0 +1,5 @@
+changeset 7ae07e7920fec8d066b757acfc112746a2ab7c1c
+manifest 259fe1b0f65f270c982c47c2869ffd0795aa2444
+extra rebase_source:59a2d59cdea94252e72c6a3efe3a3666d95e61c6
+files browser/components/build/nsModule.cpp
+patch 275,349,

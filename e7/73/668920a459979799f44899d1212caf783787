@@ -1,0 +1,5 @@
+changeset 0a15bd769093aea709311db221e11a62fb2983c0
+manifest 1cf86c835f2ffb8a013fd70b3a4f6ecd53ba694d
+extra rebase_source:81d62722559aeda28eed2c37be4889dae31f65d3
+files devtools/client/themes/webconsole.css
+patch 598,672,

@@ -1,0 +1,5 @@
+changeset b8d266ef27f9801e8b3b3760ce93e4e16c6d8eb7
+manifest 577e0224a1036cabe6b6afd1c66da8ad53ba9d48
+extra source:e922b59832f1be645761b4c67a479880bddb4b25
+files toolkit/library/dependentlibs.py
+patch 292,359,

@@ -1,0 +1,5 @@
+changeset 2adac23ce13a1285d716f611b49d945d6f159188
+manifest 8a5795c679302a7fa8bc61aca8fbbc3e818a4286
+extra source:71ee6c0f02ff2a936d0d6c6fdb20d7d23d6cf063
+files netwerk/base/nsStreamListenerWrapper.h
+patch 281,348,

@@ -1,0 +1,5 @@
+changeset ea7b2708a17ee45895747181a276d7b13e2d72e0
+manifest c233ae1fc15f4f8ddf68a0882477eb99ca3a78c2
+extra amend_source:277b042c5bca1a62d81359ea965e2da100f6eefd
+files testing/mochitest/BrowserTestUtils/BrowserTestUtils.jsm
+patch 272,345,

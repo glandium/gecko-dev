@@ -1,0 +1,5 @@
+changeset dd645a7a4f81fc40928e504f942c125b8469fea8
+manifest fb072584ced764f610f8c2af8afc3993f591d087
+extra rebase_source:e485845b1e4e7b90c9c41f98e4713609f53f00be
+files mobile/android/installer/package-manifest.in
+patch 451,525,

@@ -1,0 +1,5 @@
+changeset 30f6da1b0aba8026d75dce04c6f0ecb4e801ca8f
+manifest 4be77ce4071bc835d6b03c493abdf40ae52d3781
+extra rebase_source:55c4952a9f80a1bdba65c74e818c8bf9c1e4b2d5
+files dom/media/webaudio/AudioParam.h
+patch 333,407,

@@ -1,0 +1,5 @@
+changeset a4280f25a4712c6903bf63cfd16cbb6d65600e48
+manifest 071c397a89c4afe00e685625eb2bb1b1b35fab25
+extra rebase_source:03924c109cc4a0548de2d5dff0f945d8a04f77cf
+files mobile/android/modules/geckoview/GeckoViewContent.jsm
+patch 323,397,

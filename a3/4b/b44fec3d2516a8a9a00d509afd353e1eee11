@@ -1,0 +1,5 @@
+changeset 5d68f5307724344aff045e0c35acf24ecb077b20
+manifest e9bc9000dbc8ac5169c549ec6d816b8949151af0
+extra rebase_source:721c0646e679f52ce2c7b0b86a92caa91fa40836
+files browser/extensions/formautofill/test/browser/browser.ini
+patch 432,506,

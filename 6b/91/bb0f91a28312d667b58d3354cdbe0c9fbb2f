@@ -1,0 +1,5 @@
+changeset 020d3140a05545cfe88da2edabe4831c69ce9db0
+manifest 0b02bb2bef3612a44b24d8bd9391542e9f2cd69f
+extra source:9dc78b12d194ffc0ec9fe9e08626b51dfe02afa0
+files browser/components/extensions/test/browser/browser_ext_omnibox.js
+patch 1343,1410,

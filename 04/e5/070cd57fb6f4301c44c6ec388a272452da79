@@ -1,0 +1,5 @@
+changeset 1eecc3f4c0006e44abd5ee9964b04ab78232cb0f
+manifest 02e962c8885938ada3a86dbba7d14b5c3159a257
+extra rebase_source:4deee90780ac6e34dae44aa60f589b366328bddf
+files js/src/devtools/rootAnalysis/computeCallgraph.js
+patch 293,367,

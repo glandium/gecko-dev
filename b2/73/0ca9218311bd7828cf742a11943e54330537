@@ -1,0 +1,4 @@
+changeset c83344a415617b997c07104a92f085f476d974b7
+manifest 7ef9f6781020871c7764d050bda152cef242546a
+files xpcom/threads/ThreadStackHelper.cpp
+patch 589,590,

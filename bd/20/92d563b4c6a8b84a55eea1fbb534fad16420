@@ -1,0 +1,5 @@
+changeset 256850965ce36f42ce0f6f66db5c26f5dd630591
+manifest 2e3fbd9205ac2ee0a96d8739931cd425f4053349
+extra source:fd5e587c92bfc441ba30bc25350d9facb257d9a7
+files taskcluster/ci/release-sign-and-push-langpacks/kind.yml
+patch 354,421,

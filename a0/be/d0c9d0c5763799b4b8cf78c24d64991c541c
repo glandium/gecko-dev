@@ -1,0 +1,5 @@
+changeset 06e8f4459eb4044c83eb365be47309ae8b0a1e3e
+manifest 7bd3622d904e81b2c80af73e506368d16d2204d5
+extra source:a467f9800f8dc0b48dca0e9a4121b43681cab71a
+files gfx/harfbuzz/src/hb-ot-layout.cc
+patch 275,342,

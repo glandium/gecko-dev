@@ -1,0 +1,5 @@
+changeset 9f9a79521c243d3d71ae385cfcec016de46f134e
+manifest 5bdff5a6e76e659b8f97f7b53db8f5a4f170364c
+extra rebase_source:a51cbdffcb05631876d458f7a19b295fc0bb4642
+files gfx/graphite2/src/MozGrMalloc.h
+patch 334,408,

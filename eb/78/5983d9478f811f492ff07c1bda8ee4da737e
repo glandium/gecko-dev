@@ -1,0 +1,5 @@
+changeset 865bfef2c528b19d30b838760a84cc87f57886a6
+manifest dbe72de6286d0694f6bb0cd964d6567fbd0fbcca
+extra rebase_source:0211c2dd0e60e9ab34555e0b874e343efc42b632
+files mobile/android/app/src/main/res/layout/firstrun_sync_fragment.xml
+patch 318,392,

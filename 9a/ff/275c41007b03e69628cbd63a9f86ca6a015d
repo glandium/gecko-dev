@@ -1,0 +1,5 @@
+changeset 9055726e2d89e54a135b28d9c2dc4162a129fa1b
+manifest eb0b125dc217a60e17c4849ca087146b071ff5d0
+extra source:731639f445e74ce3d7517d0cae46709d9af659ac
+files servo/components/style/invalidation/element/state_and_attributes.rs
+patch 297,364,

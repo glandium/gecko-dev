@@ -1,0 +1,5 @@
+changeset e41e4bbf72ab1283f7ab13d0d8e1b20b7dadcbe5
+manifest 42b32c1d4d5545802e4ce309b725fab39edf9dc1
+extra rebase_source:e8a1f4d7d000194f415e882c137cda2b15a0b7b3
+files mobile/android/services/src/main/java/org/mozilla/gecko/sync/stage/ServerSyncStage.java
+patch 403,477,

@@ -1,0 +1,5 @@
+changeset 02c769f96a9230f601d45d2f19fa83a87c77ef13
+manifest 22ab89647efedc540d0eddfd008eb46778aedea1
+extra rebase_source:4bf46adf68a28c3af2d46967944bc99ab43985a1
+files testing/web-platform/meta/html/webappapis/system-state-and-capabilities/the-navigator-object/protocol.https.html.ini
+patch 364,438,

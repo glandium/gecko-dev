@@ -1,0 +1,5 @@
+changeset 921e4aa179f85855f7c2331a83d8d4aeab0a88ad
+manifest 4f83f07b9ac4cbd93bce8430cf8d913c6696c36b
+extra moz-landing-system:lando
+files js/src/jit/BaselineJIT.h
+patch 295,339,

@@ -1,0 +1,5 @@
+changeset d17398b0dcfcc79cda31971d792bdf15046023ed
+manifest 53e59d3d614a79674a81935a9ffc502e054a8a42
+extra rebase_source:e4deba1e386e79c99bb24447f0fb51a0bd2a96c9
+files devtools/client/aboutdebugging/test/head.js
+patch 643,717,

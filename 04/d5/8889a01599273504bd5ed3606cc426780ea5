@@ -1,0 +1,5 @@
+changeset d457d3406d9df1b8111dbcc84d7f3f126a75d6a2
+manifest 2d90d5424c0dd07bf9106b7471da19f99946f066
+extra rebase_source:a083616baca88f5e1e3051e8ecd1d25ccabd0ef8
+files devtools/client/framework/about-devtools-toolbox.js
+patch 307,381,

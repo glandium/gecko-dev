@@ -1,0 +1,5 @@
+changeset 8ea964e7ab596c985f0b8d9ab86e251b64cadf49
+manifest 199d69a45ef4d2490416860a8aa823dbb3f08d4b
+extra rebase_source:df8162675090133cc949a7d754c0d14a5de5b3c9
+files browser/components/customizableui/test/browser_967000_button_sync.js
+patch 361,435,

@@ -1,0 +1,5 @@
+changeset 508f0c568b834e49fd9b7d2ecbfe44a1fa061da6
+manifest 84108927c1eead7876c1f790c620a8e1c539389e
+extra moz-landing-system:lando
+files browser/installer/windows/Makefile.in
+patch 330,374,

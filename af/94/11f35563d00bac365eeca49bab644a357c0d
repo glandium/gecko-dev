@@ -1,0 +1,5 @@
+changeset a743dea491c904fa89cb0f3a3a3b5945ed4330bd
+manifest 0d4561945f03ce2ebcb64656bc1d99ac55359f58
+extra moz-landing-system:lando
+files browser/modules/test/browser/head_BrowserErrorReporter.js
+patch 318,362,

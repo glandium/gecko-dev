@@ -1,0 +1,5 @@
+changeset 5bf5f9a8b4a73ea713c7d65be42d0628632b7019
+manifest fce95f619e30bc7246e84de9f244d5d00d9fe4ed
+extra rebase_source:e4e133c16c75ecee80293c17703a03c7ce1ef18b
+files dom/base/test/test_data_uri.html
+patch 460,534,

@@ -1,0 +1,5 @@
+changeset 93217373996cd1eb22c8b611c3daacb56dbe2243
+manifest da6b164009a50f01d53507239fb67086d38f7c84
+extra moz-landing-system:lando
+files dom/webbrowserpersist/nsWebBrowserPersist.cpp
+patch 330,374,

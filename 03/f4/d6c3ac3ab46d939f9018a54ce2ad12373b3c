@@ -1,0 +1,5 @@
+changeset 57f23dc56b70bfb36ef223a87cce2ebc4645a443
+manifest d3e8047985aa5598c620dfe3e346f3b45faeba39
+extra rebase_source:1488b7a2d3bab7e9a746ddd1fbf70a155cec3933
+files docshell/shistory/nsSHistory.cpp
+patch 262,336,

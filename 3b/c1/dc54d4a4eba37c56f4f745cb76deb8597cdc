@@ -1,0 +1,4 @@
+changeset 4a43592f14df511247ffcfde4a850003f274f272
+manifest 523639b9acfad819a9b33292900603167122a333
+files taskcluster/taskgraph/transforms/release_notifications.py
+patch 476,477,

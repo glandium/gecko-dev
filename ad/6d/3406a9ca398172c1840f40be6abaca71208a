@@ -1,0 +1,5 @@
+changeset 04e446a673d65800e272084495be737c5e9c1487
+manifest 9857d25fd697b700aee6c18dca7ddefd21277f54
+extra rebase_source:f7f048110551e2ee2c7752ed458ba85b80ba41b9
+files toolkit/mozapps/installer/packager.mk
+patch 306,380,

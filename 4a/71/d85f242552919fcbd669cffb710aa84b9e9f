@@ -1,0 +1,5 @@
+changeset 00074091644d1aab8e83060c14f63e3104089f68
+manifest 36d9cd3f44d926a1799af782374a7d09a1f1bf20
+extra rebase_source:2c42491f121c8279330f0bb797b3600c73a6861f
+files toolkit/content/widgets/notificationbox.js
+patch 427,501,

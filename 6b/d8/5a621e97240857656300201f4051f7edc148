@@ -1,0 +1,5 @@
+changeset 8ed2557771a8cab161267b48ad662da0e4284597
+manifest 1980ddb76b8bcde4f226e8d8d8b654ce014da687
+extra moz-landing-system:lando
+files servo/components/servo_arc/lib.rs
+patch 331,375,

@@ -1,0 +1,5 @@
+changeset a4c591fb03fe13e97e3a1ab4d2a717c343b4acc0
+manifest 6ba8d2d029af950c832672460c9a1d151a545549
+extra rebase_source:04ac6f97e6a3eff7c52e11e3868da0939efd6ffe
+files image/decoders/icon/win/nsIconChannel.cpp
+patch 419,493,

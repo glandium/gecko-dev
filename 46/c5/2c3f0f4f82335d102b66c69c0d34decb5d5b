@@ -1,0 +1,5 @@
+changeset 1d645417b0829d67161fba8f60d61c90fc703be4
+manifest 0644d9aac1558f789000f51581c5942bed1bb557
+extra moz-landing-system:lando
+files build/win64-aarch64/mozconfig.vs2017
+patch 411,455,

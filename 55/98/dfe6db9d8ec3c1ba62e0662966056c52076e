@@ -1,0 +1,5 @@
+changeset aae1e9b911d86c7a31a75884b3fb70e69cf4e670
+manifest 1b501835af98e9424785a7f7b3a4ee6490670b62
+extra source:72a0af4b7041879f651f2222838e41acc5ff60b5
+files layout/generic/nsRubyBaseContainerFrame.cpp
+patch 313,380,

@@ -1,0 +1,5 @@
+changeset ee39b53a33c0f1c908f4dc0499d71420d1a40974
+manifest 5c8b2b69e9f0bcdcb57d81c5538c3d32a0409da7
+extra source:654319f02572019ed83cd20e3fe4b1c4eff1db0b
+files testing/firefox-ui/harness/firefox_ui_harness/testcases.py
+patch 480,547,

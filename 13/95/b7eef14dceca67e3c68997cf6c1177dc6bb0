@@ -1,0 +1,4 @@
+changeset d5f0e270a6eb8920dd83b7378fa31680482c1e6d
+manifest 7b9d0e61f4e681e4b1f8f3f881bf9d94a8fd64ad
+files taskcluster/scripts/misc/build-mingw-fxc2-x86.sh
+patch 212,213,

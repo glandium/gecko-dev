@@ -1,0 +1,5 @@
+changeset 98e8ee4d55ddf9ffecc2e40b4ef7fe3a8220ab3a
+manifest dd8586f28490795f5cab95e256d17d31410df2c6
+extra rebase_source:4f750e77db3ddcfde10a0ee0b741275f1c36200d
+files toolkit/components/extensions/test/mochitest/test_ext_notifications.html
+patch 334,408,

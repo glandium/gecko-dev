@@ -1,0 +1,5 @@
+changeset e694a8efd3827fc04030009d9c5d214a4e3dcfec
+manifest cd3ec8d4b1811769af9787f103fa57f5559ba0fa
+extra moz-landing-system:lando
+files layout/tools/layout-debug/ui/content/layoutdebug.xul
+patch 306,350,

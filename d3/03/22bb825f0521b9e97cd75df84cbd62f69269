@@ -1,0 +1,5 @@
+changeset e18103445f9e44d015e300cf9249f4ffa994ccc8
+manifest d203d1da35809d8bc06a65c3dc9ac7c49c6b5c21
+extra moz-landing-system:lando
+files dom/cache/TypeUtils.cpp
+patch 740,784,

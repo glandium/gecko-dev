@@ -1,0 +1,5 @@
+changeset 17f6d9f37a213278dd1b1048f09c55708185d63a
+manifest e0aca53368373cc3247a69bb5e0029db1603b560
+extra histedit_source:afe73be3365dc80218f2dec2eba0f03030cdb823
+files security/nss/lib/freebl/freebl.gyp
+patch 293,369,

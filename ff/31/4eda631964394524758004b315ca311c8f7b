@@ -1,0 +1,5 @@
+changeset 9842bab5fcf8790922d2fe415ed720e917ef1997
+manifest eb5d20251b75e3a69d95c5dd86214aa69284205e
+extra rebase_source:8ea798abe88d3fdea53f6e9aeaa81eb304eb1957
+files taskcluster/docker/funsize-update-generator/scripts/mbsdiff_hook.sh
+patch 303,377,

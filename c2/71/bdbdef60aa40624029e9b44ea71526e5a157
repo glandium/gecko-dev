@@ -1,0 +1,5 @@
+changeset 355a965b180c95d3e75f859c0d8605b661270dd5
+manifest 3c326c56ac30a8236b7dd527212d063a576c0093
+extra source:fb8794293bc684e58a0927b8560052a6146cac5c
+files xpcom/threads/Queue.h
+patch 272,339,

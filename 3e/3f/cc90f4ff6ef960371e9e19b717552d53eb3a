@@ -1,0 +1,5 @@
+changeset bf0dd9ae6807aab478338257556bb9b25428a749
+manifest 00592e211e0bd16eba81d8da346bb38f17eb0963
+extra source:361ac226da2a83516db8d4e4c5b41a69b3ba754f
+files netwerk/protocol/http/Http2Session.cpp
+patch 275,342,

@@ -1,0 +1,5 @@
+changeset 2087dafb1eacbff427122c0b146f9c903658fafc
+manifest b532b5a42775842438536ccf4f9dd307f7ec543b
+extra moz-landing-system:lando
+files widget/gtk/WindowSurfaceWayland.cpp
+patch 354,398,

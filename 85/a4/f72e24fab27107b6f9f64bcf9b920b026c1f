@@ -1,0 +1,5 @@
+changeset 13c57542ba14f008d5f8240ba5ae2055fb7ae586
+manifest b2000e40fba6603c446bc61e99d2d5190e216181
+extra rebase_source:c70116fb663ad97fc24bc86046505b0fb3d5a200
+files toolkit/xre/nsUpdateDriver.cpp
+patch 330,404,

@@ -1,0 +1,5 @@
+changeset 4f2f1e1c6362bd5b8a2d273662b4ad4414d8f320
+manifest 6ae4858f00163e8a983aad919ff849e8c0541e97
+extra rebase_source:b7f6e088a0b500ee77dd344a16aacc3f0dcaac29
+files mozglue/build/SSE.cpp
+patch 267,341,

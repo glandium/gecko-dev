@@ -1,0 +1,5 @@
+changeset 5cc64824d09156b007edc54d2189a62566f3ff78
+manifest cc156e75a7bcff0c7cb5295d152a46d0056aa7f1
+extra source:18eaf95d0d9695029ab9767c39e35ff9963eda52
+files browser/components/migration/tests/unit/xpcshell.ini
+patch 283,350,

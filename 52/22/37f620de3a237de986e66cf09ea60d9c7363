@@ -1,0 +1,5 @@
+changeset a1a1f209f8256e0a9742805d9d832e322b7e5b25
+manifest b5d922a1108a099728d96d7574228ca769dfe876
+extra rebase_source:b011a5ce0247abe3f88ce73bfcf113afc1df52af
+files mobile/android/app/src/main/res/layout/activity_stream_webpage_item_row.xml
+patch 540,614,

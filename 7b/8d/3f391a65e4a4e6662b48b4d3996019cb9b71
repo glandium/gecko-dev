@@ -1,0 +1,5 @@
+changeset 474161ab8301878797a4cc1ea544b9bfb9fba543
+manifest dc59fa1bf87efd10ec579e02e1054ba6b8ade2f0
+extra rebase_source:eecf3314f416e0f77cc364eefc008deb81933ddf
+files editor/composer/nsComposerCommands.cpp
+patch 482,556,

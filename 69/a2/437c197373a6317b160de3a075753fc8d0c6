@@ -1,0 +1,5 @@
+changeset 0d5e2c4f446b8302528f0c9e42794ea5111f89a2
+manifest 92d1798df6e2eb234ab97fc0aeb72a933e2d860e
+extra moz-landing-system:lando
+files testing/mozharness/mozharness/mozilla/firefox/autoconfig.py
+patch 304,348,

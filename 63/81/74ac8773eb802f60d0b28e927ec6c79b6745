@@ -1,0 +1,5 @@
+changeset d7ba5883b259d3ba647894b7e0bf53587331df9f
+manifest a752727ffcea8d388175ab431e13b1e9dac93857
+extra moz-landing-system:lando
+files modules/libjar/nsJARChannel.cpp
+patch 540,584,

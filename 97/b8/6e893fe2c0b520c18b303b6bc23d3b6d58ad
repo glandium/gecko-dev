@@ -1,0 +1,5 @@
+changeset 2b8802e0b8af15ed80b625072fd07a641f52ba9e
+manifest b25073d31404dd53c6ad1f34b4f0da82ac7299b3
+extra rebase_source:f31c89e010661798506c9ed334a71f97a9e8ad6d
+files toolkit/mozapps/update/common/pathhash.cpp
+patch 322,396,

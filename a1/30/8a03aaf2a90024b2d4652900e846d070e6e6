@@ -1,0 +1,5 @@
+changeset b6d7250b9df350bbd32a904076e8c3bcd76ff4fe
+manifest 7e4b4f022311b0f211f957104d4346b1f3a3374c
+extra rebase_source:ab44f719e586a6e9d9484f3583dd5eb5447dafd6
+files js/src/devtools/automation/variants/fuzzing
+patch 251,325,

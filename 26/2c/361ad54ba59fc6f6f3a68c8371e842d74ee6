@@ -1,0 +1,5 @@
+changeset 67315954145e9cae0efe8c5323452a70a13c5484
+manifest e252b0b5a3fcd3e73ecfcadade30655e4d76488f
+extra amend_source:f5ede6ac54301e636e122bf6e2dc98057633b436
+files netwerk/protocol/http/TunnelUtils.cpp
+patch 282,355,

@@ -1,0 +1,5 @@
+changeset 073f33ff1ecf7bffb862281ec31ae00870333ece
+manifest 646ca404358789c67343ac6b65615d17f5ef5a97
+extra moz-landing-system:lando
+files devtools/server/actors/accessibility/walker.js
+patch 357,401,

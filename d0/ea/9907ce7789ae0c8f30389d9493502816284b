@@ -1,0 +1,5 @@
+changeset 603f5f026cf4f983f618406b291acf26dae743da
+manifest cc21254732b5d447f35b76b099c526e7398c4775
+extra source:4754347391a81070e2dec72f1cb171fa35e2aa2f
+files dom/workers/WorkerScope.cpp
+patch 454,521,

@@ -1,0 +1,5 @@
+changeset ddcf3daa268ca6ee795480813e91dd8ac3d688d8
+manifest d7d546c4803b9172825b0679b33ef6afa7da7f18
+extra moz-landing-system:lando
+files gfx/thebes/gfxGDIFontList.cpp
+patch 336,380,

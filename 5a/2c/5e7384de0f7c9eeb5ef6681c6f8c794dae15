@@ -1,0 +1,5 @@
+changeset 1878e7f3c0e74d70a850a0c5ab31b59464ef6dd2
+manifest 7cc855256ad35cb12ee4bd192a93e3097ba82029
+extra rebase_source:f0dd88bc3feea83bf325be926260a1659a334b5a
+files js/src/frontend/binsource/src/main.rs
+patch 508,582,

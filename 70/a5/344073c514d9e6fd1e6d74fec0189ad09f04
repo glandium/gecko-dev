@@ -1,0 +1,5 @@
+changeset 8a35f552ed5f26bfb29ad70c19682315b157a678
+manifest 74a633a040e3c6eaa3ece7da4fc410e7c5a71f66
+extra rebase_source:4dda4f9628f8879626f3fe40df52feba6e18aa00
+files parser/htmlparser/nsScanner.cpp
+patch 286,360,

@@ -1,0 +1,5 @@
+changeset 8b65605994f94db8fc544c8e4f2cee0425b6a1d9
+manifest 84dd4e1185d5d50e322a0ae87fd194654a271932
+extra rebase_source:a660040f1c8de7c54ab5bc5c9385b5882e69777c
+files testing/talos/talos/talos-powers/chrome/talos-powers-content.js
+patch 333,407,

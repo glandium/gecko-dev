@@ -1,0 +1,5 @@
+changeset a93c354443ec1c7005d7fa93a9ef6c45ec596bd4
+manifest 64a9a08105ecb7e375f8fa18db0fabf788c42d2e
+extra source:ba747e6f311fc8d89b2d681aa0c1802a7569f187
+files testing/mozharness/configs/builds/releng_sub_mac_configs/64_devedition.py
+patch 385,452,

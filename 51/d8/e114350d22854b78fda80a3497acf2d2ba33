@@ -1,0 +1,5 @@
+changeset 636405b06158a43b7a4c16d1ed9772fc0f7288f1
+manifest 4504ac5b71eb21ed9c1c52e5e310b8dec0962115
+extra rebase_source:7738eb3d80815f4caab4beae848541b84befd57b
+files js/src/frontend/NameCollections.h
+patch 268,342,

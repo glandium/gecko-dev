@@ -1,0 +1,5 @@
+changeset 87a9bacef9df5e40ccfea4977a27286fd846500c
+manifest c5b3e614f3133f3a7208895973e598d2c17492f5
+extra rebase_source:baf879a6a2a078491b389072827490134a71ac8d
+files toolkit/components/extensions/test/mochitest/test_chrome_ext_idle.html
+patch 815,889,

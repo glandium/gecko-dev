@@ -1,0 +1,5 @@
+changeset a6fd8299991243e3c2d5fede292a890659108bd0
+manifest 64a0564707bccc3b0ae4fb33e1b7a1ab9736a67b
+extra moz-landing-system:lando
+files toolkit/components/telemetry/core/ScalarInfo.h
+patch 317,361,

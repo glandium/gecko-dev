@@ -1,0 +1,5 @@
+changeset f6a9c476a2dba0632853685a87ab0c6e897d82bc
+manifest 06179ea93891e6e953e2badbfd72a5d05f43d775
+extra rebase_source:73d88b17a1d2d50b99c34404d5b7c0894af5c1f8
+files layout/reftests/forms/input/number/focus-handling.html
+patch 318,392,

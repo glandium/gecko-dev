@@ -1,0 +1,5 @@
+changeset ded1106572c695a81e47007474e096b507c18679
+manifest 01f221d8b5ab6f84574bb59c8d4073240da136ff
+extra moz-landing-system:lando
+files browser/themes/shared/controlcenter/panel.inc.css
+patch 426,470,

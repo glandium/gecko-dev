@@ -1,0 +1,5 @@
+changeset fc53ac8389fdbc812d2edb04993d1947f343c1c0
+manifest 6d711b50c8de127552d5800f7abf0f5e210c7374
+extra source:ae01497c1ed8ee14a7fb26f2f8c7380cc8ee8e24
+files mobile/android/base/java/org/mozilla/gecko/tabs/TabsLayoutRecyclerAdapter.java
+patch 320,387,

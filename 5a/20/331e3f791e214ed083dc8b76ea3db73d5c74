@@ -1,0 +1,5 @@
+changeset d1415db52fe837241d2d7bcc1cf242159806d837
+manifest 21d821059bcf41aa98a6dc02d9ceda4334ed4a26
+extra moz-landing-system:lando
+files browser/components/search/searchplugins/list.json
+patch 299,343,

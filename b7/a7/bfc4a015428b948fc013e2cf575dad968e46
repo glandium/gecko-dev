@@ -1,0 +1,5 @@
+changeset 9fa0c7eb6bbeddebed93d0fb353a7dfa6740da7e
+manifest a54f6bddf520b2b3069b2a346f86c655a904d276
+extra rebase_source:44644a63ddb401e409cddcd654025b8a8e9e0bfb
+files config/external/nspr/pr/moz.build
+patch 283,357,

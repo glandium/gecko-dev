@@ -1,0 +1,4 @@
+changeset 8d967436d696d1f8e3fb33cf7e3d32a72457ffa6
+manifest d35a756ffd1294ee8428d481ab0d277c1c81bc91
+files security/nss/lib/freebl/ecl/ecl_curve.c
+patch 189,190,

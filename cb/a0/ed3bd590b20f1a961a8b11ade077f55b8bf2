@@ -1,0 +1,5 @@
+changeset 5df14ee6bba6e71dae8058a6ab1a50c314a48a8e
+manifest 3b669178948467a55ff3c88afcdc1901c09e153a
+extra rebase_source:d44256d1881c5f76bfc51c2f42c39955f66e62d4
+files devtools/server/actors/styles.js
+patch 398,472,

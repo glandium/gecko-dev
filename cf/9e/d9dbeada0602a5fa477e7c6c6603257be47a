@@ -1,0 +1,5 @@
+changeset 51786eff9fa18f156357ac441a2452ea4e2b4aaa
+manifest 1a7b332a4d2f4c9571076ee0af0d388988e9d999
+extra rebase_source:a4ee0a3a50770de6a8dc1829d42a5e46da9b40ff
+files gfx/config/gfxFeature.cpp
+patch 334,408,

@@ -1,0 +1,5 @@
+changeset 2582a92759c4f299ed9d7a5b6c99f1ffe13cda99
+manifest b2006bb8f091d637d5ba6e81d069f5cf0171c5c5
+extra rebase_source:3632a9abf9fac3f916ed9043f30d4b6aa4abb390
+files taskcluster/scripts/builder/build-sm-package.sh
+patch 725,799,

@@ -1,0 +1,5 @@
+changeset e61b91204cce35bc148e0bf6fa1e4bb537a51db0
+manifest 0acf70b80a332f3638352d6567e6fe3943a8be11
+extra source:0cd30c515243de41469c58335e95b2cb34d6c00a
+files intl/l10n/MessageContext.jsm
+patch 273,340,

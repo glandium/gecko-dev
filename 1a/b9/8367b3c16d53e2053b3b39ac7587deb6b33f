@@ -1,0 +1,5 @@
+changeset 7bea6415eb77a24fd20b0466439142ad0a37070e
+manifest 1fc65b73d575df0fb20f027061e8e599163d5abc
+extra source:833205c1f498bed137fb2e0a06d14ef31e3c0609
+files media/webrtc/signaling/src/media-conduit/WebrtcGmpVideoCodec.h
+patch 284,351,

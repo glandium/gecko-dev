@@ -1,0 +1,5 @@
+changeset 29d5b5f6514cd950feb4b48c19df340b4192e43f
+manifest f6d1492c0faad6547fa26ce5b4b18c4296eb4664
+extra rebase_source:5ac29c3dc12f4b8f24846a9d50cccaf2df66bb7c
+files media/webrtc/signaling/src/sdp/SdpHelper.cpp
+patch 294,368,

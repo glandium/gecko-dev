@@ -1,0 +1,5 @@
+changeset 0bd574d7979a3cbbdf70f162d5b917b46c133b5e
+manifest 2313ba9e434d297721a89dcfaf9ec62606668a25
+extra rebase_source:dcfd7e5b2508b2754b3e70753512428560aa8c76
+files browser/themes/shared/incontentprefs/preferences.inc.css
+patch 305,379,

@@ -1,0 +1,5 @@
+changeset 83488f147740483a4e59be8a0c4934303032d131
+manifest 5c35d66ea12b295da04879c5aaef6d2b4cc49d4f
+extra moz-landing-system:lando
+files gfx/layers/opengl/CompositorOGL.cpp
+patch 328,372,

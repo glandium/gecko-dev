@@ -1,0 +1,5 @@
+changeset 1b4dea0fe0213d36833103764921046ec41bcca6
+manifest 7db27b273f5926177cb573fd3b89dcaa6b175826
+extra rebase_source:66fe8aeef5314fe06ac59ae025b1321fcc1195fc
+files devtools/shim/DevToolsShim.jsm
+patch 466,540,

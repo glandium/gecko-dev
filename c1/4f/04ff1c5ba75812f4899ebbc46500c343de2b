@@ -1,0 +1,5 @@
+changeset b8da99694cb6a61ea346e6369333c3b88a283bdc
+manifest d7947d71aa81eab4f75d349d5f92160c5da03ec3
+extra rebase_source:8b72010b40f6e7acbe0cabef42772e6f1d0f306c
+files browser/themes/shared/compacttheme.inc.css
+patch 287,361,

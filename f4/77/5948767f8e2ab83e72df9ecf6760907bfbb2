@@ -1,0 +1,5 @@
+changeset 6f3faf69d7e54c4858a08d6cfbc87ac465ac0d0c
+manifest 170269600a5a4518240e98905dcf9069c776b58e
+extra rebase_source:8be5d5deb27370eb496f6e9f8a1f07cd7bc57e37
+files mobile/android/branding/nightly/configure.sh
+patch 317,391,

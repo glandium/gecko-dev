@@ -1,0 +1,5 @@
+changeset 2dc612bec44b88be0bf484a0e0b3901ada89481e
+manifest 729a2912b8c2b98caac3913926820f4b4882bea7
+extra rebase_source:ae063db5a4b5b14bc4a3a8f64adbbecfc897edd9
+files js/xpconnect/src/XPCCallContext.cpp
+patch 435,509,

@@ -1,0 +1,5 @@
+changeset 786d4f45669071091ab246f12265b3ab87aab6ff
+manifest 889bf37fd876a4762de664e77bec99db53516fb2
+extra moz-landing-system:lando
+files layout/generic/nsGfxScrollFrame.cpp
+patch 523,567,

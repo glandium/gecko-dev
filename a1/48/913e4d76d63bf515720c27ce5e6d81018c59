@@ -1,0 +1,5 @@
+changeset f3bc73c747e847db4243cf1167720fd69d62fe51
+manifest 146a9f2e6f8746fab183c1379b3bcfe48037a159
+extra rebase_source:0fa1d6ab54499dba8da9182adeaa3117ee8c8b98
+files media/libvpx/libvpx/vpx/src/vpx_encoder.c
+patch 264,338,

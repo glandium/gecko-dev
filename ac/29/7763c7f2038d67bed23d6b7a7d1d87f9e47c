@@ -1,0 +1,5 @@
+changeset b25b847801a8071020b103403f2e21c516517f3c
+manifest 00cd76675ac903b9e1d06c22eeefa83f180438b4
+extra source:f04b50b7f24a8ee134347334490de7b6ac0c15e5
+files gfx/skia/skia/src/gpu/SkGpuDevice.cpp
+patch 288,355,

@@ -1,0 +1,5 @@
+changeset 07bc82c0e6e03dba1d04eb799d00adcda5ab64bd
+manifest 70b06e1202b7f5c176b4539c6029f03cf4766662
+extra rebase_source:d26190c57e396671f68f679aa33aa1df0bfe5bea
+files gfx/2d/BaseRect.h
+patch 259,333,

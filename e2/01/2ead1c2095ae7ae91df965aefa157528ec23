@@ -1,0 +1,5 @@
+changeset 0dde8401aa7045c9233aed3a2121047ef3867733
+manifest bc00a516e68a79a80fe34ae45d8bea8b92b45cca
+extra rebase_source:a1470514313fcd0ddbe5316da49ad00eac0910a0
+files taskcluster/taskgraph/transforms/gecko_v2_whitelist.py
+patch 292,366,

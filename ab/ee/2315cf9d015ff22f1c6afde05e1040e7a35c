@@ -1,0 +1,5 @@
+changeset 80d23d1f307d2c28619a0655f76acb51b033ec3f
+manifest b12f55eb160fe4b826082c1be75a64eda5e9ac11
+extra rebase_source:0c1adf5e72ec033ade37b69dbfcec3b1dbae9fe7
+files mobile/android/base/java/org/mozilla/gecko/restrictions/RestrictionProvider.java
+patch 317,391,

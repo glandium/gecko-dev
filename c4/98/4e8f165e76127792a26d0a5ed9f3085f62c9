@@ -1,0 +1,5 @@
+changeset 86c5b56e42f622716028f93ed5475e94c42920c4
+manifest e2bb8c8518195d8dc3f5779cfb9be51b9ec736ae
+extra rebase_source:d50302bad066b19afb88bf022b36a8ac6ff67cde
+files python/mozbuild/mozbuild/vendor_rust.py
+patch 316,390,

@@ -1,0 +1,5 @@
+changeset 88dd8c893e26601e45bc0da7bb88cc9ab596d483
+manifest c873a50730271b6b71ed769232df2ffcd715c2ed
+extra rebase_source:26d2bb660c275ef98c799a11d23afb77b3c39476
+files gfx/layers/d3d11/CompositorD3D11Shaders.h
+patch 280,354,

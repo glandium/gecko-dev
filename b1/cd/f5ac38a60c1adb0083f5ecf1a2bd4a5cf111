@@ -1,0 +1,5 @@
+changeset 32371cb3206a39ed863df230cc7c8b318523ba25
+manifest f4b5bec30ad297ba0896b22eeba952340f5eb649
+extra rebase_source:87b92fbeb8b5dfbf7ae5425aff3bb5815daecc04
+files js/src/jit/ProcessExecutableMemory.cpp
+patch 286,360,

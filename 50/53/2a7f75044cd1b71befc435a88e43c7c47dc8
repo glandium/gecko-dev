@@ -1,0 +1,5 @@
+changeset f9ef4b24affae8cf8b72973c6d2f76e65bd986d8
+manifest 81df72a221c9e6a00cae8d2d0e9d4e539aa6737f
+extra source:c85e2fe3af3bf7617cf737f7dad350b46c436b06
+files mobile/android/stumbler/java/org/mozilla/mozstumbler/service/stumblerthread/scanners/WifiScanner.java
+patch 471,538,

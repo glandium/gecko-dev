@@ -1,0 +1,5 @@
+changeset e35ef7dd3a1d92038f934328075502f19f52bbdf
+manifest 17b51243ff4bc15d5e8e025cc5aa90dcf7933fc1
+extra rebase_source:0163c244ae050e06f2f1ff65d76731382789d77d
+files devtools/client/inspector/fonts/components/FontEditor.js
+patch 305,379,

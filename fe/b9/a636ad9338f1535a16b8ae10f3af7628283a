@@ -1,0 +1,5 @@
+changeset 972a66d8aab1cc6d01bb8acbe2741c47faee3d1a
+manifest 5a1879613ef755670b86564a3e98457bedf78e95
+extra moz-landing-system:lando
+files mobile/android/geckoview/src/main/java/org/mozilla/gecko/GeckoScreenOrientation.java
+patch 455,499,

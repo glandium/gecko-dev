@@ -1,0 +1,4 @@
+changeset 432c0dee9e826a15c3734b24df27cb8493484129
+manifest a4863c8bc1614dfed7914fcd14efdc154e25baef
+files python/mozbuild/mozbuild/frontend/emitter.py
+patch 295,296,

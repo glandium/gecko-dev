@@ -1,0 +1,5 @@
+changeset 28132fc715f7a703a063867310fc58718053fc5f
+manifest d594e9387ecf478ee31be2feda3dd45a78838137
+extra rebase_source:2b4fc908e7c611a36ac8766b9ce7ccd55f2c5620
+files tools/profiler/gecko/nsIProfiler.idl
+patch 398,472,

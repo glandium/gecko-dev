@@ -1,0 +1,5 @@
+changeset c4d8e0ccc2baae65df6f16278ec01d2b45d4490d
+manifest 5994b53801c051da9d43917da9c662bdfff0a069
+extra rebase_source:b1dc47f519cf8c6c0c21f09fd101919d744c8e46
+files mobile/android/base/java/org/mozilla/gecko/activitystream/homepanel/menu/BottomSheetContextMenu.java
+patch 385,459,

@@ -1,0 +1,5 @@
+changeset ab7f1db24dde0647fbe476237b6684a5201f07cb
+manifest 1bff4a2041f3eb4b59d29ea5a55b36738c193472
+extra source:ef8a9e1202729695310835709d7345e410456a8b
+files gfx/layers/apz/src/AndroidVelocityTracker.cpp
+patch 365,432,

@@ -1,0 +1,5 @@
+changeset 00ad109ba6a6999b1bb3e205cf3d1af807a4e7c1
+manifest e369b161687e7d70c2cb76e0e7918d81a483e8ce
+extra source:5df20eaa8ef4c3eff723c1d597a439e141395881
+files toolkit/components/passwordmgr/LoginManagerContextMenu.jsm
+patch 355,422,

@@ -1,0 +1,5 @@
+changeset 7109102a6cdd6c4764ae9fdbd6fa4effdb1688ab
+manifest 884ea965ad78d6426722ad3873df535ccb4287ec
+extra moz-landing-system:lando
+files js/src/vm/JSContext-inl.h
+patch 298,342,

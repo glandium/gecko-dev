@@ -1,0 +1,5 @@
+changeset f681d554e292cc3ce7b5f22be7c96e7464094211
+manifest a78d06e4353c3b4eea1422476b11c1d847c97b43
+extra source:fb576536eafbc397e9dfccc49412bab4f078ce31
+files gfx/angle/src/libANGLE/renderer/d3d/d3d11/StateManager11.cpp
+patch 824,891,

@@ -1,0 +1,5 @@
+changeset ac8281636fba946242d7da3357948443cca6aba9
+manifest e72076ca231ee11c069f67d38fdf878e025e2e22
+extra moz-landing-system:lando
+files mozglue/build/WindowsDllBlocklistDefs.h
+patch 288,332,

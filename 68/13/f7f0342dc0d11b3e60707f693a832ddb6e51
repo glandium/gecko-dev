@@ -1,0 +1,5 @@
+changeset dd213fedfae9f58b046f5868656a8a9bc6376bfd
+manifest 05c5cb4d43a4e63e552629600c819ad9d242d864
+extra rebase_source:c3adb3b6133d32df94fd6160176fb45d4a720016
+files toolkit/components/extensions/schemas/theme.json
+patch 297,371,

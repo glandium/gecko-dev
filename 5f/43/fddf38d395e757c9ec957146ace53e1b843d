@@ -1,0 +1,5 @@
+changeset 1504ecb0dc313309a769ee52bafe56f655d36899
+manifest d2706d15c7505776efe861f8c938029294264f6f
+extra rebase_source:f0af8f94e3b1897d929841d192f5a52307d1f4e0
+files toolkit/components/thumbnails/content/backgroundPageThumbsContent.js
+patch 324,398,

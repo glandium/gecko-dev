@@ -1,0 +1,5 @@
+changeset 25f35a82a1761e1b90e3cbd4ef9962a543b5b6cc
+manifest 2ecc1dafdb5ba35bbf404647c579bfe935979e79
+extra moz-landing-system:lando
+files tools/tryselect/docs/selectors/index.rst
+patch 291,335,

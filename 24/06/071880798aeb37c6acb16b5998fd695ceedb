@@ -1,0 +1,5 @@
+changeset 3ac144929b5bbfc201acb504bec940dfc47d80e8
+manifest 889e734eef9a3b3f9f80a846ce374dc559dd0058
+extra rebase_source:1a99a824f00a810d45ad11b261f20563ae473a53
+files toolkit/components/normandy/lib/AddonStudies.jsm
+patch 549,623,

@@ -1,0 +1,5 @@
+changeset ef6ee3788c6bbe3c6c96f23054b0901ea09cd325
+manifest 1cdd271e54fd64a1228ec60106d8e5cd11eb1994
+extra rebase_source:d8aaa6a4e180cc416e3bb4836b3555ca4ec29985
+files docshell/test/browser/browser_loadURI.js
+patch 247,321,

@@ -1,0 +1,5 @@
+changeset 5093649180890f591ea10137025f8354ef1b1d6d
+manifest 09873ea1545a91a12586597d07a9973683e3e809
+extra rebase_source:ab137c3fe504555155f998b7d7e4332f9f802fae
+files widget/gtk/WindowSurfaceProvider.cpp
+patch 304,378,

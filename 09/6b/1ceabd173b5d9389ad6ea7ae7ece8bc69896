@@ -1,0 +1,5 @@
+changeset e82fba8c981774db8d37055717d7a7e1fbe43497
+manifest 064650fff1e6afe0fd33ad25d0ed00eabea19e4f
+extra rebase_source:e8e1a269d7ce658f12df3993803b0ff619024409
+files mobile/android/base/java/org/mozilla/gecko/mma/MmaLeanplumImp.java
+patch 321,395,

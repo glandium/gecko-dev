@@ -1,0 +1,4 @@
+changeset 951b80dd2b7162430954fa5dc065506604ce645d
+manifest 06762e623c368746094aa75d731ac2c3fb01c6c7
+files servo/components/plugins/lints/unrooted_must_root.rs
+patch 356,357,

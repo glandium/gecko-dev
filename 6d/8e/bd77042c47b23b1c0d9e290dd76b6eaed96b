@@ -1,0 +1,5 @@
+changeset 895eb260e9460d65b84982846c5867c3c49073af
+manifest f3d017a42724a6c99b96a26e7712fd7369fba919
+extra amend_source:b1eff8c536bcec5112211007347f558e32164905
+files xpcom/io/FilePreferences.cpp
+patch 356,429,

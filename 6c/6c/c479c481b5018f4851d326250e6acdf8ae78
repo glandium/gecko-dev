@@ -1,0 +1,5 @@
+changeset e9f2468ade24ec0a743f79c0f6adb4445a12722e
+manifest f855d62a592d1a644b5d652f9e7d48479db75096
+extra rebase_source:b94b38dc9cb714256cb03ec2db8a8d58f86e324d
+files mobile/android/modules/Prompt.jsm
+patch 312,386,

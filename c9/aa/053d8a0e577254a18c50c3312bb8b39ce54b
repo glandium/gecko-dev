@@ -1,0 +1,5 @@
+changeset f854addeb3f004b4d3a724ae95ef5d5fe74122e4
+manifest 21a7babe89e449da267a6eb3a9ec2ece64870e34
+extra rebase_source:bf2c253cdba0c2fcf079a5b9bb275d39c6074f44
+files ipc/mscom/RegistrationAnnotator.cpp
+patch 394,468,

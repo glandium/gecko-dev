@@ -1,0 +1,5 @@
+changeset 8aa60df47b04f3d53d0c243c8a1c2d9cfeaaf6ae
+manifest 87813600b2ff89f13c2211192f9224d82fa18486
+extra moz-landing-system:lando
+files testing/web-platform/tests/css/css-device-adapt/documentElement-clientWidth-on-minimum-scale-size.tentative.html
+patch 490,534,

@@ -1,0 +1,5 @@
+changeset e9b8b0ba18f4a73caa8425c60ebd5c4df133f58d
+manifest 80424c9ee3598957a41e39a21dcbc8f4cc643e19
+extra rebase_source:56e74b0d50314c3b56de97e97214bd6d9e06bd59
+files gfx/skia/skia/src/opts/SkBitmapFilter_opts.h
+patch 267,341,

@@ -1,0 +1,5 @@
+changeset 42e7b44ca1e42b8a77447888aee92fe359838e98
+manifest afd6150e9d210d25bc324f77174dadfc9f8ba761
+extra rebase_source:458ddee460e9bade8b12699ccaaff70f1c2f4428
+files js/src/jit/x86-shared/AssemblerBuffer-x86-shared.h
+patch 266,340,

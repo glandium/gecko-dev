@@ -1,0 +1,5 @@
+changeset 1bdc72400af46b260dfa8da2328259f73bb5c1e0
+manifest 40e688001f6a58476655a75d6a5bbda5042e468a
+extra source:96c6921fef5af066d12c1b62ac0e47e13345b944
+files dom/base/nsIGlobalObject.cpp
+patch 316,383,

@@ -1,0 +1,5 @@
+changeset f4d76f03dcab09d7895b024ecfb8201b4c1c8328
+manifest 7e9b2006243e453d1a11b351161abf40c95c8cff
+extra source:2aede0d5656f05304e2a584cabd0ce9c0337723f
+files toolkit/crashreporter/client/crashreporter_osx.mm
+patch 305,372,

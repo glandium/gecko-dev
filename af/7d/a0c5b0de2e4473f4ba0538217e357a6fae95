@@ -1,0 +1,5 @@
+changeset d7e30b8499cdcda4c45488cd1377e517ccc0bb88
+manifest 160cde495935c5cd9daa2111716b3d3209e9838d
+extra rebase_source:3de56a45e1394118b1f68c2242136a653044f677
+files mobile/android/modules/Sanitizer.jsm
+patch 491,565,

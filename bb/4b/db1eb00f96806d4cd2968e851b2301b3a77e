@@ -1,0 +1,5 @@
+changeset afba28bafc9dcce6670a4609503bb98e5cd7c9c0
+manifest ae474c9b286934a4c73db20991f52d2d258047cb
+extra rebase_source:72da99ce55abc5d048486be2f2d3b6f4a3542fab
+files devtools/client/netmonitor/src/components/security-panel.js
+patch 305,379,

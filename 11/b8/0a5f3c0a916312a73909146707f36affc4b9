@@ -1,0 +1,5 @@
+changeset e287f4cad6d4b3a3584b26526b6fa2018875efd5
+manifest 59b2a6701668b3be80861339a0c4454351b14f8c
+extra source:f24efcd4d6d8367a5661e0b23e60808f6d739cd8
+files testing/web-platform/tests/webdriver/tests/support/inline.py
+patch 314,381,

@@ -1,0 +1,5 @@
+changeset 6530b0f9d6377a80ee44e6b2a1cc1fd55d094c55
+manifest b33527aebffc34151ac3dc7067a4a49475c9b1d0
+extra rebase_source:fbfa259121a8d79bfc44695397d0d1ce08123558
+files layout/tools/reftest/manifest.jsm
+patch 1134,1208,

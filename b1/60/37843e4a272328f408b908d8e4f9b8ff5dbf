@@ -1,0 +1,5 @@
+changeset 3159a025e57a9e6e9339129eb3e8987d727690db
+manifest e7a8e196fc57e7c3b22138ee4d3c22d0b6be000e
+extra rebase_source:1850e7365b903269c034efc6b89257ebe3834161
+files taskcluster/ci/android-stuff/kind.yml
+patch 317,391,

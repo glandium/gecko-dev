@@ -1,0 +1,5 @@
+changeset 3411f1c818f69059bfb93b4fcb105f41647846b6
+manifest 84499dd676543754e56291d71459293ecd70786d
+extra rebase_source:5e19d7c405f243b602ee2beca3a94b880eddb27e
+files mfbt/NotNull.h
+patch 277,351,

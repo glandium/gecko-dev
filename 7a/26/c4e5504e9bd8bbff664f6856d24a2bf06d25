@@ -1,0 +1,5 @@
+changeset 476c7c57b03c953a7c109c829172c22e6d1411cf
+manifest 80d87e90bf20a1f3349b322c33be11dfeae588ed
+extra moz-landing-system:lando
+files testing/mozbase/mozdevice/mozdevice/adb.py
+patch 688,732,

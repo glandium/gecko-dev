@@ -1,0 +1,5 @@
+changeset 5fd809e7035df96a1da4273affd017a125b47256
+manifest 03c6faba664ac14d61f4713711d53e63f7fb1f47
+extra moz-landing-system:lando
+files browser/components/extensions/test/browser/browser_ext_optionsPage_popups.js
+patch 1223,1267,

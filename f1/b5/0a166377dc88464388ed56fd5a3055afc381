@@ -1,0 +1,5 @@
+changeset c499b603d9bff9fa2e55325dc717845c336d0f24
+manifest ecdb9f90cc39619a176a5ea7dcebed77f0cc9360
+extra rebase_source:2b71de0fbd36b44663caf37654c88e64bfe9af2c
+files browser/base/content/test/general/browser_close_dependent_tabs.js
+patch 269,343,

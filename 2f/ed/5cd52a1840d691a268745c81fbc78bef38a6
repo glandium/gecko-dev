@@ -1,0 +1,5 @@
+changeset 9965cf60d2b79d81149b9ceec540f0629372729f
+manifest bcb1670bbcce5bebffbde2ec60c2d044389eea8c
+extra rebase_source:18c334e356a56ee9d5a8bb0f74586f329ba3114c
+files security/manager/.eslintrc.js
+patch 304,378,

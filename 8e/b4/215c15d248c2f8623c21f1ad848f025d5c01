@@ -1,0 +1,5 @@
+changeset 263df0c4e8e4da73e23e9fc7bec8b06a16de15be
+manifest 3c6b03a2a9fd8abb319780625ba67cdfe0a14830
+extra source:f039fc0bda93d00ff0c6e8d4415449003b0d91fa
+files devtools/client/accessibility/components/Accessible.js
+patch 381,448,

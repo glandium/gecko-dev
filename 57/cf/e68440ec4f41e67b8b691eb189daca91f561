@@ -1,0 +1,5 @@
+changeset a9eca77bd638babb8de38824f1e61b4bbd8424f6
+manifest 3e0687b9b6d8e8b67b24595e5f09c70704d33c45
+extra rebase_source:3515ff55a316720b87f2473a1450e5d8304728e8
+files widget/tests/test_bug1123480.xul
+patch 1004,1078,

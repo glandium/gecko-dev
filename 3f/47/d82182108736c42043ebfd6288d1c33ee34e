@@ -1,0 +1,5 @@
+changeset 6dd7c570d4807f6b279e859c90dc033f68b1e2fd
+manifest 1278076aafecf29505e272156d67b8a0138025ea
+extra source:15cfcee45b87afce49e31eed12c11474e4a7b38d
+files toolkit/components/extensions/test/mochitest/test_ext_unload_frame.html
+patch 329,396,

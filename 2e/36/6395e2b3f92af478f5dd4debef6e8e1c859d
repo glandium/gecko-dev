@@ -1,0 +1,5 @@
+changeset d78e78de5d8a271b12f869483b5e91dcb7b5a4e3
+manifest d991115c4230a5de9b97357595f50094eff9380b
+extra rebase_source:173db3de84203c1834eee3527ab1db1093818d8f
+files toolkit/components/extensions/extension-process-script.js
+patch 348,422,
